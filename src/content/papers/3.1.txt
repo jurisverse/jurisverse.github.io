@@ -1,0 +1,206 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Property that cannot be transferred
+Section 6 of the Transfer of Property Act says property of any kind may be transferred, except:
+- a spes successionis (the chance of an heir apparent succeeding) (s.6(a));
+- a mere right of re-entry for breach of condition;
+- an easement apart from the dominant heritage;
+- an interest restricted to personal enjoyment;
+- a right to future maintenance;
+- a mere right to sue;
+- a public office or salary;
+- pensions of military and civil pensioners; and
+- transfers opposed to the nature of the interest, for an unlawful object, or to a legally disqualified transferee.
+
+Q: Rule against perpetuity
+Under s.14 TPA, no transfer can create an interest that is to take effect after the lifetime of one or more persons living at the date of the transfer and the minority of some person who is in existence at the expiry of that period. The interest must vest within that period.
+- The purpose is to prevent property from being tied up indefinitely.
+- Exceptions:
+  - transfers for public benefit, such as religion, knowledge, commerce or health (s.18);
+  - covenants for redemption in mortgages; and
+  - personal agreements.
+
+Q: Doctrine of lis pendens
+Under s.52 TPA, during the pendency of a suit in which a right to immovable property is directly and specifically in question, the property cannot be transferred by any party so as to affect the rights of any other party under the decree, except with the court's authority.
+- It is based on public policy, necessity and finality (*Bellamy v Sabine*, 1857).
+- The transfer is not void, but it is subject to the result of the litigation (*Thomson Press v Nanak Builders*, 2013).
+- Pendency runs from the presentation of the plaint until final disposal, including execution.
+
+Q: Part performance
+Under s.53A TPA, where a transferee under a written, signed contract for transfer of immovable property has taken possession in part performance, and is willing to perform his part, the transferor cannot enforce any right against the transferee in respect of the property, other than a right expressly provided by the contract.
+- It is a shield, not a sword.
+- It requires possession (*Ramesh Chand v Suresh Chand*, 2025).
+- Since 2001, the contract must be registered for protection under s.53A (s.17(1A) of the Registration Act).
+
+Q: Fraudulent transfer
+Under s.53(1) TPA, every transfer of immovable property made with intent to defeat or delay creditors is voidable at the option of any creditor so defeated or delayed. Bona fide transferees for consideration are protected.
+Under s.53(2), a gratuitous transfer with intent to defraud a subsequent transferee is voidable by that transferee.
+A suit on behalf of all creditors is required (s.53(1)).
+
+Q: Doctrine of marshalling
+Under s.81 TPA, if the owner of two or more properties mortgages them to one person, and then mortgages one or more of them to another person who has no notice of the first mortgage, the second mortgagee may require the first mortgagee to satisfy his debt from the properties not mortgaged to the second, so far as they suffice.
+It cannot prejudice the rights of the first mortgagee or of others claiming under him.
+
+Q: Actionable claim
+Section 3 TPA: a claim to any debt (other than one secured by a mortgage of immovable property, or by hypothecation or pledge of movables) or to any beneficial interest in movable property not in possession, which the civil courts recognise as affording grounds for relief.
+Transfer (s.130) is by a signed instrument in writing. It takes effect on execution. Notice to the debtor is needed to bind him (s.131). The transferee takes subject to the debtor's equities (s.132).
+
+Q: Onerous gift
+Section 127 TPA: where a gift is of several things in one transfer and one of them is burdened with an obligation, the donee can take nothing under the gift unless he accepts it fully.
+- Where gifts are made in separate transfers, the donee may accept one and refuse the others.
+- A minor donee may repudiate an onerous gift on attaining majority.
+
+Q: Easement of necessity
+Section 13 of the Indian Easements Act, 1882: where a transfer or partition creates a situation in which an easement is absolutely necessary for enjoying the dominant heritage, such as a land-locked plot, an easement of necessity arises in favour of the dominant owner.
+- It lasts only as long as the necessity lasts (s.41).
+- It must be absolute necessity, not mere convenience.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Define sale. Explain the rights and liabilities of the seller and the buyer of immovable property.
+### Definition (s.54 TPA)
+Sale is a transfer of ownership in exchange for a price paid or promised, or part-paid and part-promised. For tangible immovable property of ₹100 or more, or a reversion or other intangible thing, sale can be made only by a registered instrument. A contract for sale does not itself create any interest in or charge on the property.
+### Title only by registered deed
+- *Suraj Lamp & Industries v State of Haryana* (2011): "GPA sales" do not convey title.
+- *Ramesh Chand v Suresh Chand* (2025): an agreement to sell, GPA, affidavit and receipt convey no title; only a registered sale deed does.
+- Registration does not cure the absence of title in the seller (*Mehnoor Fatima v Vishveshka Infrastructure*, 2025).
+### Seller's duties before completion (s.55(1))
+- disclose material defects in the property or title that the buyer could not discover with ordinary care;
+- produce title documents for inspection;
+- answer questions on title;
+- execute a proper conveyance;
+- take care of the property and documents; and
+- pay all outgoings until the transfer.
+### Seller's duties after completion
+- give possession;
+- deliver title deeds; and
+- an implied covenant for title (s.55(2)).
+### Seller's rights (s.55(4))
+- rents and profits until ownership passes; and
+- a charge on the property for unpaid purchase money (the seller's lien).
+### Buyer's duties
+- disclose facts materially increasing the value of the property (s.55(5)(a));
+- pay the price; and
+- after transfer, bear loss from destruction not caused by the seller, and pay outgoings.
+### Buyer's rights
+- the benefit of any improvement or increase in value, and rents and profits after transfer; and
+- a charge for the purchase money paid in advance, where the buyer properly declines to accept delivery (s.55(6)(b)).
+### Conclusion
+Section 55 implies these rights and duties unless the parties agree otherwise. The courts insist on a registered deed for title, protecting certainty in transactions.
+
+Q: Explain the kinds of mortgages and the right of redemption of a mortgagor.
+### Definition (s.58(a))
+A mortgage is the transfer of an interest in specific immovable property to secure payment of money advanced, an existing or future debt, or an engagement giving rise to pecuniary liability.
+### Kinds
+1. **Simple mortgage (s.58(b)):** a personal covenant to pay; the property is not delivered; the remedy is sale through court.
+2. **Mortgage by conditional sale (s.58(c)):** an ostensible sale that becomes absolute on default. The condition must be in the same document (*Chunchun Jha v Ebadat Ali*, 1954).
+3. **Usufructuary mortgage (s.58(d)):** possession is delivered, and the mortgagee takes rents and profits in lieu of interest or principal. The remedy is not foreclosure or sale.
+4. **English mortgage (s.58(e)):** an absolute transfer with a covenant to re-transfer on repayment.
+5. **Mortgage by deposit of title deeds (s.58(f)):** an equitable mortgage, allowed in notified towns, without a registered instrument.
+6. **Anomalous mortgage (s.58(g)):** any other kind.
+Registration is needed for mortgages of ₹100 or more, except deposit of title deeds (s.59).
+### Right of redemption (s.60)
+After the principal money becomes due, the mortgagor may, on paying or tendering it, require the mortgagee to:
+- deliver the mortgage deed and documents;
+- deliver possession; and
+- re-transfer the property, or acknowledge discharge in writing.
+- **Equity of redemption:** the right survives until extinguished by the act of the parties or a decree of court.
+- **"Once a mortgage, always a mortgage"; no clog on redemption:** a stipulation that defeats or fetters redemption is void (*Seth Ganga Dhar v Shankar Lal*, 1958; *Noakes v Rice*, 1902).
+- **Partial redemption is not allowed** (s.60, last paragraph), except where the mortgagee acquires part.
+- **Who may redeem:** the mortgagor and any person interested (s.91).
+- **Limitation:** 30 years for a suit for redemption (Art. 61, Limitation Act).
+### Conclusion
+The law protects the mortgagor's equity of redemption as a core right, while securing the mortgagee's remedies of sale, foreclosure or possession.
+
+Q: Explain the rights and liabilities of a lessor and a lessee, and the modes of determination of a lease.
+### Lease (s.105 TPA)
+A transfer of a right to enjoy immovable property for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value, given periodically.
+- Leases from year to year, or for more than a year, need a registered instrument (s.107).
+- Default duration (s.106): leases for agricultural or manufacturing purposes are from year to year, terminable by six months' notice. Others are month to month, terminable by 15 days' notice (as amended in 2002).
+### Lessor's rights and liabilities (s.108)
+- disclose latent defects;
+- put the lessee in possession;
+- covenant for quiet enjoyment; and
+- receive rent, with the right of re-entry on forfeiture.
+### Lessee's rights and liabilities
+- the benefit of accretions;
+- the right to remove fixtures before the lease ends;
+- the right to sub-let, unless the contract says otherwise;
+- pay rent;
+- keep the property in good condition;
+- not use it for a different purpose, or erect permanent structures without consent (except for agriculture); and
+- deliver possession at the end.
+### Determination (s.111)
+- efflux of time;
+- the happening of a specified event;
+- the lessor's interest terminating;
+- merger;
+- express or implied surrender;
+- forfeiture, for breach of an express condition with re-entry, denial of title, or the lessee's insolvency where so provided, with relief against forfeiture (s.114); and
+- notice to quit (s.106).
+### Holding over
+A lessee who remains in possession with the lessor's assent (s.116) creates a tenancy from year to year or month to month. A tenant at sufferance is one who stays without assent.
+### Rent control laws
+Rent control statutes override the TPA where they apply. Examples are the AP Buildings (Lease, Rent and Eviction) Control Act, 1960 and the Model Tenancy Act, 2021.
+### Conclusion
+The TPA provides the default rules, which the contract and rent control statutes may modify.
+
+Q: Which documents require compulsory registration? What is the effect of non-registration?
+### Compulsory registration (s.17, Registration Act, 1908)
+- instruments of gift of immovable property;
+- non-testamentary instruments creating, declaring, assigning, limiting or extinguishing any right, title or interest of ₹100 or more in immovable property;
+- acknowledgments of payment of consideration for such transactions;
+- leases from year to year, for more than a year, or reserving yearly rent;
+- decrees or orders assigning such interests (except compromise decrees about property in suit);
+- since 2001, contracts for sale for the purpose of s.53A (s.17(1A)); and
+- State amendments, for example requiring registration of agreements of sale with possession, and of powers of attorney to sell.
+### Optional registration (s.18)
+Wills, and instruments of less than ₹100.
+### Effect of non-registration (s.49)
+An unregistered document required to be registered:
+- does not affect any immovable property comprised in it;
+- confers no power to adopt; and
+- is not received as evidence of any transaction affecting such property.
+Proviso: it may be received:
+- as evidence of a contract in a suit for specific performance;
+- for a collateral purpose; or
+- as part performance under s.53A, where registration is not required.
+Unregistered agreements to sell are admissible in specific performance suits (*S. Kaladevi v V.R. Somasundaram*, 2010; *R. Hemalatha v Kashthuri*, 2023).
+### Refusal to register
+Section 22-A, as inserted in some States, bars registration of documents relating to prohibited property, such as government, endowment and inam lands (*K. Ramalingam*, 2026).
+### Stamp duty
+Inadequately stamped documents can be impounded and validated on payment (*In re Interplay between Arbitration and Stamp Acts*, 2023).
+### Conclusion
+Registration ensures publicity and certainty of title. Non-registration renders the document ineffective to transfer an interest, subject to limited evidentiary uses.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: X holds an agreement to sell, a GPA, an affidavit and a receipt from Y for Y's house, and has paid the full price. He is not in possession. After Y's death, Y's sons claim the house. X sues for possession, claiming ownership. Decide.
+**Issue:** Do these documents convey title, and can X invoke s.53A?
+**Law:**
+- *Suraj Lamp* (2011) and *Ramesh Chand v Suresh Chand* (2025): an agreement to sell, GPA, affidavit and receipt do not convey title; only a registered sale deed under s.54 does.
+- A GPA ends on the principal's death, unless coupled with an interest.
+- Section 53A requires possession, and is a shield, not a sword.
+**Application:** X has no registered sale deed and is not in possession, so he cannot claim ownership or use s.53A.
+**Conclusion:** X's suit for possession fails. At most, he may seek specific performance (subject to limitation) or a refund of the price.
+
+Q: During the pendency of a partition suit between A and B, A sells his entire house to C, who buys in good faith without knowing of the suit. The court then decrees partition, giving half to B. C resists. Decide.
+**Issue:** Is C bound by the decree?
+**Law:** Under s.52 TPA (lis pendens), a transfer during the pendency of a suit concerning immovable property cannot affect the rights of other parties under the decree. Good faith and lack of notice are irrelevant. The transfer is not void but subject to the decree (*Thomson Press v Nanak Builders*, 2013; *Rajendra Singh v Santa Singh*, 1973).
+**Application:** A's sale to C occurred while the partition suit was pending.
+**Conclusion:** C is bound by the decree and must give up B's half. C may recover from A, for example under the covenant for title.
+
+Q: An 80-year-old mother gifts her house to her son by a registered deed reciting that he will look after her. The son later neglects her and asks her to leave. She seeks to cancel the gift. Advise her.
+**Issue:** Can the gift be cancelled for the donee's failure to provide care?
+**Law:**
+- Section 126 TPA: a gift may be revoked on a condition agreed between the parties, or where the gift could be rescinded like a contract.
+- Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007: a transfer made subject to the condition that the transferee provides basic amenities and needs is deemed void at the transferor's option, on a declaration by the Tribunal, if the transferee fails to do so.
+- *Urmila Dixit v Sunil Sharan Dixit* (2025): the Act is beneficial and to be read purposively. A gift with a condition of care may be cancelled on neglect.
+**Application:** The deed recites the expectation of care, and the son has failed to provide it.
+**Conclusion:** The mother may apply to the Maintenance Tribunal under s.23 for a declaration that the gift is void, and for restoration of possession.
+
+Q: A's house stands in the name of his brother B, with A's tacit consent. B sells it to C for value, after C makes reasonable inquiries. A sues to set aside the sale. Decide.
+**Issue:** Is the transfer by an ostensible owner binding on the real owner?
+**Law:** Section 41 TPA: where, with the express or implied consent of the persons interested in immovable property, a person is the ostensible owner, and he transfers it for consideration, the transfer is not voidable on the ground that he was not authorised. The transferee must have taken reasonable care to ascertain that the transferor had power to make the transfer and acted in good faith.
+**Application:** A allowed B to appear as the owner. C paid value and made reasonable inquiries.
+**Conclusion:** The sale binds A. A's remedy is against B for the price received.

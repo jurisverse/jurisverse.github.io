@@ -1,0 +1,526 @@
+@title Penology and Victimology
+@subtitle Crime in India, police, punishment, prisons, treatment of offenders, probation, parole and victims' rights
+@paper 6.5
+@sem VI
+@color #4a2f3f
+@dark #402836
+@intro Studies crime, the criminal justice institutions that respond to it, and the treatment of offenders and victims. The law is stated under the new criminal laws in force from 1 July 2024: the Bharatiya Nyaya Sanhita, 2023 (BNS), which adds community service as a punishment, and the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), which strengthens victims' rights. It also covers the Model Prisons and Correctional Services Act, 2023 and recent Supreme Court decisions on prisons and the death penalty.
+@reading Ahmad Siddique, Criminology and Penology
+@reading N.V. Paranjape, Criminology, Penology and Victimology
+@reading E.H. Sutherland and D.R. Cressey, Principles of Criminology
+@reading E.H. Sutherland, White Collar Crime
+@reading National Crime Records Bureau, Crime in India (annual)
+
+# 1 | Dimensions of crime in India
+@topics Nature and extent of crime; Reporting of crime statistics; Victim studies and self-reporting; Costs of crime; Factors affecting crime rates; Approaches to crime control; Social defence; Crimes of the powerful; Organised crime; White collar and socio-economic crime; Crimes in the professions; State criminality; Situational and chronic offenders; Criminality of women; Young offenders; Criminal gangs; Crimes of the marginalised
+>> Crime in India is measured mainly through police records, which undercount it. Its forms range from street crime to organised, white collar and State crime, and responses range from punishment to social defence and prevention.
+
+## 1.1 Nature, extent and reporting of crime
+- The **National Crime Records Bureau** (NCRB) publishes annual "Crime in India" reports based on FIRs registered by police. These count recorded crime, not actual crime.
+- **Problems of accurate reporting**: the "dark figure" of unreported crime (fear, stigma, distrust of police, social pressure); police reluctance to register FIRs (to show low crime rates); the "principal offence rule" (counting only the most serious offence in an FIR); and differences in State practices. Higher recorded crime can reflect better registration (for example, of crimes against women), not more crime.
+
+## 1.2 Victim studies and self-reporting
+- **Victimisation surveys** ask households whether they were victims of crime, whether reported or not (for example, the US National Crime Victimization Survey and the Crime Survey for England and Wales). India has no regular national victimisation survey.
+- **Self-report studies** ask people whether they have committed offences; they reveal hidden delinquency, especially among the young and the middle class.
+
+## 1.3 Costs of crime
+- Direct costs (property loss, medical care, lost earnings), costs of the criminal justice system, private security costs, and intangible costs (fear, trauma, loss of trust). White collar crime and corruption impose larger economic costs than street crime.
+
+## 1.4 Factors affecting crime rates
+- **Territory** (urban versus rural; border and conflict areas), **population** (density, migration, youth bulge), **heterogeneity** (social diversity and conflict, inequality), and **human values** (social norms, family structures, consumerism, the erosion of traditional controls).
+
+## 1.5 to 1.7 Approaches to crime control
+- **Classical** (deterrence through certain and proportionate punishment: Beccaria, Bentham); **positivist** (treatment of the offender according to causes: Lombroso, Ferri); and **sociological** (addressing social causes: Durkheim's anomie, Merton's strain theory, Sutherland's differential association).
+- **Social defence** (the continental approach): Filippo Gramatica and Marc Ancel ("New Social Defence", 1954) argued that society should protect itself through the resocialisation of offenders, respect for human dignity, and individualised treatment rather than retributive punishment.
+- **Crime prevention**: social prevention (education, employment, youth programmes), situational prevention (reducing opportunities through design, lighting, surveillance, CCTV), and community policing.
+
+## 1.8 Crimes of the powerful and organised crime
+- Organised crime: smuggling, drug trafficking, arms trafficking, extortion, contract killing, human trafficking, cybercrime and money laundering.
+- **Law**: the NDPS Act, 1985; COFEPOSA, 1974; PMLA, 2002; State laws such as the Maharashtra Control of Organised Crime Act, 1999. The BNS now defines **organised crime** (s.111) and **petty organised crime** (s.112), with severe punishment, and terrorist acts (s.113).
+
+## 1.9 White collar and socio-economic crime
+- **White collar crime** (Sutherland, 1939 and 1949): a crime committed by a person of respectability and high social status in the course of his occupation. Examples include corporate fraud, tax evasion, insider trading, bribery and cartels.
+- **Corruption in public life**: the Santhanam Committee (1964) led to the Central Vigilance Commission; the Prevention of Corruption Act, 1988 (amended 2018: bribe-giving is an offence (s.8), and prior approval is needed to investigate public servants for decisions in official functions (s.17A)); and the Lokpal and Lokayuktas Act, 2013.
+
+CASE: Neeraj Dutta v State (Government of NCT of Delhi) (2022) :: A Constitution Bench held that the demand and acceptance of a bribe under the Prevention of Corruption Act can be proved by circumstantial evidence where direct evidence (for example, because the complainant turned hostile or died) is not available. The presumption under s.20 arises once demand and acceptance are proved.
+
+- **Socio-economic crimes**: adulteration of food and drugs (the Food Safety and Standards Act, 2006, which replaced the Prevention of Food Adulteration Act, 1954; the Drugs and Cosmetics Act, 1940), black marketing and hoarding (the Essential Commodities Act, 1955), and fraudulent trade practices (the Consumer Protection Act, 2019). The Santhanam Committee recommended that such offences carry strict liability and severe punishment because they harm society at large.
+
+## 1.10 Crimes in the professions
+- **Medical**: negligence, organ trade, illegal sex-determination tests (PCPNDT Act, 1994), fraudulent certificates. Criminal liability requires gross negligence (*Jacob Mathew v State of Punjab*, 2005).
+- **Legal**: misappropriation of client funds, fabrication of evidence, bribery of officials.
+- **Engineering**: substandard construction causing building collapses, fraud in public works.
+
+## 1.11 State criminality
+- Crimes committed by State agents: custodial torture and deaths, fake encounters, enforced disappearances, illegal detention, and communal violence with State complicity.
+
+CASE: People's Union for Civil Liberties v State of Maharashtra (2014) :: The Supreme Court laid down 16 guidelines for investigating police encounter killings: recording tip-offs, registering an FIR, an independent investigation by the CID or another police station, a magisterial inquiry, informing the NHRC, prompt medical aid, and no out-of-turn promotions or gallantry awards until the encounter is found genuine.
+
+## 1.12 to 1.16 Types of offenders
+- **Situational offender**: commits crime because of circumstances (provocation, opportunity, financial crisis) and is unlikely to repeat it.
+- **Chronic (habitual) offender**: repeatedly commits crime; often career criminals. Habitual offenders laws replaced the colonial Criminal Tribes Act, 1871 (repealed in 1952), but continue to stigmatise denotified tribes.
+- **Criminality of women**: low recorded rates; offences often linked to poverty, domestic abuse, trafficking and drugs. Theories range from Lombroso's biological views to feminist explanations of economic marginalisation.
+- **Young offenders**: dealt with under the Juvenile Justice (Care and Protection of Children) Act, 2015 (see the BNSS book, Unit 10).
+- **Criminal gangs**: organised groups engaged in extortion, drug trade and land grabbing; now covered by BNS s.111 and s.112.
+
+## 1.16.1 Crimes of the marginalised
+- **Forest offences**: tribal and forest-dwelling communities prosecuted for collecting forest produce, grazing and cultivation under forest laws. The Forest Rights Act, 2006 recognises their rights.
+- **Status offences**: vagrancy and begging (State anti-begging laws). The Delhi High Court in *Harsh Mander v Union of India* (2018) struck down the provisions criminalising begging under the Bombay Prevention of Begging Act as extended to Delhi, holding that begging is a symptom of poverty.
+- **Prostitution**: the Immoral Traffic (Prevention) Act, 1956 punishes brothel-keeping, soliciting and trafficking, but not sex work as such. In *Budhadev Karmaskar v State of West Bengal* (orders of 2011 and 2022), the Supreme Court directed that sex workers be treated with dignity, that consenting adult sex workers not be harassed or arrested by police, and that their children not be separated from them merely because of their profession.
+
+* NCRB records undercount crime: the dark figure; victim and self-report surveys.
+* Costs of crime; factors: territory, population, heterogeneity, values.
+* Approaches: classical, positivist, sociological; social defence (Ancel); prevention.
+* Organised crime (BNS ss.111 and 112), white collar crime (Sutherland), corruption (PC Act; Neeraj Dutta), socio-economic crimes.
+* Crimes in professions; State criminality (PUCL encounter guidelines); types of offenders; crimes of the marginalised (Harsh Mander; Budhadev Karmaskar).
+
+QL: Discuss the problems in the measurement and reporting of crime in India.
+QL: What is white collar crime? Discuss its forms and the legal measures to control it in India.
+QL: Explain the social defence approach to crime control.
+QL: Discuss State criminality with reference to custodial violence and encounter killings.
+QS: Dark figure of crime
+QS: Organised crime under the BNS
+QS: Crimes of the marginalised
+
+MCQ: The concept of white collar crime was introduced by || Lombroso | *Edwin Sutherland | Marc Ancel | Durkheim || 1939 and 1949.
+MCQ: Guidelines for investigating police encounters were laid down in || D.K. Basu | *PUCL v State of Maharashtra | Neeraj Dutta | Prakash Singh || 2014.
+MCQ: Organised crime is defined in || s.103 BNS | *s.111 BNS | s.113 BNS | s.152 BNS || s.112 covers petty organised crime.
+
+# 2 | The police and criminal justice
+@topics Police system; Structure at the Centre and States; Recruitment and training; Powers and duties under police laws; BNSS and other laws; Arrest, search and seizure and constitutional imperatives; Methods of investigation; Third degree and corruption; Police and prosecution; Liability for custodial violence; Police–public relations; National Police Commission
+>> The police are the gateway to the criminal justice system. Their colonial structure, misuse of power and lack of accountability have prompted repeated calls for reform, which the Supreme Court enforced in Prakash Singh.
+
+## 2.1 and 2.2 The police system and its structure
+- "Police" and "public order" are State subjects (Entries 1 and 2, List II). The **Police Act, 1861** (enacted after 1857 to create a force to control the population) still governs many States; others have their own Police Acts.
+- **State level**: the Director General of Police heads the State police; ranges (DIG or IG), districts (Superintendent of Police), sub-divisions (DSP), circles (Inspector), and police stations (Station House Officer).
+- **Central level**: the Ministry of Home Affairs; the Intelligence Bureau; the Central Bureau of Investigation (Delhi Special Police Establishment Act, 1946); the National Investigation Agency (NIA Act, 2008); the Central Armed Police Forces (CRPF, BSF, CISF, ITBP, SSB); the NCRB; and the Bureau of Police Research and Development.
+
+## 2.3 Recruitment and training
+- Indian Police Service officers are recruited through the UPSC and trained at the Sardar Vallabhbhai Patel National Police Academy, Hyderabad. State police officers (DSPs, sub-inspectors and constables) are recruited by State Police Recruitment Boards and Public Service Commissions and trained at State academies.
+- Problems: large vacancies, a low police-population ratio, poor training in scientific investigation and human rights, long working hours, and poor housing.
+
+## 2.4 and 2.5 Powers and duties
+- Under the Police Acts: preventing crime, maintaining order, executing warrants, collecting intelligence, regulating traffic and assemblies.
+- Under the BNSS: registering FIRs (s.173), investigating (ss.175 to 193), arrest (s.35), search and seizure (ss.96 to 107, 185), and preventive action (ss.148 to 172).
+- Under special laws: NDPS, UAPA, PMLA, POCSO, and others.
+
+## 2.6 Arrest, search and seizure: constitutional imperatives
+- Arts. 20(3), 21 and 22; *Joginder Kumar* (1994), *D.K. Basu* (1997), *Arnesh Kumar* (2014), and *Prabir Purkayastha* (2024). These are covered in detail in the BNSS book (Unit 2).
+
+## 2.7 Methods of investigation
+- Scene of crime examination, collection of physical evidence, forensic science (DNA, fingerprints, ballistics, digital forensics), interrogation, informants, surveillance, CCTV and call data analysis.
+- The BNSS makes forensic examination mandatory for offences punishable with seven years or more (s.176(3)), and requires audio-video recording of searches (s.105).
+
+## 2.8 Third degree methods and corruption
+- **Third degree**: torture to extract confessions. It is prohibited by Arts. 20(3) and 21; confessions to police are inadmissible (s.23 BSA). India signed the UN Convention against Torture in 1997 but has not ratified it; the Prevention of Torture Bill, 2010 lapsed.
+- **Corruption**: in registration of cases, investigation and bail. Causes include low pay, political interference and weak accountability.
+
+## 2.9 Relationship between police and prosecution
+- Prosecution should be independent of the police. The BNSS creates a **Directorate of Prosecution** in each State (s.20). In *S.B. Shahane v State of Maharashtra* (1995), the Court directed the separation of the prosecution wing from the police department.
+
+## 2.10 Liability of police for custodial violence
+CASE: Nilabati Behera v State of Orissa (1993) :: A young man died in police custody. The Supreme Court awarded compensation to his mother under Art. 32, holding that monetary compensation is an acknowledged public law remedy for violation of fundamental rights by the State. Sovereign immunity is not a defence to such a claim, which is distinct from a private law claim in tort.
+
+- Earlier, *Rudul Sah v State of Bihar* (1983) awarded compensation for 14 years of illegal detention after acquittal. Criminal liability: offences under the BNS for hurt or wrongful confinement to extort a confession (ss.120 and 127 BNS [ss.330 and 348 IPC]), and magisterial inquiries into custodial deaths (s.196 BNSS [s.176(1A) CrPC]).
+
+## 2.11 Police–public relations and the National Police Commission
+- Problems: distrust, perception of brutality and corruption, poor treatment of complainants, especially women and marginalised groups.
+- **National Police Commission** (1977 to 1981, chaired by Dharma Vira): eight reports recommending a State Security Commission, a fixed tenure for the DGP, separation of investigation from law and order, a new Police Act, a complaints authority, and measures against political interference.
+
+CASE: Prakash Singh v Union of India (2006) :: Acting on a petition by a former DGP, the Supreme Court gave seven directions for police reform, drawn from the NPC and other committees: (1) a State Security Commission; (2) selection of the DGP from a panel of three by the UPSC, with a minimum tenure of two years; (3) a minimum two-year tenure for key field officers; (4) separation of investigation and law and order; (5) a Police Establishment Board for transfers and postings; (6) Police Complaints Authorities at State and district levels; and (7) a National Security Commission for central forces. Implementation by States remains incomplete.
+
+- The **Model Police Act, 2006** (Soli Sorabjee Committee) was prepared for States to adopt; community policing schemes (such as Kerala's Janamaithri) aim to improve relations.
+
+## 2.12 Recent judgments (2025–26)
+
+CASE: Mihir Rajesh Shah v State of Maharashtra (2025) :: Written grounds of arrest are mandatory for every offence, at least two hours before production for remand.
+
+CASE: G. Ganesh v State of Tamil Nadu (2026) :: Police must register an FIR for every missing-person report.
+
+* Written grounds of arrest in every case (Mihir Rajesh Shah, 2025).
+* Police are a State subject; the Police Act, 1861; State and central structures.
+* Recruitment and training problems; powers under the Police Acts, BNSS and special laws.
+* Constitutional safeguards on arrest and search; scientific investigation; mandatory forensics.
+* Third degree methods and corruption; India has not ratified the UNCAT.
+* Independent prosecution (s.20 BNSS; S.B. Shahane).
+* Compensation for custodial violence (Nilabati Behera; Rudul Sah).
+* National Police Commission and Prakash Singh directions; Model Police Act.
+
+QL: Describe the organisation of the police in India at the Centre and in the States. What reforms are needed?
+QL: Discuss the liability of the State and the police for custodial violence, with reference to decided cases.
+QL: Discuss the recommendations of the National Police Commission and the directions in Prakash Singh v Union of India.
+QS: Third degree methods
+QS: Separation of prosecution from police
+QS: Nilabati Behera v State of Orissa
+
+MCQ: Compensation for custodial death as a public law remedy was awarded in || Prakash Singh | *Nilabati Behera v State of Orissa | Joginder Kumar | S.B. Shahane || 1993.
+MCQ: The National Police Commission (1977 to 1981) was chaired by || Soli Sorabjee | *Dharma Vira | Padmanabhaiah | Malimath || Eight reports.
+
+# 3 | Punishment of offenders
+@topics Discarded modes of punishment: corporal punishment, whipping and flogging, mutilation and branding, transportation and exile, public execution; Appraisal; Punishments under Indian criminal law; Capital punishment; Imprisonment, fine, cancellation of licences
+>> Punishment has moved from bodily pain and public spectacle to imprisonment and fines, and now towards alternatives such as community service. The death penalty survives in India for the "rarest of rare" cases.
+
+## 3.1 to 3.4 Discarded modes of punishment
+| Mode | History in India | Status |
+|---|---|---|
+| Whipping and flogging | Whipping Act, 1864, then 1909 | Repealed by the Abolition of Whipping Act, 1955 |
+| Mutilation and branding | Used in ancient and medieval systems (for theft, forgery) | Abolished under British rule |
+| Transportation and exile | To the Andaman Islands (Cellular Jail), under the IPC | Replaced by "imprisonment for life" in 1955 |
+| Public execution | Practised historically | Held unconstitutional |
+
+CASE: Attorney General of India v Lachma Devi (1986) :: The Rajasthan High Court had directed public hanging. The Supreme Court set aside that direction, holding that a barbaric public execution violates Art. 21 and is a shame on a civilised society, even though the death sentence itself was lawful.
+
+## 3.5 Appraisal
+- These modes were abandoned because they were cruel and degrading, brutalised society, and did not deter crime effectively. Modern penology emphasises human dignity, proportionality and reformation.
+
+## 3.6 Punishments under Indian criminal law
+- **Section 4 BNS** (s.53 IPC): (a) death; (b) imprisonment for life; (c) imprisonment, rigorous or simple; (d) forfeiture of property; (e) fine; and (f) **community service** (new).
+- **Community service** is provided for petty offences such as attempting suicide to compel or restrain a public servant (s.226), petty theft on return of property by a first offender (s.303(2)), defamation (s.356), and misconduct in public by a drunken person (s.355).
+- "Imprisonment for life" means imprisonment for the remainder of the convict's natural life, unless commuted or remitted (*Gopal Vinayak Godse v State of Maharashtra*, 1961).
+
+## 3.7 Capital punishment
+- The death penalty is available for murder (s.103 BNS), terrorism, waging war, aggravated rape and gang rape of minors, and some other offences.
+
+CASE: Bachan Singh v State of Punjab (1980) :: A Constitution Bench (4:1) upheld the constitutionality of the death penalty for murder, but held that life imprisonment is the rule and death the exception, to be imposed only in the "rarest of rare cases", when the alternative option is unquestionably foreclosed. The court must weigh aggravating and mitigating circumstances relating to both the crime and the criminal. Bhagwati J dissented.
+
+- **Machhi Singh v State of Punjab** (1983) laid down categories for the "rarest of rare" test (manner, motive, anti-social nature, magnitude, personality of the victim).
+- **Mandatory death sentence** (s.303 IPC, for murder by a life convict) was struck down in *Mithu v State of Punjab* (1983).
+- **Delay in executing a death sentence**: in *Shatrughan Chauhan v Union of India* (2014), inordinate delay in deciding mercy petitions was held to be a ground for commutation. The BNSS now sets timelines for mercy petitions (s.472).
+- **Method of execution**: hanging was upheld in *Deena Dayal v Union of India* (1983).
+- **Sentencing process**: *Manoj v State of Madhya Pradesh* (2022) required trial courts to collect mitigating information (psychological evaluation, background, prison conduct) before sentencing in capital cases.
+- **Special category of life sentence**: in *Union of India v V. Sriharan* (2015), a Constitution Bench held that the High Court and Supreme Court may impose a life sentence without remission for a fixed term beyond 14 years, or for the whole of life, as an alternative to the death penalty (following *Swamy Shraddananda*, 2008).
+- **Debate**: the Law Commission's 262nd Report (2015) recommended abolition of the death penalty for all crimes other than terrorism-related offences and waging war. Arguments for retention: deterrence, retribution, public sentiment. Arguments for abolition: irreversibility of errors, arbitrariness in application, no proven deterrent effect, and the global trend towards abolition.
+
+## 3.8 Imprisonment, fine and cancellation of licences
+- **Imprisonment**: rigorous (with hard labour) or simple; solitary confinement only within limits (ss.11 and 12 BNS).
+- **Fine**: imposed alone or with imprisonment; imprisonment in default of fine (s.8 BNS).
+- **Cancellation or withdrawal of licences**: driving licences (Motor Vehicles Act), arms licences (Arms Act), trade and professional licences, as regulatory sanctions.
+
+## 3.9 Recent judgments (2025–26)
+
+CASE: Aman Singh v State of Bihar (2026) :: The Court issued directions to structure capital sentencing, requiring collection of mitigation material before the death penalty is considered.
+
+CASE: Rishi Malhotra v Union of India (2026) :: The Court declined to refer the question of hanging as a method of execution to a larger bench.
+
+* Structured mitigation in capital sentencing (Aman Singh, 2026).
+* Discarded punishments: whipping (abolished 1955), mutilation, transportation (replaced 1955), public execution (Lachma Devi).
+* Punishments under s.4 BNS, including community service (new).
+* Death penalty: rarest of rare (Bachan Singh; Machhi Singh); mandatory death struck down (Mithu); delay (Shatrughan Chauhan); mitigation (Manoj); fixed-term life without remission (Sriharan); abolition debate (262nd Report).
+* Imprisonment, fine and licence cancellation.
+
+QL: Trace the history of discarded modes of punishment and explain why they were abandoned.
+QL: "Life imprisonment is the rule and death sentence an exception." Discuss with reference to Bachan Singh and later cases.
+QL: Discuss community service as a new form of punishment under the BNS.
+QS: Public execution
+QS: Rarest of rare doctrine
+QS: Union of India v V. Sriharan
+
+MCQ: Public hanging was held to violate Art. 21 in || Bachan Singh | *Attorney General of India v Lachma Devi | Mithu | Deena Dayal || 1986.
+MCQ: The mandatory death penalty under s.303 IPC was struck down in || Bachan Singh | *Mithu v State of Punjab | Machhi Singh | Shatrughan Chauhan || 1983.
+MCQ: Community service is a punishment under || s.53 IPC | *s.4(f) BNS | s.401 BNSS | the Probation of Offenders Act || New in 2023.
+
+# 4 | The prison system
+@topics Administrative organisation of prisons; Recruitment and training; Jail manuals and powers of prison officials; Classification of prisoners; Constitutional imperatives and prison reforms; Open prisons; Violation of prison rules; Appraisal of imprisonment
+>> Prisons are a State subject governed by the colonial Prisons Act, 1894 and State jail manuals. The Supreme Court has extended fundamental rights inside prisons, and recent reforms aim to turn prisons into correctional institutions.
+
+## 4.1 to 4.3 Organisation, staffing and jail manuals
+- "Prisons" are a State subject (Entry 4, List II). The **Prisons Act, 1894** and the **Prisoners Act, 1900** govern them, with State jail manuals.
+- **Organisation**: an Inspector General (or Director General) of Prisons at the State level; central prisons, district jails, sub-jails, women's jails, Borstal schools and open prisons.
+- **Staff**: superintendents, jailers, deputy jailers, warders, medical officers and welfare officers; problems of shortage, poor training, and custodial culture.
+- **Model Prison Manual, 2016** and the **Model Prisons and Correctional Services Act, 2023** (circulated by the Ministry of Home Affairs for States): classification and separation of prisoners, high-security jails, open and semi-open prisons, use of technology (video conferencing, electronic monitoring for leave), legal aid, vocational training, and aftercare.
+
+## 4.4 Classification of prisoners
+- By sex (male and female, kept separately), age (juveniles must not be kept in prisons; young offenders separately), status (undertrials separately from convicts), offence and sentence, and security risk. The majority of prisoners in India are undertrials.
+
+## 4.5 Constitutional imperatives and prison reforms
+CASE: Sunil Batra v Delhi Administration (1978 and 1980) :: The Court held that prisoners retain fundamental rights except those necessarily curtailed by imprisonment. Solitary confinement of a prisoner sentenced to death before his sentence became final, and the use of bar fetters without strict necessity, violated Arts. 14, 19 and 21. In the second case, a letter from a prisoner about torture by a warder was treated as a writ petition; the Court issued guidelines for prison visits, grievance redressal and the role of judges as visitors.
+
+CASE: Prem Shankar Shukla v Delhi Administration (1980) :: Handcuffing of undertrials as a routine practice was held to violate Art. 21. Handcuffs may be used only where there is a real risk of escape or violence, with reasons recorded and the court's approval.
+
+CASE: Sukanya Shantha v Union of India (2024) :: The Supreme Court struck down provisions of State prison manuals that assigned work to prisoners on the basis of caste (for example, cleaning and sweeping to castes considered "lower") and segregated prisoners by caste, as violating Arts. 14, 15, 17, 21 and 23. It directed States to revise their manuals within three months and removed "caste" columns from prison registers.
+
+- Other directions: *Charles Sobhraj v Superintendent, Central Jail, Tihar* (1978: prison conditions and rights); *Rama Murthy v State of Karnataka* (1996: nine major problems of prisons, including overcrowding, delay in trial, torture, neglect of health and hygiene, and the need for open prisons); and *In re Inhuman Conditions in 1382 Prisons* (2016 onwards: overcrowding, unnatural deaths, undertrial review committees).
+
+## 4.6 Open prisons
+- Minimum-security institutions where selected prisoners (usually convicts with good conduct who have served part of their sentence) live with limited supervision, work outside, and sometimes live with families. Examples include the Sanganer open camp in Rajasthan.
+- Advantages: reformation, reduced cost, preparation for release, reduced overcrowding. The Supreme Court has repeatedly encouraged States to expand open prisons.
+
+## 4.7 Violation of prison rules
+- **Prison offences** (s.45 Prisons Act): disobedience, assault, possessing prohibited articles, escape attempts. Punishments by the superintendent include loss of remission, restrictions on privileges, and separate confinement within limits (s.46). Due process and proportionality apply (Sunil Batra).
+
+## 4.8 Appraisal of imprisonment
+- **Arguments for**: incapacitation, deterrence, retribution, and the possibility of reformation.
+- **Arguments against**: prisons as "schools of crime"; contamination of first offenders; stigma and loss of employment; family breakdown; overcrowding and violence; cost; and the long detention of undertrials. Hence the search for alternatives: probation, community service, fines, electronic monitoring and restorative justice.
+
+## 4.9 Recent judgments (2025–26)
+
+CASE: Suhas Chakma v Union of India (2026) :: The Court issued directions to expand open correctional institutions across States.
+
+CASE: Sathyan Naravoor v Union of India (2026) :: Prisons must provide reasonable accommodation for prisoners with disabilities.
+
+* Expansion of open prisons (Suhas Chakma, 2026); rights of prisoners with disabilities.
+* Prisons are a State subject: the Prisons Act, 1894; jail manuals; Model Prison Manual 2016; Model Prisons Act 2023.
+* Classification by sex, age, status and risk; most prisoners are undertrials.
+* Prisoners' rights (Sunil Batra; Prem Shankar Shukla; Charles Sobhraj); caste-based discrimination struck down (Sukanya Shantha, 2024); prison problems (Rama Murthy).
+* Open prisons; prison offences; appraisal of imprisonment.
+
+QL: Discuss the rights of prisoners as developed by the Supreme Court.
+QL: Critically appraise imprisonment as a mode of punishment. What are the alternatives?
+QL: Explain the concept and advantages of open prisons.
+QS: Sukanya Shantha v Union of India
+QS: Model Prisons and Correctional Services Act, 2023
+QS: Classification of prisoners
+
+MCQ: Routine handcuffing of undertrials was held to violate Art. 21 in || Sunil Batra | *Prem Shankar Shukla v Delhi Administration | Rama Murthy | Charles Sobhraj || 1980.
+MCQ: Caste-based division of work in prison manuals was struck down in || Rama Murthy | *Sukanya Shantha v Union of India | Sunil Batra | Prem Shankar Shukla || 2024.
+MCQ: "Prisons" is a subject in || List I | *List II (State) | List III | the Ninth Schedule || Entry 4, List II.
+
+# 5 | Treatment and correction of offenders
+@topics Need for reformation and rehabilitation; Classification through modern diagnostic techniques; Role of psychiatrists, psychoanalysts and social workers; Vocational and religious education and apprenticeship; Group counselling and resocialisation; Prisoners' self-government; Inmates in community service; Treatment under the IPC (Amendment) Bill, 1972; Efficacy of imprisonment and substitutes
+>> The reformative approach treats the offender as a person to be corrected and returned to society, through diagnosis, education, work, counselling and gradual responsibility.
+
+## 5.1 Need for reformation and rehabilitation
+- The reformative theory (influenced by positivism and social defence) sees crime as caused by individual and social factors that can be addressed. The Supreme Court has endorsed it (*Mohammad Giasuddin v State of Andhra Pradesh*, 1977, in which Krishna Iyer J said that the State must treat criminals as patients needing cure, and that punishment should aim at rehabilitation).
+
+## 5.2 and 5.3 Diagnosis and professionals
+- Modern classification uses medical, psychological and social assessment (intelligence, personality, risk and needs) to decide the type of institution, programme and supervision.
+- **Psychiatrists and psychologists** diagnose mental illness and personality disorders, provide therapy, and assess risk. **Social workers** maintain family links, prepare social histories, and plan release. The Mental Healthcare Act, 2017 guarantees mental health care to prisoners (s.103).
+
+## 5.4 and 5.5 Education, work and counselling
+- Literacy and formal education (including distance education through IGNOU and open universities), vocational training (carpentry, weaving, tailoring, computer skills), prison industries with wages, and apprenticeship programmes.
+- Religious and moral education, meditation (for example, Vipassana courses in Tihar Jail).
+- Group counselling, therapeutic communities, de-addiction programmes, and life skills training.
+
+## 5.6 and 5.7 Self-government and community service
+- **Prisoners' self-government**: panchayats or committees of inmates for discipline, welfare and recreation, giving a sense of responsibility.
+- **Community service by inmates**: work outside the prison in public projects, under supervision; preparation for release.
+
+## 5.7.1 The IPC (Amendment) Bill, 1972
+- Based on the Law Commission's 42nd Report (1971), the Bill proposed new forms of punishment: **community service**, **externment**, **public censure**, **disqualification from office**, and compensation to victims. It lapsed in 1979. The BNS, 2023 has now introduced community service.
+
+## 5.7.2 Efficacy of imprisonment and substitutes
+- High recidivism suggests imprisonment does not reform many offenders. Substitutes include probation, fines, community service, compensation orders, suspended sentences, house arrest and electronic monitoring, restorative justice (victim-offender mediation), and diversion for juveniles and drug users.
+
+* Reformative theory (Mohammad Giasuddin).
+* Diagnosis and classification; psychiatrists, psychologists and social workers; mental health rights.
+* Education, vocational training, religious and moral education, counselling.
+* Prisoners' self-government; inmates in community service.
+* The IPC (Amendment) Bill, 1972 proposed alternatives; community service now in the BNS.
+* Substitutes for imprisonment.
+
+QL: Discuss the reformative techniques used in the treatment of offenders in prisons.
+QL: What forms of punishment were proposed in the IPC (Amendment) Bill, 1972? How far are they reflected in the BNS?
+QS: Prisoners' self-government
+QS: Mohammad Giasuddin v State of AP
+
+MCQ: "Criminals should be treated as patients needing cure" was emphasised in || Bachan Singh | *Mohammad Giasuddin v State of Andhra Pradesh | Sunil Batra | Lachma Devi || 1977.
+MCQ: The IPC (Amendment) Bill, 1972 was based on the Law Commission's || 262nd Report | *42nd Report | 14th Report | 177th Report || 1971.
+
+# 6 | Resocialisation processes
+@topics Resocialisation processes
+>> Resocialisation helps the offender return to society as a law-abiding member. It begins inside prison and continues after release through aftercare.
+
+## 6.1 Meaning and stages
+- Resocialisation is the process by which an offender learns or relearns the norms, skills and relationships needed for life in society.
+- **Inside prison**: education, work, counselling, family contact (visits, phone and video calls), and gradual release (parole, furlough, open prisons).
+- **At release**: pre-release planning, documents (identity, bank account), employment links.
+- **After release**: aftercare homes, halfway houses, supervision, self-help groups, and job placement.
+
+## 6.2 Barriers
+- Stigma, unemployment, loss of family support, criminal records, and police harassment of ex-offenders. Laws that bar ex-convicts from employment add to these barriers.
+
+## 6.3 Measures
+- Aftercare services under State schemes; prisoner aid societies and NGOs; skill training linked to employment; restorative justice processes; and expungement of records for minor and juvenile offences (s.24 JJ Act).
+
+* Resocialisation inside prison, at release and after release.
+* Barriers: stigma, unemployment, family loss, records.
+* Measures: aftercare, NGOs, skills, restorative justice, removal of records.
+
+QL: What is resocialisation of offenders? Discuss the measures needed for successful reintegration.
+QS: Aftercare services
+QS: Halfway houses
+
+MCQ: Records of juveniles are to be destroyed after the specified period under || s.15 JJ Act | *s.24 JJ Act | s.401 BNSS | s.12 PO Act || To avoid stigma.
+
+# 7 | Probation
+@topics Probation of Offenders Act, 1958; Attitude of judges; Mechanism and standards of probation services; Problems and prospects; Suspended sentence
+>> Probation releases an offender on good conduct, under supervision, instead of sending him to prison. Indian law provides for it, but courts use it less than they could, and probation services are weak.
+
+## 7.1 The Probation of Offenders Act, 1958
+- **Section 3**: release after admonition for certain offences (theft, criminal misappropriation, cheating and offences punishable with up to two years), with no previous conviction.
+- **Section 4**: release on probation of good conduct, on entering a bond, for up to three years, with or without supervision by a probation officer, for any offence not punishable with death or life imprisonment.
+- **Section 5**: the court may order compensation and costs to the victim.
+- **Section 6**: a person under 21 shall not be sentenced to imprisonment unless the court, after considering the probation officer's report, records reasons that it would not be desirable to deal with him under ss.3 or 4.
+- **Section 12**: no disqualification attaching to a conviction for persons dealt with under ss.3 or 4.
+- **Sections 13 and 14**: appointment and duties of probation officers (inquiries, supervision, reports).
+- Section 401 BNSS (s.360 CrPC) applies where the Act is not in force.
+
+## 7.2 Attitude of judges
+CASE: Jugal Kishore Prasad v State of Bihar (1972) :: The Court explained that the object of the Probation of Offenders Act is to prevent young and first offenders from becoming hardened criminals through contact with seasoned criminals in jail. Courts should keep this reformative object in mind and apply the Act liberally where appropriate.
+
+CASE: Ishar Das v State of Punjab (1972) :: The benefit of the Act was extended to a young offender convicted under the Prevention of Food Adulteration Act. The Court held that the Act's beneficial provisions can apply even to offences carrying a minimum sentence, unless the special law excludes them.
+
+- But courts have refused probation in socio-economic offences and serious crimes where deterrence is important. Overall, Indian courts use probation sparingly, often because probation services are inadequate.
+
+## 7.3 Mechanism and standards of probation services
+- Probation officers prepare pre-sentence reports (social history, character, home circumstances), supervise probationers, assist them with jobs and counselling, and report breaches.
+- Standards: adequate numbers, training in social work, manageable caseloads, coordination with courts, police and NGOs.
+
+## 7.4 Problems and prospects
+- Problems: too few probation officers (often combined with other duties), lack of training, limited awareness among judges and lawyers, public perception of leniency, and absence of community resources.
+- Prospects: expanding probation for first offenders and petty crimes, combining it with community service under the BNS, and using technology for supervision.
+
+## 7.5 The suspended sentence
+- A court imposes a sentence but suspends its execution, on conditions. If the offender commits another offence or breaks the conditions, the suspended sentence is executed. Indian law does not provide a general suspended sentence (it is common in the UK and Europe), but probation and suspension pending appeal (s.430 BNSS) serve similar purposes.
+
+* PO Act: ss.3, 4, 5, 6, 12, 13 and 14; s.401 BNSS where the Act is not in force.
+* Judicial attitude: reformative object (Jugal Kishore Prasad; Ishar Das), but sparing use.
+* Probation officers: pre-sentence reports and supervision; problems of staffing and training.
+* Suspended sentences are not generally available in India.
+
+QL: Explain the main provisions of the Probation of Offenders Act, 1958. Why is probation not widely used in India?
+QL: Discuss the role of probation officers and the standards of probation services.
+QS: Suspended sentence
+QS: Section 6 of the Probation of Offenders Act
+
+MCQ: Release on probation of good conduct is provided under || s.3 | *s.4 PO Act | s.6 | s.12 || s.3 is admonition.
+MCQ: The reformative object of the PO Act was explained in || Bachan Singh | *Jugal Kishore Prasad v State of Bihar | Asfaq | Lachma Devi || 1972.
+
+# 8 | Parole
+@topics Nature of parole; Authority for granting parole; Supervision; Parole and conditional release; Release of the offender; Problems of released offenders; Community attitudes; Prisoner aid societies; Government action; Appraisal
+>> Parole is the conditional, temporary release of a convict, supervised in the community. Unlike probation, it is granted by the executive after part of a prison sentence has been served.
+
+## 8.1 Nature of parole
+- Parole is a conditional release of a prisoner before the end of the sentence or for a specific period, on good behaviour and supervision. It is a form of correctional treatment, not a right, though it should not be refused arbitrarily.
+- **Parole and probation** differ: probation is granted by the court instead of imprisonment; parole is granted by the executive after a part of imprisonment.
+- **Parole and furlough**: parole is for a specific reason (illness or death in the family, marriage, child-birth, harvest) and may not count towards the sentence; furlough is periodic leave after a fixed period, as an incentive for good conduct, and counts towards the sentence (*Asfaq v State of Rajasthan*, 2017).
+
+## 8.2 Authority for granting parole
+- Parole is governed by State prison rules (for example, the Andhra Pradesh Prisons Rules and parole guidelines), not the BNSS. It is granted by the government or a designated authority (Inspector General of Prisons, District Magistrate) on the recommendation of the superintendent and after a police report. The Model Prisons Act, 2023 provides a uniform framework.
+
+## 8.3 Supervision
+- The parolee reports to a police station or probation officer, stays within an area, and may not commit any offence. Violation leads to cancellation and re-arrest, and may affect remission.
+
+## 8.4 Parole and conditional release
+- **Conditional (premature) release**: release of a convict before the end of the sentence by remission (s.473 BNSS), on conditions, through State sentence review boards. Life convicts in certain offences must serve 14 years of actual imprisonment (s.475 BNSS [s.433A CrPC]).
+
+## 8.5 to 8.7 Release and its problems
+- Problems of released offenders: stigma, unemployment, homelessness, family rejection, police surveillance, and lack of skills.
+- **Community attitudes**: suspicion and rejection; public education and community involvement are needed.
+- **Prisoner aid societies** and voluntary organisations: help with shelter, jobs, documents and counselling.
+
+## 8.8 Government action
+- State aftercare schemes, skill development programmes, loans for self-employment, and the Model Prisons Act's provisions on aftercare and rehabilitation.
+
+## 8.9 Appraisal
+- Parole helps maintain family ties, rewards good behaviour, and eases the transition to freedom. But it is often granted inconsistently, sometimes to influential prisoners, and abuse (absconding, committing offences) undermines public trust. Clear rules, reasons for decisions and effective supervision are needed.
+
+## 8.10 Recent judgments (2025–26)
+
+CASE: Rohit Chaturvedi v State (2026) :: Gravity of the offence alone cannot justify refusing premature release (remission).
+
+CASE: Parveen Kumar v State of Haryana (2026) :: A remission policy under Art. 161 prevails over a later statutory policy.
+
+CASE: NALSA v Union of India (2026) :: The Court approved an early-release framework for elderly and terminally ill prisoners.
+
+* Remission cannot be denied on gravity alone (Rohit Chaturvedi, 2026).
+* Parole is conditional executive release; it differs from probation and furlough (Asfaq).
+* Granted under State rules; supervision; cancellation on breach.
+* Conditional release by remission (s.473 BNSS); 14 years' actual imprisonment for certain life convicts (s.475).
+* Problems of released offenders; community attitudes; prisoner aid societies; government action.
+* Appraisal: benefits and risks; the need for consistent rules.
+
+QL: Explain the nature of parole and distinguish it from probation and furlough. Who grants parole?
+QL: Discuss the problems of released offenders and the role of prisoner aid societies.
+QS: Conditional release
+QS: Section 475 BNSS
+
+MCQ: Parole in India is governed mainly by || the BNSS | *State prison rules | the Probation of Offenders Act | the Constitution || Not a statutory right.
+MCQ: Life convicts for certain offences must serve how many years of actual imprisonment before release? || 10 | *14 | 20 | 7 || s.475 BNSS (s.433A CrPC).
+
+# 9 | Victimology: nature and development
+@topics Expanding dimensions; Typology of victims; Compensation, including under Arts. 21 and 300A; Victims and criminal justice; Emerging trends and policies
+>> Victimology studies victims of crime: who they are, how they are affected, and what the justice system owes them. Indian law has moved from treating victims as mere witnesses to giving them rights to information, participation, appeal and compensation.
+
+## 9.1 Development and typology
+- **Pioneers**: Benjamin Mendelsohn (who coined "victimology" in the 1940s) and Hans von Hentig (*The Criminal and His Victim*, 1948), who studied the victim's role in the crime.
+- **Mendelsohn's typology** (by degree of the victim's contribution): the completely innocent victim; the victim with minor guilt; the victim as guilty as the offender; the victim more guilty than the offender; the most guilty victim (who provokes and is killed in self-defence); and the imaginary victim.
+- **Von Hentig's typology**: by vulnerability: the young, women, the old, the mentally disabled, immigrants and minorities, the depressed, the acquisitive, and others.
+- **Expanding dimensions**: secondary victimisation (by the justice system and media), victims of abuse of power, collective victims (mass disasters, communal violence), and victims of cybercrime.
+- **UN Declaration of Basic Principles of Justice for Victims of Crime and Abuse of Power** (1985): access to justice and fair treatment, restitution, compensation and assistance.
+
+## 9.2 Compensation
+### Under the BNSS
+- **Section 395** [s.357]: compensation from the fine, or even without fine (*Ankush Shivaji Gaikwad*, 2013: courts must consider it in every case).
+- **Section 396** [s.357A]: State victim compensation schemes through Legal Services Authorities, including interim compensation and cases where the offender is not traced.
+- **Section 397** [s.357C]: free first aid and medical treatment for victims of acid attacks and rape by all hospitals.
+- **Section 399** [s.358]: compensation to persons groundlessly arrested.
+- The **NALSA Compensation Scheme for Women Victims/Survivors of Sexual Assault and other Crimes, 2018**, framed on the directions in *Nipun Saxena v Union of India* (2018), sets minimum and maximum amounts for rape, acid attacks and other crimes.
+
+### Under Arts. 21 and 300A (public law compensation)
+CASE: Rudul Sah v State of Bihar (1983) :: Rudul Sah was kept in jail for 14 years after his acquittal. The Supreme Court ordered the State to pay compensation under Art. 32, holding that the right to life and liberty would be meaningless if the court could not award monetary compensation for its violation.
+
+CASE: Delhi Domestic Working Women's Forum v Union of India (1995) :: In a case of rape of domestic workers by army personnel, the Court laid down guidelines for assisting rape victims: legal assistance at the police station, anonymity, a Criminal Injuries Compensation Board, and compensation to victims whether or not the offender is convicted.
+
+- Compensation for deprivation of property without authority of law is available under Art. 300A (for example, *Vidya Devi v State of Himachal Pradesh*, 2020).
+- Interim compensation to a rape victim during trial was ordered in *Bodhisattwa Gautam v Subhra Chakraborty* (1996).
+
+## 9.3 Victims and criminal justice
+- **Definition** of "victim" (s.2(1)(y) BNSS): a person who has suffered loss or injury because of the act or omission of the accused, including the guardian or legal heir.
+- **Rights under the BNSS**: a free copy of the FIR (s.173(2)); information on the progress of the investigation within 90 days (s.193(3)(ii)); a copy of the police report and documents (s.230); the right to engage an advocate to assist the prosecution (s.18(8)); the right to appeal against acquittal, conviction for a lesser offence or inadequate compensation (s.413 proviso; *Mallikarjun Kodagali*, 2018); and protection in sexual offences (in-camera trials, women magistrates, audio-video recording of statements).
+- **Witness protection**: the Witness Protection Scheme, 2018, approved in *Mahender Chawla v Union of India* (2018), and s.398 BNSS requiring States to notify witness protection schemes.
+- The **Malimath Committee** (2003) recommended a victim-oriented criminal justice system, with participation rights and a victim compensation fund.
+
+## 9.4 Emerging trends and policies
+- Restorative justice (victim-offender mediation, plea bargaining with victim compensation under ss.289 to 300 BNSS), specialised courts (POCSO and fast-track courts), one-stop centres for women (Sakhi centres), support for cybercrime victims, and calls for a comprehensive victims' rights law.
+
+## 9.5 Recent judgments (2025–26)
+
+CASE: Prajwala v Union of India (2026) :: The Court directed a Victim Protection Plan for trafficking survivors and held that rehabilitation is part of Art. 21.
+
+CASE: Lahra Bai Tamre v State (2026) :: Custodial death: CBI investigation and ₹25 lakh compensation to the victim's family.
+
+* Victim protection plan for trafficking survivors (Prajwala, 2026).
+* Victimology: Mendelsohn and von Hentig; typologies; secondary victimisation; the UN Declaration (1985).
+* Compensation under ss.395 to 399 BNSS; NALSA scheme (Nipun Saxena).
+* Public law compensation under Arts. 21 and 300A (Rudul Sah; Delhi Domestic Working Women's Forum; Bodhisattwa Gautam; Vidya Devi).
+* Victims' rights under the BNSS: information, documents, counsel, appeal; witness protection (Mahender Chawla).
+* Trends: restorative justice, special courts, one-stop centres.
+
+QL: What is victimology? Discuss the typology of victims.
+QL: Discuss the law relating to compensation to victims of crime in India, including compensation under Arts. 21 and 300A.
+QL: Examine the rights of victims under the BNSS.
+QS: Mendelsohn's typology of victims
+QS: Witness Protection Scheme, 2018
+QS: Rudul Sah v State of Bihar
+
+MCQ: The term "victimology" is credited to || Von Hentig | *Benjamin Mendelsohn | Sutherland | Marc Ancel || 1940s.
+MCQ: Compensation for illegal detention after acquittal was awarded under Art. 32 in || Nilabati Behera | *Rudul Sah v State of Bihar | Bodhisattwa Gautam | Nipun Saxena || 1983.
+MCQ: Victim compensation schemes administered by Legal Services Authorities are provided by || s.395 BNSS | *s.396 BNSS | s.399 BNSS | s.413 BNSS || s.357A CrPC.
+
+# 10 | Reforms in law
+@topics Reforms in law
+>> Recent reforms (the new criminal codes, prison legislation and victim-centred procedures) reflect a shift towards technology, speed and victims' rights. Debates continue on the death penalty, police accountability and alternatives to imprisonment.
+
+## 10.1 Recent reforms
+| Area | Reform |
+|---|---|
+| Substantive criminal law | BNS, 2023: community service; organised crime and terrorism offences; sedition replaced by s.152 |
+| Procedure | BNSS, 2023: e-FIR and zero FIR; mandatory forensics; video-recorded searches; trial in absentia; timelines; release of first-time undertrials after one-third of the maximum sentence (s.479) |
+| Evidence | BSA, 2023: electronic records as documents and primary evidence |
+| Prisons | Model Prisons and Correctional Services Act, 2023; Sukanya Shantha (2024) on caste discrimination |
+| Victims | Victim compensation schemes; Witness Protection Scheme, 2018; rights to information and appeal |
+| Police | Prakash Singh directions; Directorate of Prosecution (s.20 BNSS) |
+
+## 10.2 Issues for further reform
+- Abolition or restriction of the death penalty (Law Commission's 262nd Report); a law against torture and ratification of the UN Convention against Torture; a comprehensive bail law (recommended in *Satender Kumar Antil*, 2022); expansion of probation, community service and open prisons; independent police complaints authorities; a victims' rights statute; decriminalisation of status offences (begging, vagrancy); and reduction of undertrial detention.
+
+* Reforms through the BNS, BNSS and BSA; the Model Prisons Act; victim compensation and witness protection.
+* Pending: death penalty, anti-torture law, bail law, alternatives to prison, police accountability, victims' rights law, decriminalisation of status offences.
+
+QL: Critically examine the recent reforms in penology and victimology in India and suggest further reforms.
+QS: Release of undertrials under s.479 BNSS
+QS: Need for a law against torture
+
+MCQ: A separate Bail Act was recommended by the Supreme Court in || Prakash Singh | *Satender Kumar Antil v CBI | Bachan Singh | Sunil Batra || 2022.
+MCQ: The Law Commission report recommending abolition of the death penalty except for terror offences is the || 35th | *262nd | 42nd | 266th || 2015.

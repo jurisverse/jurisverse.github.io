@@ -1,0 +1,216 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Dicey's rule of law
+A.V. Dicey (1885) set out three meanings:
+1. **supremacy of law**, as opposed to arbitrary power: no one is punished except for a breach of law established in ordinary courts;
+2. **equality before the law**: officials are subject to ordinary courts; and
+3. **the constitution as the result of judicial decisions**: rights are protected by the ordinary law.
+- Criticism: Dicey misunderstood the French droit administratif and ignored discretionary power.
+- In India, the rule of law is part of the basic structure (*Indira Gandhi v Raj Narain*, 1975) and is reflected in Art. 14 (*Som Raj v State of Haryana*, 1990).
+
+Q: Separation of powers in India
+Montesquieu's doctrine divides legislative, executive and judicial power to protect liberty. The Indian Constitution has no rigid separation (*Ram Jawaya Kapur v State of Punjab*, 1955).
+- There is functional separation: Art. 50 (judiciary from executive), and immunities under Arts. 121, 122 and 211.
+- There is a system of checks and balances.
+- Separation of powers is a basic feature (*Kesavananda*, 1973; *Indira Gandhi*, 1975).
+- The legislature cannot simply override judgments (*Madras Bar Association*, 2025).
+
+Q: Conditional legislation
+Conditional legislation exists where the legislature makes a complete law but leaves it to the executive to decide when, where or to what extent it should apply, on the fulfilment of a condition. It is not delegated legislation in the strict sense.
+- Examples: *Queen v Burah* (1878); *Hamdard Dawakhana*; bringing an Act into force by notification.
+- It is valid if the legislature has laid down the policy (*In re Delhi Laws Act*, 1951).
+
+Q: Sub-delegation
+Sub-delegation is the further delegation of power by the delegate. Delegatus non potest delegare: a delegate cannot delegate unless the parent Act authorises it, expressly or by necessary implication.
+- Rules framed by a sub-delegate without such authority are invalid (*Ganpati Sitaram Balvalkar v Waman Shripad Mage*, 1981).
+- Purely administrative acts may be performed through subordinates.
+
+Q: Administrative tribunals
+Arts. 323A and 323B were inserted by the 42nd Amendment. The Administrative Tribunals Act, 1985 set up the CAT and State tribunals for service matters.
+- *L. Chandra Kumar* (1997): tribunals are subject to High Court writ jurisdiction; they supplement, not supplant, High Courts.
+- The *Madras Bar Association* cases set standards for independence, tenure and qualifications. In 2025, the Court struck down provisions of the Tribunals Reforms Act, 2021 and directed a National Tribunals Commission.
+- Tribunals are quick, expert and cheap, but there are concerns about executive control.
+
+Q: Audi alteram partem
+"Hear the other side." The essentials are:
+- notice of the case to be met;
+- an opportunity to present evidence and arguments;
+- disclosure of material relied on;
+- cross-examination, where necessary; and
+- a reasoned decision.
+- The rule applies to administrative action affecting rights (*A.K. Kraipak v Union of India*, 1969; *Maneka Gandhi*, 1978).
+- Exceptions: emergencies, legislative action, confidentiality, and situations where a hearing would be useless.
+- A post-decisional hearing may suffice in some cases.
+- Recently: revising a tax settlement without a hearing violated natural justice (*Dinesh Kalway*, 2026).
+
+Q: Legitimate expectation
+A person may reasonably expect to be treated in a certain way by a public authority, because of an express promise or a regular past practice, even though there is no legal right.
+- It entitles the person to a hearing or to fair consideration before the expectation is frustrated.
+- It does not prevail over an overriding public interest (*Food Corporation of India v Kamdhenu Cattle Feed*, 1993; *Union of India v Hindustan Development Corporation*, 1993).
+
+Q: Lokpal
+The Lokpal and Lokayuktas Act, 2013 set up a Lokpal, made up of a chairperson and up to eight members, half of them judicial, to inquire into allegations of corruption against:
+- the Prime Minister, with safeguards;
+- ministers;
+- MPs;
+- Group A to D officers; and
+- bodies funded by government.
+It has an Inquiry Wing and a Prosecution Wing, and the power to attach property. States must set up Lokayuktas (s.63). It is modelled on the Scandinavian Ombudsman.
+
+Q: Promissory estoppel against the government
+If the government makes a clear promise intending it to be acted upon, and the promisee alters his position in reliance on it, the government is bound, even without consideration or a formal contract under Art. 299 (*Motilal Padampat Sugar Mills v State of UP*, 1979).
+Limits:
+- no estoppel against a statute;
+- the overriding public interest may allow withdrawal with reasonable notice;
+- the power to grant an exemption includes the power to withdraw it (*State of Maharashtra v Reliance Industries*, 2026);
+- there must be detrimental reliance.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: What is delegated legislation? Discuss the methods of controlling it.
+### Meaning and need
+Delegated legislation is law made by the executive under authority delegated by the legislature: rules, regulations, bye-laws, notifications and orders. It is needed because of:
+- pressure on legislative time;
+- technical subject-matter;
+- flexibility;
+- emergencies; and
+- experimentation.
+### Limits on delegation
+- Essential legislative functions, such as laying down policy, cannot be delegated (*In re Delhi Laws Act*, 1951).
+- There must be adequate guidelines (*Harishankar Bagla*, 1954).
+- Excessive delegation is invalid (*Hamdard Dawakhana v Union of India*, 1960).
+### Controls
+1. **Parliamentary control:**
+   - laying of rules before the House, which may be simple, subject to negative resolution, or subject to affirmative resolution;
+   - the Committee on Subordinate Legislation scrutinises rules;
+   - debates and questions.
+2. **Procedural control:**
+   - publication (*Harla v State of Rajasthan*, 1951: unpublished law is not law);
+   - consultation with affected interests;
+   - pre-publication of drafts (General Clauses Act s.23).
+3. **Judicial control.** Delegated legislation is void if it is:
+   - beyond the scope of the parent Act (substantive ultra vires);
+   - made without following mandatory procedure (procedural ultra vires);
+   - made under an unconstitutional parent Act;
+   - in violation of fundamental rights;
+   - manifestly arbitrary (*Indian Express Newspapers v Union of India*, 1985: subordinate legislation may be challenged on more grounds than statutes);
+   - unreasonable, in the case of bye-laws (*Kruse v Johnson*, 1898); or
+   - retrospective or taxing without authority.
+   - Sub-delegation without authority is void.
+### Conclusion
+Delegated legislation is inevitable in a modern State. Legislative, procedural and judicial controls ensure that it stays within the policy laid down by the legislature.
+
+Q: Explain the principles of natural justice and their exceptions.
+### Meaning
+Natural justice consists of minimum standards of fair procedure implied in law, unless excluded. It is linked to Art. 14 (*Union of India v Tulsiram Patel*, 1985) and Art. 21 (*Maneka Gandhi*, 1978).
+### 1. Nemo judex in causa sua (rule against bias)
+- **Pecuniary bias:** disqualifies, however small (*Dimes v Grand Junction Canal*, 1852).
+- **Personal bias:** relationship, friendship or hostility (*A.K. Kraipak*, 1969: a candidate sat on the selection board).
+- **Official or subject-matter bias:** institutional prejudice (*Gullapalli Nageswara Rao v APSRTC*, 1959).
+- **Test:** a real likelihood or reasonable apprehension of bias (*Ranjit Thakur v Union of India*, 1987).
+- **Doctrine of necessity:** a biased authority may act if there is no one else.
+### 2. Audi alteram partem (rule of fair hearing)
+- notice;
+- disclosure of evidence;
+- an opportunity to be heard;
+- cross-examination, in appropriate cases;
+- legal representation, sometimes;
+- the rule that the person who hears must decide; and
+- a reasoned decision (*S.N. Mukherjee v Union of India*, 1990).
+### 3. Reasoned decisions
+These are a third pillar, as they allow review and promote fairness.
+### Exceptions
+- express statutory exclusion, which must still be fair;
+- legislative acts;
+- emergencies, where a post-decisional hearing may be given (*Maneka Gandhi*);
+- confidentiality and national security;
+- the "useless formality" theory, which needs prejudice to be shown (*Aligarh Muslim University v Mansoor Ali Khan*, 2000);
+- necessity; and
+- academic evaluation.
+### Effect of violation
+The decision is generally void, or at least voidable. Courts increasingly require prejudice to be shown (*State Bank of Patiala v S.K. Sharma*, 1996).
+### Recent applications
+- revising a settlement without a hearing (*Dinesh Kalway*, 2026); and
+- dismissal without recorded reasons under Art. 311(2)(b) (*Manohar Lal*, 2026).
+### Conclusion
+Natural justice is a flexible standard of fairness. Its content varies with context, but its core ensures that power is exercised fairly.
+
+Q: Explain the grounds of judicial review of administrative action.
+### Classification (*CCSU v Minister for Civil Service*, 1985, Lord Diplock)
+1. **Illegality:** the decision-maker must correctly understand and give effect to the law:
+   - acting without jurisdiction or ultra vires;
+   - error of law;
+   - irrelevant considerations, or failure to consider relevant ones;
+   - improper purpose or mala fides (*Barium Chemicals v Company Law Board*, 1967);
+   - fettering discretion through rigid policy, or acting under dictation (*Commissioner of Police v Gordhandas Bhanji*, 1952); and
+   - unauthorised delegation.
+2. **Irrationality (*Wednesbury* unreasonableness, 1948):** a decision so outrageous that no reasonable authority could have reached it (*Tata Cellular v Union of India*, 1994, on judicial review of contracts).
+3. **Procedural impropriety:** violation of natural justice or mandatory procedure.
+4. **Proportionality:** whether the measure is suitable and necessary, and whether its effect on rights is balanced against its aim.
+   - It applies where fundamental rights are affected (*Om Kumar v Union of India*, 2001; *Modern Dental College*, 2016; *Puttaswamy*, 2017; *Anuradha Bhasin*, 2020).
+   - In punishment cases, a shockingly disproportionate penalty may be set aside (*Ranjit Thakur*, 1987).
+### Indian additions
+- **Legitimate expectation.**
+- **Arbitrariness under Art. 14** (*E.P. Royappa*, 1974).
+- **Doctrine of fairness** in contract and tender matters (*Tata Cellular*).
+- **Promissory estoppel.**
+### Limits
+Courts review the decision-making process, not the merits. They show deference in economic policy and expert matters.
+### Conclusion
+Judicial review keeps administrative power within legal limits. Indian courts have widened the grounds through Arts. 14 and 21, while respecting the line between review and appeal.
+
+Q: Discuss the liability of the State in tort and in contract.
+### Tortious liability (Art. 300)
+- Art. 300 makes the Union and States liable as the East India Company was.
+- *P&O Steam Navigation Co v Secretary of State* (1861) distinguished sovereign from non-sovereign functions.
+- *State of Rajasthan v Vidyawati* (1962): liability for a negligent government driver.
+- *Kasturi Lal v State of UP* (1965): police misappropriation of seized gold was a sovereign function, so there was no liability.
+- *N. Nagendra Rao v State of AP* (1994) and *Common Cause* (1999): the sovereign immunity concept is outmoded; liability is the rule.
+- **Constitutional tort:** compensation under Arts. 32 and 226 for violation of fundamental rights, to which sovereign immunity is no defence (*Rudul Sah*, 1983; *Nilabati Behera*, 1993; *D.K. Basu*, 1997). A recent example is custodial death (*Lahra Bai Tamre*, 2026).
+- The Law Commission's First Report (1956) recommended legislation, but none has been enacted.
+### Contractual liability (Art. 299)
+- A government contract must be:
+  - expressed to be made by the President or Governor;
+  - executed by a person authorised; and
+  - in writing.
+- A contract that does not comply is void and not enforceable (*K.P. Chowdhary v State of MP*, 1967). However, s.70 of the Contract Act, which covers benefits received under a non-gratuitous act, may apply (*State of WB v B.K. Mondal*, 1962).
+- No personal liability attaches to the officer who executes the contract (Art. 299(2)).
+- Contractual powers are subject to Art. 14: fairness in tenders, and no arbitrariness in awarding contracts (*Ramana Dayaram Shetty v International Airport Authority*, 1979; *Tata Cellular*, 1994).
+- Promissory estoppel applies to promises outside a formal contract (*Motilal Padampat*, 1979).
+### Conclusion
+Liability in tort has expanded through constitutional torts and the narrowing of sovereign immunity. Liability in contract is controlled by Art. 299, and public law requires fairness in government contracting.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: The licensing authority cancels X's liquor licence on a complaint, without issuing any notice or giving a hearing. X challenges the cancellation. Decide.
+**Issue:** Is the cancellation valid without a hearing?
+**Law:**
+- Cancellation of a licence affects civil rights and attracts audi alteram partem (*Maneka Gandhi*, 1978; *A.K. Kraipak*, 1969).
+- Even where the statute is silent, a hearing is implied unless expressly excluded.
+- Trade in liquor is not a fundamental right (*Khoday Distilleries*, 1995), but the action must still be fair under Art. 14.
+**Application:** No notice was given, and no opportunity to meet the complaint. There is no emergency justifying exclusion of a hearing.
+**Conclusion:** The cancellation is void for violation of natural justice. The authority may act afresh after giving notice and a hearing.
+
+Q: In a selection for forest officers, a candidate's brother is a member of the selection board. He withdraws from the room only when his brother is interviewed but takes part in all other deliberations, and his brother is selected. Is the selection valid?
+**Issue:** Was the selection vitiated by bias?
+**Law:** *A.K. Kraipak v Union of India* (1969): the selection was vitiated where a candidate, who was also a board member, sat in the selection of others competing with him, even though he withdrew when his own case was considered. The test is the real likelihood of bias. The rules of natural justice apply to administrative action.
+**Application:** The board member participated in assessing his brother's competitors. That creates a real likelihood of bias.
+**Conclusion:** The selection is invalid and liable to be quashed.
+
+Q: The State announces a ten-year tax exemption for industries set up in a backward area. Relying on it, A invests ₹50 crore. After three years, the State withdraws the exemption with immediate effect. Advise A.
+**Issue:** Can the State withdraw a promised exemption?
+**Law:**
+- **Promissory estoppel:** *Motilal Padampat* (1979): the government is bound by a clear promise relied on to the promisee's detriment, unless an overriding public interest justifies withdrawal.
+- *State of Maharashtra v Reliance Industries* (2026): the power to grant an exemption includes the power to withdraw it, and there is no vested right, but the withdrawal must be justified and not arbitrary.
+- *Kasinka Trading v Union of India* (1995): public interest can justify withdrawal.
+**Application:** A invested in reliance on a time-bound promise. If the State shows no overriding public interest and withdraws arbitrarily with immediate effect, the withdrawal fails. If there is a genuine public interest, withdrawal with reasonable notice may be upheld.
+**Conclusion:** A can challenge the withdrawal under Art. 226. Success depends on whether the State proves an overriding public interest; at minimum, A is entitled to reasonable notice and fair transition.
+
+Q: A police officer, transporting seized goods in a government truck, drives negligently and injures a pedestrian. The State claims sovereign immunity. Decide.
+**Issue:** Is the State liable?
+**Law:**
+- *Kasturi Lal* (1965) granted immunity for sovereign functions.
+- *Vidyawati* (1962) imposed liability for a government driver's negligence.
+- *N. Nagendra Rao* (1994): the defence of sovereign immunity is outmoded, and the State is liable for its officers' negligence except in truly sovereign acts.
+**Application:** Driving a truck is not a sovereign act. Any private carrier could do it, even if the goods were seized.
+**Conclusion:** The State is vicariously liable. The pedestrian may claim compensation before the Motor Accident Claims Tribunal or in a civil court.

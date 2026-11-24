@@ -1,0 +1,219 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Damnum sine injuria and injuria sine damno
+- **Injuria sine damno:** violation of a legal right without actual loss is actionable. Example: *Ashby v White* (1703), where a voter was wrongfully refused his vote. In *Bhim Singh v State of J&K* (1985), illegal detention attracted compensation.
+- **Damnum sine injuria:** actual loss without violation of a legal right is not actionable. Examples: *Gloucester Grammar School* (1410), a rival school drawing away pupils; *Mogul Steamship v McGregor* (1892), lawful trade competition.
+The test is the infringement of a legal right, not the existence of loss.
+
+Q: Volenti non fit injuria
+A person who freely and voluntarily consents, with knowledge of the risk, cannot sue for harm resulting from it. Examples: spectators at games (*Hall v Brooklands Auto Racing*, 1933), and surgical operations with consent. Limits:
+- knowledge alone is not consent (*Smith v Baker*, 1891);
+- the rescue cases (*Haynes v Harwood*, 1935);
+- consent obtained by fraud is invalid;
+- the defence cannot cover the defendant's negligence beyond the risk consented to;
+- statutory limits apply, such as unfair contract terms in consumer contracts.
+
+Q: Res ipsa loquitur
+"The thing speaks for itself." This is a rule of evidence that raises an inference of negligence where:
+1. the thing was under the defendant's management;
+2. the accident would not ordinarily happen without negligence; and
+3. the cause is unexplained.
+The burden then shifts to the defendant to explain. Examples:
+- *Scott v London and St Katherine Docks* (1865);
+- *Municipal Corporation of Delhi v Subhagwanti* (1966), the collapse of a clock tower;
+- medical cases such as a swab left inside a patient (*Achutrao Khodwa v State of Maharashtra*, 1996).
+
+Q: Nervous shock
+Psychiatric injury caused by shock is actionable if it is a recognised illness and was reasonably foreseeable.
+- *Dulieu v White* (1901): fear for one's own safety.
+- *Hambrook v Stokes* (1925): fear for one's children.
+- *McLoughlin v O'Brian* (1983): proximity in time and space.
+- *Alcock v Chief Constable* (1992): secondary victims need close ties of love, proximity, and perception by their own senses.
+Indian courts allow compensation for mental agony in negligence and consumer cases.
+
+Q: Malicious prosecution
+Essentials:
+1. a prosecution initiated by the defendant;
+2. without reasonable and probable cause;
+3. with malice;
+4. terminated in the plaintiff's favour; and
+5. damage to reputation, person or property.
+Leading cases:
+- *Bhogilal Chunilal Pandya v State of Bombay* (1959): a mere complaint can be prosecution.
+- *West Bengal State Electricity Board v Dilip Kumar Ray* (2007): all elements must be proved.
+Limitation: one year from acquittal (Art. 74, Limitation Act).
+
+Q: Private nuisance
+Private nuisance is unlawful interference with a person's use or enjoyment of land or rights over it. Elements:
+- unreasonable interference, such as noise, smell, smoke or encroachment;
+- damage; and
+- the plaintiff's interest in the land.
+Points to note:
+- Sensitivity of the plaintiff is ignored (*Robinson v Kilvert*, 1889).
+- Malice may make otherwise lawful conduct a nuisance (*Christie v Davey*, 1893).
+- "Coming to the nuisance" is no defence.
+- Remedies are damages, injunction and abatement.
+Public nuisance is a crime (s.270 BNS). An individual may sue for it only on proof of special damage.
+
+Q: Consumer under the Consumer Protection Act, 2019
+Section 2(7): a person who buys goods or hires or avails services for consideration, including online and teleshopping transactions.
+It excludes persons who obtain goods for resale or a commercial purpose. Use for earning a livelihood by self-employment is not a commercial purpose.
+Points to note:
+- Users with the buyer's approval and beneficiaries of services are consumers.
+- Free services are excluded (*IMA v V.P. Shantha*, 1995).
+- Advocates are outside the Act (*Bar of Indian Lawyers v D.K. Gandhi*, 2024).
+- Landowners under a joint development agreement are not consumers of the builder (*Habib Alladin*, 2026).
+
+Q: Product liability under the Consumer Protection Act, 2019
+Chapter VI (ss.82 to 87) makes manufacturers, service providers and sellers liable for harm caused by a defective product or deficient service.
+- A manufacturer is liable for a manufacturing or design defect, deviation from specifications, non-conformity with an express warranty, or inadequate instructions, even without proof of negligence or fraud (s.84).
+- Sellers are liable in specified cases (s.86), such as exercising substantial control or altering the product.
+Exceptions (s.87): misuse or alteration of the product, adequate warnings given, and obvious dangers.
+
+Q: Vicarious liability of the State
+- Under Art. 300, the Union and States may be sued like the East India Company.
+- *Kasturi Lal v State of UP* (1965): no liability for torts committed in the exercise of sovereign functions (police custody of seized gold).
+- *State of Rajasthan v Vidyawati* (1962): liability for a negligent government jeep driver.
+- *N. Nagendra Rao v State of AP* (1994): the sovereign immunity concept is outdated; the State is liable unless the act is a truly sovereign function.
+- Public-law compensation is available for violations of Art. 21 (*Nilabati Behera*, 1993). For example, the Court ordered ₹25 lakh for a custodial death in *Lahra Bai Tamre* (2026).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Distinguish between strict liability and absolute liability. Explain the Indian position.
+### Strict liability (*Rylands v Fletcher*, 1868)
+A person who brings onto his land and keeps there anything likely to do mischief if it escapes is liable for the damage caused by its escape, even without negligence. Essentials:
+1. a dangerous thing;
+2. its escape; and
+3. non-natural use of land.
+Exceptions:
+- act of God (*Nichols v Marsland*, 1876);
+- act of a stranger (*Box v Jubb*, 1879);
+- the plaintiff's own default;
+- consent or common benefit;
+- statutory authority (*Green v Chelsea Waterworks*, 1878).
+### Absolute liability (*M.C. Mehta v Union of India*, 1987, the Oleum gas leak)
+An enterprise engaged in a hazardous or inherently dangerous activity owes an absolute and non-delegable duty to the community. It is liable for all harm from an accident in that activity, and none of the *Rylands* exceptions apply. Compensation is related to the enterprise's magnitude and capacity, which gives it a deterrent effect.
+### Differences
+| Point | Strict | Absolute |
+| Origin | English common law, 1868 | Indian Supreme Court, 1987 |
+| Escape | Required | Not required; harm to those inside is also covered |
+| Exceptions | Five recognised | None |
+| Damages | Compensatory | Linked to capacity; deterrent |
+| Scope | Non-natural use of land | Hazardous industries |
+### Later developments
+- The Bhopal gas tragedy led to the Public Liability Insurance Act, 1991 (no-fault relief) and the National Green Tribunal Act, 2010 (s.17(3): no-fault principle).
+- *Indian Council for Enviro-Legal Action* (1996) applied absolute liability with "polluter pays".
+- *Klaus Mittelbachert v East India Hotels* (1997) applied the idea to a five-star hotel's non-delegable duty.
+### Conclusion
+India has moved beyond *Rylands* to a stricter rule suited to industrial hazards. Absolute liability is now the governing principle for hazardous enterprises.
+
+Q: What is negligence? Explain its essentials with the help of decided cases.
+### Meaning
+Negligence is the breach of a legal duty to take care, which results in damage to the plaintiff (Winfield). Negligence can be a mode of committing other torts, but it is also an independent tort.
+### Essentials
+1. **Duty of care.** Under the neighbour principle (*Donoghue v Stevenson*, 1932), a duty is owed to persons so closely and directly affected that the defendant ought to have had them in mind. *Caparo Industries v Dickman* (1990) sets a three-stage test: foreseeability, proximity, and whether it is fair, just and reasonable to impose a duty.
+2. **Breach of duty.** The standard is the reasonable man. Courts weigh probability, gravity of harm, the cost of precautions and social utility (*Bolton v Stone*, 1951; *Paris v Stepney BC*, 1951). Professionals are judged by the *Bolam* test, adopted in India for doctors (*Jacob Mathew v State of Punjab*, 2005, which also requires gross negligence for criminal liability).
+3. **Damage.** There must be causation and the damage must not be too remote. Remoteness is tested by reasonable foreseeability (*The Wagon Mound*, 1961), replacing the directness test of *Re Polemis* (1921).
+### Defences
+- Contributory negligence: damages are apportioned.
+- Volenti non fit injuria.
+- Inevitable accident.
+- Act of God.
+### Proof
+Res ipsa loquitur raises an inference of negligence.
+### Indian applications
+- Medical negligence (*V.P. Shantha*, 1995; *Kunal Saha v AMRI*, 2013).
+- Motor accidents under the Motor Vehicles Act. Recent heads of compensation include loss of domestic care for homemakers (*Shishu Pal v Surjeet*, 2026). Mediclaim receipts are not deducted (*Dolly Gandhi*, 2026).
+### Conclusion
+Negligence is the most important modern tort. It balances freedom of action against the security of others through the test of reasonable care.
+
+Q: Explain the doctrine of vicarious liability. Discuss the liability of the master for the torts of his servant, and the liability of the State.
+### Basis
+Qui facit per alium facit per se (he who acts through another acts himself). Respondeat superior (let the principal answer). The rationale is that the master benefits from the servant's work, has deeper pockets, and controls the enterprise.
+### Master and servant
+1. **A relationship of service.** Tests: control (*Yewens v Noakes*, 1880), integration, and the multiple or economic-reality test. There is generally no vicarious liability for independent contractors, except for non-delegable duties and hazardous work.
+2. **Course of employment.** The master is liable for wrongful acts authorised by him, or for wrongful and unauthorised modes of doing authorised acts:
+   - *Century Insurance v Northern Ireland Road Transport Board* (1942): a driver lighting a cigarette while unloading petrol.
+   - *Lloyd v Grace Smith & Co* (1912): fraud by a managing clerk.
+   - *Lister v Hesley Hall* (2001): the "close connection" test.
+   - *Limpus v London General Omnibus* (1862): the master is liable even for prohibited modes of doing authorised work.
+   - No liability where the servant is on a "frolic of his own".
+### Other relationships
+Principal and agent, partners (s.26 of the Partnership Act), and the owner and driver of a vehicle (Motor Vehicles Act).
+### State liability
+- Art. 300.
+- *Peninsular and Oriental Steam Navigation Co v Secretary of State* (1861): sovereign versus non-sovereign functions.
+- *Vidyawati* (1962): liability for a negligent government jeep driver.
+- *Kasturi Lal* (1965): immunity for sovereign functions.
+- *N. Nagendra Rao* (1994) and *Common Cause v Union of India* (1999) narrowed the immunity.
+- Constitutional torts under Arts. 32 and 226 attract compensation for violation of fundamental rights (*Rudul Sah*, 1983; *Nilabati Behera*, 1993; *D.K. Basu*, 1997). Example: *Lahra Bai Tamre* (2026), custodial death, ₹25 lakh.
+### Conclusion
+Vicarious liability ensures compensation to victims. In India, the sovereign immunity exception has shrunk under the influence of Art. 21.
+
+Q: Discuss the consumer dispute redressal machinery under the Consumer Protection Act, 2019.
+### Commissions
+| Commission | Pecuniary jurisdiction (2021 Rules) | Appeal |
+| District | Up to ₹50 lakh | State Commission, within 45 days, with 50% deposit |
+| State | ₹50 lakh to ₹2 crore | National Commission, within 30 days |
+| National | Above ₹2 crore | Supreme Court, within 30 days |
+- Jurisdiction is by value of consideration paid, not the claim.
+- A complaint may be filed where the complainant resides or works (s.34), electronically through e-Daakhil.
+- Limitation is two years from the cause of action (s.69).
+### Procedure
+- Admission within 21 days.
+- Mediation by consent (Chapter V).
+- Decision within three months, or five months if testing is needed.
+- The Commissions have civil court powers.
+### Reliefs (s.39)
+- removal of defects, replacement or refund;
+- compensation, including punitive damages;
+- discontinuing unfair trade practices; and
+- corrective advertisements.
+### Central Consumer Protection Authority (ss.10 to 22)
+It handles class actions, recalls and misleading advertisements. It may impose penalties of up to ₹10 lakh (up to ₹50 lakh for repeat contraventions) on manufacturers and endorsers.
+### Product liability and e-commerce
+Chapter VI deals with product liability. The Consumer Protection (E-Commerce) Rules, 2020 apply to online sales.
+### Judicial trends
+- Medical services are covered (*V.P. Shantha*).
+- Advocates are excluded (*D.K. Gandhi*, 2024).
+- Delay by a collecting bank in presenting a cheque is deficiency in service (*Canara Bank v Kavita Chowdhary*, 2026).
+- An arbitration clause does not oust the jurisdiction of the Commissions (*Emaar MGF v Aftab Singh*, 2018; *T.K.A. Padmanabhan*, 2026).
+### Conclusion
+The 2019 Act gives a cheap, quick, three-tier forum with new tools: the CCPA, product liability and e-commerce rules.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: Chlorine gas leaks from a chemical factory in a city because a valve failed, despite all reasonable care. Residents nearby suffer injuries. The factory pleads that it was not negligent and that the failure was an unforeseen accident. Decide.
+**Issue:** Is a hazardous enterprise liable without negligence?
+**Law:** Under the rule of absolute liability (*M.C. Mehta v Union of India*, 1987), an enterprise carrying on a hazardous or inherently dangerous activity is absolutely liable for harm caused by an accident in that activity. The exceptions to *Rylands v Fletcher*, including inevitable accident, do not apply. Compensation is related to the enterprise's size and capacity. No-fault relief is also available under the Public Liability Insurance Act, 1991, and the NGT applies no-fault liability (s.17(3), NGT Act).
+**Application:** Handling chlorine is a hazardous activity. The plea of due care or inevitable accident is not available.
+**Conclusion:** The factory is absolutely liable to compensate all injured residents, with deterrent damages.
+
+Q: A police constable, driving a police van to take a sick colleague to hospital, negligently knocks down P. P sues the State. The State pleads sovereign immunity. Decide.
+**Issue:** Is the State vicariously liable for the negligence of its servant?
+**Law:**
+- Art. 300.
+- *State of Rajasthan v Vidyawati* (1962): the State is liable for a government driver's negligence in non-sovereign work.
+- *Kasturi Lal* (1965) granted immunity for sovereign functions, but *N. Nagendra Rao* (1994) and later cases limit immunity to truly sovereign acts such as defence and the administration of justice.
+**Application:** Driving a colleague to hospital is not an exercise of sovereign power that only the State can perform. Any private driver could do it.
+**Conclusion:** The State is vicariously liable and must pay P compensation. P may also claim under the Motor Vehicles Act before the Motor Accident Claims Tribunal.
+
+Q: After an abdominal surgery, R continues to suffer pain. A scan shows a surgical mop left inside. The hospital says R cannot prove which doctor was negligent. Advise R.
+**Issue:** Can R prove negligence without identifying the individual doctor?
+**Law:**
+- Res ipsa loquitur applies where the thing is under the defendant's control and the accident would not occur without negligence (*Achutrao Khodwa v State of Maharashtra*, 1996, a mop left in the abdomen).
+- Hospitals are vicariously liable for their staff.
+- Medical services for payment are "services" under the Consumer Protection Act (*V.P. Shantha*).
+- *Jacob Mathew* (2005) governs criminal prosecution only. Civil liability needs only a breach of the reasonable standard.
+**Application:** A mop left inside is a lapse that speaks for itself, so the burden shifts to the hospital.
+**Conclusion:** The hospital is liable. R may file a consumer complaint or a civil suit for compensation, including for pain and suffering.
+
+Q: S paid ₹45 lakh for a flat to be delivered in 2022. The builder has not delivered it and now offers a refund without interest. S wants to file a complaint. Advise S on the forum and the relief.
+**Issue:** Which forum has jurisdiction, and what relief can S get?
+**Law:**
+- Delay in delivering a flat is a deficiency in service. A buyer cannot be made to wait indefinitely and may seek a refund with interest (*Fortune Infrastructure v Trevor D'Lima*, 2018; *Pioneer Urban Land v Govindan Raghavan*, 2019).
+- Under the Consumer Protection Act, 2019 and the 2021 Rules, the District Commission has jurisdiction where the consideration paid is up to ₹50 lakh. The complaint may be filed where S resides.
+- Limitation is two years, but a continuing default keeps the cause alive.
+- The RERA remedy is concurrent (*Imperia Structures v Anil Patni*, 2020).
+**Application:** The consideration paid is ₹45 lakh.
+**Conclusion:** S should file before the District Commission, or alternatively before the RERA authority. S may seek possession with compensation for delay, or a refund with reasonable interest, plus litigation costs.

@@ -1,0 +1,433 @@
+@title Alternative Dispute Resolution including Mediation
+@subtitle Practical Training III: negotiation, conciliation, mediation, arbitration, Lok Adalats, tribunals and online dispute resolution
+@paper 6.3
+@sem VI
+@marks1 University exam :: 50 marks, 1½ hours
+@marks2 Record work :: 50 marks
+@color #2f5a4f
+@dark #284e44
+@intro Covers the written-exam syllabus. It also gives skill notes on negotiation, conciliation and mediation for the record work, which the syllabus requires to be learned through simulations. The Arbitration and Conciliation Act, 1996 is covered as amended in 2015, 2019 and 2021, with recent Supreme Court decisions up to 2025. The Mediation Act, 2023 is only partly in force: since 9 October 2023, its provisions on the Mediation Council, the Mediation Fund, rules and transitional matters apply. The core mediation provisions await notification, so conciliation under Part III of the 1996 Act continues for now.
+@reading O.P. Malhotra, The Law and Practice of Arbitration and Conciliation
+@reading Avtar Singh, Law of Arbitration and Conciliation
+@reading P.C. Rao and William Sheffield, Alternative Dispute Resolution
+@reading The Arbitration and Conciliation Act, 1996; The Mediation Act, 2023
+@reading The Legal Services Authorities Act, 1987
+
+# 1 | Judicial dispute resolution
+@topics Characteristics; Operating principles; Party participation and control; Focus on issues; Reasoned decision; Finality; Adversary process; What courts do and do not do effectively; Advantages and disadvantages
+>> Courts resolve disputes by applying law to proven facts in a public, adversarial process ending in a binding, reasoned decision. They are authoritative but slow, costly and poor at preserving relationships.
+
+## 1.1 Characteristics and operating principles
+- **Public and coercive**: courts are State institutions; decisions are enforced by the State.
+- **Adversarial**: parties frame the issues and lead evidence; the judge is neutral.
+- **Party participation and control**: parties control the facts and evidence, but lawyers and procedure dominate; parties have little control over timing or outcome.
+- **Narrow focus**: only the legal issues pleaded are decided, not the underlying interests or relationship.
+- **Reasoned decision**: based on law and evidence; it creates precedent.
+- **Finality**: res judicata, subject to appeal; enforceable as a decree.
+
+## 1.2 What courts do well, and not
+| Courts do well | Courts do poorly |
+|---|---|
+| Declaring rights and setting precedent | Speed (huge pendency) |
+| Protecting weaker parties and public interest | Cost and complexity |
+| Coercive enforcement | Preserving relationships |
+| Deciding questions of law and constitutionality | Flexible, creative solutions |
+| Public accountability | Confidentiality |
+
+## 1.3 Advantages and disadvantages
+- **Advantages**: authority and legitimacy, procedural safeguards, uniformity, appeals, development of law, and protection of public interest.
+- **Disadvantages**: delay (more than five crore cases pending across Indian courts, according to the National Judicial Data Grid), cost, formality, win-lose outcomes, damaged relationships, and limited access for the poor.
+
+* Courts: public, coercive, adversarial, issue-focused, reasoned and final.
+* Strengths: rights, precedent, enforcement; weaknesses: delay, cost, relationships.
+
+QL: Describe the characteristics of judicial dispute resolution. What are its advantages and limitations?
+QS: Adversary process
+QS: Finality of judicial decisions
+
+MCQ: A major limitation of judicial dispute resolution is || lack of finality | *delay and cost | absence of reasons | lack of enforceability || Pendency is very high.
+
+# 2 | Alternative dispute resolution: concepts
+@topics Alternatives to formal adjudication; Techniques and processes; Unilateral, bilateral and triadic (third-party) intervention; Advantages and limitations; Arbitration, conciliation and negotiation distinguished; Judicial settlement and ADR distinguished
+>> ADR covers processes outside formal adjudication: from negotiation between parties, through mediation and conciliation with a facilitator, to arbitration with a private decision-maker. Each suits different disputes.
+
+## 2.1 Classification by intervention
+| Type | Who is involved | Examples |
+|---|---|---|
+| Unilateral | One party acts alone | Self-help, avoidance, lumping it |
+| Bilateral | Both parties without a third party | Negotiation |
+| Triadic | A neutral third party | Mediation, conciliation, arbitration, adjudication |
+
+## 2.2 Advantages and limitations of ADR
+- **Advantages**: speed, lower cost, flexibility, party autonomy, confidentiality, expertise of neutrals, preservation of relationships, creative (win-win) solutions, and reduced court burden.
+- **Limitations**: no precedent; power imbalances may produce unfair settlements; limited enforcement (except arbitration and court-annexed settlements); unsuitable for disputes needing public declaration (criminal, constitutional, fraud, status); quality depends on the neutral; and arbitration can become as slow and costly as litigation.
+
+## 2.3 Arbitration, conciliation and negotiation distinguished
+| Point | Negotiation | Conciliation or mediation | Arbitration |
+|---|---|---|---|
+| Third party | None | Neutral facilitator | Neutral decision-maker |
+| Outcome | Agreement of parties | Agreement of parties (conciliator may propose terms) | Binding award imposed by tribunal |
+| Process | Informal | Informal, structured | Quasi-judicial |
+| Enforceability | As a contract | Settlement agreement (conciliation: same status as an award, s.74 ACA) | As a decree (s.36 ACA) |
+| Consent needed | Throughout | Throughout | At the agreement stage only |
+
+- A **conciliator** may make proposals for settlement (s.67(4) ACA); a **mediator** traditionally facilitates without proposing terms. The Mediation Act, 2023 treats conciliation as a form of mediation.
+
+## 2.4 Judicial settlement and ADR distinguished
+- **Judicial settlement** (s.89 CPC) is a settlement effected by a judge or a person appointed by the court, treated like a Lok Adalat settlement. In *Afcons Infrastructure Ltd v Cherian Varkey Construction Co* (2010), the Court explained that judicial settlement means a reference to a suitable institution or person who acts as a conciliator.
+- ADR is generally consensual and private; judicial settlement is court-annexed.
+
+* Unilateral, bilateral and triadic processes.
+* ADR advantages (speed, cost, autonomy, confidentiality) and limitations (no precedent, power imbalance, unsuitable disputes).
+* Negotiation, conciliation or mediation, and arbitration compared.
+* Judicial settlement under s.89 CPC (Afcons).
+
+QL: What is ADR? Distinguish between arbitration, conciliation, mediation and negotiation.
+QL: Discuss the advantages and limitations of ADR compared to litigation.
+QS: Triadic intervention
+QS: Judicial settlement
+
+MCQ: In arbitration, the outcome is || an agreement of the parties | *a binding award imposed by the tribunal | a recommendation | a judicial decree from the start || Enforced as a decree under s.36.
+MCQ: A conciliator may make proposals for settlement under || s.36 | *s.67(4) ACA | s.89 CPC | s.21 LSA Act || A traditional mediator usually does not.
+
+# 3 | Forms of dispute resolution: from self-help to Lok Adalats
+@topics Self-help, avoidance and lumping; Negotiation, mediation, conciliation and arbitration; Alternative models: Panchayats, Gram Sabhas, Lokpal, Lok Adalats, Family Courts
+>> People handle most disputes without courts: by ignoring them, putting up with them, negotiating, or turning to community bodies. India has built several alternative forums, of which Lok Adalats are the most widely used.
+
+## 3.1 Self-help, avoidance and lumping
+- **Lumping it**: the grievance is ignored, because the cost of pursuing it is too high.
+- **Avoidance**: limiting or ending the relationship (for example, a customer switching suppliers).
+- **Self-help**: unilateral action within the law (repossession under a contract, a landlord's lawful remedies). Unlawful self-help (forcible dispossession) is prohibited.
+- Marc Galanter's work shows that "repeat players" (large institutions) benefit most from formal litigation, while "one-shotters" often lump grievances.
+
+## 3.2 Negotiation
+- Two approaches: **positional bargaining** (each side takes and concedes positions) and **principled negotiation** (Fisher and Ury, *Getting to Yes*): separate the people from the problem; focus on interests, not positions; invent options for mutual gain; insist on objective criteria; and know your **BATNA** (best alternative to a negotiated agreement).
+
+## 3.3 Mediation, conciliation and arbitration
+- Covered in Units 4 to 6 and 9.
+
+## 3.4 Alternative models
+- **Panchayats**: traditional village panchayats and caste councils resolved disputes informally. Nyaya Panchayats were set up under State laws after independence, with limited success. The **Gram Nyayalayas Act, 2008** created mobile village courts at the intermediate panchayat level, with power to follow summary procedures and conciliation, but few have been set up.
+- **Gram Sabhas**: under PESA (1996) and the Forest Rights Act (2006), Gram Sabhas resolve certain community disputes and decide on forest rights.
+- **Lokpal and Lokayuktas** (Lokpal and Lokayuktas Act, 2013): ombudsmen for complaints of corruption against public servants, not ADR bodies in the strict sense but alternatives to ordinary prosecution procedures.
+- **Lok Adalats**: Unit 8.
+- **Family Courts**: Unit 7.
+
+* Lumping, avoidance and self-help; Galanter's repeat players and one-shotters.
+* Principled negotiation (interests, options, criteria, BATNA).
+* Panchayats, Nyaya Panchayats and Gram Nyayalayas (2008); Gram Sabhas; Lokpal; Lok Adalats; Family Courts.
+
+QL: Explain the various methods of resolving disputes, from self-help to adjudication, with reference to alternative models in India.
+QL: Discuss principled negotiation and the concept of BATNA.
+QS: Gram Nyayalayas
+QS: Lumping
+
+MCQ: "Getting to Yes" and principled negotiation are associated with || Galanter | *Fisher and Ury | Sander | Fuller || Interests, not positions.
+MCQ: Gram Nyayalayas were established under the Act of || 1987 | *2008 | 1984 | 2013 || Mobile village courts.
+
+# 4 | Arbitration: agreement and tribunal
+@topics Background of the Arbitration and Conciliation Act, 1996; Definitions: arbitration, arbitrator, arbitration agreement; Appointment of arbitrator; Grounds for challenge; Termination of mandate
+>> The 1996 Act, based on the UNCITRAL Model Law, allows parties to refer disputes to arbitrators chosen by them. Courts help appoint arbitrators, but the arbitrator must be independent and impartial, and unilateral appointments by one party are now restricted.
+
+## 4.1 Background
+- Earlier laws: the Arbitration Act, 1940 (heavy court intervention), the Arbitration (Protocol and Convention) Act, 1937, and the Foreign Awards (Recognition and Enforcement) Act, 1961.
+- The **Arbitration and Conciliation Act, 1996**, based on the UNCITRAL Model Law (1985) and Conciliation Rules (1980), consolidated domestic and international arbitration, enforcement of foreign awards and conciliation.
+- **Structure**: Part I (domestic and international commercial arbitration seated in India), Part II (enforcement of foreign awards: New York and Geneva Conventions), Part III (conciliation), Part IV (supplementary).
+- **Amendments**: 2015 (time limits, neutrality, limited court intervention, costs), 2019 (Arbitration Council of India, confidentiality, exclusion of international arbitration from the time limit), 2021 (unconditional stay of awards induced by fraud or corruption).
+
+## 4.2 Definitions
+- **Arbitration** (s.2(1)(a)): any arbitration, whether or not administered by a permanent institution.
+- **Arbitral tribunal** (s.2(1)(d)): a sole arbitrator or a panel.
+- **International commercial arbitration** (s.2(1)(f)): where at least one party is a foreign national, body corporate incorporated outside India, or a foreign government.
+- **Arbitration agreement** (s.7): an agreement to submit present or future disputes in respect of a defined legal relationship to arbitration. It must be in writing: a signed document, an exchange of letters or electronic communications, or an exchange of claim and defence in which one party alleges the agreement and the other does not deny it. A reference in a contract to a document containing an arbitration clause also suffices.
+
+CASE: Vidya Drolia v Durga Trading Corporation (2020) :: A three-judge bench laid down a four-fold test for non-arbitrability: disputes that relate to actions in rem; that affect third-party rights or require centralised adjudication; that relate to sovereign and public interest functions of the State; or that are expressly or by necessary implication non-arbitrable under a statute. Landlord-tenant disputes under the Transfer of Property Act were held arbitrable (overruling Himangni Enterprises); disputes under rent control laws are not. At the referral stage, the court only examines the existence of the agreement prima facie ("when in doubt, refer").
+
+CASE: Cox and Kings Ltd v SAP India Pvt Ltd (2023) :: A Constitution Bench recognised the **group of companies doctrine** in Indian law: a non-signatory may be bound by an arbitration agreement where the circumstances show a mutual intention of the parties to bind it, based on factors such as its participation in the negotiation, performance and termination of the contract, the commonality of subject matter, and the composite nature of the transaction.
+
+## 4.3 Appointment of arbitrators (ss.10 and 11)
+- Parties are free to determine the number (which must not be even) and the procedure. Failing agreement, each party appoints one arbitrator and the two appoint the presiding arbitrator.
+- If a party fails to appoint within 30 days, or the appointed arbitrators fail to agree, the **Supreme Court** (international commercial arbitration) or the **High Court** (domestic) appoints on application (s.11(4) to (6)). The court examines only the existence of an arbitration agreement (s.11(6A), 2015).
+- The 2019 amendment provides for appointments by arbitral institutions designated by the courts (s.11(3A)), but this is yet to be fully operationalised.
+
+## 4.4 Grounds for challenge (ss.12 and 13)
+- A prospective arbitrator must disclose in writing any circumstances likely to give rise to **justifiable doubts** about independence or impartiality, and any circumstances affecting his ability to devote sufficient time (s.12(1); Fifth and Sixth Schedules).
+- **Ineligibility** (s.12(5) and the Seventh Schedule): a person whose relationship with the parties, counsel or subject matter falls within the Seventh Schedule (for example, an employee, consultant or adviser of a party) is ineligible, unless the parties waive this by an express agreement in writing after disputes arise.
+- Challenge procedure (s.13): before the tribunal within 15 days of knowing the grounds; if rejected, the arbitration continues and the challenge can be raised in setting-aside proceedings under s.34.
+
+CASE: Perkins Eastman Architects DPC v HSCC (India) Ltd (2019) :: Following *TRF Ltd v Energo Engineering Projects Ltd* (2017), the Court held that a person who is ineligible to act as an arbitrator (such as a party's managing director) cannot appoint a sole arbitrator either. A party with an interest in the outcome cannot have the exclusive power to appoint a sole arbitrator.
+
+CASE: Central Organisation for Railway Electrification v ECI SPIC SMO MCML (JV) (2024) :: A five-judge bench held that the principle of equal treatment of parties applies at the stage of appointment. A clause allowing one party (such as a public sector undertaking) to unilaterally appoint a sole arbitrator, or to compel the other party to choose from a panel curated by it, violates equality and is invalid. The decision applies prospectively to appointments made after it.
+
+## 4.5 Termination of mandate (ss.14 and 15)
+- The mandate terminates if the arbitrator becomes de jure or de facto unable to perform, fails to act without undue delay, withdraws, or the parties agree to terminate (s.14). A substitute arbitrator is then appointed under the same rules (s.15).
+- The tribunal also has power to rule on its own jurisdiction, including on the existence or validity of the arbitration agreement (**kompetenz-kompetenz**, s.16).
+- **Interim measures**: by the court before, during or after the arbitration (s.9), and by the tribunal (s.17, enforceable like a court order). In *Amazon.com NV Investment Holdings v Future Retail Ltd* (2021), an emergency arbitrator's order in an Indian-seated arbitration was held enforceable under s.17(2).
+
+## 4.6 Recent judgments (2025–26)
+
+CASE: Rajia Begum v State (2026) :: Where the arbitration agreement itself is alleged to be forged, the dispute is not arbitrable until its existence is established.
+
+CASE: NagreeKa Indcon Products v State (2026) :: A clause saying parties 'can' arbitrate is not a binding arbitration agreement.
+
+CASE: T.K.A. Padmanabhan v Union of India (2026) :: An arbitration clause does not oust the jurisdiction of consumer commissions.
+
+* Forged agreement not arbitrable (2026); 'can arbitrate' not binding (2026).
+* The 1996 Act is based on the UNCITRAL Model Law; amendments of 2015, 2019 and 2021.
+* Arbitration agreement in writing (s.7); arbitrability (Vidya Drolia); group of companies doctrine (Cox and Kings).
+* Appointment (ss.10 and 11); courts look only at the existence of the agreement (s.11(6A)).
+* Disclosure and ineligibility (s.12, Fifth and Seventh Schedules); no unilateral appointment by an interested party (Perkins; CORE, 2024).
+* Termination of mandate (ss.14 and 15); kompetenz-kompetenz (s.16); interim measures (ss.9 and 17; Amazon v Future Retail).
+
+QL: Define "arbitration agreement". What are its essentials? Discuss the arbitrability of disputes with reference to Vidya Drolia.
+QL: Explain the procedure for appointment of arbitrators and the grounds on which an arbitrator may be challenged.
+QL: Can one party unilaterally appoint a sole arbitrator? Discuss Perkins Eastman and the CORE case.
+QS: Kompetenz-kompetenz
+QS: Group of companies doctrine
+QS: Interim measures under s.17
+
+MCQ: The four-fold test for non-arbitrability was laid down in || Perkins Eastman | *Vidya Drolia v Durga Trading Corporation | Cox and Kings | Amazon v Future Retail || 2020.
+MCQ: The number of arbitrators must not be || odd | *even | more than three | less than three || s.10.
+MCQ: Unilateral appointment clauses were held to violate equality of parties in || TRF Ltd | *CORE v ECI SPIC SMO MCML (JV) | Vidya Drolia | BALCO || Five-judge bench, 2024.
+
+# 5 | Arbitral proceedings, awards and enforcement
+@topics Proceedings in arbitral tribunals; Arbitral award; Termination of proceedings; Setting aside of awards; Finality and enforcement; Appeals; Enforcement of foreign awards: New York and Geneva Conventions
+>> The tribunal conducts proceedings with party autonomy and fairness, and must make its award within a time limit. Courts may set aside an award only on narrow grounds; otherwise it is enforced as a decree. Foreign awards are enforced under the New York Convention.
+
+## 5.1 Conduct of proceedings (ss.18 to 27)
+- **Equal treatment** and full opportunity to present the case (s.18). The tribunal is not bound by the CPC or the evidence law (s.19); the parties may agree on procedure.
+- Place (s.20), commencement (s.21: on receipt of a request by the respondent), language (s.22), statements of claim and defence (s.23, to be completed within six months), hearings (s.24), default of a party (s.25), expert evidence (s.26), and court assistance in taking evidence (s.27).
+- **Time limit** (s.29A): for domestic arbitrations, the award must be made within 12 months of completion of pleadings, extendable by six months by consent, and further only by the court (which may reduce arbitrators' fees for delay). International commercial arbitrations are only encouraged to finish within 12 months.
+- **Fast-track procedure** (s.29B): on written pleadings, award within six months.
+- **Confidentiality** (s.42A, 2019): of all proceedings, except the award where needed for enforcement.
+
+## 5.2 The arbitral award (ss.28 to 33)
+- The tribunal decides according to the substantive law (and, in international arbitration, the law chosen by the parties); it decides ex aequo et bono only if expressly authorised (s.28).
+- **Form and contents** (s.31): in writing, signed, **reasoned** (unless agreed otherwise), stating the date and place, with interest and costs (s.31A, costs follow the event as a rule).
+- **Settlement** (s.30): the tribunal may encourage settlement and record it as an award.
+- **Termination of proceedings** (s.32): by the final award, withdrawal of the claim, agreement, or impossibility.
+- **Correction and interpretation** (s.33): within 30 days.
+
+## 5.3 Setting aside (s.34)
+- An award may be set aside only if the applicant establishes that: a party was under some incapacity; the agreement is invalid; proper notice was not given or the party was unable to present his case; the award deals with disputes beyond the scope of the submission; the composition of the tribunal or procedure was not in accordance with the agreement; the subject matter is not arbitrable; or the award is in conflict with the **public policy of India**.
+- **Public policy** (Explanation, 2015): only if the award was induced by fraud or corruption, is in contravention of the fundamental policy of Indian law, or conflicts with the most basic notions of morality or justice. A review on merits is not permitted.
+- **Patent illegality** (s.34(2A)): an additional ground for domestic awards only, but an erroneous application of law or re-appreciation of evidence is not patent illegality.
+- **Limitation**: three months from receipt of the award, extendable by 30 days for sufficient cause, not beyond. The application must be disposed of within one year (s.34(6)).
+
+CASE: Ssangyong Engineering and Construction Co Ltd v National Highways Authority of India (2019) :: After the 2015 amendment, "fundamental policy of Indian law" is narrowed to fundamental principles (as in Renusagar), and review on merits is excluded. But an award that unilaterally rewrites the contract by applying a new formula not agreed by the parties, and is beyond the contract, is a patent illegality and also violates the most basic notions of justice.
+
+CASE: Gayatri Balasamy v ISG Novasoft Technologies Ltd (2025) :: A five-judge bench (4:1) held that courts have a limited power to modify arbitral awards under ss.34 and 37: they may sever the invalid part of an award from the valid part, correct clerical, computational or typographical errors, and modify post-award interest in some circumstances. Article 142 may be used sparingly by the Supreme Court, but courts cannot review the merits or rewrite the award. This qualified *NHAI v M. Hakeem* (2021), which had said courts cannot modify awards at all.
+
+## 5.4 Finality and enforcement (ss.35 and 36)
+- The award is final and binding on the parties (s.35). It is enforced as a decree of a civil court once the time to challenge has expired (s.36(1)).
+- Filing an application under s.34 does not automatically stay the award; the court may grant a stay on conditions (such as deposit of the money) under s.36(3). Since 2021, an unconditional stay must be granted if the agreement or the award was induced by fraud or corruption (proviso to s.36(3)).
+
+## 5.5 Appeals (s.37)
+- Appeals lie only from orders refusing to refer parties to arbitration (s.8), granting or refusing interim measures (s.9), setting aside or refusing to set aside an award (s.34), and from certain orders of the tribunal (accepting a plea of lack of jurisdiction under s.16, or granting or refusing interim measures under s.17). No second appeal, but a special leave petition to the Supreme Court is possible.
+
+## 5.6 Enforcement of foreign awards (Part II)
+- **New York Convention** (1958): India is a party, with reservations for reciprocity (only awards from notified countries) and commercial relationships. Part II, Chapter I (ss.44 to 52).
+- **Refusal of enforcement** (s.48): grounds similar to s.34, including that enforcement would be contrary to Indian public policy (narrowly construed). No patent illegality ground.
+- **Enforcement** (s.49): once the court is satisfied, the award is deemed a decree.
+- **Geneva Convention** (1927): Part II, Chapter II (ss.53 to 60), for awards from countries party to that Convention but not to New York.
+
+CASE: Bharat Aluminium Co v Kaiser Aluminium Technical Services Inc (BALCO) (2012) :: A Constitution Bench held that Part I of the 1996 Act (including ss.9 and 34) does not apply to arbitrations seated outside India. The seat determines the curial law and the courts with supervisory jurisdiction. It overruled *Bhatia International* (2002) and *Venture Global* (2008), prospectively for arbitration agreements made after 6 September 2012. (The 2015 amendment later allowed ss.9, 27 and 37 to apply to foreign-seated arbitrations unless excluded by agreement.)
+
+## 5.7 Recent judgments (2025–26)
+
+CASE: MCM Worldwide v State (2026) :: Rejection of a jurisdiction plea under s.16(2) can be challenged only in a s.34 petition against the final award, not immediately.
+
+CASE: NHAI v T. Younis (2026) :: Where a s.33 application (correction or interpretation) is filed, limitation for a s.34 challenge runs from its disposal.
+
+CASE: Home Care Retail Marts v State (2026) :: Any party, including the losing party, may seek interim relief under s.9 after the award.
+
+CASE: Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd (2026) :: A s.37 appellate court cannot recompute damages awarded by the tribunal without a finding of perversity.
+
+* s.16 rejection challengeable only after the award (MCM Worldwide, 2026); limits on s.37 interference (Saisudhir, 2026).
+* Proceedings: equal treatment, no CPC or evidence law, time limit of 12 months plus 6 for domestic arbitrations (s.29A), fast track (s.29B), confidentiality (s.42A).
+* Award: reasoned, signed, with interest and costs; correction (s.33).
+* Setting aside (s.34): narrow grounds; public policy narrowed after 2015 (Ssangyong); patent illegality for domestic awards only; limited power to modify (Gayatri Balasamy, 2025).
+* Enforcement as decree (s.36); unconditional stay for fraud or corruption.
+* Appeals only under s.37.
+* Foreign awards: New York (ss.44 to 52) and Geneva (ss.53 to 60); seat theory (BALCO).
+
+QL: On what grounds can an arbitral award be set aside under s.34 of the Arbitration and Conciliation Act? Discuss the meaning of "public policy" after the 2015 amendment.
+QL: Explain the procedure for enforcement of foreign awards under the New York Convention.
+QL: Can a court modify an arbitral award? Discuss Gayatri Balasamy v ISG Novasoft.
+QS: Time limit for arbitral awards (s.29A)
+QS: Seat of arbitration
+QS: Patent illegality
+
+MCQ: An application to set aside an award must be filed within || 30 days | *three months, extendable by 30 days | one year | 90 days, extendable by 90 days || s.34(3).
+MCQ: Part I of the Act does not apply to foreign-seated arbitrations, as held in || Bhatia International | *BALCO v Kaiser Aluminium | Ssangyong | Vidya Drolia || 2012, prospectively.
+MCQ: Courts have a limited power to modify arbitral awards, as held in || NHAI v M. Hakeem | *Gayatri Balasamy v ISG Novasoft | Ssangyong | Perkins Eastman || Five-judge bench, 2025.
+
+# 6 | Section 89 CPC and conciliation
+@topics Section 89 and Order X rules 1A to 1C CPC; Conciliation: meaning, agreement, appointment of conciliator, powers and functions, techniques, enforceability
+>> Courts must encourage parties to try ADR before trial. Conciliation is a structured, confidential process in which a conciliator helps parties reach a settlement, which has the status of an arbitral award.
+
+## 6.1 Section 89 and Order X rules 1A to 1C
+- **Section 89** (inserted 1999, in force 2002): where it appears to the court that there exist elements of a settlement acceptable to the parties, it shall formulate the terms of settlement and refer them for **arbitration**, **conciliation**, **judicial settlement including through Lok Adalat**, or **mediation**.
+- **Order X rule 1A**: after recording admissions and denials, the court directs the parties to opt for one of the modes. **Rule 1B**: the parties appear before the forum. **Rule 1C**: if the effort fails, they return to court.
+
+CASE: Afcons Infrastructure Ltd v Cherian Varkey Construction Co (P) Ltd (2010) :: The Court interpreted s.89 sensibly, holding that the court need not formulate detailed terms of settlement; it should only consider whether the case is suitable for ADR and refer it. It listed unsuitable cases (representative suits, election disputes, cases involving fraud, criminal prosecution, cases needing protection of minors and persons of unsound mind, suits against the Government) and suitable ones (commercial, family, tenancy, consumer, tort and partition matters). Arbitration and conciliation need consent of all parties; the court may refer to mediation and Lok Adalat without consent.
+
+- **Commercial Courts Act, 2015, s.12A**: a commercial suit not seeking urgent interim relief cannot be filed without first exhausting **pre-institution mediation**. In *Patil Automation Pvt Ltd v Rakheja Engineers Pvt Ltd* (2022), the Supreme Court held this mandatory, and suits filed in breach are to be rejected (prospectively from 20 August 2022).
+
+## 6.2 Conciliation under Part III of the 1996 Act (ss.61 to 81)
+- **Meaning**: a process in which a neutral third person (conciliator) assists the parties in an independent and impartial manner to reach an amicable settlement of their dispute.
+- **Commencement** (s.62): one party sends a written invitation; proceedings begin when the other party accepts in writing. There is no need for a prior agreement.
+- **Appointment** (s.64): one conciliator, unless the parties agree on two or three. Parties may seek help from an institution.
+- **Role and powers** (s.67): the conciliator is guided by objectivity, fairness and justice; may conduct proceedings as he considers appropriate; may meet parties together or separately (s.69); and may make proposals for settlement at any stage.
+- **Disclosure** (s.70): information from one party is shared with the other, except information given in confidence.
+- **Settlement agreement** (s.73): drawn up and signed by the parties, and authenticated by the conciliator. It has the **same status and effect as an arbitral award on agreed terms** (s.74, read with s.30), so it is enforceable as a decree.
+- **Confidentiality** (s.75); **no resort to judicial proceedings** during conciliation, except to preserve rights (s.77); the conciliator cannot act as arbitrator or witness in the same dispute (s.80), and views or admissions made in conciliation are not admissible in later proceedings (s.81).
+
+## 6.3 Techniques of successful conciliation
+- Building rapport and trust; listening actively; identifying interests behind positions; separate meetings (caucuses) to explore concerns; reality-testing each party's position; generating options; using objective criteria; and drafting clear, complete settlement terms.
+
+NOTE: Current law. The Mediation Act, 2023 defines mediation to include conciliation, and its Fifth Schedule amends the 1996 Act. Its core provisions have not yet been brought into force (only the provisions on the Mediation Council, the Fund, rules and transitional matters are in force since 9 October 2023; the Mediation Council of India was set up on 27 August 2026). Until they are notified, conciliation continues under Part III of the 1996 Act.
+
+* Section 89 and Order X rules 1A to 1C (Afcons: suitable and unsuitable cases).
+* Mandatory pre-institution mediation in commercial suits (s.12A; Patil Automation).
+* Conciliation: invitation and acceptance (s.62), conciliator's role (s.67), settlement (s.73) with the status of an award (s.74), confidentiality and inadmissibility (ss.75, 80 and 81).
+* Techniques: rapport, listening, interests, caucus, reality-testing, options, drafting.
+
+QL: Explain the scope of s.89 CPC with reference to Afcons Infrastructure. What kinds of cases are suitable for ADR?
+QL: Describe the conciliation process under Part III of the Arbitration and Conciliation Act. What is the status of a settlement agreement?
+QS: Pre-institution mediation under s.12A Commercial Courts Act
+QS: Confidentiality in conciliation
+
+MCQ: A conciliation settlement agreement has the same status as || a contract | *an arbitral award on agreed terms | a decree of the Supreme Court | a Lok Adalat recommendation || s.74 ACA.
+MCQ: Pre-institution mediation in commercial suits was held mandatory in || Afcons | *Patil Automation v Rakheja Engineers | Salem Advocate Bar | Vidya Drolia || 2022.
+
+# 7 | Other models: Family Courts and tribunals
+@topics Family Courts and the Family Courts Act, 1984; Family counselling techniques; Tribunals; Motor Accident Claims Tribunals and the MV Act; Administrative Tribunals; Consumer forums
+>> Specialised forums decide particular kinds of disputes with simpler procedures, an emphasis on settlement, and expert members.
+
+## 7.1 Family Courts Act, 1984
+- Family Courts are set up by States in consultation with the High Court for cities with populations over one million (s.3). They have jurisdiction over matrimonial relief, property of spouses, legitimacy, guardianship and custody, and maintenance (s.7).
+- **Duty to promote settlement** (s.9): the court must first endeavour to assist and persuade the parties to settle. It may associate social welfare agencies, counsellors and experts (ss.5 and 6).
+- No right to be represented by a lawyer, though the court may appoint a legal expert as amicus curiae (s.13). Proceedings may be held in camera (s.11). The court may receive any evidence that helps it deal effectively with the dispute (s.14).
+- **Family counselling techniques**: assessing the relationship, joint and individual sessions, focusing on children's welfare, cooling-off periods, and drawing up parenting plans.
+
+## 7.2 Motor Accident Claims Tribunals (MV Act, 1988)
+- Claims Tribunals (s.165) decide claims for compensation for death, bodily injury or property damage from motor accidents. An application may be filed where the accident occurred, where the claimant resides or carries on business, or where the defendant resides (s.166(2)).
+- After the **2019 amendment**: no-fault compensation of ₹5 lakh for death and ₹2.5 lakh for grievous hurt, on an interim basis (s.164); hit-and-run compensation of ₹2 lakh for death and ₹50,000 for grievous hurt (s.161); a Motor Vehicle Accident Fund; cashless treatment during the "golden hour" (s.162); and a limitation of six months for claims (s.166(3)).
+- The Tribunal follows summary procedure and has the powers of a civil court; appeals lie to the High Court (s.173).
+- In *National Insurance Co Ltd v Pranay Sethi* (2017), a Constitution Bench standardised the addition for future prospects and conventional heads in computing compensation (building on *Sarla Verma v DTC*, 2009, for multipliers).
+
+## 7.3 Administrative Tribunals
+- Art. 323A and the **Administrative Tribunals Act, 1985**: the Central Administrative Tribunal and State Administrative Tribunals for service matters of government employees. In *L. Chandra Kumar v Union of India* (1997), the Court held that tribunal decisions are subject to the writ jurisdiction of the High Court (a division bench) under Arts. 226 and 227, which is part of the basic structure.
+- Other tribunals: the National Green Tribunal, the National Company Law Tribunal, Debts Recovery Tribunals and others (Art. 323B).
+
+## 7.4 Consumer Commissions (Consumer Protection Act, 2019)
+- Three tiers: **District Commission** (claims up to ₹50 lakh), **State Commission** (₹50 lakh to ₹2 crore) and **National Commission** (above ₹2 crore), as revised in 2021.
+- Complaints may be filed electronically and where the complainant resides; **mediation** is available at each level through consumer mediation cells (Chapter V); settlements are recorded as orders with no appeal.
+- Remedies: removal of defects, replacement, refund, compensation, punitive damages and corrective advertising.
+
+## 7.5 Recent judgments (2025–26)
+
+CASE: Shishu Pal v Surjeet (2026) :: Motor Accident Claims Tribunals may award compensation for 'loss of domestic care' when a homemaker dies.
+
+CASE: New India Assurance Co v Dolly Gandhi (2026) :: Mediclaim receipts are not deductible from motor accident compensation.
+
+* MACT: 'loss of domestic care' for homemakers (Shishu Pal, 2026).
+* Family Courts: settlement first (s.9), counsellors, no lawyer as of right (s.13), in-camera proceedings.
+* MACT: 2019 amendments (no-fault ₹5 lakh and ₹2.5 lakh; hit-and-run ₹2 lakh; golden hour; six-month limit); compensation principles (Pranay Sethi).
+* Administrative Tribunals under writ review (L. Chandra Kumar).
+* Consumer Commissions: pecuniary limits; mediation; remedies.
+
+QL: Discuss the role of Family Courts in the settlement of family disputes.
+QL: Explain the provisions of the Motor Vehicles Act, 1988 relating to Claims Tribunals and compensation after the 2019 amendment.
+QS: Consumer mediation
+QS: Administrative Tribunals
+
+MCQ: The duty of a Family Court to first attempt settlement is in || s.7 | *s.9 Family Courts Act | s.13 | s.11 || Before adjudication.
+MCQ: The pecuniary limit of a District Consumer Commission is || ₹20 lakh | *₹50 lakh | ₹1 crore | ₹2 crore || As revised in 2021.
+MCQ: No-fault interim compensation for death under s.164 MV Act (after 2019) is || ₹50,000 | *₹5 lakh | ₹2 lakh | ₹10 lakh || ₹2.5 lakh for grievous hurt.
+
+# 8 | Legal Services Authorities and NGOs
+@topics Legal Services Authority and the role of NGOs in dispute resolution
+>> The Legal Services Authorities Act gives free legal services to the poor and organises Lok Adalats, whose awards are final and binding. NGOs support access to justice through legal literacy and paralegal work.
+
+## 8.1 Legal Services Authorities Act, 1987
+- Gives effect to **Art. 39A** (equal justice and free legal aid).
+- **Authorities**: NALSA (national), State Legal Services Authorities, District Legal Services Authorities, Taluk Legal Services Committees, and committees for the Supreme Court and High Courts.
+- **Eligibility for free legal services** (s.12): members of Scheduled Castes and Tribes; victims of trafficking or begar; women and children; persons with disabilities; victims of mass disasters, ethnic violence, caste atrocities, floods, drought, earthquake or industrial disaster; industrial workmen; persons in custody; and persons with annual income below the prescribed limit.
+
+## 8.2 Lok Adalats (ss.19 to 22)
+- Organised by Legal Services Authorities, with serving or retired judicial officers and other persons. They may take up cases pending in court (with the consent of the parties, or on one party's application if the court is satisfied there is a chance of settlement) and pre-litigation matters.
+- They decide by **compromise or settlement** only; they cannot adjudicate. If no settlement is reached, the case returns to court.
+- **Award** (s.21): deemed a decree of a civil court, final and binding on all parties, and **no appeal** lies against it. Court fees paid are refunded.
+- **National Lok Adalats** are held on fixed days across the country and dispose of lakhs of cases.
+- **Permanent Lok Adalats** (s.22B, added 2002): for public utility services (transport, post, telegraph, telephone, power, water, hospitals, insurance, banking), for disputes up to ₹1 crore. If conciliation fails, a Permanent Lok Adalat can decide the dispute on merits, and its award is final.
+
+CASE: State of Punjab v Jalour Singh (2008) :: A Lok Adalat has no adjudicatory function. It can only pass an award based on a compromise or settlement between the parties. If there is no settlement, it must return the case to the court; an "award" made without a settlement is void, and the remedy against it is a writ petition, not an appeal.
+
+## 8.3 Role of NGOs
+- Legal literacy camps, paralegal volunteers, legal aid clinics (including in law colleges), public interest litigation, assisting victims (domestic violence, trafficking, bonded labour), and community mediation. NALSA schemes and the Legal Aid Defence Counsel System (2022) for criminal cases involve NGOs and volunteers.
+
+* LSA Act: Art. 39A; NALSA, SLSA, DLSA, TLSC; eligibility (s.12).
+* Lok Adalats decide by settlement only (Jalour Singh); awards are deemed decrees, final, with no appeal (s.21).
+* Permanent Lok Adalats for public utility services can decide on merits (s.22B, up to ₹1 crore).
+* NGOs in legal literacy, paralegal work, clinics and PIL.
+
+QL: Discuss the constitution, jurisdiction and powers of Lok Adalats. What is the effect of a Lok Adalat award?
+QL: Who is entitled to free legal services under the Legal Services Authorities Act, 1987?
+QS: Permanent Lok Adalats
+QS: Role of NGOs in access to justice
+
+MCQ: An appeal against a Lok Adalat award || lies to the High Court | *does not lie | lies to the District Court | lies to NALSA || s.21(2) LSA Act.
+MCQ: A Lok Adalat cannot adjudicate in the absence of settlement, as held in || L. Chandra Kumar | *State of Punjab v Jalour Singh | Afcons | Patil Automation || 2008.
+
+# 9 | Mediation and technology
+@topics Definition and objectives of mediation; Role and functions of the mediator; Ethics and skills of a mediator; Online mediation and use of artificial intelligence; Future of technology-driven mediation
+>> Mediation is a voluntary, confidential process in which a neutral mediator helps parties reach their own settlement. Online tools and AI can widen access, but they raise questions of confidentiality, fairness and human judgment.
+
+## 9.1 Definition and objectives
+- **Mediation Act, 2023, s.3(h)**: a process (including pre-litigation mediation, online mediation, community mediation and conciliation) in which parties attempt to reach an amicable settlement with the assistance of a mediator, who does not have authority to impose a settlement.
+- **Objectives**: an amicable, voluntary and lasting settlement; preserving relationships; party autonomy; speed and economy; confidentiality.
+- **Main features of the Mediation Act, 2023** (once in force): voluntary pre-litigation mediation for civil and commercial disputes (s.5); disputes not fit for mediation listed in the First Schedule (such as criminal prosecutions, matters involving third-party rights, and tax disputes); a time limit of 120 days, extendable by 60 days (s.18); a mediated settlement agreement (s.19) enforceable as a court judgment or decree (s.27), and challengeable only within 90 days on limited grounds (fraud, corruption, impersonation, or a dispute not fit for mediation) (s.28); online mediation (s.30); community mediation (Chapter X); and the Mediation Council of India (s.31) to register mediators and institutions.
+- **Singapore Convention on Mediation** (2019): India signed it in August 2019 but has not ratified it. It provides for cross-border enforcement of international commercial mediated settlements.
+
+## 9.2 Role and functions of the mediator
+- Opening the session and explaining the process; ensuring each party is heard; identifying issues and interests; facilitating communication; holding joint and separate sessions (caucuses); helping parties generate and evaluate options; reality-testing; and helping draft the settlement. The mediator does not decide or impose a solution.
+- **Stages of mediation**: introduction and opening statement; joint session; separate sessions; generating options and negotiation; agreement and closure.
+
+## 9.3 Ethics and skills of a mediator
+- **Ethics**: impartiality and neutrality; disclosure of conflicts of interest; confidentiality; respect for party self-determination; competence; not giving legal advice to one party; fairness in fees; and withdrawal where the process is abused. The Mediation Act sets out the mediator's duty to disclose conflicts (s.12) and confidentiality (s.22).
+- **Skills**: active listening, reframing (restating statements in neutral terms), summarising, open questions, managing emotions, building trust, patience, and clear drafting.
+
+## 9.4 Online mediation and artificial intelligence
+- **Online mediation**: by video conference, secure messaging and online platforms. The Mediation Act recognises it (s.30), subject to confidentiality. NITI Aayog's report "Designing the Future of Dispute Resolution: The ODR Policy Plan for India" (2021) recommended a phased adoption of online dispute resolution, beginning with government departments and small claims.
+- **Uses of AI**: scheduling and case management, document review and summarisation, translation (the Supreme Court's SUVAS tool for translating judgments), research assistance (SUPACE), predicting likely outcomes to help parties reality-test, and automated negotiation for small, high-volume disputes (such as e-commerce complaints).
+- **Concerns**: confidentiality and data protection (the DPDP Act, 2023), bias in algorithms, the digital divide, the loss of human empathy and judgment, the authenticity of identities and documents, and accountability for AI errors. AI should assist, not replace, the human mediator.
+
+## 9.5 The future of technology-driven mediation
+- Hybrid models (online preliminary sessions with in-person final sessions), platform-integrated ODR (e-commerce, fintech and gig-economy disputes), court-annexed online mediation, and standards for ODR providers. India's growing digital infrastructure (e-Courts, UPI, Aadhaar-based identity) supports this, but it needs regulation for quality, ethics and inclusion.
+
+TIP: For the record work (50 marks), write up each simulation you take part in: the facts, the parties' interests, the stages followed, the techniques used, the outcome, and a short reflection on what worked. Examiners look for evidence that you practised, not only read about, negotiation, conciliation, mediation and arbitration.
+
+## 9.6 Recent judgments (2025–26)
+
+CASE: Dhananjay Rathi v State (2026) :: A party cannot walk away from a mediated settlement except on limited grounds such as fraud.
+
+NOTE: The Mediation Council of India was established by notification on 27 August 2026, with its head office in Delhi. Many other provisions of the Mediation Act, 2023 still await notification, so check the current position before the exam.
+
+* Mediation Council of India established (27 August 2026).
+* Mediation is facilitative; the mediator cannot impose a settlement (s.3(h) Mediation Act).
+* The Mediation Act, 2023 (core provisions awaiting notification): voluntary pre-litigation mediation, 120 plus 60 days, enforceable settlements, challenge within 90 days, online and community mediation, the Mediation Council; Singapore Convention signed, not ratified.
+* Mediator's role, stages, ethics and skills.
+* Online mediation and ODR (NITI Aayog 2021); AI uses and concerns.
+
+QL: What is mediation? Explain the role, ethics and skills of a mediator.
+QL: Discuss the main features of the Mediation Act, 2023.
+QL: Examine the prospects and challenges of online mediation and the use of artificial intelligence in dispute resolution.
+QS: Singapore Convention on Mediation
+QS: Caucus in mediation
+QS: Online dispute resolution
+
+MCQ: Under the Mediation Act, 2023, mediation must ordinarily be completed within || 90 days | *120 days, extendable by 60 days | 180 days | 30 days || s.18.
+MCQ: A mediated settlement agreement can be challenged within || 30 days | *90 days | one year | three months, extendable by 30 days || s.28, on limited grounds.
+MCQ: India's position on the Singapore Convention on Mediation is that it has || ratified it | *signed it but not ratified it | rejected it | not signed it || Signed in August 2019.

@@ -1,0 +1,631 @@
+@title Administrative Law
+@subtitle Delegated legislation, tribunals, natural justice, judicial review, discretion, State liability and grievance redress
+@paper 2.5
+@sem II
+@color #6b4a1f
+@dark #5c3f1a
+@intro Covers the growth of the administrative State, the civil service, delegated legislation, administrative adjudication and natural justice, judicial review and writs, control of discretion, governmental liability, public undertakings, and ombudsman-type institutions, with decisions up to 2025.
+@reading D.D. Basu, Comparative Administrative Law
+@reading H.W.R. Wade and C.F. Forsyth, Administrative Law
+@reading J.F. Garner, Administrative Law
+@reading M.P. Jain, Cases and Materials on Indian Administrative Law, Vols. I and II
+@reading M.P. Jain and S.N. Jain, Principles of Administrative Law
+@reading S.P. Sathe, Administrative Law
+@reading I.P. Massey, Administrative Law
+
+# 1 | Evolution, nature and scope of administrative law
+@topics From laissez faire to social welfare State; Administration as the fourth branch; Necessity of delegation; Agencies for settlement of disputes: US regulatory agencies, Conseil d'Etat, tribunalisation in England and India; Relationship with constitutional law and public administration; Separation of powers; Rule of law; Definitions; Scope; Emerging trends
+>> As the State moved from policing to welfare, the administration acquired legislative and judicial powers. Administrative law grew to keep that power within the law.
+
+## 1.1 From laissez faire to welfare State
+- The **laissez-faire** State (19th century) limited itself to defence, police, justice and tax collection.
+- The **welfare State** regulates private interests (licensing, price control, environment), provides services (education, health, transport, social security), runs enterprises, and plans the economy.
+- In India, the Preamble and Directive Principles commit the State to social and economic justice, which multiplies administrative functions.
+
+## 1.2 Administration as the fourth branch of government
+Administrative agencies combine rule-making, adjudication and enforcement. Delegation of legislative power is necessary because of the volume and technicality of legislation, the need for flexibility and speed, local variations, emergencies, and lack of parliamentary time.
+
+## 1.3 Agencies for settlement of disputes
+- **United States**: independent regulatory agencies (Interstate Commerce Commission, 1887; Securities and Exchange Commission; Federal Trade Commission) exercising rule-making and adjudication, regulated by the Administrative Procedure Act, 1946.
+- **France**: the **Conseil d'Etat**, a body of administrators with judicial functions, heads a separate system of administrative courts (droit administratif) that hears complaints against the administration; it has developed principles protecting citizens, including liability without fault.
+- **England and India: tribunalisation**: specialised tribunals for tax, labour, rent, services and others. In India: Income Tax Appellate Tribunal (1941), Industrial Tribunals, Central Administrative Tribunal (1985, under Art. 323A), National Green Tribunal (2010), National Company Law Tribunal (2016). Art. 323B allows tribunals on other matters.
+
+CASE: Madras Bar Association v Union of India (2021) :: The Court struck down provisions of the Tribunals Reforms Ordinance, 2021 fixing a four-year tenure and a minimum age of 50 for members, reiterating that tribunals must be independent of the executive and that its earlier directions on tenure and appointments must be followed. (The Tribunals Reforms Act, 2021 re-enacted similar provisions. On 19 November 2025, in **Madras Bar Association v Union of India (2025)**, the Court struck down its key provisions on appointment, tenure and service conditions, including the minimum age of 50, as violating separation of powers and judicial independence; it held that Parliament cannot simply re-enact provisions struck down without curing the defect, and directed the Union to set up a National Tribunals Commission.)
+
+## 1.4 Relationship with constitutional law and public administration
+- Constitutional law deals with the structure and powers of the organs of the State; administrative law deals with the exercise of administrative powers within that structure and remedies against their abuse. In India, administrative law is largely a branch of constitutional law because judicial review rests on Arts. 14, 19, 21, 32 and 226.
+- Public administration studies how government is organised and managed (a discipline of political science); administrative law concerns legal controls on it.
+
+## 1.5 Separation of powers
+- Montesquieu (The Spirit of the Laws, 1748): liberty requires that legislative, executive and judicial powers be in separate hands.
+- India does not follow strict separation, but there is functional separation and a system of checks and balances.
+
+CASE: Ram Jawaya Kapur v State of Punjab (1955) :: The Indian Constitution has not recognised the doctrine of separation of powers in its absolute rigidity, but the functions of the different branches have been sufficiently differentiated, and one organ cannot assume functions that essentially belong to another.
+
+CASE: Indira Nehru Gandhi v Raj Narain (1975) :: Separation of powers was treated as part of the basic structure; the legislature cannot decide an election dispute, which is a judicial function.
+
+## 1.6 Rule of law
+- **Dicey** (1885): (1) supremacy of regular law as opposed to arbitrary power; (2) equality before the law, with officials subject to ordinary courts; (3) the constitution is the result of the ordinary law of the land (rights flow from judicial decisions).
+- Dicey criticised French droit administratif; but later writers showed that the Conseil d'Etat protected citizens well.
+- In India, the rule of law is a basic feature (Kesavananda; Indira Gandhi), reflected in Art. 14 and judicial review, and in the doctrine against arbitrariness.
+
+## 1.7 and 1.8 Definitions and scope
+- **Ivor Jennings**: the law relating to the administration; it determines the organisation, powers and duties of administrative authorities.
+- **Wade**: the law concerning the powers and procedures of administrative agencies, especially the law governing judicial control of administrative action; its primary purpose is to keep the powers of government within their legal bounds.
+- **K.C. Davis**: the law concerning the powers and procedures of administrative agencies, including the law governing judicial review of administrative action.
+- **Scope**: delegated legislation; administrative adjudication; administrative discretion; judicial and other controls; liability of the State; public corporations; ombudsman and grievance redress; right to information.
+
+## 1.9 Emerging trends
+- Positive duties under welfare legislation (right to food, education, employment guarantee under MGNREGA, 2005).
+- Regulatory State: independent regulators (SEBI, TRAI, CERC, RBI), privatisation and public-private partnerships.
+- E-governance, Aadhaar-based delivery and data protection (Digital Personal Data Protection Act, 2023).
+- Proportionality and legitimate expectation as grounds of review.
+
+TIP: For a question on rule of law, give Dicey's three meanings, the criticisms (droit administratif, administrative discretion), and the Indian position (basic structure; Art. 14; judicial review).
+
+## 1.10 Recent judgments (2025–26)
+
+CASE: Madras Bar Association v Union of India (2025) :: The Court struck down provisions of the Tribunals Reforms Act, 2021 on tenure and qualifications as a legislative override of its earlier rulings and directed the creation of a National Tribunals Commission to secure tribunal independence.
+
+* Tribunals Reforms Act provisions struck down; National Tribunals Commission directed (MBA, 2025).
+* Welfare State led to vast administrative powers.
+* US regulatory agencies, French Conseil d'Etat, and tribunals in England and India.
+* Tribunal independence protected by the courts (Madras Bar Association cases).
+* Separation of powers is functional in India (Ram Jawaya Kapur) and a basic feature.
+* Dicey's rule of law and its Indian form.
+* Administrative law keeps powers of government within legal bounds (Wade).
+
+QL: Trace the reasons for the growth of administrative law. Explain its nature and scope.
+QL: Discuss the doctrine of separation of powers and its relevance to administrative law in India.
+QL: Explain Dicey's concept of rule of law and its relevance in modern India.
+QS: Droit administratif
+QS: Conseil d'Etat
+QS: Tribunalisation
+QS: Ram Jawaya Kapur case
+
+MCQ: Dicey's rule of law did NOT include || supremacy of regular law | equality before law | judge-made constitution | *a separate system of administrative courts || Dicey criticised droit administratif.
+MCQ: The Conseil d'Etat is the highest administrative court of || England | USA | *France | India || Droit administratif.
+MCQ: The Indian Constitution does not recognise separation of powers in its absolute rigidity, as held in || Kesavananda | *Ram Jawaya Kapur | Indira Gandhi | Minerva Mills || 1955.
+
+# 2 | Bureaucracy in India
+@topics Nature and organisation of civil services, Central and State; Hierarchical character; Accountability and responsiveness; Powers and functions; Attainment of development and welfare goals; Class character and structure; Administrative deviance: corruption, nepotism, mal-administration; Disciplinary proceedings and prosecutions under the Prevention of Corruption Act
+>> The civil service turns law and policy into action. Its strength lies in permanence, expertise and neutrality; its weaknesses include rigidity, corruption and remoteness from citizens.
+
+## 2.1 Organisation
+- **All-India services** (Art. 312): IAS, IPS, Indian Forest Service; recruited by the Centre, serving in States.
+- **Central services** (Group A, B, C, D): Indian Revenue Service, Indian Foreign Service and others.
+- **State services**: State civil, police and other services.
+- **Recruitment** through the Union and State Public Service Commissions (Arts. 315 to 323); conditions of service by law or rules under Art. 309.
+
+## 2.2 Hierarchy, accountability and responsiveness
+- Weber's ideal-type bureaucracy: hierarchy, written rules, specialisation, impersonality, merit-based appointment.
+- **Accountability**: ministerial responsibility to the legislature; audit by the CAG; parliamentary committees; judicial review; RTI; Lokpal and Lokayuktas; citizens' charters.
+- **Responsiveness**: grievance portals (CPGRAMS), public service delivery guarantee Acts in many States, social audit (MGNREGA).
+
+## 2.3 and 2.4 Powers, functions and development goals
+- Policy advice, implementation of laws and schemes, regulation and licensing, revenue collection, law and order, disaster management, delivery of welfare.
+- India's development administration relies heavily on district administration (Collector) and on implementing centrally sponsored schemes.
+- Problems: red tape, over-centralisation, frequent transfers, inadequate specialisation, political interference.
+
+CASE: T.S.R. Subramanian v Union of India (2013) :: The Court directed fixed minimum tenures for civil servants, Civil Services Boards to recommend transfers and postings, and that officers should act on written, not oral, instructions, to protect the civil service from political interference.
+
+## 2.5 Class character and structure
+Critics (including the first Administrative Reforms Commission) noted the elite, colonial origins of the services and a gap between officials and citizens. Reservation (Art. 16(4)) and wider recruitment have broadened representation; the Second Administrative Reforms Commission (2005 to 2009) recommended citizen-centric administration.
+
+## 2.6 Administrative deviance
+- **Corruption**: abuse of public office for private gain. **Nepotism**: favouring relatives and friends. **Mal-administration**: inefficiency, delay, arbitrariness, discourtesy.
+- **Disciplinary proceedings**: under the Central Civil Services (Classification, Control and Appeal) Rules, 1965 and equivalent State rules; minor penalties (censure, withholding increments) and major penalties (reduction in rank, compulsory retirement, removal, dismissal), with the safeguards of Art. 311.
+- **Prosecution** under the **Prevention of Corruption Act, 1988** (amended 2018): s.7 (public servant taking undue advantage), s.8 (bribe-giving), s.13 (criminal misconduct: fraudulent misappropriation and illicit enrichment); prior approval for investigation of decisions in official functions (s.17A); sanction for prosecution (s.19).
+- Departmental proceedings and criminal prosecution can proceed simultaneously; acquittal does not automatically bar departmental action, since the standard of proof differs.
+
+CASE: Vineet Narain v Union of India (1998) :: In the Jain hawala case, the Court gave directions to insulate the CBI from executive interference, gave statutory status to the Central Vigilance Commission (later enacted as the CVC Act, 2003), and struck down the "single directive" requiring prior sanction for investigating senior officers.
+
+CASE: Subramanian Swamy v Director, CBI (2014) :: A Constitution Bench struck down s.6A of the Delhi Special Police Establishment Act, which required prior approval for investigation of officers of joint secretary rank and above, as violative of Art. 14 (classification on the basis of status had no rational nexus with the object).
+
+TIP: Combine constitutional safeguards (Arts. 309 to 311), service rules, vigilance institutions (CVC, CBI, Lokpal) and the PC Act in any answer on accountability of the bureaucracy.
+
+* All-India, Central and State services; recruitment by PSCs.
+* Accountability through ministers, legislature, CAG, courts, RTI, Lokpal.
+* Fixed tenure and written orders (T.S.R. Subramanian).
+* Deviance: corruption, nepotism, mal-administration.
+* Disciplinary rules and the PC Act; CBI and CVC insulation (Vineet Narain); s.6A DSPE Act struck down (Subramanian Swamy).
+
+QL: Discuss the nature and organisation of the civil services in India. How is the bureaucracy made accountable?
+QL: Examine the problem of corruption in administration and the legal mechanisms to control it.
+QS: All-India services
+QS: Vineet Narain case
+QS: Major and minor penalties
+
+MCQ: The Central Vigilance Commission was given statutory status following || Kesavananda | *Vineet Narain v Union of India | Tulsiram Patel | T.S.R. Subramanian || CVC Act, 2003.
+MCQ: Section 6A of the DSPE Act was struck down in || Vineet Narain | *Subramanian Swamy v Director, CBI | T.S.R. Subramanian | Neeraj Dutta || 2014.
+
+# 3 | Legislative powers of the administration
+@topics Necessity of delegation; Constitutionality: powers of exclusion, inclusion and modification; Requirements for validity: consultation, publication; Administrative directions, circulars and policy statements; Legislative control: laying, committees, hearings; Judicial control: ultra vires; Sub-delegation
+>> The legislature may delegate rule-making power, but it cannot abdicate its essential function of laying down policy. Delegated legislation is controlled by the legislature, the courts and procedural requirements.
+
+## 3.1 Necessity of delegation
+Pressure on parliamentary time, technical subject-matter, need for flexibility and experiment, emergencies, and local conditions. Forms: rules, regulations, bye-laws, orders, notifications, schemes.
+
+## 3.2 Constitutionality of delegated legislation
+CASE: In re Delhi Laws Act, 1912 (1951) :: A seven-judge bench, in an advisory opinion, held that the legislature may delegate subordinate legislative power, but cannot delegate essential legislative functions, namely the determination of legislative policy and its formulation as a binding rule of conduct. The power to extend laws with "restrictions and modifications" is valid if it does not change essential policy; the power to repeal existing laws was invalid.
+
+- **Excessive delegation**: a delegation is void if the statute provides no policy or guidelines.
+
+CASE: Harishankar Bagla v State of Madhya Pradesh (1954) :: Delegation under the Essential Supplies (Temporary Powers) Act, 1946 was upheld because the Act laid down policy (maintaining supplies and fair distribution).
+
+CASE: Hamdard Dawakhana v Union of India (1960) :: A provision of the Drugs and Magic Remedies (Objectionable Advertisements) Act allowing the Government to add diseases to the list without any guidelines was struck down as excessive delegation.
+
+- **Conditional legislation**: the legislature makes the law but leaves it to the executive to decide when or where it comes into force (for example, a commencement notification). This is not delegation of legislative power.
+- **Power of inclusion and exclusion**: to extend or exclude an Act's application to areas, persons or goods; valid if guided (Edward Mills v State of Ajmer, 1955, adding employments to a schedule under the Minimum Wages Act).
+- **Power to modify statute (Henry VIII clause)**: a power to remove difficulties by modifying the Act. Valid only to the extent of giving effect to the Act, not altering its essential features.
+
+CASE: Lachmi Narain v Union of India (1976) :: A power to modify an Act given to the executive under a removal-of-difficulties or application clause cannot be used to change the essential features or the policy of the Act.
+
+## 3.3 Requirements for validity
+### 3.3.1 Consultation and public participation
+- Some statutes require prior publication of draft rules and consideration of objections (s.23, General Clauses Act, 1897 provides the procedure where a statute requires "previous publication"), or consultation with specified bodies.
+- Mandatory consultation must be genuine; non-compliance may invalidate the rules. The Pre-Legislative Consultation Policy (2014) encourages publication of drafts for 30 days.
+
+### 3.3.2 Publication
+CASE: Harla v State of Rajasthan (1951) :: A law (the Jaipur Opium Act) that was never published in any form was held not to be in force; natural justice requires that laws be promulgated so that people may know them before they are bound.
+
+- Publication in the Official Gazette is ordinarily required (s.3(39), General Clauses Act defines "Official Gazette"); delegated legislation operates from the date of publication unless otherwise stated.
+
+## 3.4 Administrative directions, circulars and policy statements
+- Executive instructions issued without statutory authority are not law, generally not enforceable by courts against the government, and cannot override statutes or rules. But they can fill gaps in rules (Sant Ram Sharma v State of Rajasthan, 1967), and may create legitimate expectations.
+- Circulars of revenue authorities bind the department but not the taxpayer or courts.
+
+## 3.5 Legislative control
+### 3.5.1 Laying procedures
+| Type | Effect |
+|---|---|
+| Simple laying | Laid for information; no further action |
+| Laying subject to negative resolution | Comes into force immediately or after laying, but may be annulled or modified by a resolution of the House within a period |
+| Laying subject to affirmative resolution | Comes into force only when approved by resolution |
+- Failure to lay is generally treated as directory, not invalidating the rules, unless the statute makes laying a condition precedent: **Atlas Cycle Industries v State of Haryana (1979)**.
+
+### 3.5.2 and 3.5.3 Committees on subordinate legislation
+- Committees of the Lok Sabha (since 1953) and Rajya Sabha (since 1964) scrutinise rules: whether they are within the Act, whether they impose taxes, exclude courts' jurisdiction, have retrospective effect without authority, or involve unusual use of power. They report to the House and may hear officials (hearings before committees).
+- Effectiveness is limited by the volume of rules, lack of expertise and limited debate time.
+
+## 3.6 Judicial control: doctrine of ultra vires
+- **Substantive ultra vires**: rules beyond the scope of the parent Act, or the parent Act unconstitutional, or rules violating Fundamental Rights, or rules unreasonable or arbitrary.
+- **Procedural ultra vires**: failure to follow mandatory procedure (consultation, publication).
+
+CASE: Indian Express Newspapers v Union of India (1985) :: Delegated legislation is subject to all grounds on which plenary legislation can be challenged (lack of competence, violation of Fundamental Rights) and additional grounds: not conforming to the parent statute, and manifest arbitrariness or unreasonableness.
+
+CASE: Kerala Samsthana Chethu Thozhilali Union v State of Kerala (2006) :: Rules framed under the Abkari Act prohibiting employment of women in liquor shops were held ultra vires, as the parent Act did not authorise discrimination on that ground.
+
+## 3.7 Sub-delegation
+*Delegatus non potest delegare*: a delegate cannot further delegate unless the parent statute expressly or by necessary implication permits it. Sub-delegated legislation must comply with the conditions of the parent Act.
+
+TIP: For excessive delegation, cite Delhi Laws Act (essential functions), Harishankar Bagla (policy laid down, valid) and Hamdard Dawakhana (no guidelines, invalid). For judicial control, give substantive and procedural ultra vires with one case each.
+
+* Delegation is necessary but essential legislative functions cannot be delegated (Delhi Laws Act).
+* Delegation without policy or guidelines is excessive (Hamdard Dawakhana).
+* Henry VIII clauses cannot alter essential features (Lachmi Narain).
+* Publication is essential (Harla); consultation where required must be genuine.
+* Executive instructions can fill gaps but not override rules.
+* Laying procedures and committees provide legislative control.
+* Judicial control by substantive and procedural ultra vires (Indian Express).
+
+QL: "The legislature cannot abdicate its essential legislative function." Discuss the limits of delegated legislation with reference to the Delhi Laws Act case.
+QL: Explain the legislative and judicial controls over delegated legislation.
+QL: Discuss the requirements of publication and consultation for validity of delegated legislation.
+QS: Conditional legislation
+QS: Henry VIII clause
+QS: Sub-delegation
+QS: Laying procedure
+
+MCQ: The legislature cannot delegate its essential legislative function, as held in || Harla | *In re Delhi Laws Act | Lachmi Narain | Atlas Cycle || 1951.
+MCQ: An unpublished law is not in force, as held in || Hamdard Dawakhana | *Harla v State of Rajasthan | Indian Express | Edward Mills || 1951.
+MCQ: Delegatus non potest delegare relates to || laying | *sub-delegation | conditional legislation | consultation || A delegate cannot delegate further without authority.
+
+# 4 | Judicial powers of the administration
+@topics Need for administrative adjudication; Tribunals and their ad hoc character; Comparison with courts (Robson); Nature, constitution and procedure of tribunals (Customs and Excise Board, MRTP Commission, ESI courts, Service Tribunals); Jurisdiction; Quasi-judicial and administrative functions; Right to hearing; Bias; Oral hearing; Rules of evidence; Reasoned decisions; Right to counsel; Institutional decisions; Administrative appeals; Council on Tribunals; US Administrative Procedure Act; Tribunalisation in India
+>> Administrative bodies decide disputes because they are quicker, cheaper and expert. The price is the risk of bias and arbitrariness, which the principles of natural justice are meant to control.
+
+## 4.1 and 4.2 Need for administrative adjudication and tribunals
+- Courts are slow, costly, formal and lack expertise in technical matters; welfare legislation needs quick, informal, expert decisions.
+- **W.A. Robson** (Justice and Administrative Law, 1928) defended administrative tribunals as better suited to modern government than ordinary courts: cheaper, quicker, expert, and more attuned to policy.
+- Criticism: lack of independence, absence of precedent and uniformity, executive control over appointments, and inadequate procedural safeguards.
+
+| Point | Court | Tribunal |
+|---|---|---|
+| Composition | Judges with legal training | Often judicial and technical members |
+| Procedure | Bound by CPC and Evidence Act | Flexible, natural justice |
+| Independence | High (constitutional guarantees) | Lower; depends on statute and appointment process |
+| Precedent | Binding | Less binding |
+| Policy | Applies law | May consider policy |
+
+## 4.3 Nature of particular tribunals (as named in the syllabus)
+| Tribunal | Position now |
+|---|---|
+| Central Board of Customs and Excise (now the Central Board of Indirect Taxes and Customs, CBIC) | Adjudication of customs and excise disputes by departmental officers, with appeals to the Customs, Excise and Service Tax Appellate Tribunal (CESTAT); GST disputes go to the GST Appellate Tribunal |
+| MRTP Commission | Abolished; the Monopolies and Restrictive Trade Practices Act, 1969 was repealed and replaced by the Competition Act, 2002; the Competition Commission of India regulates anti-competitive conduct, with appeals to the National Company Law Appellate Tribunal |
+| ESI Courts | Under the Employees' State Insurance Act, 1948, decide disputes about contributions and benefits; from 21 November 2025, the ESI provisions are consolidated in the Code on Social Security, 2020, which continues adjudication through Employees' Insurance Courts |
+| Service Tribunals | Central Administrative Tribunal and State Administrative Tribunals under the Administrative Tribunals Act, 1985 (Art. 323A) |
+
+## 4.4 Jurisdiction; quasi-judicial and administrative functions
+- A quasi-judicial function involves a lis (dispute) between parties, determination of rights on evidence, and a duty to act judicially.
+- Earlier, natural justice applied only to quasi-judicial functions. Since **A.K. Kraipak v Union of India (1969)**, the distinction has been eroded: natural justice applies to administrative actions with civil consequences.
+
+CASE: A.K. Kraipak v Union of India (1969) :: A selection board for the Indian Forest Service included an officer who was himself a candidate. The Court held that the line between administrative and quasi-judicial power is thin; the aim of natural justice is to prevent miscarriage of justice and applies to administrative inquiries too. The selection was quashed for bias.
+
+CASE: State of Orissa v Dr (Miss) Binapani Dei (1967) :: An order changing a government servant's date of birth to retire her earlier, made without giving her a hearing, was quashed. Even an administrative order which involves civil consequences must be made consistently with natural justice.
+
+## 4.5 Right to hearing and rule against bias
+### Audi alteram partem (hear the other side)
+Elements: notice of the case to be met; opportunity to present one's case and evidence; disclosure of material relied upon; opportunity to rebut; in some cases, cross-examination; a decision by the person who heard.
+- **Oral hearing** is not always required; a written representation may suffice, depending on the statute and circumstances.
+- **Post-decisional hearing** may satisfy natural justice in urgent cases (Maneka Gandhi, 1978).
+- **Exceptions**: legislative action, emergencies, confidentiality and national security, academic evaluation, where hearing would be a useless formality (useless formality theory applied cautiously).
+
+CASE: Maneka Gandhi v Union of India (1978) :: The passport was impounded without a hearing. The Court held that natural justice applies, and an opportunity of a post-decisional hearing could cure the defect where an immediate action is needed.
+
+### Nemo judex in causa sua (rule against bias)
+- **Pecuniary bias**: any financial interest, however small, disqualifies.
+- **Personal bias**: relationship, friendship or hostility.
+- **Subject-matter or official bias**: prior involvement or prejudgment.
+- **Test**: real likelihood of bias or reasonable apprehension in the mind of a fair-minded observer.
+
+CASE: Manak Lal v Dr Prem Chand Singhvi (1957) :: A member of a bar council tribunal had earlier appeared for the complainant. The test is whether there is a reasonable ground for believing the person was likely to be biased; justice must not only be done but be seen to be done.
+
+CASE: Ranjit Thakur v Union of India (1987) :: A court-martial that included an officer against whom the accused had complained was vitiated by bias; the test is the reasonable apprehension of the party, not whether the officer was actually biased.
+
+## 4.6 Rules of evidence
+Tribunals are not bound by the Evidence Act but must base decisions on evidence. Standards of review:
+- **No evidence rule**: a finding based on no evidence is perverse and can be quashed.
+- **Some evidence rule**: in disciplinary matters, courts do not reweigh evidence if there is some evidence.
+- **Substantial evidence rule** (US): evidence a reasonable mind might accept as adequate.
+
+## 4.7 Reasoned decisions
+CASE: S.N. Mukherjee v Union of India (1990) :: A Constitution Bench held that an administrative authority exercising quasi-judicial functions must record reasons, unless expressly or impliedly excluded, as reasons ensure fairness, enable judicial review and minimise arbitrariness. (The Court held that the confirming authority of a court-martial was exempted by the statute.)
+
+## 4.8 Right to counsel
+Not a general right before tribunals and domestic inquiries; it depends on the rules. But where the opposite side is represented by a lawyer or a legally trained officer, or the matter is complex, denial may violate natural justice (Board of Trustees, Port of Bombay v Dilipkumar Nadkarni, 1983).
+
+## 4.9 Institutional decisions
+Decisions taken by an institution (department) rather than the person who heard the matter ("one who decides must hear") create problems; the person who decides should consider the evidence and arguments himself (Gullapalli Nageswara Rao v APSRTC, 1959, where the hearing was given by the Secretary but the decision taken by the Minister: the order was quashed).
+
+## 4.10 to 4.12 Administrative appeals and comparative models
+- **Administrative appeals** to higher authorities are provided by statutes; there is no inherent right of appeal.
+- **Council on Tribunals (England)**: created by the Tribunals and Inquiries Act, 1958 after the **Franks Committee** (1957), which recommended openness, fairness and impartiality; replaced in 2007 by the Administrative Justice and Tribunals Council (abolished 2013) under the Tribunals, Courts and Enforcement Act, 2007, which created a unified First-tier and Upper Tribunal.
+- **US Administrative Procedure Act, 1946**: rule-making by notice and comment, formal adjudication with hearing by administrative law judges, and judicial review standards.
+
+## 4.13 Tribunalisation in India
+- Arts. 323A and 323B (42nd Amendment) allow tribunals in place of courts for specified matters.
+- **L. Chandra Kumar v Union of India (1997)**: High Courts' power of review over tribunals under Arts. 226 and 227 cannot be excluded.
+- The **Tribunals Reforms Act, 2021** abolished several appellate tribunals and transferred their work to High Courts; the courts have repeatedly insisted on tribunal independence (Madras Bar Association cases).
+
+TIP: For natural justice, structure the answer as: (1) the two rules; (2) when they apply (Kraipak, Binapani); (3) elements of a fair hearing; (4) bias types and test (Manak Lal); (5) reasoned decisions (S.N. Mukherjee); (6) exceptions and post-decisional hearing (Maneka).
+
+* Tribunals are quick and expert but must be independent; High Court review cannot be excluded.
+* MRTP Commission replaced by the Competition Commission; ESI courts now under the Social Security Code.
+* Natural justice applies to administrative action with civil consequences (Kraipak; Binapani).
+* Hearing: notice, disclosure, opportunity; post-decisional hearing possible.
+* Bias: pecuniary, personal, official; reasonable likelihood test (Manak Lal; Ranjit Thakur).
+* Reasons must be recorded (S.N. Mukherjee); he who decides must hear (Gullapalli).
+
+QL: Discuss the reasons for the growth of administrative tribunals and compare their working with that of courts.
+QL: Explain the principles of natural justice. Are they applicable to administrative actions?
+QL: Discuss the rule against bias with reference to decided cases.
+QL: "Reasons are the links between the material and the conclusions." Discuss the duty to give reasons.
+QS: Post-decisional hearing
+QS: Franks Committee
+QS: Institutional decisions
+QS: Right to counsel
+
+MCQ: The distinction between administrative and quasi-judicial functions was eroded for natural justice in || Binapani Dei | *A.K. Kraipak v Union of India | Gullapalli | Manak Lal || 1969.
+MCQ: The duty to give reasons for quasi-judicial decisions was affirmed by a Constitution Bench in || Maneka Gandhi | *S.N. Mukherjee v Union of India | Kraipak | Ranjit Thakur || 1990.
+MCQ: "He who decides must hear" was applied in || Manak Lal | *Gullapalli Nageswara Rao v APSRTC | Binapani | Harla || 1959.
+MCQ: The MRTP Commission has been replaced by || CESTAT | *the Competition Commission of India | NCLT | SEBI || Competition Act, 2002.
+
+# 5 | Judicial control of administrative action
+@topics Courts as final authority; Exhaustion of remedies; Standing; Laches; Res judicata; Grounds of review: jurisdictional error and ultra vires, abuse and non-exercise of jurisdiction, error apparent on the face of the record, natural justice, primary jurisdiction, ripeness, political question, legitimate expectation; Methods: statutory appeals, writs, declaration and injunction, specific performance and civil suits, fact-finding commissions
+>> Judicial review asks whether the administration acted within its powers, by fair procedure, and reasonably. The courts use writs, declarations, injunctions and suits to give relief.
+
+## 5.1 Preliminary issues
+- **Courts as final authority**: Arts. 32, 226 and 227 make judicial review a basic feature (L. Chandra Kumar). Statutory finality clauses do not oust review for jurisdictional error or constitutional violation.
+- **Exhaustion of alternative remedies**: a rule of discretion, not of jurisdiction. The High Court may decline a writ where an effective alternative remedy exists, but will entertain it where there is violation of Fundamental Rights, of natural justice, or where the order is without jurisdiction or the vires of an Act is challenged (**Whirlpool Corporation v Registrar of Trade Marks, 1998**).
+- **Standing**: traditionally the aggrieved person; relaxed for PIL and social action litigation (S.P. Gupta, 1981).
+- **Laches**: unreasonable delay may bar relief, though there is no fixed period for writs.
+- **Res judicata**: applies to writ petitions decided on merits (Daryao v State of UP, 1961), except habeas corpus.
+
+## 5.2 Grounds of judicial review
+Lord Diplock in **Council of Civil Service Unions v Minister for the Civil Service (1985)** (the GCHQ case) classified grounds as **illegality**, **irrationality** and **procedural impropriety**, with proportionality as a possible fourth. Indian courts adopted this classification (Tata Cellular v Union of India, 1994).
+
+| Ground | Meaning and examples |
+|---|---|
+| 5.2.1 Jurisdictional error and ultra vires | Acting without power, beyond power, or on a wrong view of a jurisdictional fact |
+| 5.2.2 Abuse and non-exercise of jurisdiction | Abuse: improper purpose, mala fides, irrelevant considerations, unreasonableness. Non-exercise: fettering discretion by rigid policy, acting under dictation, abdication |
+| 5.2.3 Error apparent on the face of the record | An obvious error of law visible without long-drawn reasoning; ground for certiorari (Syed Yakoob v K.S. Radhakrishnan, 1964) |
+| 5.2.4 Violation of natural justice | Unit 4 |
+| 5.2.6 Primary jurisdiction | Courts defer to a specialised agency where a question falls within its expertise, until the agency decides |
+| 5.2.7 Ripeness | Courts do not decide premature, hypothetical issues; the action must be final enough to affect rights |
+| 5.2.8 Political question | Issues of policy committed to the political branches (foreign affairs, economic policy) are generally not reviewed, though in India the doctrine is applied narrowly (Bommai reviewed Art. 356) |
+| 5.2.9 Legitimate expectation | A person may legitimately expect to be treated in a certain way because of a promise or a regular practice; he is entitled to a hearing or to fair treatment before the expectation is denied, unless overriding public interest requires otherwise |
+
+CASE: Food Corporation of India v Kamdhenu Cattle Feed Industries (1993) :: The doctrine of legitimate expectation is part of the principle of non-arbitrariness under Art. 14; a reasonable expectation must be given due weight, but can be outweighed by larger public interest.
+
+CASE: Union of India v Hindustan Development Corporation (1993) :: Legitimate expectation is not a legal right by itself; it is a factor in deciding whether the action was fair and non-arbitrary.
+
+### Wednesbury unreasonableness and proportionality
+- **Wednesbury** (Associated Provincial Picture Houses v Wednesbury Corporation, 1948): a decision is unreasonable if no reasonable authority could have come to it.
+- **Proportionality**: whether the measure is suitable, necessary and balanced; applied in India to Fundamental Rights and to disciplinary penalties (**Om Kumar v Union of India, 2001**; **Modern Dental College, 2016**; **Puttaswamy, 2017**).
+
+## 5.3 Methods of judicial review
+| Method | Use |
+|---|---|
+| 5.3.1 Statutory appeals | Where the statute provides an appeal to a court or tribunal |
+| 5.3.2 Mandamus | To compel performance of a public duty |
+| 5.3.3 Certiorari | To quash a decision made without jurisdiction, in breach of natural justice, or with error apparent |
+| 5.3.4 Prohibition | To prevent an inferior body from proceeding without or in excess of jurisdiction |
+| 5.3.5 Quo warranto | To oust a usurper of a public office |
+| 5.3.6 Habeas corpus | To secure release from unlawful detention |
+| 5.3.7 Declaration and injunction | Civil suits under ss.34 and 38 of the Specific Relief Act; notice to the government under s.80 CPC |
+| 5.3.8 Specific performance and suits for compensation | Against the government in contract and tort (Art. 300) |
+| 5.3.9 Fact-finding commissions | Commissions of Inquiry Act, 1952; court-appointed commissions in PIL |
+
+TIP: Use the GCHQ classification (illegality, irrationality, procedural impropriety) as the skeleton of any answer on grounds of review, then add legitimate expectation and proportionality as modern grounds with Indian cases.
+
+## 5.4 Recent judgments (2025–26)
+
+CASE: Ex Sqn Ldr R. Sood v Union of India (2026) :: Where a criminal court has discharged an employee on the same facts, the employer cannot dismiss him on those very facts without independent material.
+
+CASE: Dinesh Kalway v Union of India (2026) :: Revising a tax settlement under a government scheme without hearing the person affected violates natural justice.
+
+* Natural justice applied to tax settlement revision (Dinesh Kalway, 2026).
+* Alternative remedy is a rule of discretion (Whirlpool).
+* Standing relaxed; laches and res judicata apply.
+* Grounds: illegality, irrationality, procedural impropriety (GCHQ; Tata Cellular), plus legitimate expectation and proportionality.
+* Error apparent on the face of the record justifies certiorari.
+* Remedies: writs, declarations, injunctions, suits, commissions.
+
+QL: Discuss the grounds of judicial review of administrative action in India.
+QL: Explain the doctrine of legitimate expectation with reference to decided cases.
+QL: Discuss the scope of writs of certiorari and mandamus as methods of judicial control.
+QL: When will a High Court refuse to entertain a writ petition on the ground of an alternative remedy?
+QS: Wednesbury unreasonableness
+QS: Error apparent on the face of the record
+QS: Political question doctrine
+QS: Doctrine of proportionality
+
+MCQ: The classification of grounds of review into illegality, irrationality and procedural impropriety was made in || Wednesbury | *Council of Civil Service Unions v Minister for the Civil Service | Kraipak | Tata Cellular || Lord Diplock, 1985.
+MCQ: Exhaustion of alternative remedies is || a bar to jurisdiction | *a rule of discretion | never relevant | applicable only to habeas corpus || Whirlpool (1998).
+MCQ: Legitimate expectation was linked to Art. 14 non-arbitrariness in || Hindustan Development Corporation | *Food Corporation of India v Kamdhenu Cattle Feed | Maneka Gandhi | Om Kumar || 1993.
+
+# 6 | Administrative discretion
+@topics Need for discretion; Discretion and rule of law; Mala fide exercise; Constitutional imperatives; Irrelevant considerations; Non-exercise of discretionary power; Discretion to prosecute or withdraw prosecution; Limiting, confining and structuring discretion
+>> Discretion is the power to choose among courses of action. It is necessary in modern government, but unfettered discretion is the enemy of the rule of law, so courts control both its grant and its exercise.
+
+## 6.1 and 6.2 Need for discretion and the rule of law
+- Discretion allows individualised decisions, flexibility and expertise in complex situations.
+- Dicey regarded wide discretion as inconsistent with the rule of law; modern theory (K.C. Davis, Discretionary Justice, 1969) accepts discretion but calls for it to be confined, structured and checked.
+
+## 6.4 Control at the stage of grant: constitutional imperatives
+- A statute conferring unguided, uncanalised discretion may violate Art. 14 (Anwar Ali Sarkar, 1952) or be an unreasonable restriction under Art. 19 (Dwarka Prasad, 1954).
+- Discretion is valid if the statute lays down policy and guidance (Kathi Raning Rawat, 1952).
+
+## Control at the stage of exercise
+### Abuse of discretion
+- **6.3 Mala fides**: dishonest intention or improper motive, including use of power for a purpose other than that for which it was granted (colourable exercise).
+
+CASE: S. Pratap Singh v State of Punjab (1964) :: Disciplinary proceedings were initiated against a civil surgeon by the Chief Minister out of personal vendetta. The order was quashed as mala fide.
+
+- **6.5 Irrelevant considerations**: taking into account irrelevant matters, or ignoring relevant ones.
+
+CASE: Barium Chemicals Ltd v Company Law Board (1966) :: An order directing an investigation into a company's affairs was quashed because the circumstances relied on could not reasonably lead to the formation of the required opinion; even subjective satisfaction must be based on relevant material.
+
+- **Unreasonableness and arbitrariness**; **improper purpose**; **unauthorised delegation**.
+
+### 6.6 Non-exercise or failure to exercise discretion
+- **Acting under dictation**: the authority acts on the direction of another (Commissioner of Police v Gordhandas Bhanji, 1952: the Commissioner cancelled a cinema licence at the Government's dictation; held invalid).
+- **Fettering discretion by rigid policy**: applying a policy without considering individual cases.
+- **Abdication or unauthorised sub-delegation**.
+
+## 6.7 Discretion to prosecute or withdraw prosecution
+- Under s.360 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (earlier s.321 CrPC), the Public Prosecutor may, with the consent of the court, withdraw from prosecution. The Prosecutor must apply his own mind in good faith for the administration of justice; the court must be satisfied that withdrawal is not an improper interference with justice. The BNSS adds that the victim must be given an opportunity to be heard before withdrawal is allowed.
+
+CASE: Sheonandan Paswan v State of Bihar (1987) :: A Constitution Bench held that the Public Prosecutor may withdraw from prosecution for broad public purposes such as public peace or where evidence is insufficient, but the court must ensure that the withdrawal is in good faith and not for an extraneous purpose.
+
+## 6.8 Limiting, confining and structuring discretion
+- **Confining**: setting limits by statute or rules (fixing criteria and standards).
+- **Structuring**: open plans, policy statements, rules, open findings and reasons, open precedents, and fair procedures (Davis).
+- **Checking**: supervision by superiors, legislatures, courts and ombudsmen.
+- General discretion (wide policy choice) receives deference; technical discretion (expert decisions) is reviewed for procedural fairness and rationality, not merits.
+
+TIP: Divide discretion questions into two stages: control at the stage of grant (Art. 14, Art. 19, guidelines) and at the stage of exercise (abuse: mala fides, irrelevant considerations, improper purpose; non-exercise: dictation, fettering).
+
+## 6.9 Recent judgments (2025–26)
+
+CASE: State of Maharashtra v Reliance Industries Ltd (2026) :: The power to grant an exemption includes the power to withdraw it in the public interest. A beneficiary has no vested right, and promissory estoppel does not bar a withdrawal made for good reason.
+
+* Power to grant exemption includes power to withdraw it (Reliance, 2026).
+* Discretion is necessary but must be confined, structured and checked (Davis).
+* Unguided discretion violates Arts. 14 and 19.
+* Abuse: mala fides (Pratap Singh), irrelevant considerations (Barium Chemicals).
+* Non-exercise: acting under dictation (Gordhandas Bhanji), fettering, abdication.
+* Withdrawal of prosecution under s.360 BNSS needs good faith and court consent (Sheonandan Paswan); victim to be heard.
+
+QL: Discuss the judicial control of administrative discretion at the stage of grant and the stage of exercise.
+QL: What is meant by abuse of discretion and failure to exercise discretion? Illustrate with cases.
+QL: Discuss the discretion of the Public Prosecutor to withdraw from prosecution.
+QS: Acting under dictation
+QS: Mala fides
+QS: Structuring discretion
+
+MCQ: Cancellation of a licence at the dictation of the Government was held invalid in || Barium Chemicals | *Commissioner of Police v Gordhandas Bhanji | S. Pratap Singh | Sheonandan Paswan || 1952.
+MCQ: Withdrawal from prosecution is now governed by || s.321 CrPC | *s.360 BNSS | s.173 BNSS | s.482 BNSS || With consent of the court.
+MCQ: Even subjective satisfaction must rest on relevant material, as held in || Gordhandas Bhanji | *Barium Chemicals v Company Law Board | Kraipak | Pratap Singh || 1966.
+
+# 7 | Liability for wrongs: tortious and contractual
+@topics Tortious liability: sovereign and non-sovereign functions; Crown Proceedings Act and Federal Tort Claims Act; Statutory immunity; Act of State; Contractual liability of government; Government privilege in legal proceedings: State secrets, public interest; Right to information and open government; Estoppel and waiver
+>> The government is liable for its contracts and, except in a narrow sovereign field, for its torts. It may withhold evidence in the public interest, but open government is now the rule under the RTI Act.
+
+## 7.1 to 7.4 Tortious liability
+- **Art. 300** carries forward the liability of the East India Company. P&O Steam Navigation (1861) introduced the sovereign/non-sovereign distinction.
+- **State of Rajasthan v Vidyawati (1962)**: State liable for negligent driving of a government jeep.
+- **Kasturilal v State of UP (1965)**: no liability for police negligence in custody of seized gold (sovereign function).
+- **N. Nagendra Rao v State of AP (1994)**: sovereign immunity confined to core functions; State liable for negligence of officers in custody of seized goods.
+- Public law compensation for violation of Fundamental Rights is not subject to sovereign immunity (Rudul Sah, 1983; Nilabati Behera, 1993).
+- **Crown Proceedings Act, 1947 (UK)** and **Federal Tort Claims Act, 1946 (USA)** made the State liable like a private person subject to exceptions. India has no equivalent statute.
+- **Statutory immunity**: many statutes protect officers for acts done in good faith (for example, s.197 BNSS sanction requirement in criminal cases; "good faith" immunity clauses).
+- **Act of State**: not cognisable by municipal courts when done against foreign States or aliens abroad; cannot be pleaded against citizens.
+
+## 7.5 Contractual liability of government
+SEC: Art. 299(1) :: All contracts made in the exercise of the executive power of the Union or of a State shall be expressed to be made by the President or by the Governor, and shall be executed on behalf of the President or Governor by such persons and in such manner as he may direct or authorise.
+- Requirements: in writing; expressed to be made by the President or Governor; executed by an authorised person.
+- Contracts not complying are void and cannot be ratified (**Mulamchand v State of MP, 1968**), but the government may be liable under s.70 of the Contract Act for benefits received (**State of West Bengal v B.K. Mondal, 1962**).
+- No personal liability of the President, Governor or the officer executing the contract (Art. 299(2)).
+- Contractual action of the State is subject to Art. 14 (non-arbitrariness in awarding contracts: R.D. Shetty, 1979; Tata Cellular, 1994).
+
+## 7.6 Government privilege in legal proceedings
+- Under the Bharatiya Sakshya Adhiniyam, 2023 (corresponding to ss.123 and 124 of the Evidence Act), no one may give evidence derived from unpublished official records relating to affairs of State without permission of the head of department, and a public officer cannot be compelled to disclose communications made in official confidence when public interest would suffer.
+
+CASE: State of Uttar Pradesh v Raj Narain (1975) :: The Blue Book on the Prime Minister's security arrangements was claimed privileged. The Court held that the court, not the government, decides finally whether a document relates to affairs of State and whether public interest requires non-disclosure; it may inspect the document. The people have a right to know about public acts.
+
+CASE: S.P. Gupta v Union of India (1981) :: Correspondence between the Law Minister, the Chief Justice of India and Chief Justices on judges' transfers was ordered to be disclosed; disclosure is the rule and secrecy the exception, justified only where strictly required by public interest.
+
+## 7.7 Right to information and open government
+- The right to know is part of Art. 19(1)(a) (Raj Narain; S.P. Gupta).
+- The **Right to Information Act, 2005**: every citizen may obtain information held by public authorities (s.3), subject to exemptions (s.8) and the public interest override (s.8(2)); Public Information Officers must respond within 30 days (48 hours where life or liberty is involved); appeals to the Central and State Information Commissions (detailed in Paper 5.5).
+- The **Digital Personal Data Protection Act, 2023** amended s.8(1)(j) of the RTI Act to exempt personal information more broadly, which critics say weakens transparency.
+
+## 7.8 Estoppel and waiver
+- **Promissory estoppel** applies against the government where a person acts to his detriment on a clear promise: **Motilal Padampat Sugar Mills v State of UP (1979)**. Exceptions: where the promise is contrary to law, or overriding public interest requires the government to resile.
+- There is no estoppel against a statute.
+- **Waiver**: a person cannot waive a Fundamental Right (Basheshar Nath, 1959), but may waive statutory or contractual rights meant for his own benefit.
+
+TIP: For State liability in contract, cite Art. 299, Mulamchand (no ratification) and B.K. Mondal (s.70 restitution). For privilege, Raj Narain and S.P. Gupta: the court decides.
+
+* Tortious liability: sovereign/non-sovereign distinction narrowed (Nagendra Rao); public law compensation outside immunity.
+* Contracts under Art. 299 must be formal; otherwise void, with s.70 restitution.
+* Government privilege is decided by the court (Raj Narain); disclosure is the rule (S.P. Gupta).
+* RTI Act, 2005 gives a statutory right; DPDP Act, 2023 widened the personal information exemption.
+* Promissory estoppel binds the government (Motilal Padampat), but not against statute.
+
+QL: Discuss the tortious liability of the government in India with reference to the sovereign immunity doctrine.
+QL: Explain the requirements of Art. 299 for government contracts. What is the effect of non-compliance?
+QL: Discuss government privilege to withhold documents and the right to information.
+QL: Can promissory estoppel be invoked against the government?
+QS: Act of State
+QS: Article 299
+QS: State of UP v Raj Narain
+QS: Open government
+
+MCQ: The court, not the government, finally decides a claim of privilege, as held in || Kasturilal | *State of UP v Raj Narain | Mulamchand | Vidyawati || 1975.
+MCQ: A government contract not complying with Art. 299 is || voidable | *void and cannot be ratified | valid if beneficial | enforceable against the officer || Mulamchand (1968).
+MCQ: Promissory estoppel against the government was applied in || Kasturilal | *Motilal Padampat Sugar Mills v State of UP | Raj Narain | Basheshar Nath || 1979.
+
+# 8 | Corporations and public undertakings
+@topics State monopoly: remedies against arbitrary action or action against public policy; Liability of public and private corporations and departmental undertakings; Legal remedies; Accountability: Committee on Public Undertakings, Estimates Committee
+>> Public undertakings are instruments of the State and so are bound by Fundamental Rights and judicial review, while remaining commercially autonomous.
+
+## 8.1 State monopoly and remedies
+- Art. 19(6) permits laws creating State monopolies in any trade or business, to the exclusion of citizens, completely or partially.
+- A monopoly does not license arbitrariness: the State and its corporations must act fairly and non-arbitrarily in their dealings (Art. 14).
+
+CASE: Ramana Dayaram Shetty v International Airport Authority of India (1979) :: The Authority invited tenders for a restaurant from "registered second-class hoteliers" but accepted a tender from a party without that qualification. The Court held that the State and its instrumentalities cannot act arbitrarily in granting largesse; they must follow standards they set, and the action was invalid under Art. 14.
+
+CASE: Kasturi Lal Lakshmi Reddy v State of Jammu and Kashmir (1980) :: State action in awarding contracts or distributing resources must be informed by reason, be in public interest and not be arbitrary.
+
+## 8.2 Liability of public and private corporations and departmental undertakings
+| Form | Examples | Legal position |
+|---|---|---|
+| Departmental undertaking | Railways, Posts | Part of the government; liability of the State under Art. 300; contracts under Art. 299 |
+| Statutory corporation | LIC, Food Corporation of India, Airports Authority, State Electricity Boards | Created by statute, separate legal entity, can sue and be sued; "State" under Art. 12 (Sukhdev Singh, 1975) |
+| Government company | ONGC, SAIL, BHEL (registered under the Companies Act; at least 51% government shareholding: s.2(45), Companies Act, 2013) | Separate legal entity; "State" if instrumentality (Ajay Hasia, 1981; Pradeep Kumar Biswas, 2002) |
+| Private corporations performing public functions | BCCI | Not "State" under Art. 12 but amenable to Art. 226 for public functions (Zee Telefilms, 2005) |
+
+- Public corporations are liable in tort and contract like private persons; their employees' service conditions are subject to Arts. 14 and 16 (Central Inland Water Transport Corporation v Brojo Nath Ganguly, 1986: termination without reason struck down).
+- Writs lie against them for public law duties; purely contractual disputes are generally left to civil remedies, unless the action is arbitrary (ABL International v Export Credit Guarantee Corporation, 2004).
+
+## 8.3 Legal remedies
+Writs under Arts. 32 and 226; civil suits for damages, injunction and declaration; consumer complaints (public utilities as service providers); arbitration under contract; complaints to regulators.
+
+## 8.4 Accountability
+- **Ministerial control**: directions, appointments, budget approvals.
+- **Parliamentary control**: questions, debates, and committees:
+  - **Committee on Public Undertakings** (since 1964): examines reports and accounts of public undertakings, the CAG's reports on them, and whether they are managed according to sound business principles.
+  - **Estimates Committee**: examines estimates and suggests economies and improvements in organisation.
+  - **Public Accounts Committee**: examines appropriation accounts and CAG reports.
+- **Audit**: by the CAG (s.143, Companies Act, 2013 for government companies).
+- **Judicial review**, **RTI** (public sector undertakings are public authorities), **Central Vigilance Commission**.
+
+TIP: Link public undertakings to Art. 12 (Unit 4 of Constitutional Law I) and to Art. 14 (R.D. Shetty): an instrumentality must act fairly even in commercial and contractual matters.
+
+* State monopolies are permitted (Art. 19(6)) but must be non-arbitrary (R.D. Shetty; Kasturi Lal).
+* Departmental undertakings, statutory corporations and government companies differ in form but are all "State" if instrumentalities.
+* Writs lie for public law duties; contractual disputes generally go to civil remedies.
+* Accountability through ministers, the COPU, Estimates and Public Accounts Committees, CAG, courts, RTI and CVC.
+
+QL: Discuss the legal position and accountability of public corporations in India.
+QL: Explain the principle that the State must not act arbitrarily even in granting contracts and largesse, with reference to R.D. Shetty.
+QS: Committee on Public Undertakings
+QS: Government company
+QS: Departmental undertaking
+
+MCQ: The State's duty not to act arbitrarily in granting largesse was laid down in || Sukhdev Singh | *Ramana Dayaram Shetty v International Airport Authority | Zee Telefilms | Ajay Hasia || 1979.
+MCQ: State monopoly in trade is permitted by || Art. 14 | *Art. 19(6) | Art. 39 | Art. 298 || Added by the 1st Amendment.
+
+# 9 | Informal methods of settlement and grievance redressal
+@topics Conciliation and mediation through social action groups; Use of media, lobbying and public participation in policy-making; Public inquiries and commissions of inquiry; Ombudsman and Parliamentary Commissioner; Lokpal and Lokayukta; Vigilance Commission; Congressional and parliamentary committees
+>> Courts are not the only check on the administration. Ombudsmen, commissions, vigilance bodies, legislative committees, the media and civil society also redress grievances.
+
+## 9.1 and 9.2 Conciliation, mediation and public participation
+- **Social action groups and NGOs** mediate between citizens and administration (for example, in displacement, labour and environmental disputes), and use PIL.
+- **Media and lobbying**: investigative journalism exposes maladministration; public campaigns influence policy (the RTI campaign of the Mazdoor Kisan Shakti Sangathan).
+- **Public participation** in policy-making: pre-legislative consultation, public hearings in EIA, social audits, gram sabhas under PESA.
+
+## 9.3 Public inquiries and commissions of inquiry
+- The **Commissions of Inquiry Act, 1952**: the appropriate government may appoint a commission to inquire into a definite matter of public importance (s.3), with powers of a civil court to summon witnesses and documents (s.4).
+- A commission's report is recommendatory, not binding; it is not a judgment.
+
+CASE: Ram Krishna Dalmia v Justice S.R. Tendolkar (1958) :: The appointment of a commission to inquire into the affairs of Dalmia companies was upheld; a commission's function is fact-finding and recommendation, so it does not offend Art. 14 merely because it relates to particular persons, provided there is a definite matter of public importance.
+
+## 9.4 Ombudsman and Parliamentary Commissioner
+- The **Ombudsman** originated in Sweden (1809): an independent officer appointed by the legislature to investigate citizens' complaints of maladministration, with powers of inquiry and recommendation.
+- **UK Parliamentary Commissioner for Administration** (Parliamentary Commissioner Act, 1967): complaints routed through MPs (the "MP filter"); recommendations, not binding orders.
+- Features: independence, accessibility, informality, wide investigative powers, publicity of reports.
+
+## 9.5 Lokpal and Lokayukta
+- The first Administrative Reforms Commission (1966) recommended a Lokpal at the Centre and Lokayuktas in States. Lokpal Bills lapsed several times; Maharashtra created the first Lokayukta in 1971.
+- The **Lokpal and Lokayuktas Act, 2013** (in force 2014; first Lokpal appointed in 2019):
+  - Lokpal: a chairperson and up to eight members, half judicial; at least half from SC, ST, OBC, minorities and women.
+  - Jurisdiction over the Prime Minister (with safeguards: not for international relations, security, public order, atomic energy and space; inquiry only with full bench approval of two-thirds, held in camera), ministers, MPs, Group A to D officers and officials of bodies funded by government.
+  - Inquiry and investigation wing; prosecution wing; power to recommend transfer or suspension; attach property; superintendence over the CBI in matters referred by it.
+  - States must establish Lokayuktas within a year (s.63).
+
+## 9.6 Vigilance Commission
+- **Central Vigilance Commission** (set up in 1964 on the Santhanam Committee's recommendation; statutory under the CVC Act, 2003): supervises vigilance administration, superintends the CBI in Prevention of Corruption Act cases, advises on disciplinary matters, and receives whistle-blower complaints (Public Interest Disclosure Resolution, 2004; Whistle Blowers Protection Act, 2014).
+- State Vigilance Commissions and Directorates of Vigilance.
+
+## 9.7 Congressional and parliamentary committees
+- **US congressional committees** have strong investigative powers (subpoena, oversight hearings).
+- **Indian parliamentary committees**: Public Accounts Committee, Estimates Committee, Committee on Public Undertakings, Committee on Subordinate Legislation, Committee on Petitions, departmentally related Standing Committees (since 1993) that examine demands for grants and Bills; Joint Parliamentary Committees for specific inquiries.
+
+TIP: Compare the Lokpal with the Scandinavian ombudsman in a table (independence, jurisdiction, powers, binding effect). Note that the Lokpal has prosecutorial and investigative powers beyond a classical ombudsman.
+
+## 9.8 Recent judgments (2025–26)
+
+CASE: Mumbai Port Authority v National Commission for Scheduled Castes (2026) :: The NCSC's role under Art. 338 is recommendatory; it cannot adjudicate service disputes or issue binding directions.
+
+* NCSC is recommendatory, not adjudicatory (2026).
+* Social action groups, media and public participation provide informal checks.
+* Commissions of Inquiry are fact-finding and recommendatory (Dalmia).
+* The ombudsman model (Sweden 1809; UK 1967) inspired the Lokpal and Lokayuktas Act, 2013.
+* Lokpal covers the PM with safeguards, ministers, MPs and officials, with investigation and prosecution wings.
+* CVC supervises vigilance and the CBI in corruption cases.
+* Parliamentary committees provide continuous oversight.
+
+QL: Discuss the role of the ombudsman in controlling maladministration. Examine the Lokpal and Lokayuktas Act, 2013.
+QL: Write a note on commissions of inquiry and their legal status.
+QL: Discuss parliamentary committees as an instrument of control over administration.
+QS: Central Vigilance Commission
+QS: Parliamentary Commissioner for Administration
+QS: Social audit
+
+MCQ: The ombudsman institution originated in || Denmark | *Sweden | UK | New Zealand || 1809.
+MCQ: The Lokpal and Lokayuktas Act was enacted in || 2005 | *2013 | 2003 | 2019 || First Lokpal appointed in 2019.
+MCQ: A commission under the Commissions of Inquiry Act, 1952 || passes binding judgments | *makes findings and recommendations | punishes offenders | is a civil court for all purposes || Ram Krishna Dalmia (1958).

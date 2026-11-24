@@ -1,0 +1,1005 @@
+@title Constitutional Law – I
+@subtitle The Preamble, the Union and its territory, citizenship, Fundamental Rights, Directive Principles and Fundamental Duties
+@paper 1.2
+@sem I
+@color #1d3a6b
+@dark #1a3360
+@intro Covers the Preamble, Articles 1 to 35, Directive Principles (Articles 36 to 51) and Fundamental Duties (Article 51A), with amendments and Supreme Court decisions up to 2025.
+@reading D.D. Basu, Commentary on the Constitution of India
+@reading M. Hidayatullah (ed.), Constitutional Law of India
+@reading H.M. Seervai, Constitutional Law of India
+@reading Granville Austin, The Indian Constitution: Cornerstone of a Nation
+@reading A.C. Banerjee, Constitutional History of India
+@reading H.R. Khanna, Making of India's Constitution
+@reading B. Shiva Rao, The Framing of India's Constitution
+@reading M.P. Jain, Indian Constitutional Law
+@reading Indian Law Institute, Annual Survey of Indian Law (relevant volumes)
+
+# 1 | The Preamble: federalism, secularism and social justice
+@topics Preamble; Federalism; Secularism; Social justice; Interpretation of the Preamble
+>> The Preamble states who made the Constitution, what kind of State it creates and what it aims to secure. It is part of the Constitution and a key to its interpretation.
+
+## Text and structure
+The Preamble, as amended by the Constitution (Forty-second Amendment) Act, 1976, reads in substance:
+
+"We, the people of India, having solemnly resolved to constitute India into a Sovereign Socialist Secular Democratic Republic and to secure to all its citizens: Justice, social, economic and political; Liberty of thought, expression, belief, faith and worship; Equality of status and of opportunity; and to promote among them all Fraternity assuring the dignity of the individual and the unity and integrity of the Nation; in our Constituent Assembly this twenty-sixth day of November, 1949, do hereby adopt, enact and give to ourselves this Constitution."
+
+It answers four questions:
+| Question | Answer in the Preamble |
+|---|---|
+| Source of authority | "We, the people of India" |
+| Nature of the State | Sovereign, socialist, secular, democratic republic |
+| Objectives | Justice, liberty, equality, fraternity |
+| Date of adoption | 26 November 1949 (Constitution in force 26 January 1950) |
+
+The words **socialist**, **secular** and **integrity** were added by the 42nd Amendment, 1976. It is based on the Objectives Resolution moved by Jawaharlal Nehru in the Constituent Assembly on 13 December 1946.
+
+## Key words
+- **Sovereign**: India is independent internally and externally; membership of the Commonwealth or the UN does not limit it.
+- **Socialist**: a democratic socialism aiming to end inequality of income, status and opportunity, without abolishing private property.
+- **Secular**: the State has no religion of its own and treats all religions equally (*sarva dharma sambhava*), rather than a strict wall of separation.
+- **Democratic**: government by elected representatives, with universal adult suffrage, and democracy in social and economic life too.
+- **Republic**: the head of State is elected (the President), not hereditary.
+- **Justice**: social, economic and political; carried into Directive Principles (Arts. 38, 39) and Fundamental Rights (Arts. 15, 16, 17).
+- **Fraternity**: a sense of common brotherhood, assuring dignity of the individual and unity of the nation.
+
+## Is the Preamble part of the Constitution?
+CASE: In re Berubari Union and Exchange of Enclaves (1960) :: An advisory opinion under Article 143 on transfer of territory to Pakistan. The Court said the Preamble is a key to open the minds of the makers, but is not part of the Constitution and is not a source of power.
+
+CASE: Kesavananda Bharati v State of Kerala (1973) :: A thirteen-judge bench overruled Berubari on this point: the Preamble is part of the Constitution. It can be amended under Article 368, but not so as to destroy the basic structure, and the basic features can be gathered from the Preamble.
+
+CASE: LIC of India v Consumer Education and Research Centre (1995) :: The Supreme Court reaffirmed that the Preamble is an integral part of the Constitution and that its socio-economic goals guide interpretation of other provisions.
+
+CASE: Dr Balram Singh v Union of India (2024) :: Petitions challenging the insertion of "socialist" and "secular" into the Preamble in 1976 were dismissed. The Court held that Parliament's amending power extends to the Preamble, the fact that the Constitution was adopted in 1949 does not bar later amendment of the Preamble, and the two words reflect values already embedded in the Constitution.
+
+## Federalism
+India has a federal structure with strong unitary features. K.C. Wheare called it "quasi-federal"; others call it "cooperative federalism" or a federation with a centralising tendency.
+
+### Federal features
+- Written Constitution, supreme over both levels of government.
+- Division of powers in the Seventh Schedule: Union, State and Concurrent Lists.
+- Independent judiciary to decide Centre-State disputes (Art. 131).
+- Rigid amendment procedure for federal provisions (Art. 368(2) proviso, ratification by half the States).
+- Bicameral Parliament with a Council of States representing the States.
+
+### Unitary features
+- Single Constitution and single citizenship.
+- Parliament can alter State boundaries without their consent (Art. 3).
+- Residuary powers with the Union (Art. 248).
+- Emergency provisions (Arts. 352, 356, 360).
+- Governors appointed by the President; all-India services.
+- Parliament's power to legislate on State List matters in national interest (Art. 249).
+
+CASE: State of West Bengal v Union of India (1962) :: The Court held that the Constitution is not truly federal; States are not sovereign, and Parliament can acquire property vested in a State.
+
+CASE: S.R. Bommai v Union of India (1994) :: A nine-judge bench held that federalism and secularism are basic features. Proclamations under Article 356 are subject to judicial review, the floor of the House is the place to test majority, and a State government that acts against secularism may be dismissed.
+
+## Secularism
+- The original Constitution was secular in substance: Articles 14, 15, 16, 25 to 30, 44 and 325.
+- Indian secularism means equal respect and equal distance from all religions; the State may regulate secular activities associated with religion (Art. 25(2)) and undertake social reform.
+
+CASE: Ziyauddin Burhanuddin Bukhari v Brijmohan Ramdass Mehra (1976) :: The Court described the secular State as one with no religion of its own, giving equal freedom to all religions.
+
+## Social justice
+Social justice means removing social and economic inequalities and giving the weaker sections a fair share. It drives reservation (Arts. 15(4), 16(4)), abolition of untouchability (Art. 17), protection against exploitation (Arts. 23, 24) and the Directive Principles.
+
+CASE: Air India Statutory Corporation v United Labour Union (1997) :: The Court treated social justice as a fundamental right flowing from the Preamble and Articles 14, 21, 38 and 39, and used it to protect contract labour. (The specific direction on absorption was later overruled in SAIL v National Union Waterfront Workers, 2001, but the social justice reasoning remains frequently cited.)
+
+## Interpretation of the Preamble
+- The Preamble is not a source of power or of prohibition; it cannot override an express provision.
+- Where the words of an article are ambiguous, the Preamble helps choose the meaning that furthers its objectives.
+- It is the source of many basic features: sovereignty, democracy, republican form, secularism, federalism, justice, liberty, equality, dignity.
+
+TIP: In any Preamble answer, mention Berubari (not part), Kesavananda (part, amendable subject to basic structure) and Balram Singh (2024 challenge to "socialist" and "secular" dismissed). Then link each key word to the articles that carry it out.
+
+* The Preamble declares the source (the people), nature of the State and objectives of the Constitution.
+* 42nd Amendment added socialist, secular and integrity; upheld in Balram Singh (2024).
+* Preamble is part of the Constitution (Kesavananda overruling Berubari) but is not a source of power.
+* India is federal with unitary features; federalism and secularism are basic features (S.R. Bommai).
+* Indian secularism means equal respect for all religions.
+
+QL: Is the Preamble part of the Constitution? Discuss its significance in interpreting the Constitution, with reference to Berubari and Kesavananda Bharati.
+QL: "The Indian Constitution is federal in form but unitary in spirit." Discuss.
+QL: Examine the concept of secularism under the Indian Constitution with reference to S.R. Bommai.
+QS: Objectives Resolution
+QS: 42nd Amendment and the Preamble
+QS: Social justice
+QS: Quasi-federalism
+QS: Fraternity
+
+MCQ: Which case first held that the Preamble is part of the Constitution? || In re Berubari | *Kesavananda Bharati | Golaknath | Minerva Mills || Berubari (1960) had said it was not.
+MCQ: The words "socialist" and "secular" were added by the || 24th Amendment | *42nd Amendment | 44th Amendment | 86th Amendment || Constitution (Forty-second Amendment) Act, 1976.
+MCQ: Federalism and secularism were held to be basic features in || State of West Bengal v Union of India | *S.R. Bommai v Union of India | Berubari | Golaknath || Nine-judge bench, 1994.
+MCQ: The Preamble can || override an express article | *be used to interpret ambiguous provisions | grant legislative power | never be amended || It is an aid to interpretation, not a source of power.
+
+# 2 | The Union and its territory
+@topics Name and territory of the Union (Art. 1); Admission or establishment of new States (Art. 2); Formation of new States and alteration of areas, boundaries or names (Art. 3); Laws under Arts. 2 and 3 not amendments (Art. 4); Names of the existing States
+>> India is an indestructible Union of destructible States: Parliament can redraw the map of the States by ordinary law, but ceding Indian territory needs a constitutional amendment.
+
+## Article 1: name and territory
+SEC: Art. 1 :: (1) India, that is Bharat, shall be a Union of States. (2) The States and the territories thereof shall be as specified in the First Schedule. (3) The territory of India shall comprise the territories of the States, the Union territories specified in the First Schedule, and such other territories as may be acquired.
+- "Union of States" rather than "Federation": Dr Ambedkar explained that the Indian federation is not the result of an agreement among States, and no State has the right to secede.
+- Territory of India (States, UTs, acquired territories) is wider than the "Union of States" (States only).
+- At present there are 28 States and 8 Union territories.
+
+## Article 2: admission or establishment of new States
+SEC: Art. 2 :: Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.
+Art. 2 deals with areas that were not part of India, for example Sikkim, which became a State in 1975 (36th Amendment).
+
+## Article 3: formation of new States and alteration of existing States
+SEC: Art. 3 :: Parliament may by law (a) form a new State by separation of territory from any State or by uniting two or more States or parts of States, or by uniting any territory to a part of any State; (b) increase the area of any State; (c) diminish the area of any State; (d) alter the boundaries of any State; (e) alter the name of any State. Proviso: no Bill for the purpose shall be introduced except on the recommendation of the President, and where the proposal affects the area, boundaries or name of a State, the Bill must be referred by the President to the legislature of that State for expressing its views within the specified period.
+
+Points:
+- Parliament acts by a simple majority.
+- The State legislature's views are not binding; Parliament need not accept them, and a fresh reference is not needed for every amendment to the Bill.
+
+CASE: Babulal Parate v State of Bombay (1960) :: The Court held that Parliament is not bound by the views of the State legislature under the proviso to Article 3, and need not make a fresh reference when it amends the Bill after receiving views.
+
+- "State" in Art. 3 includes Union territories for clauses (a) to (e), by Explanation I.
+
+CASE: In re Article 370 of the Constitution (2023) :: A Constitution Bench upheld the 2019 abrogation of the special status of Jammu and Kashmir. On Article 3, it upheld the carving out of the Union territory of Ladakh. On the conversion of the State of Jammu and Kashmir into a Union territory, the Court did not decide the question, recording the Union's statement that statehood would be restored, and directed elections to the Legislative Assembly by 30 September 2024.
+
+## Article 4: such laws are not amendments
+SEC: Art. 4 :: Laws made under Article 2 or 3 may contain amendments to the First and Fourth Schedules and supplemental, incidental and consequential provisions; no such law shall be deemed to be an amendment of the Constitution for the purposes of Article 368.
+
+## Cession of territory
+Arts. 2 to 4 do not empower Parliament to give away Indian territory to a foreign State.
+
+CASE: In re Berubari Union and Exchange of Enclaves (1960) :: The Nehru-Noon agreement of 1958 proposed to transfer half of Berubari Union to Pakistan. The Court advised that cession of Indian territory requires an amendment under Article 368; Art. 3(c) ("diminish the area") covers internal reorganisation only. Parliament then passed the 9th Amendment, 1960.
+
+CASE: Maganbhai Ishwarbhai Patel v Union of India (1969) :: Settling a disputed boundary (the Rann of Kutch award) is not cession of territory, so it does not need a constitutional amendment.
+
+The **100th Amendment, 2015** gave effect to the India-Bangladesh Land Boundary Agreement, exchanging enclaves.
+
+## Reorganisation of States
+| Year | Event |
+|---|---|
+| 1953 | Andhra State formed out of Madras after Potti Sriramulu's fast; the first linguistic State |
+| 1956 | States Reorganisation Act, on the Fazl Ali Commission's report: States formed on linguistic lines; Andhra Pradesh formed by merging Andhra State with Telugu areas of Hyderabad |
+| 1960 | Bombay split into Maharashtra and Gujarat |
+| 1966 | Punjab split; Haryana formed |
+| 2000 | Chhattisgarh, Uttarakhand and Jharkhand formed |
+| 2014 | Andhra Pradesh Reorganisation Act: Telangana formed on 2 June 2014 |
+| 2019 | Jammu and Kashmir Reorganisation Act: State converted into two Union territories |
+
+### Alteration of names
+Examples: Madras to Tamil Nadu (1969), Mysore to Karnataka (1973), Uttaranchal to Uttarakhand (2007), Orissa to Odisha (2011). Each was done by a law under Art. 3(e).
+
+TIP: Two lines carry most answers here: "Parliament can redraw the States by simple law under Art. 3 without the States' consent" and "Parliament cannot cede territory without an Art. 368 amendment (Berubari)".
+
+* Art. 1: India, that is Bharat, is a Union of States; territory includes States, UTs and acquired territory.
+* Art. 2 admits or establishes new States from outside; Art. 3 reorganises existing States.
+* Under Art. 3 the President recommends and refers the Bill to the State; the State's views do not bind Parliament (Babulal Parate).
+* Art. 4 laws are not constitutional amendments.
+* Cession needs an Art. 368 amendment (Berubari); boundary settlement does not (Maganbhai).
+* In re Article 370 (2023) upheld abrogation and creation of Ladakh UT.
+
+QL: Discuss the power of Parliament to form new States and alter areas, boundaries and names of existing States. Is the consent of the States necessary?
+QL: "India is an indestructible Union of destructible States." Explain with reference to Articles 1 to 4.
+QL: Can Parliament cede Indian territory to a foreign country? Discuss the Berubari case and later developments.
+QS: Article 4
+QS: Babulal Parate v State of Bombay
+QS: Formation of Telangana
+QS: Maganbhai Ishwarbhai Patel case
+
+MCQ: Laws made under Articles 2 and 3 are || amendments under Art. 368 | *not deemed amendments under Art. 368 | invalid without State consent | made by the State legislature || Art. 4(2).
+MCQ: Cession of Indian territory to a foreign State requires || an ordinary law under Art. 3 | *a constitutional amendment under Art. 368 | an executive order | a referendum || Berubari (1960).
+MCQ: The views of a State legislature on a Bill under Art. 3 are || binding | *not binding on Parliament | binding only for name changes | required to be unanimous || Babulal Parate (1960).
+MCQ: Telangana was formed on || 1 November 1956 | *2 June 2014 | 1 October 1953 | 26 January 2015 || Andhra Pradesh Reorganisation Act, 2014.
+
+# 3 | Citizenship
+@topics Citizenship at the commencement of the Constitution; Persons migrated from Pakistan; Persons of Indian origin residing outside India; Voluntary acquisition of foreign citizenship; Continuance of rights; Citizenship Act, 1955
+>> The Constitution settled who were citizens on 26 January 1950; everything after that is governed by Parliament through the Citizenship Act, 1955.
+
+## Why citizenship matters
+Some rights are given only to citizens: Arts. 15, 16, 19, 29 and 30; the right to vote and to hold offices such as President, Vice-President, judges of the Supreme Court and High Courts, Attorney-General, Governor. Others are available to all persons: Arts. 14, 20, 21, 21A, 22, 25.
+
+India has **single citizenship**: no separate State citizenship.
+
+## Constitutional provisions: Arts. 5 to 11
+| Article | Who is a citizen at commencement |
+|---|---|
+| 5 | A person domiciled in India who (a) was born in India; or (b) either of whose parents was born in India; or (c) has been ordinarily resident in India for at least five years before 26 January 1950 |
+| 6 | A person who migrated from Pakistan: if migrated before 19 July 1948, and he or a parent or grandparent was born in undivided India, and he has been ordinarily resident since; if migrated on or after that date, he must have been registered as a citizen |
+| 7 | A person who migrated from India to Pakistan after 1 March 1947 is not a citizen, unless he returned under a permit for resettlement (then treated as a migrant from Pakistan after 19 July 1948) |
+| 8 | A person of Indian origin (he, or a parent or grandparent, born in undivided India) ordinarily residing outside India is a citizen if registered by the Indian diplomatic or consular representative in that country |
+| 9 | No person is a citizen under Arts. 5, 6 or 8 if he has voluntarily acquired the citizenship of a foreign State |
+| 10 | Every citizen continues to be a citizen, subject to any law made by Parliament |
+| 11 | Parliament has power to make any provision regarding acquisition and termination of citizenship and all other matters relating to citizenship |
+
+## The Citizenship Act, 1955
+### Acquisition
+| Mode | Section | Key conditions |
+|---|---|---|
+| Birth | 3 | Born in India on or after 26 Jan 1950 and before 1 July 1987: citizen regardless of parents. From 1 July 1987 to 2 December 2004: either parent a citizen. On or after 3 December 2004: both parents citizens, or one citizen and the other not an illegal migrant |
+| Descent | 4 | Born outside India to a parent who is an Indian citizen, with registration at an Indian consulate within one year (later with permission) |
+| Registration | 5 | Persons of Indian origin ordinarily resident for seven years, persons married to Indian citizens, minor children of citizens, and others listed |
+| Naturalisation | 6 | A foreigner (not an illegal migrant) satisfying the Third Schedule: residence, good character, knowledge of a scheduled language, intention to reside |
+| Incorporation of territory | 7 | Persons of territory that becomes part of India, as notified by the Central Government |
+
+### Special provisions
+- **s.6A (Assam)**: inserted after the Assam Accord, 1985. Persons of Indian origin who came to Assam from Bangladesh before 1 January 1966 are citizens; those who came between 1 January 1966 and 24 March 1971 may become citizens after registration and a ten-year period without voting rights.
+
+CASE: In re Section 6A of the Citizenship Act, 1955 (2024) :: A Constitution Bench (4:1) upheld s.6A. The majority held that Parliament had legislative competence, the cut-off of 25 March 1971 was reasonable, and the provision did not violate Articles 6, 7, 14, 29 or 355.
+
+- **s.6B (Citizenship Amendment Act, 2019)**: persons belonging to the Hindu, Sikh, Buddhist, Jain, Parsi or Christian communities from Afghanistan, Bangladesh or Pakistan who entered India on or before 31 December 2014 are not treated as illegal migrants and may apply for naturalisation with a reduced residence period. The rules were notified in March 2024. Its constitutional validity is challenged before the Supreme Court.
+
+### Loss of citizenship
+| Mode | Section | Meaning |
+|---|---|---|
+| Renunciation | 8 | A citizen of full age and capacity who is also a citizen of another country may renounce by declaration |
+| Termination | 9 | A citizen who voluntarily acquires citizenship of another country ceases to be an Indian citizen |
+| Deprivation | 10 | The Central Government may deprive a naturalised or registered citizen for fraud, disloyalty, trading with the enemy in war, a sentence of two years within five years of registration, or continuous residence abroad for seven years |
+
+CASE: State of Uttar Pradesh v Shah Mohammad (1969) :: Whether a person has voluntarily acquired foreign citizenship under s.9(2) is to be decided only by the Central Government under the Citizenship Rules, not by courts.
+
+CASE: Izhar Ahmad Khan v Union of India (1962) :: The Court upheld s.9 and the rule that holding a foreign passport is conclusive proof of having acquired foreign citizenship.
+
+### Overseas Citizenship of India
+Sections 7A to 7D provide for **Overseas Citizen of India (OCI)** cardholders: persons of Indian origin who are citizens of other countries (except Pakistan and Bangladesh, and others notified). OCI is not dual citizenship; it gives a lifelong visa and some rights, but no voting rights or public office.
+
+TIP: Remember the three dates for citizenship by birth: before 1 July 1987 (any person born in India), 1 July 1987 to 2 December 2004 (one parent citizen), and from 3 December 2004 (both citizens, or one citizen and the other not an illegal migrant).
+
+* Arts. 5 to 8 decided citizenship on 26 January 1950; Art. 11 gives Parliament full power thereafter.
+* India has single citizenship.
+* Citizenship Act, 1955: birth, descent, registration, naturalisation, incorporation; loss by renunciation, termination, deprivation.
+* s.6A (Assam) upheld in 2024; s.6B (CAA, 2019) rules notified in 2024 and under challenge.
+* Voluntary acquisition of foreign citizenship ends Indian citizenship (Art. 9; s.9).
+
+QL: Explain the constitutional provisions regarding citizenship at the commencement of the Constitution (Articles 5 to 11).
+QL: Discuss the modes of acquisition and termination of citizenship under the Citizenship Act, 1955.
+QL: Write a note on citizenship of persons migrating to and from Pakistan.
+QS: Single citizenship
+QS: Overseas Citizen of India
+QS: Section 6A of the Citizenship Act
+QS: Deprivation of citizenship
+QS: Citizenship by birth
+
+MCQ: Who decides whether a person has voluntarily acquired foreign citizenship under s.9 of the Citizenship Act? || The High Court | *The Central Government | The Election Commission | The State Government || State of UP v Shah Mohammad (1969).
+MCQ: A person born in India after 3 December 2004 is a citizen by birth if || born anywhere in India | *both parents are citizens, or one is a citizen and the other not an illegal migrant | one parent is a resident | registered within a year || s.3(1)(c).
+MCQ: Article 11 empowers || the President to grant citizenship | *Parliament to regulate citizenship by law | States to confer citizenship | courts to decide citizenship || Art. 11.
+MCQ: Section 6A of the Citizenship Act relates to || OCI cardholders | *migrants to Assam | migrants from Pakistan in 1947 | naturalisation of foreigners || Upheld in 2024.
+
+# 4 | "State" under Article 12
+@topics Meaning and scope of State; Local authorities; Other authorities; State in the light of Fundamental Rights
+>> Fundamental Rights mainly bind the State; Article 12 decides who counts as the State, and the courts have widened it to bodies that are instruments or agencies of government.
+
+## The definition
+SEC: Art. 12 :: In this Part, unless the context otherwise requires, "the State" includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.
+
+The definition is inclusive. It covers four groups:
+1. Government and Parliament of India.
+2. Government and Legislature of each State.
+3. Local authorities.
+4. Other authorities within India or under the control of the Government of India.
+
+## Local authorities
+"Local authority" is defined in s.3(31) of the General Clauses Act, 1897: a municipal committee, district board, body of port commissioners or other authority legally entitled to, or entrusted by the Government with, the control or management of a municipal or local fund. The syllabus examples: municipalities, district boards, panchayats, improvement trusts, mining settlement boards and port commissioners all fit this definition.
+
+CASE: Mohammad Yasin v Town Area Committee, Jalalabad (1952) :: A municipal bye-law imposing a licence fee that effectively created a monopoly in vegetable wholesale trade was struck down as violating Art. 19(1)(g); the town area committee was "State".
+
+## Other authorities: the expanding meaning
+### Early narrow view
+Initially, courts read "other authorities" *ejusdem generis* with government and legislature, limiting it to bodies exercising governmental or sovereign functions (University of Madras v Shantha Bai, Madras HC, 1954).
+
+### Statutory power test
+CASE: Rajasthan State Electricity Board v Mohan Lal (1967) :: The Court rejected the ejusdem generis approach. "Other authorities" include all authorities created by the Constitution or a statute on which powers are conferred by law, including power to make rules or orders having the force of law. The Electricity Board was "State".
+
+CASE: Sukhdev Singh v Bhagatram Sardar Singh Raghuvanshi (1975) :: ONGC, LIC and the Industrial Finance Corporation, statutory corporations, were held to be "State". Their regulations had the force of law, and they were agencies of the government.
+
+### Instrumentality or agency test
+CASE: Ramana Dayaram Shetty v International Airport Authority of India (1979) :: Bhagwati J held that a corporation that is an instrumentality or agency of the government is "State". It must act fairly and cannot act arbitrarily in awarding contracts (here, a restaurant licence at Bombay airport).
+
+CASE: Ajay Hasia v Khalid Mujib Sehravardi (1981) :: A society registered under the Societies Registration Act running a regional engineering college was held to be "State". The Court listed tests: (1) entire share capital held by government; (2) financial assistance meeting almost all expenditure; (3) monopoly status conferred or protected by the State; (4) deep and pervasive State control; (5) functions of public importance closely related to governmental functions; (6) a government department transferred to a corporation. The manner of creation (statute or registration) is irrelevant.
+
+CASE: Pradeep Kumar Biswas v Indian Institute of Chemical Biology (2002) :: A seven-judge bench held CSIR to be "State" and overruled Sabhajit Tewary (1975). The question is whether, in light of cumulative facts, the body is financially, functionally and administratively dominated by or under the control of the government. Control must be particular to the body and pervasive; mere regulatory control is not enough.
+
+### Limits of the test
+CASE: Zee Telefilms Ltd v Union of India (2005) :: The Board of Control for Cricket in India (BCCI) was held not to be "State" under Article 12 (3:2), as it was not financially, functionally or administratively dominated by the government. But because it performs public functions, it is amenable to writ jurisdiction under Article 226.
+
+CASE: Board of Control for Cricket in India v Cricket Association of Bihar (2015) :: Reaffirming that BCCI performs public functions, the Court held it subject to judicial review under Article 226 for its public duties.
+
+## Is the judiciary "State"?
+- When acting on the administrative side (appointments, rule-making), courts are "State".
+- Judicial decisions are not open to challenge as violations of Fundamental Rights by a writ under Art. 32.
+
+CASE: Naresh Shridhar Mirajkar v State of Maharashtra (1967) :: A High Court order prohibiting publication of a witness's evidence could not be challenged under Art. 32 as violating Art. 19(1)(a); judicial orders of a superior court are not "State action" for that purpose.
+
+## State in the light of Fundamental Rights
+- Some rights are expressly enforceable against private persons too: Art. 15(2) (access to shops, wells, tanks), Art. 17 (untouchability), Art. 23 (traffic and forced labour), Art. 24 (child labour).
+- Others apply only against the State, but the State may also be required to protect individuals from private violation (positive duties under Art. 21).
+
+CASE: Kaushal Kishor v State of Uttar Pradesh (2023) :: A Constitution Bench held (4:1) that a fundamental right under Article 19 or 21 can be enforced even against persons other than the State or its instrumentalities. This is a significant step towards horizontal application of Fundamental Rights.
+
+TIP: Build an Article 12 answer as a timeline: Shantha Bai (narrow) to Rajasthan SEB (statutory power) to Sukhdev Singh to R.D. Shetty and Ajay Hasia (instrumentality, six tests) to Pradeep Kumar Biswas (deep and pervasive control) to Zee Telefilms (BCCI not State, but Art. 226 available) to Kaushal Kishor (horizontal rights).
+
+* Art. 12 is an inclusive definition: government, legislatures, local and other authorities.
+* "Other authorities" are not limited ejusdem generis (Rajasthan SEB).
+* Instrumentality or agency of government is "State" (R.D. Shetty; Ajay Hasia's six tests).
+* Pradeep Kumar Biswas: financial, functional and administrative domination by government.
+* BCCI is not "State" but subject to Art. 226 (Zee Telefilms).
+* Judicial orders are not State action under Art. 32 (Naresh Mirajkar).
+* Arts. 19 and 21 can be enforced against private persons (Kaushal Kishor, 2023).
+
+QL: Discuss the meaning of "State" under Article 12 of the Constitution, with reference to the judicial development of the concept of "other authorities".
+QL: Explain the tests laid down in Ajay Hasia and Pradeep Kumar Biswas for determining whether a body is an instrumentality of the State.
+QL: Is the judiciary "State" under Article 12? Can Fundamental Rights be enforced against private individuals?
+QS: Local authority
+QS: Zee Telefilms v Union of India
+QS: Instrumentality of the State
+QS: Kaushal Kishor v State of UP
+
+MCQ: The six tests for "instrumentality of State" were listed in || Sukhdev Singh | *Ajay Hasia | Zee Telefilms | Naresh Mirajkar || Ajay Hasia v Khalid Mujib Sehravardi (1981).
+MCQ: In Zee Telefilms, the Supreme Court held that BCCI || is State under Art. 12 | *is not State under Art. 12 but amenable to Art. 226 | is a local authority | is a government department || 3:2 majority, 2005.
+MCQ: Which case overruled Sabhajit Tewary and held CSIR to be State? || Ajay Hasia | R.D. Shetty | *Pradeep Kumar Biswas | Rajasthan SEB || Seven-judge bench, 2002.
+MCQ: Kaushal Kishor v State of UP (2023) held that || Art. 12 excludes municipalities | *Arts. 19 and 21 can be enforced against non-State actors | judicial orders are State action | BCCI is State || Horizontal application of Fundamental Rights.
+
+# 5 | Fundamental Rights: definition, inconsistent laws, and the right to equality
+@topics Definition of Fundamental Rights; Laws inconsistent with or in derogation of Fundamental Rights (Art. 13); Right to equality (Art. 14); Equality of opportunity (Art. 16); Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Art. 15)
+>> Equality in India means treating equals equally and permitting reasonable classification, then going further: the State must not act arbitrarily and may make special provisions to achieve real equality.
+
+## What are Fundamental Rights?
+Part III (Arts. 12 to 35) guarantees rights that are justiciable (enforceable through courts), limit State power, and form part of the basic structure. Dr Ambedkar called Article 32 "the very soul" and "heart" of the Constitution.
+
+| Group | Articles |
+|---|---|
+| Right to equality | 14 to 18 |
+| Right to freedom | 19 to 22 |
+| Right against exploitation | 23, 24 |
+| Freedom of religion | 25 to 28 |
+| Cultural and educational rights | 29, 30 |
+| Right to constitutional remedies | 32 |
+
+## Article 13: laws inconsistent with Fundamental Rights
+SEC: Art. 13 :: (1) All laws in force immediately before the commencement of this Constitution, in so far as they are inconsistent with this Part, shall, to the extent of such inconsistency, be void. (2) The State shall not make any law which takes away or abridges the rights conferred by this Part, and any law made in contravention of this clause shall, to the extent of the contravention, be void. (3) "Law" includes any ordinance, order, bye-law, rule, regulation, notification, custom or usage having the force of law. (4) Nothing in this article shall apply to any amendment of this Constitution made under article 368.
+
+### Doctrines under Article 13
+**Doctrine of eclipse**: a pre-Constitution law inconsistent with a Fundamental Right is not dead but eclipsed. It becomes operative again if the right is amended to remove the inconsistency.
+
+CASE: Bhikaji Narain Dhakras v State of Madhya Pradesh (1955) :: A 1948 law giving the State a monopoly over motor transport conflicted with Art. 19(1)(g). After the 1st Amendment (1951) allowed State monopoly, the law revived. The law was "overshadowed" by the Fundamental Right, not wiped out.
+
+- The doctrine applies to pre-Constitution laws. Post-Constitution laws made in breach of Art. 13(2) are void from inception as against citizens (Deep Chand v State of UP, 1959), though they may still apply to non-citizens for rights available only to citizens (State of Gujarat v Shri Ambica Mills, 1974).
+
+**Doctrine of severability**: only the inconsistent part is void, if it can be separated from the rest without defeating the legislative intent.
+
+CASE: R.M.D. Chamarbaugwalla v Union of India (1957) :: The Prize Competitions Act was held valid as applied to gambling competitions; the parts that could cover competitions of skill were severable.
+
+**Doctrine of waiver**: a citizen cannot waive a Fundamental Right.
+
+CASE: Basheshar Nath v Commissioner of Income Tax (1959) :: A taxpayer who had agreed to a settlement under a provision later held discriminatory was not bound; Fundamental Rights rest on public policy and cannot be waived.
+
+**Amendments and Art. 13(4)**: in Golaknath (1967), the Court held a constitutional amendment is "law" under Art. 13(2). The 24th Amendment (1971) added Art. 13(4) to reverse this, and Kesavananda (1973) upheld it, subject to the basic structure limit.
+
+## Article 14: equality before law and equal protection of laws
+SEC: Art. 14 :: The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.
+- **Equality before law** (from English law, Dicey's rule of law): no one is above the law; a negative concept.
+- **Equal protection of laws** (from the 14th Amendment of the US Constitution): equal treatment in equal circumstances; a positive concept.
+- Available to all persons, including non-citizens and corporations.
+
+### Reasonable classification
+Art. 14 forbids class legislation, not reasonable classification. Classification is valid if:
+1. it is based on an **intelligible differentia** distinguishing those grouped together from those left out; and
+2. the differentia has a **rational nexus** with the object of the law.
+
+CASE: State of West Bengal v Anwar Ali Sarkar (1952) :: A law allowing the State government to send any case to special courts with a shorter procedure, without laying down any criteria, was struck down. Unguided discretion to pick cases violated Art. 14.
+
+CASE: Ram Krishna Dalmia v Justice S.R. Tendolkar (1958) :: The Court restated the classification test and principles: a law may be constitutional even if it applies to one person, if there are special circumstances; there is a presumption of constitutionality.
+
+### The new doctrine: arbitrariness
+CASE: E.P. Royappa v State of Tamil Nadu (1974) :: Bhagwati J said equality is a dynamic concept that cannot be confined within traditional limits. Equality and arbitrariness are sworn enemies; an arbitrary act is unequal and violates Art. 14.
+
+CASE: Maneka Gandhi v Union of India (1978) :: Art. 14 strikes at arbitrariness in State action and ensures fairness and equality of treatment. Arts. 14, 19 and 21 are inter-linked.
+
+CASE: Shayara Bano v Union of India (2017) :: Triple talaq (talaq-e-biddat) was held unconstitutional. Nariman J, for the majority on this ground, held that even legislation can be struck down for manifest arbitrariness, meaning something done capriciously, irrationally or without adequate determining principle.
+
+## Article 15: prohibition of discrimination
+SEC: Art. 15(1), (2) :: The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. No citizen shall, on those grounds only, be subject to any disability, liability, restriction or condition with regard to access to shops, public restaurants, hotels and places of public entertainment, or the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
+- "Only" means discrimination on these grounds alone is forbidden; a classification based on other factors too may be valid.
+- Art. 15(2) binds private persons too.
+
+### Special provisions (exceptions)
+| Clause | Purpose | Origin |
+|---|---|---|
+| 15(3) | Special provisions for women and children | Original |
+| 15(4) | Advancement of socially and educationally backward classes, SCs and STs | 1st Amendment, 1951 (after Champakam Dorairajan) |
+| 15(5) | Reservation in admission to educational institutions including private institutions, aided or unaided (except minority institutions) | 93rd Amendment, 2005 |
+| 15(6) | Up to 10% reservation for economically weaker sections | 103rd Amendment, 2019 |
+
+CASE: State of Madras v Champakam Dorairajan (1951) :: A communal G.O. reserving medical and engineering seats by caste and religion was struck down under Art. 29(2). Parliament responded with Art. 15(4).
+
+CASE: Janhit Abhiyan v Union of India (2022) :: The 103rd Amendment providing EWS reservation was upheld (3:2). Economic criteria alone can be a basis for reservation, and the exclusion of SCs, STs and OBCs from the EWS quota does not violate the basic structure. The 50% ceiling is not inflexible for EWS.
+
+CASE: Navtej Singh Johar v Union of India (2018) :: Section 377 IPC was read down to decriminalise consensual same-sex relations between adults. The Court held that "sex" in Art. 15 includes sexual orientation.
+
+## Article 16: equality of opportunity in public employment
+SEC: Art. 16(1), (2) :: There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State. No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.
+
+Exceptions:
+- **16(3)**: Parliament may prescribe residence requirements for employment in a State.
+- **16(4)**: reservation for backward classes not adequately represented in State services.
+- **16(4A)** (77th Amendment, 1995; consequential seniority by 85th Amendment, 2001): reservation in promotion for SCs and STs.
+- **16(4B)** (81st Amendment, 2000): carry forward of unfilled reserved vacancies outside the 50% ceiling for that year.
+- **16(5)**: offices of religious institutions may be reserved for members of that religion.
+- **16(6)** (103rd Amendment): up to 10% for EWS.
+
+CASE: Indra Sawhney v Union of India (1992) :: A nine-judge bench upheld 27% reservation for OBCs (Mandal Commission). It held: (1) caste can be a criterion of backwardness; (2) the "creamy layer" must be excluded from OBCs; (3) reservation should not ordinarily exceed 50%; (4) no reservation in promotions under Art. 16(4) (later overcome by Art. 16(4A)); (5) Art. 16(4) is not an exception to 16(1) but a facet of it.
+
+CASE: M. Nagaraj v Union of India (2006) :: Upheld Arts. 16(4A) and (4B), but required the State to show backwardness, inadequacy of representation and overall administrative efficiency before providing reservation in promotions.
+
+CASE: Jarnail Singh v Lachhmi Narain Gupta (2018) :: Modified Nagaraj: the State need not collect data on backwardness of SCs and STs for promotion reservation, but the creamy layer principle applies to them in promotions.
+
+CASE: State of Punjab v Davinder Singh (2024) :: A seven-judge bench (6:1) held that sub-classification within Scheduled Castes for reservation is permissible, overruling E.V. Chinnaiah (2004). The majority also suggested a creamy layer for SCs and STs, though that was not a binding direction.
+
+## Articles 17 and 18
+- **Art. 17**: untouchability is abolished and its practice in any form is forbidden; enforced through the Protection of Civil Rights Act, 1955 and the SC/ST (Prevention of Atrocities) Act, 1989.
+- **Art. 18**: abolition of titles, except military and academic distinctions. National awards such as Bharat Ratna and Padma awards are not titles, provided they are not used as prefixes or suffixes: **Balaji Raghavan v Union of India (1996)**.
+
+TIP: For Art. 14, write the two tests side by side: the old classification test (Anwar Ali Sarkar, Dalmia) and the new arbitrariness test (Royappa, Maneka, Shayara Bano), and say the newer test adds to rather than replaces the old one.
+
+## Recent judgments (2025–26)
+
+CASE: Chinthada Anand v State of Andhra Pradesh (2026) :: A person who has converted to Christianity cannot claim Scheduled Caste status or invoke the SC/ST (Prevention of Atrocities) Act, because the Constitution (Scheduled Castes) Order, 1950 confines SC status to Hindus, Sikhs and Buddhists.
+
+CASE: Union of India v Rohith Nathan (2026) :: Whether a candidate belongs to the OBC 'creamy layer' cannot be decided on parental income alone; the status and post of the parents must also be considered.
+
+CASE: Jane Kaushik v Union of India (2025) :: Upholding the rights of a transgender teacher who was discharged from two schools, the Court ordered compensation and directed steps to implement the Transgender Persons (Protection of Rights) Act, 2019.
+
+* SC status not available to converts to Christianity (Chinthada Anand, 2026, an AP case); creamy layer not by income alone (Rohith Nathan, 2026).
+* Art. 13 voids inconsistent laws; doctrines of eclipse (Bhikaji), severability (R.M.D.C.) and no waiver (Basheshar Nath).
+* Art. 14: reasonable classification needs intelligible differentia and rational nexus; arbitrariness also violates Art. 14 (Royappa; Shayara Bano).
+* Art. 15 forbids discrimination on grounds "only" of religion, race, caste, sex, place of birth; 15(3) to 15(6) permit special provisions.
+* Indra Sawhney: OBC reservation upheld, creamy layer, 50% rule, no promotion reservation (later Art. 16(4A)).
+* EWS upheld (Janhit Abhiyan, 2022); SC sub-classification allowed (Davinder Singh, 2024).
+
+QL: "Article 14 forbids class legislation but not reasonable classification." Discuss, and explain the new doctrine of arbitrariness.
+QL: Discuss the doctrines of eclipse, severability and waiver under Article 13.
+QL: Examine the constitutional position on reservations in education and public employment with reference to Indra Sawhney, M. Nagaraj and Janhit Abhiyan.
+QL: Discuss Article 15 and the special provisions permitted by clauses (3) to (6).
+QS: Doctrine of eclipse
+QS: Creamy layer
+QS: Equality before law
+QS: Abolition of untouchability
+QS: Champakam Dorairajan case
+QS: EWS reservation
+
+MCQ: The doctrine of eclipse was laid down in || Deep Chand | *Bhikaji Narain Dhakras | Basheshar Nath | Golaknath || 1955; pre-Constitution laws are eclipsed, not dead.
+MCQ: "Equality and arbitrariness are sworn enemies" was said in || Anwar Ali Sarkar | *E.P. Royappa | Indra Sawhney | Champakam || Bhagwati J, 1974.
+MCQ: Article 15(4) was added by the || *1st Amendment | 42nd Amendment | 93rd Amendment | 103rd Amendment || In response to Champakam Dorairajan (1951).
+MCQ: Indra Sawhney held that reservation in promotions || was valid under Art. 16(4) | *was not permitted under Art. 16(4) | was mandatory | was valid only for OBCs || Later overcome by Art. 16(4A).
+MCQ: Sub-classification of Scheduled Castes was permitted in || E.V. Chinnaiah | Jarnail Singh | *State of Punjab v Davinder Singh | M. Nagaraj || Seven-judge bench, 2024.
+
+# 6 | Right to freedom: Article 19 and property
+@topics Freedom of speech and expression; Freedom of the press; Freedom of speech and contempt of court; Freedom of assembly; Freedom of association; Freedom of movement; Freedom to reside and settle; Freedom of profession and business; Property and social control, 1950 to 1978; Property and social control after 1978
+>> Article 19 gives citizens six freedoms, each matched by a clause listing the only grounds on which the State may impose reasonable restrictions.
+
+## The structure of Article 19
+| Freedom | Clause | Grounds of restriction |
+|---|---|---|
+| Speech and expression | 19(1)(a) | 19(2): sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, incitement to an offence |
+| Assemble peaceably and without arms | 19(1)(b) | 19(3): sovereignty and integrity, public order |
+| Form associations or unions or co-operative societies | 19(1)(c) | 19(4): sovereignty and integrity, public order, morality |
+| Move freely throughout India | 19(1)(d) | 19(5): interests of the general public, protection of Scheduled Tribes |
+| Reside and settle anywhere in India | 19(1)(e) | 19(5): same |
+| Practise any profession, or carry on any occupation, trade or business | 19(1)(g) | 19(6): interests of the general public; professional or technical qualifications; State monopoly |
+
+- Only citizens can claim Art. 19; companies cannot, though shareholders may (Bennett Coleman, 1973; R.C. Cooper, 1970).
+- Restrictions must be imposed by **law**, on a **listed ground**, and must be **reasonable**, both substantively and procedurally.
+
+CASE: State of Madras v V.G. Row (1952) :: The test of reasonableness must be applied to each statute; the court considers the nature of the right, the purpose of the restriction, the extent and urgency of the evil, the disproportion of the imposition and prevailing conditions. There is no abstract standard.
+
+Since **Modern Dental College v State of MP (2016)** and **K.S. Puttaswamy (2017)**, Indian courts also apply **proportionality**: a legitimate aim, a rational connection, the least restrictive means and a fair balance.
+
+## 6.1 Freedom of speech and expression
+It includes the right to express one's views by words, writing, printing, pictures, films, symbols and any other medium; the right to receive information; the right to silence; the right to fly the national flag (Naveen Jindal, 2004); commercial speech (Tata Press v MTNL, 1995); and expression over the internet.
+
+CASE: Romesh Thappar v State of Madras (1950) :: A ban on entry and circulation of the journal *Cross Roads* in Madras for "public safety" was struck down. Freedom of speech includes freedom of circulation. "Public order" was not then a ground in 19(2); the 1st Amendment (1951) added public order, friendly relations with foreign States and incitement to an offence, and inserted the word "reasonable".
+
+CASE: Shreya Singhal v Union of India (2015) :: Section 66A of the IT Act (punishing "grossly offensive" or "annoying" online messages) was struck down as vague and overbroad. The Court distinguished discussion, advocacy and incitement: only incitement can be curbed on public order grounds.
+
+CASE: Anuradha Bhasin v Union of India (2020) :: Freedom of speech and the freedom to carry on trade through the internet are protected under Arts. 19(1)(a) and 19(1)(g). Internet shutdowns must be temporary, proportionate, published and subject to review.
+
+CASE: S. Rangarajan v P. Jagjivan Ram (1989) :: Freedom of expression cannot be suppressed on account of threats of demonstrations; the anticipated danger must be proximate and directly connected to the expression, like a "spark in a powder keg".
+
+## 6.2 Freedom of the press
+The Constitution does not mention the press separately; it is part of Art. 19(1)(a), as Dr Ambedkar explained in the Constituent Assembly.
+
+CASE: Brij Bhushan v State of Delhi (1950) :: Pre-censorship of a journal was held to be a restriction on freedom of the press.
+
+CASE: Sakal Papers v Union of India (1962) :: A law regulating the number of pages according to price was struck down; it would reduce circulation and so curtail freedom of the press. The State cannot curtail one freedom to promote the general public interest in a business matter.
+
+CASE: Bennett Coleman and Co v Union of India (1973) :: Newsprint control that restricted the number of pages was struck down; the press has freedom of circulation and of volume.
+
+CASE: Indian Express Newspapers v Union of India (1985) :: Excessive import duty on newsprint could be challenged under Art. 19(1)(a); a tax that stifles the press is not reasonable.
+
+## 6.3 Freedom of speech and contempt of court
+"Contempt of court" is a ground of restriction in 19(2). The Supreme Court and High Courts are courts of record with power to punish for contempt (Arts. 129 and 215). The Contempt of Courts Act, 1971 defines civil contempt (wilful disobedience of orders) and criminal contempt (scandalising the court, prejudicing proceedings, obstructing justice). Since 2006, s.13 allows truth as a defence if in public interest and bona fide.
+
+CASE: E.M.S. Namboodiripad v T. Narayanan Nambiar (1970) :: The Chief Minister of Kerala described judges as instruments of class oppression. The Court held this was contempt; freedom of speech does not extend to bringing the administration of justice into disrepute.
+
+CASE: In re Arundhati Roy (2002) :: The author was sentenced to a symbolic one day's imprisonment and fine for statements attributing improper motives to the Court.
+
+CASE: In re Prashant Bhushan (2020) :: The advocate was held guilty of criminal contempt for tweets on the Chief Justice and the Court, and fined one rupee. The case renewed debate on whether "scandalising the court" is consistent with free speech.
+
+## 6.4 Freedom of assembly
+The right to hold meetings, processions and demonstrations, peaceably and without arms.
+
+CASE: Himat Lal K. Shah v Commissioner of Police (1973) :: Rules giving the police unguided power to refuse permission for public meetings on streets were struck down. The State may regulate but not prohibit the use of public streets for meetings.
+
+CASE: Ramlila Maidan Incident, In re (2012) :: A midnight police action against sleeping protesters at Ramlila Maidan was held to violate Arts. 19(1)(a), 19(1)(b) and 21; restrictions must be reasonable and not excessive.
+
+CASE: Amit Sahni v Commissioner of Police (2020) :: Concerning the Shaheen Bagh protest, the Court held that public ways cannot be occupied indefinitely; the right to protest must be balanced with the rights of commuters, and demonstrations must be in designated areas.
+
+## 6.5 Freedom of association
+The right to form associations, unions and co-operative societies (the last added by the 97th Amendment, 2011). It includes the right not to join an association.
+
+CASE: All India Bank Employees' Association v National Industrial Tribunal (1962) :: The right to form unions does not include a fundamental right to strike or to collective bargaining.
+
+CASE: Damyanti Naranga v Union of India (1971) :: A law that forced new members into a private society (the Hindi Sahitya Sammelan) without the consent of existing members violated Art. 19(1)(c). The right includes the right to associate only with those one chooses.
+
+CASE: T.K. Rangarajan v Government of Tamil Nadu (2003) :: Government employees have no fundamental, legal, moral or equitable right to strike.
+
+## 6.6 and 6.7 Freedom of movement and to reside and settle
+Art. 19(1)(d) protects movement within India; movement outside India is part of Art. 21 (Satwant Singh Sawhney, 1967; Maneka Gandhi, 1978). Art. 19(1)(e) protects residence and settlement anywhere in India; restrictions protect Scheduled Tribes (Fifth and Sixth Schedule areas) and public interests.
+
+CASE: N.B. Khare v State of Delhi (1950) :: An externment order under the East Punjab Public Safety Act was upheld as a reasonable restriction, with procedural safeguards.
+
+CASE: Kharak Singh v State of Uttar Pradesh (1963) :: Police regulations authorising domiciliary visits at night violated personal liberty under Art. 21; surveillance did not by itself restrict movement under Art. 19(1)(d). The minority (Subba Rao J) recognised a right to privacy, later adopted in Puttaswamy.
+
+CASE: State of Uttar Pradesh v Kaushalya (1964) :: The externment of prostitutes under the Suppression of Immoral Traffic Act was upheld as a reasonable restriction in the interests of the general public.
+
+## 6.8 Freedom of profession, occupation, trade or business
+CASE: Chintaman Rao v State of Madhya Pradesh (1950) :: A total ban on manufacturing bidis during the agricultural season in certain villages was struck down as excessive. A restriction must not be arbitrary or beyond what the interests of the public require.
+
+CASE: Sodan Singh v New Delhi Municipal Committee (1989) :: Street trading by hawkers is a fundamental right under Art. 19(1)(g), subject to reasonable regulation of time and place. (Now regulated by the Street Vendors Act, 2014.)
+
+CASE: Khoday Distilleries v State of Karnataka (1995) :: There is no fundamental right to trade in intoxicating liquor; the State may prohibit it or grant privileges on conditions.
+
+- Art. 19(6) allows the State to require professional or technical qualifications and to create State monopolies (added by the 1st Amendment), validating nationalisation of transport and similar businesses.
+
+## 6.9 Property and social control: 1950 to 1978
+Originally, property was protected by Art. 19(1)(f) (right to acquire, hold and dispose of property) and Art. 31 (no deprivation except by authority of law; compulsory acquisition only for public purpose with compensation). This led to a long contest between Parliament and the courts over land reform and nationalisation.
+
+| Year | Event |
+|---|---|
+| 1951 | 1st Amendment: Art. 31A (agrarian reform laws protected) and Art. 31B with the Ninth Schedule (laws placed there immune from Part III challenge) |
+| 1952 | Kameshwar Singh v State of Bihar: zamindari abolition upheld (also Shankari Prasad upheld the 1st Amendment) |
+| 1954 | State of West Bengal v Bela Banerjee: "compensation" means a just equivalent of what the owner is deprived of |
+| 1955 | 4th Amendment: adequacy of compensation made non-justiciable |
+| 1967 | Golaknath v State of Punjab: Parliament cannot amend Fundamental Rights |
+| 1970 | R.C. Cooper v Union of India (Bank Nationalisation): compensation must be determined on relevant principles; the law was struck down |
+| 1971 | 24th Amendment (power to amend Part III); 25th Amendment: "amount" instead of "compensation", and Art. 31C protecting laws giving effect to Art. 39(b) and (c) |
+| 1973 | Kesavananda Bharati: 25th Amendment upheld except the part of Art. 31C excluding judicial review; basic structure doctrine |
+| 1976 | 42nd Amendment extended Art. 31C to all Directive Principles (struck down in Minerva Mills, 1980) |
+
+## 6.10 Property after 1978
+The **44th Amendment (1978)** deleted Art. 19(1)(f) and Art. 31, and inserted **Art. 300A**: "No person shall be deprived of his property save by authority of law." The right to property became a constitutional and legal right, not a Fundamental Right.
+
+Consequences:
+- A person cannot approach the Supreme Court directly under Art. 32 for violation of the right to property; he must go to the High Court under Art. 226 or a civil court.
+- Art. 31A(1) second proviso: when the State acquires land under personal cultivation within the ceiling limit, it must pay compensation at not less than market value.
+- Art. 30(1A): when acquiring property of a minority educational institution, the amount fixed must not restrict or abrogate the Art. 30 right.
+
+CASE: Jilubhai Nanbhai Khachar v State of Gujarat (1995) :: Art. 300A does not itself require payment of compensation; the right is subject to law, and the law need not provide compensation.
+
+CASE: K.T. Plantation v State of Karnataka (2011) :: A Constitution Bench held that a law depriving a person of property under Art. 300A must be just, fair and reasonable and serve a public purpose; the obligation to pay compensation, though not expressly in Art. 300A, can be inferred, and its absence could make a law vulnerable.
+
+CASE: Vidya Devi v State of Himachal Pradesh (2020) :: The State took the appellant's land for a road in 1967 without acquisition proceedings. The Court held that the right to property is a constitutional right and a human right; the State cannot take private property without due process, and ordered compensation.
+
+CASE: Kolkata Municipal Corporation v Bimal Kumar Shah (2024) :: The Court identified seven sub-rights within Art. 300A: the right to notice, to be heard, to a reasoned decision, to acquisition only for public purpose, to restitution or fair compensation, to an efficient and expeditious procedure, and to conclusion of proceedings.
+
+TIP: For any Art. 19 question, use a three-step structure: (1) Is the activity within the freedom? (2) Is the restriction on a ground listed in clauses (2) to (6)? (3) Is it reasonable and proportionate? Then cite one leading case for each step.
+
+## 6.11 Recent judgments (2025–26)
+
+CASE: Imran Pratapgarhi v State of Gujarat (2025) :: An FIR over a poem recited in a social media video was quashed. Speech must be judged by the standards of reasonable, strong-minded persons, and the police must respect Art. 19(1)(a) before registering cases over speech.
+
+CASE: Just Rights for Children Alliance v S. Harish (2026) :: The Court recognised access to the internet as part of the rights under Arts. 19(1)(a) and 21, while calling for strong measures (including a national database) against child sexual abuse material.
+
+* Speech offences judged by reasonable persons' standards (Imran Pratapgarhi, 2025); internet access as a fundamental right (2026).
+* Art. 19 gives six freedoms to citizens; restrictions must be by law, on listed grounds, and reasonable (V.G. Row) and proportionate.
+* Speech includes press (Sakal Papers, Bennett Coleman), circulation (Romesh Thappar) and internet (Shreya Singhal, Anuradha Bhasin).
+* Contempt of court is a valid restriction; truth is a defence since 2006.
+* Assembly can be regulated but not prohibited outright (Himat Lal Shah); public ways cannot be occupied indefinitely (Amit Sahni).
+* No fundamental right to strike (All India Bank Employees; T.K. Rangarajan).
+* Property: from Art. 19(1)(f) and 31 to Art. 300A (44th Amendment, 1978); now a constitutional and human right (Vidya Devi; Bimal Kumar Shah).
+
+QL: Discuss the scope of freedom of speech and expression under Art. 19(1)(a). Does it include freedom of the press? Refer to decided cases.
+QL: What are "reasonable restrictions"? Explain with reference to freedoms under Article 19.
+QL: Trace the history of the right to property under the Indian Constitution from 1950 to the present.
+QL: Discuss the relationship between freedom of speech and the law of contempt of court.
+QS: Shreya Singhal v Union of India
+QS: Right to strike
+QS: Article 300A
+QS: Freedom of assembly
+QS: Sakal Papers case
+QS: Doctrine of proportionality
+
+MCQ: "Public order" was added as a ground of restriction in Art. 19(2) by the || *1st Amendment | 16th Amendment | 42nd Amendment | 44th Amendment || After Romesh Thappar (1950).
+MCQ: Section 66A of the IT Act was struck down in || Anuradha Bhasin | *Shreya Singhal | Sakal Papers | Kharak Singh || 2015, as vague and overbroad.
+MCQ: The right to property is now || a Fundamental Right under Art. 19(1)(f) | *a constitutional right under Art. 300A | abolished | a Directive Principle || 44th Amendment, 1978.
+MCQ: Freedom to form associations does not include || the right to form unions | the right not to join | *a fundamental right to strike | co-operative societies || All India Bank Employees' Association (1962).
+MCQ: The Bank Nationalisation case is || Golaknath | Bela Banerjee | *R.C. Cooper v Union of India | Kameshwar Singh || 1970.
+
+# 7 | Right against exploitation and rights of minorities
+@topics Prohibition of traffic in human beings and forced labour (Art. 23); Prohibition of employment of children in factories etc. (Art. 24); Protection of interests of minorities (Art. 29); Right of minorities to establish and administer educational institutions (Art. 30)
+>> Articles 23 and 24 protect people from exploitation by anyone, State or private; Articles 29 and 30 protect the cultural and educational life of minorities.
+
+## Article 23: traffic in human beings and forced labour
+SEC: Art. 23 :: (1) Traffic in human beings and begar and other similar forms of forced labour are prohibited, and any contravention shall be an offence punishable in accordance with law. (2) Nothing in this article prevents the State from imposing compulsory service for public purposes, without discrimination on grounds only of religion, race, caste or class.
+
+- "Traffic in human beings" includes sale and purchase of persons, trafficking of women and children for immoral purposes, and slavery.
+- "Begar" is compulsory work without remuneration, once common under zamindars.
+- "Other similar forms of forced labour" include bonded labour and payment below minimum wages.
+- Art. 23 is enforceable against private persons.
+- Laws: Immoral Traffic (Prevention) Act, 1956; Bonded Labour System (Abolition) Act, 1976; trafficking is now punishable under s.143 of the Bharatiya Nyaya Sanhita, 2023.
+
+CASE: People's Union for Democratic Rights v Union of India (1982) :: Workers on the Asiad construction projects in Delhi were paid less than the minimum wage. Bhagwati J held that labour or service provided for remuneration less than the minimum wage is "forced labour" under Art. 23; force includes economic compulsion that leaves no choice.
+
+CASE: Bandhua Mukti Morcha v Union of India (1984) :: On a letter petition about bonded labourers in stone quarries near Faridabad, the Court issued directions for identification, release and rehabilitation of bonded labourers, using Arts. 21 and 23 and the Directive Principles.
+
+## Article 24: prohibition of child labour
+SEC: Art. 24 :: No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.
+
+CASE: M.C. Mehta v State of Tamil Nadu (1996) :: Concerning child workers in the Sivakasi match and fireworks industry, the Court directed that offending employers pay ₹20,000 per child into a Child Labour Rehabilitation-cum-Welfare Fund, that an adult member of the child's family be given employment, and that the children be educated.
+
+- The Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 (as amended in 2016) prohibits employment of children below 14 in all occupations (except helping family enterprises after school hours) and adolescents (14 to 18) in hazardous occupations.
+- Art. 21A (86th Amendment, 2002) makes free and compulsory education for children of 6 to 14 a Fundamental Right; Art. 39(e) and (f) direct protection of children.
+
+## 7.3 Protection of interests of minorities: Article 29
+SEC: Art. 29 :: (1) Any section of the citizens residing in India having a distinct language, script or culture of its own shall have the right to conserve the same. (2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.
+- Art. 29(1) protects any section of citizens, not only minorities.
+- Art. 29(2) is an individual right of every citizen, not limited to minorities.
+
+## 7.4 Right of minorities to establish and administer educational institutions: Article 30
+SEC: Art. 30 :: (1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice. (1A) In making any law for compulsory acquisition of any property of an educational institution established and administered by a minority, the State shall ensure that the amount fixed is such as would not restrict or abrogate the right. (2) The State shall not, in granting aid, discriminate against any educational institution on the ground that it is under the management of a minority, whether based on religion or language.
+
+### Who is a minority?
+The Constitution does not define it. Minority status is to be determined State-wise, by reference to the population of the State, for both religious and linguistic minorities (**T.M.A. Pai Foundation, 2002**). The Union notifies national religious minorities under the National Commission for Minorities Act, 1992 (Muslims, Christians, Sikhs, Buddhists, Parsis and, since 2014, Jains).
+
+### Leading cases
+CASE: In re Kerala Education Bill (1958) :: The right under Art. 30(1) is not absolute. The State may impose regulations in the interest of educational standards and efficiency (qualifications of teachers, curriculum), but not regulations that destroy the minority character of the institution. Institutions of their "choice" includes general education, not only religious or cultural instruction.
+
+CASE: Rev. Sidhajbhai Sabhai v State of Bombay (1963) :: An order requiring a minority training college to reserve 80% seats for government nominees was struck down. Regulations must be reasonable and must serve the institution's own interest as a minority educational institution.
+
+CASE: Ahmedabad St Xavier's College Society v State of Gujarat (1974) :: A nine-judge bench held that minority institutions are entitled to affiliation, but must follow regulatory standards; provisions vesting control of appointments and discipline in the university were struck down as they interfered with administration.
+
+CASE: T.M.A. Pai Foundation v State of Karnataka (2002) :: An eleven-judge bench held: (1) minority status is to be decided State-wise; (2) the right to establish and administer includes the right to admit students, set up a reasonable fee structure, constitute a governing body, appoint staff and take disciplinary action; (3) aided minority institutions may be required to admit a reasonable number of non-minority students; (4) the State may regulate for maintaining standards but cannot nationalise seats.
+
+CASE: P.A. Inamdar v State of Maharashtra (2005) :: A seven-judge bench held that the State cannot impose its reservation policy or quota on unaided minority and non-minority professional institutions. (Parliament responded with Art. 15(5), which excludes minority institutions.)
+
+CASE: Pramati Educational and Cultural Trust v Union of India (2014) :: Art. 15(5) was upheld; but the Right of Children to Free and Compulsory Education Act, 2009 was held not applicable to minority schools, aided or unaided, since applying it would infringe Art. 30(1).
+
+CASE: Aligarh Muslim University v Naresh Agarwal (2024) :: A seven-judge bench (4:3) overruled S. Azeez Basha (1967), which had held that AMU was not a minority institution because it was established by a central statute. The Court held that an institution does not lose minority character merely because it was incorporated by statute; the test is who established it, looking at the genesis, purpose and implementation. The question whether AMU itself is a minority institution was left to a regular bench to decide on these tests.
+
+TIP: In Art. 30 answers, stress the dual principle from Kerala Education Bill onward: minorities have the right to establish and administer, but the State may make regulations for standards and efficiency that do not destroy minority character.
+
+## 7.5 Recent judgments (2025–26)
+
+CASE: Waqf (Amendment) Act case (interim order, 2025) :: Without staying the whole Act, the Supreme Court stayed the condition that a person must have practised Islam for five years to create a waqf, and capped the number of non-Muslim members on the Central Waqf Council and State Waqf Boards, pending final hearing.
+
+NOTE: A nine-judge bench hearing the Sabarimala reference (essential religious practices and the scope of Arts. 25 and 26) reserved its judgment on 14 May 2026. Check for the verdict before the exam.
+
+* Waqf (Amendment) Act 2025 partly stayed pending hearing; Sabarimala reference reserved (May 2026).
+* Art. 23 prohibits trafficking, begar and forced labour; wages below minimum are forced labour (PUDR).
+* Art. 24 prohibits employment of children below 14 in factories, mines and hazardous work (M.C. Mehta, 1996).
+* Arts. 23 and 24 bind private persons too.
+* Art. 29(1) protects language, script and culture of any section; Art. 29(2) bars discrimination in admissions to State or aided institutions.
+* Art. 30: minority status is State-wise (T.M.A. Pai); regulations permitted for standards, not to destroy minority character; RTE Act does not apply to minority schools (Pramati); AMU (2024) overruled Azeez Basha.
+
+QL: Discuss the right against exploitation under Articles 23 and 24 with reference to judicial decisions.
+QL: Examine the scope of the right of minorities to establish and administer educational institutions under Article 30.
+QL: Discuss the contribution of T.M.A. Pai Foundation and P.A. Inamdar to the law on minority educational institutions.
+QS: Begar
+QS: Bonded labour
+QS: Article 29(2)
+QS: Determination of minority status
+QS: AMU case (2024)
+
+MCQ: Payment of less than minimum wages was held to be forced labour in || Bandhua Mukti Morcha | *People's Union for Democratic Rights v Union of India | M.C. Mehta v State of TN | Olga Tellis || Asiad workers case, 1982.
+MCQ: Minority status under Art. 30 is determined || on a national basis | *State-wise | district-wise | by the National Commission alone || T.M.A. Pai Foundation (2002).
+MCQ: The RTE Act, 2009 was held inapplicable to minority schools in || P.A. Inamdar | *Pramati Educational and Cultural Trust | St Xavier's | Kerala Education Bill || 2014 Constitution Bench.
+MCQ: Article 24 prohibits employment of children below || 12 years | *14 years | 16 years | 18 years || In factories, mines or hazardous employment.
+
+# 8 | Personal liberty and rights of the accused
+@topics Personal liberty: meaning and scope (Art. 21); Right against self-incrimination (Art. 20(3)); Protection against retroactive punishment (Art. 20(1)); Double jeopardy (Art. 20(2)); Protection against arrest and detention (Art. 22)
+>> Article 21 began as a narrow guarantee against executive action without law and has become the most expansive right in the Constitution, protecting a life of dignity against unfair law.
+
+## Article 21: protection of life and personal liberty
+SEC: Art. 21 :: No person shall be deprived of his life or personal liberty except according to procedure established by law.
+
+### From Gopalan to Maneka
+CASE: A.K. Gopalan v State of Madras (1950) :: A communist leader detained under the Preventive Detention Act, 1950 challenged it. The majority held that "procedure established by law" means procedure laid down in any enacted law; it does not import American "due process". Articles 19, 21 and 22 were treated as separate compartments. Fazl Ali J dissented, arguing that the rights overlap.
+
+CASE: Maneka Gandhi v Union of India (1978) :: The petitioner's passport was impounded "in public interest" without reasons or a hearing. A seven-judge bench held: (1) the procedure prescribed by law must be fair, just and reasonable, not fanciful, oppressive or arbitrary; (2) Arts. 14, 19 and 21 are not mutually exclusive; a law affecting personal liberty must satisfy all three (the "golden triangle"); (3) the right to travel abroad is part of personal liberty; (4) natural justice is part of fair procedure. In effect, substantive and procedural due process entered Indian law.
+
+### Expansion of Article 21
+| Right read into Art. 21 | Leading case |
+|---|---|
+| Life with human dignity | Francis Coralie Mullin v Administrator, Union Territory of Delhi (1981) |
+| Livelihood | Olga Tellis v Bombay Municipal Corporation (1985), pavement dwellers |
+| Privacy | K.S. Puttaswamy v Union of India (2017), nine judges |
+| Speedy trial | Hussainara Khatoon v State of Bihar (1979) |
+| Free legal aid | M.H. Hoskot v State of Maharashtra (1978); Art. 39A |
+| Against custodial violence; arrest guidelines | D.K. Basu v State of West Bengal (1997) |
+| Rights of prisoners | Sunil Batra v Delhi Administration (1978) |
+| Clean environment | Subhash Kumar v State of Bihar (1991); M.C. Mehta cases |
+| Health and medical aid | Paschim Banga Khet Mazdoor Samity v State of WB (1996) |
+| Shelter | Chameli Singh v State of UP (1996) |
+| Education (6 to 14) | Unni Krishnan (1993); now Art. 21A |
+| Die with dignity, living wills | Common Cause v Union of India (2018) |
+| Sexual autonomy, orientation | Navtej Singh Johar v Union of India (2018) |
+| Against sexual harassment at work | Vishaka v State of Rajasthan (1997) |
+
+CASE: K.S. Puttaswamy v Union of India (2017) :: A nine-judge bench unanimously held that privacy is a fundamental right intrinsic to Art. 21 and Part III. It overruled M.P. Sharma (1954) and Kharak Singh (1962) to the extent they held otherwise, and disapproved ADM Jabalpur v Shivkant Shukla (1976). Limitations must satisfy legality, legitimate aim and proportionality.
+
+## 8.2 Right against self-incrimination: Article 20(3)
+SEC: Art. 20(3) :: No person accused of any offence shall be compelled to be a witness against himself.
+Three elements: (1) the person must be accused of an offence (a formal accusation such as an FIR or complaint); (2) the protection is against compulsion; (3) it is against being a witness, that is, against testimonial compulsion.
+
+CASE: M.P. Sharma v Satish Chandra (1954) :: "To be a witness" was read broadly to include producing documents. Search and seizure was held not to violate Art. 20(3) because it does not compel the accused to do anything.
+
+CASE: State of Bombay v Kathi Kalu Oghad (1961) :: An eleven-judge bench held that "to be a witness" means imparting personal knowledge. Taking specimen signatures, handwriting, fingerprints or thumb impressions is not testimonial and does not violate Art. 20(3).
+
+CASE: Nandini Satpathy v P.L. Dani (1978) :: The protection extends to police interrogation and to a suspect, not only at trial; the accused may refuse to answer questions that tend to incriminate him, and has the right to consult a lawyer during interrogation.
+
+CASE: Selvi v State of Karnataka (2010) :: Involuntary administration of narco-analysis, polygraph and brain electrical activation profile tests violates Art. 20(3) and Art. 21. Voluntary tests are allowed with safeguards, and information discovered may be used as under the provisions on discovery.
+
+Under s.349 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (earlier s.311A CrPC), a Magistrate may order any person to give specimen signatures, handwriting, finger impressions or voice samples; this is consistent with Kathi Kalu Oghad (see also Ritesh Sinha v State of UP, 2019, on voice samples).
+
+## 8.3 Protection against retroactive punishment: Article 20(1)
+SEC: Art. 20(1) :: No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.
+- Bars ex post facto criminal laws: creation of new offences retrospectively and enhancement of punishment.
+- Applies only to conviction and penalty, not to trial or procedure; a change in procedure or forum may be retrospective (Rao Shiv Bahadur Singh v State of Vindhya Pradesh, 1953).
+- Does not prevent a retrospective law that reduces punishment; the accused may get the benefit.
+
+CASE: Kedar Nath Bajoria v State of West Bengal (1953) :: A later law increased the penalty for an offence by adding a fine equal to the amount of money procured. Applying the enhanced penalty to an offence committed earlier violated Art. 20(1).
+
+CASE: Rattan Lal v State of Punjab (1965) :: A boy convicted of an offence was given the benefit of the Probation of Offenders Act, which came into force after the offence. A beneficial retrospective law is not barred by Art. 20(1).
+
+## 8.4 Double jeopardy: Article 20(2)
+SEC: Art. 20(2) :: No person shall be prosecuted and punished for the same offence more than once.
+- There must have been a previous prosecution and punishment, before a court or judicial tribunal, for the same offence.
+- The protection is narrower than the common law rule of *autrefois acquit* and *autrefois convict*, which is in s.337 of the BNSS (earlier s.300 CrPC).
+
+CASE: Maqbool Hussain v State of Bombay (1953) :: Confiscation of gold by customs authorities was not a "prosecution and punishment", because the customs authority is not a court; a later criminal prosecution was not barred.
+
+CASE: S.A. Venkataraman v Union of India (1954) :: A departmental inquiry and dismissal did not bar a later criminal prosecution; the inquiry was not a prosecution.
+
+## 8.5 Protection against arrest and detention: Article 22
+SEC: Art. 22(1), (2) :: No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest, nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice. Every person arrested and detained in custody shall be produced before the nearest magistrate within twenty-four hours of such arrest, excluding the time necessary for the journey, and shall not be detained beyond that period without the authority of a magistrate.
+- Art. 22(3): these safeguards do not apply to an enemy alien or to a person arrested or detained under a law providing for preventive detention.
+- Art. 22(4) to (7): safeguards for preventive detention: detention beyond three months requires an Advisory Board report; grounds must be communicated as soon as may be; the detenu must be given the earliest opportunity to make a representation; facts against public interest need not be disclosed.
+
+CASE: Pankaj Bansal v Union of India (2023) :: Under the Prevention of Money Laundering Act, the grounds of arrest must be furnished to the arrested person in writing.
+
+CASE: Prabir Purkayastha v State (NCT of Delhi) (2024) :: The requirement of furnishing written grounds of arrest was extended to arrests under the Unlawful Activities (Prevention) Act; arrest and remand without informing grounds in writing were held invalid. The Court treated the right to be informed of the grounds as flowing from Art. 22(1).
+
+TIP: For Art. 21, use the Gopalan to Maneka shift as the spine of your answer, then group the expansions under headings (dignity, livelihood, privacy, criminal justice, environment) with one case each. Examiners reward structure over long lists.
+
+## 8.6 Recent judgments (2025–26)
+
+CASE: Harish Rana v Union of India (2026) :: For the first time, the Supreme Court permitted withdrawal of life support, including clinically assisted nutrition and hydration, for a patient in a persistent vegetative state for about 13 years. It applied the Common Cause (2018) guidelines and linked dying with dignity to palliative care.
+
+CASE: Mihir Rajesh Shah v State of Maharashtra (2025) :: The grounds of arrest must be given to the arrested person in writing, in a language they understand, for every offence. If that is not possible at the time of arrest, they must be supplied at least two hours before production before the Magistrate; otherwise the arrest and remand are illegal.
+
+CASE: Dr Jaya Thakur v Union of India (2026) :: Menstrual health is part of the right to life and dignity under Art. 21. The Court directed provision of sanitary pads and separate toilets for girls in schools.
+
+CASE: Maniyar Iliyaz v P. Ayyappan (2026) :: Safe, usable footpaths for pedestrians are part of Art. 21.
+
+* Passive euthanasia allowed for the first time (Harish Rana, 2026); written grounds of arrest in every case (Mihir Rajesh Shah, 2025).
+* Gopalan read Art. 21 narrowly; Maneka required fair, just and reasonable procedure and linked Arts. 14, 19 and 21.
+* Art. 21 now covers dignity, livelihood, privacy (Puttaswamy), speedy trial, legal aid, environment, health and dignified death.
+* Art. 20(3): no testimonial compulsion of an accused; specimen signatures and fingerprints are not testimony (Kathi Kalu Oghad); involuntary narco tests violate it (Selvi).
+* Art. 20(1) bars retrospective criminal laws and enhanced penalties but not beneficial changes (Rattan Lal).
+* Art. 20(2) needs prosecution and punishment before a court (Maqbool Hussain).
+* Art. 22: grounds of arrest, counsel, magistrate within 24 hours; written grounds required (Pankaj Bansal; Prabir Purkayastha).
+
+QL: Trace the development of the right to life and personal liberty under Article 21 from A.K. Gopalan to K.S. Puttaswamy.
+QL: Discuss the protection against self-incrimination under Article 20(3), with reference to Kathi Kalu Oghad and Selvi.
+QL: Explain the protections under Article 20 with respect to ex post facto laws and double jeopardy.
+QL: What safeguards does Article 22 provide to arrested persons and to persons detained under preventive detention laws?
+QS: Golden triangle
+QS: Right to privacy
+QS: Double jeopardy
+QS: Narco-analysis
+QS: Right to speedy trial
+QS: Advisory Board
+
+MCQ: The "golden triangle" of Arts. 14, 19 and 21 was established in || A.K. Gopalan | *Maneka Gandhi | Kharak Singh | Puttaswamy || 1978.
+MCQ: Taking specimen signatures from an accused || violates Art. 20(3) | *does not violate Art. 20(3) | violates Art. 21 | is barred by Art. 22 || Kathi Kalu Oghad (1961).
+MCQ: The right to privacy was declared a fundamental right in || Kharak Singh | Gobind | *K.S. Puttaswamy | Selvi || Nine-judge bench, 2017.
+MCQ: Art. 20(2) bars || a second departmental inquiry | *a second prosecution and punishment for the same offence | appeal by the State | any civil suit || Maqbool Hussain (1953).
+MCQ: An arrested person must be produced before a magistrate within || 12 hours | *24 hours, excluding journey time | 48 hours | 3 days || Art. 22(2).
+MCQ: The Supreme Court first actually permitted withdrawal of life support for a PVS patient in || Aruna Shanbaug (2011) | Common Cause (2018) | *Harish Rana v Union of India (2026) | Gian Kaur (1996) || Applying the Common Cause guidelines.
+
+# 9 | Constitutional remedies
+@topics Enforcement of Fundamental Rights (Art. 32); Power of Parliament to modify the rights in their application to the armed forces and others (Art. 33)
+>> A right is only as strong as its remedy. Article 32 makes the Supreme Court the protector of Fundamental Rights and is itself a Fundamental Right.
+
+## Article 32
+SEC: Art. 32 :: (1) The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed. (2) The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part. (3) Parliament may by law empower any other court to exercise within its local limits all or any of these powers. (4) The right guaranteed by this article shall not be suspended except as otherwise provided for by this Constitution.
+
+- Dr Ambedkar called Art. 32 "the very soul of the Constitution and the very heart of it".
+- Art. 32 itself is a Fundamental Right; judicial review is part of the basic structure: **L. Chandra Kumar v Union of India (1997)**.
+- It can be suspended only during an emergency under Art. 359.
+
+## The writs
+| Writ | Meaning | Issued against | Purpose |
+|---|---|---|---|
+| Habeas corpus | "You may have the body" | Any person or authority detaining another, including private persons | Release from unlawful detention |
+| Mandamus | "We command" | Public authority, inferior court, tribunal | To perform a public legal duty; not against the President, Governor or a private person |
+| Prohibition | | Inferior court or quasi-judicial tribunal | To stop it from acting without or in excess of jurisdiction, while proceedings are pending |
+| Certiorari | "To be certified" | Inferior court or tribunal, and administrative authorities affecting rights | To quash a decision already made without jurisdiction, in breach of natural justice, or with an error apparent on the record |
+| Quo warranto | "By what authority" | Holder of a public office | To oust a person from a public office he holds without legal authority |
+
+## Article 32 and Article 226 compared
+| Point | Art. 32 | Art. 226 |
+|---|---|---|
+| Court | Supreme Court | High Courts |
+| Scope | Only for Fundamental Rights | Fundamental Rights "and for any other purpose" (legal rights too) |
+| Nature | Itself a Fundamental Right; the Court cannot refuse merely because another remedy exists (though it often asks petitioners to go to the High Court first) | Discretionary |
+| Territorial reach | Whole of India | Within territorial jurisdiction, or where the cause of action arises (Art. 226(2)) |
+| Suspension | Only under Art. 359 | Not suspended during emergency, but Fundamental Rights may be |
+
+## Procedural rules
+- **Res judicata**: a petition under Art. 226 decided on merits bars a fresh petition under Art. 32 on the same facts: **Daryao v State of Uttar Pradesh (1961)**. A dismissal in limine without a speaking order does not.
+- **Locus standi**: traditionally only the aggrieved person could apply. Public interest litigation relaxed this.
+
+## Public interest litigation and new remedies
+CASE: S.P. Gupta v Union of India (1981) :: In the Judges' Transfer case, the Court held that any member of the public acting bona fide can maintain an action for redress of a public wrong or injury, especially for persons unable to approach the court due to poverty or disability.
+
+CASE: Bandhua Mukti Morcha v Union of India (1984) :: A letter could be treated as a writ petition; the Court can appoint commissions to gather facts, and the proceedings are not adversarial.
+
+### Compensation as a remedy
+CASE: Rudul Sah v State of Bihar (1983) :: The petitioner was kept in jail for 14 years after his acquittal. The Court ordered compensation under Art. 32 for violation of Art. 21, holding that the right to compensation is a part of the remedy for deprivation of fundamental rights.
+
+CASE: Nilabati Behera v State of Orissa (1993) :: A young man died in police custody. The Court held that compensation for violation of Fundamental Rights is a public law remedy based on strict liability; the defence of sovereign immunity does not apply.
+
+## Article 33: modification of rights for armed forces and others
+SEC: Art. 33 :: Parliament may by law determine to what extent any of the rights conferred by this Part shall, in their application to (a) the members of the armed forces; (b) members of forces charged with the maintenance of public order; (c) persons employed in any bureau or organisation established by the State for purposes of intelligence or counter-intelligence; or (d) persons employed in or in connection with telecommunication systems set up for the purposes of any of these forces, be restricted or abrogated so as to ensure the proper discharge of their duties and the maintenance of discipline among them.
+
+- Only Parliament, not State legislatures, can make such laws.
+- Laws include the Army Act, 1950, the Navy Act, 1957, the Air Force Act, 1950, the Police Forces (Restriction of Rights) Act, 1966.
+
+CASE: Ram Sarup v Union of India (1965) :: s.125 of the Army Act, allowing military authorities to choose whether to try an offender by court-martial or criminal court, was upheld as a law under Art. 33.
+
+CASE: R. Viswan v Union of India (1983) :: Restrictions on members of the General Reserve Engineering Force (Border Roads Organisation), integral to the armed forces, were upheld under Art. 33.
+
+CASE: Lt Col Prithi Pal Singh Bedi v Union of India (1982) :: The Court held that members of the armed forces are citizens in uniform; Art. 33 permits restriction only to the extent necessary for discipline, and fundamental rights are not wholly abrogated without a law under Art. 33.
+
+- **Art. 34**: Parliament may indemnify acts done in an area where martial law was in force.
+- **Art. 35**: Parliament alone has power to make laws for certain matters in Part III (for example Arts. 16(3), 32(3), 33, 34) and to prescribe punishment for acts declared offences under Part III (such as untouchability).
+
+TIP: Mention L. Chandra Kumar in every Art. 32 answer: judicial review under Arts. 32 and 226 is part of the basic structure.
+
+* Art. 32 is a Fundamental Right and part of the basic structure; it can be suspended only under Art. 359.
+* Five writs: habeas corpus, mandamus, prohibition, certiorari and quo warranto.
+* Art. 226 is wider than Art. 32 (any other purpose).
+* Res judicata applies to writ petitions decided on merits (Daryao).
+* PIL relaxed standing (S.P. Gupta); compensation is a public law remedy (Rudul Sah; Nilabati Behera).
+* Art. 33 lets Parliament restrict rights of the armed forces, police and intelligence personnel for discipline.
+
+QL: "Article 32 is the heart and soul of the Constitution." Discuss the scope of the right to constitutional remedies.
+QL: Explain the various writs that may be issued by the Supreme Court and High Courts. Distinguish between Art. 32 and Art. 226.
+QL: Discuss the development of compensation as a remedy for violation of Fundamental Rights.
+QL: Examine the power of Parliament under Article 33 to restrict Fundamental Rights of members of the armed forces.
+QS: Habeas corpus
+QS: Quo warranto
+QS: Certiorari and prohibition distinguished
+QS: Public interest litigation
+QS: Rudul Sah v State of Bihar
+
+MCQ: Which writ can be issued against a private person? || Mandamus | Certiorari | *Habeas corpus | Quo warranto || Habeas corpus lies against any person detaining another unlawfully.
+MCQ: Judicial review under Arts. 32 and 226 was held to be a basic feature in || Daryao | *L. Chandra Kumar | S.P. Gupta | Rudul Sah || 1997.
+MCQ: Article 33 empowers || State legislatures | *Parliament | the President | the Supreme Court || to restrict rights of armed forces and similar personnel.
+MCQ: Compensation for custodial death as a public law remedy was awarded in || Rudul Sah | *Nilabati Behera | Daryao | Maneka Gandhi || 1993; sovereign immunity no defence.
+
+# 10 | Directive Principles and Fundamental Duties
+@topics Directive Principles: reasons for incorporation; Directions of social change and a new social order; Fundamental Rights and Directive Principles: inter-relationship and judicial balancing; Constitutional amendments: Arts. 31A, 31B and 31C; Judicial policy towards Directive Principles; Fundamental Duties (Art. 51A)
+>> Directive Principles are not enforceable in courts but are fundamental in governance; the courts have moved from treating them as subordinate to Fundamental Rights to reading the two together as a harmonious whole.
+
+## 10.1 Why Directive Principles?
+- Drawn from the Irish Constitution (1937), which had "Directive Principles of Social Policy", and from the Government of India Act, 1935's "Instruments of Instructions".
+- They set out the goal of a welfare State and economic democracy. Dr Ambedkar described them as a novel feature, instructions to future governments.
+- Resources in 1950 were too scarce to make socio-economic rights enforceable immediately, so they were made non-justiciable.
+
+SEC: Art. 37 :: The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.
+
+## 10.2 Directions of social change: a new social order
+| Group | Articles and content |
+|---|---|
+| Socialist principles | 38 (social order with justice; minimise inequalities, 38(2) added by 44th Amendment); 39 (adequate livelihood; distribution of material resources for the common good; prevent concentration of wealth; equal pay for equal work; health of workers; protection of children); 39A (equal justice and free legal aid, 42nd Amendment); 41 (right to work, education and public assistance); 42 (just and humane conditions of work and maternity relief); 43 (living wage); 43A (workers' participation in management, 42nd Amendment); 47 (nutrition, standard of living, public health) |
+| Gandhian principles | 40 (village panchayats); 43 (cottage industries); 43B (co-operative societies, 97th Amendment); 46 (educational and economic interests of SCs, STs and weaker sections); 47 (prohibition of intoxicating drinks and drugs); 48 (prohibition of slaughter of cows and calves) |
+| Liberal-intellectual principles | 44 (uniform civil code); 45 (early childhood care and education below six, as substituted by the 86th Amendment); 48 (agriculture and animal husbandry on modern lines); 48A (protection of environment, forests and wildlife, 42nd Amendment); 49 (monuments); 50 (separation of judiciary from executive); 51 (international peace and security) |
+
+## 10.3 Fundamental Rights and Directive Principles: relationship
+| Point | Fundamental Rights | Directive Principles |
+|---|---|---|
+| Nature | Negative (mostly restrain the State) | Positive (direct the State to act) |
+| Enforceability | Justiciable | Non-justiciable (Art. 37) |
+| Aim | Political democracy | Social and economic democracy |
+| Individual vs society | Individual rights | Community welfare |
+
+### Phase 1: primacy of Fundamental Rights
+CASE: State of Madras v Champakam Dorairajan (1951) :: The Directive Principles have to conform to and run subsidiary to the chapter on Fundamental Rights. A G.O. justified by Art. 46 could not override Art. 29(2).
+
+### Phase 2: harmonious construction
+CASE: In re Kerala Education Bill (1958) :: While Fundamental Rights cannot be overridden, courts should adopt the principle of harmonious construction and give effect to both as far as possible.
+
+### Phase 3: balance as basic structure
+CASE: Kesavananda Bharati v State of Kerala (1973) :: The Court upheld the first part of Art. 31C (laws giving effect to Art. 39(b) and (c) are not void for violating Arts. 14 and 19), but struck down the second part, which excluded judicial review of whether a law actually gives effect to those principles.
+
+CASE: Minerva Mills v Union of India (1980) :: The 42nd Amendment had extended Art. 31C to all Directive Principles. The Court struck down that extension. Chandrachud CJ said that the Indian Constitution is founded on the bedrock of the balance between Parts III and IV; to give absolute primacy to one over the other is to disturb the harmony of the Constitution. That harmony and balance is a basic feature.
+
+### Phase 4: Directive Principles to interpret Fundamental Rights
+The courts now read Directive Principles into Fundamental Rights, especially Art. 21: livelihood (Olga Tellis, Art. 39(a)), legal aid (Hoskot, Art. 39A), education (Unni Krishnan, Arts. 41, 45), environment (Art. 48A), and child labour (M.C. Mehta, Art. 39(e), (f)).
+
+## 10.4 Constitutional amendments to strengthen Directive Principles
+| Article | Added by | Protects |
+|---|---|---|
+| 31A | 1st Amendment, 1951 | Laws for acquisition of estates, State management of property, amalgamation of companies, extinguishment of rights in mines and similar agrarian and economic reforms, from challenge under Arts. 14 and 19 |
+| 31B and Ninth Schedule | 1st Amendment, 1951 | Acts placed in the Ninth Schedule from challenge under Part III |
+| 31C | 25th Amendment, 1971 | Laws giving effect to Art. 39(b) and (c) from challenge under Arts. 14 and 19 |
+
+CASE: Waman Rao v Union of India (1981) :: Amendments placing laws in the Ninth Schedule after 24 April 1973 (the date of Kesavananda) are open to challenge on the ground that they damage the basic structure.
+
+CASE: I.R. Coelho v State of Tamil Nadu (2007) :: A nine-judge bench held that laws placed in the Ninth Schedule after 24 April 1973 can be tested on the touchstone of the basic structure, including the essence of rights in Arts. 14, 19 and 21. The Ninth Schedule is not a blanket protection.
+
+CASE: Property Owners Association v State of Maharashtra (2024) :: A nine-judge bench held (by majority) that not every private resource is a "material resource of the community" under Art. 39(b). Whether a privately owned resource qualifies depends on its nature, characteristics, scarcity and impact on community well-being. The majority departed from Krishna Iyer J's broad view in State of Karnataka v Ranganatha Reddy (1977). It also held that Art. 31C, as upheld in Kesavananda, continues to survive despite the striking down of the 42nd Amendment's extension in Minerva Mills.
+
+## 10.5 Judicial policy towards Directive Principles
+- Courts cannot direct the legislature to enact a law to implement a Directive Principle, but they use the Principles to determine reasonableness of restrictions under Art. 19 and the content of Art. 21.
+
+CASE: State of Gujarat v Mirzapur Moti Kureshi Kassab Jamat (2005) :: A seven-judge bench upheld a total ban on slaughter of cows and progeny, reading Arts. 48 and 51A(g) together with Art. 19(6) to find the restriction reasonable.
+
+CASE: Unni Krishnan v State of Andhra Pradesh (1993) :: Reading Arts. 41 and 45 into Art. 21, the Court held that children up to 14 have a fundamental right to free education. This led to Art. 21A (86th Amendment, 2002).
+
+## 10.6 Fundamental Duties: Article 51A
+Added by the **42nd Amendment, 1976** on the recommendation of the **Swaran Singh Committee**, inspired by the Constitution of the former USSR. Ten duties were added; an eleventh, 51A(k), was added by the 86th Amendment, 2002.
+
+It shall be the duty of every citizen of India:
+1. to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;
+2. to cherish and follow the noble ideals which inspired our national struggle for freedom;
+3. to uphold and protect the sovereignty, unity and integrity of India;
+4. to defend the country and render national service when called upon;
+5. to promote harmony and the spirit of common brotherhood, and renounce practices derogatory to the dignity of women;
+6. to value and preserve the rich heritage of our composite culture;
+7. to protect and improve the natural environment, and have compassion for living creatures;
+8. to develop the scientific temper, humanism and the spirit of inquiry and reform;
+9. to safeguard public property and abjure violence;
+10. to strive towards excellence in all spheres of individual and collective activity;
+11. (k) who is a parent or guardian, to provide opportunities for education to his child or ward between six and fourteen years.
+
+### Enforcement and use
+- Fundamental Duties are not directly enforceable, but courts use them to interpret statutes and to judge reasonableness of restrictions.
+- Several laws give effect to them: Prevention of Insults to National Honour Act, 1971; Wildlife (Protection) Act, 1972; Environment (Protection) Act, 1986.
+
+CASE: AIIMS Students' Union v AIIMS (2001) :: Fundamental Duties, though not enforceable by writ, provide a valuable guide and aid to interpretation of constitutional and legal issues; an institutional reservation that diluted merit was struck down, with reference to Art. 51A(j).
+
+CASE: Bijoe Emmanuel v State of Kerala (1986) :: Students who stood respectfully but did not sing the National Anthem because of their faith (Jehovah's Witnesses) could not be expelled. There is no law compelling singing, and the duty under Art. 51A(a) is to show respect.
+
+TIP: Use the four-phase history (Champakam, Kerala Education Bill, Kesavananda and Minerva Mills, then Art. 21 expansion) for any question on the relationship between Parts III and IV. End with Property Owners Association (2024) to show you are current.
+
+* Directive Principles are non-justiciable but fundamental in governance (Art. 37).
+* They are grouped as socialist, Gandhian and liberal-intellectual principles.
+* Relationship moved from primacy of rights (Champakam) to harmony (Kerala Education Bill) to balance as basic structure (Minerva Mills).
+* Arts. 31A, 31B and 31C protect laws implementing Directive Principles; post-1973 Ninth Schedule laws are open to basic structure review (I.R. Coelho).
+* Art. 39(b) does not cover every private resource (Property Owners Association, 2024).
+* Fundamental Duties (Art. 51A) were added in 1976; 51A(k) in 2002; they aid interpretation.
+
+QL: Discuss the nature and significance of the Directive Principles of State Policy. Why were they made non-justiciable?
+QL: Examine the relationship between Fundamental Rights and Directive Principles with reference to Champakam Dorairajan, Kesavananda Bharati and Minerva Mills.
+QL: Discuss Articles 31A, 31B and 31C and the judicial response to them, including I.R. Coelho.
+QL: Write a note on Fundamental Duties and their judicial use.
+QS: Article 39(b) and (c)
+QS: Ninth Schedule
+QS: Minerva Mills case
+QS: Uniform Civil Code (Art. 44)
+QS: Swaran Singh Committee
+QS: Article 51A(k)
+
+MCQ: Directive Principles were borrowed mainly from the Constitution of || USA | *Ireland | USSR | Canada || The Irish Constitution, 1937.
+MCQ: "The balance between Parts III and IV is a basic feature" was held in || Champakam | Kerala Education Bill | *Minerva Mills | Waman Rao || 1980.
+MCQ: Fundamental Duties were added by the || 24th Amendment | *42nd Amendment | 44th Amendment | 86th Amendment || 1976, on the Swaran Singh Committee's recommendation.
+MCQ: Laws placed in the Ninth Schedule after 24 April 1973 || are fully immune | *can be tested against the basic structure | are automatically void | can be challenged only under Art. 14 || I.R. Coelho (2007).
+MCQ: The duty of parents to provide education to children aged 6 to 14 is in || Art. 21A | Art. 45 | *Art. 51A(k) | Art. 39(f) || Added by the 86th Amendment, 2002.

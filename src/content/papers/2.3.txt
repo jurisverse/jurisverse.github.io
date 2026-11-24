@@ -1,0 +1,241 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Polluter pays principle
+The person who causes pollution must bear the cost of remedying it. This covers not only compensation to victims, but also restoring the environment.
+- *Indian Council for Enviro-Legal Action v Union of India* (1996): the Bichhri case, involving H-acid sludge.
+- *Vellore Citizens' Welfare Forum v Union of India* (1996): the principle is part of the law of the land.
+- It is applied by the NGT under s.20 of the NGT Act, 2010, including turnover-based environmental compensation where the method is rational (*Rhythm County*, 2026).
+
+Q: Precautionary principle
+Where there are threats of serious or irreversible damage, lack of full scientific certainty should not be used as a reason to postpone measures to prevent environmental degradation (Rio Principle 15).
+In India (*Vellore Citizens*, 1996; *A.P. Pollution Control Board v M.V. Nayudu*, 1999):
+- the State must anticipate, prevent and attack the causes of degradation; and
+- the onus of proof is on the developer to show that the activity is environmentally benign.
+
+Q: Public trust doctrine
+Natural resources such as air, sea, waters, forests and shores are held by the State as trustee for the public. They cannot be converted to private ownership or used inconsistently with public use.
+- *M.C. Mehta v Kamal Nath* (1997): a lease of protected forest land on a river bank to a motel was quashed.
+- *Fomento Resorts v Minguel Martins* (2009).
+- *Centre for PIL v Union of India* (2012, 2G).
+The doctrine also underlies Art. 21 and Arts. 48A and 51A(g).
+
+Q: Sustainable development
+Development that meets the needs of the present without compromising the ability of future generations to meet their own needs (Brundtland Report, 1987). Its components are:
+- intergenerational equity;
+- the precautionary principle;
+- polluter pays;
+- use and conservation of natural resources; and
+- environmental impact assessment.
+India adopted the concept in *Vellore Citizens* (1996). In *Narmada Bachao Andolan* (2000), the Court balanced development with rehabilitation.
+
+Q: Environmental Impact Assessment
+EIA is a process to identify and evaluate the likely environmental effects of a project before it is approved. It is governed by the EIA Notification, 2006 under the Environment (Protection) Act, 1986. The stages are:
+1. screening (Category A or B);
+2. scoping (terms of reference);
+3. public consultation; and
+4. appraisal by the expert appraisal committee.
+Then follows the decision on clearance.
+- Prior environmental clearance is mandatory (*Common Cause v Union of India*, 2017; *Alembic*, 2020).
+- On ex post facto clearance, see the Vanashakti rulings: May 2025, recalled in *CREDAI* (Nov 2025), and clarified in July 2026 as a narrow exception.
+
+Q: Jurisdiction of the National Green Tribunal
+Under the NGT Act, 2010:
+- **Original jurisdiction (s.14):** civil cases involving a substantial question relating to the environment under the seven Schedule I Acts (Water, Water Cess, Forest Conservation, Air, Environment Protection, Public Liability Insurance and Biological Diversity).
+- **Relief and compensation (s.15):** limitation of five years.
+- **Appellate jurisdiction (s.16).**
+- It applies sustainable development, precautionary and polluter pays principles (s.20), and no-fault liability (s.17(3)).
+- Appeals lie to the Supreme Court within 90 days (s.22).
+- Suo motu power was recognised in *Municipal Corporation of Greater Mumbai v Ankita Sinha* (2021).
+
+Q: Stockholm Conference, 1972
+The UN Conference on the Human Environment was the first global environmental conference. It produced:
+- the Stockholm Declaration (26 principles, including the right to an environment of quality, Principle 1, and State responsibility for transboundary harm, Principle 21);
+- an Action Plan; and
+- the creation of UNEP.
+India's response included the 42nd Amendment (Arts. 48A and 51A(g)), the Water Act (1974) and the Air Act (1981, s.2 referring to Stockholm).
+
+Q: Articles 48A and 51A(g)
+- **Art. 48A** (Directive Principle): the State shall endeavour to protect and improve the environment and safeguard forests and wildlife.
+- **Art. 51A(g)** (Fundamental Duty): every citizen shall protect and improve the natural environment, including forests, lakes, rivers and wildlife, and have compassion for living creatures.
+Both were added by the 42nd Amendment (1976). The courts read them with Art. 21 to create a right to a healthy environment (*Subhash Kumar*, 1991; *M.K. Ranjitsinh*, 2024, on climate change).
+
+Q: Forest land under T.N. Godavarman
+*T.N. Godavarman Thirumulpad v Union of India* (1996 onwards) is a continuing mandamus. It held that "forest" in the Forest (Conservation) Act, 1980 must be understood in its dictionary sense, regardless of ownership. Land recorded as forest in government records is forest land (reaffirmed in 2025).
+- Forest land cannot be diverted to agriculture (*Gandhi Jeevan Collective Farming Society*, 2026).
+- Land merely covered by trees in a Master Plan development area is not deemed forest (*Naveen Solanki*, 2026).
+- The 1980 Act was renamed the Van (Sanrakshan Evam Samvardhan) Adhiniyam in 2023.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the role of the judiciary in the protection of the environment in India.
+### Constitutional basis
+- Art. 21, read with Arts. 48A and 51A(g), gives a right to a wholesome environment (*Subhash Kumar v State of Bihar*, 1991).
+- Art. 32 and Art. 226, through public interest litigation and relaxed standing.
+### Principles adopted
+- Absolute liability (*M.C. Mehta*, 1987).
+- Polluter pays and the precautionary principle (*Vellore Citizens*, 1996).
+- Public trust (*M.C. Mehta v Kamal Nath*, 1997).
+- Intergenerational equity (*State of HP v Ganesh Wood Products*, 1995).
+- Sustainable development (*Narmada Bachao Andolan*, 2000).
+- Climate change as a facet of Arts. 14 and 21 (*M.K. Ranjitsinh v Union of India*, 2024).
+### Tools
+- **Continuing mandamus:** *Godavarman* (forests); *M.C. Mehta* (Taj Trapezium, Ganga tanneries, Delhi vehicular pollution, CNG, and stubble burning and firecrackers).
+- **Expert committees and commissions.**
+- **Closure orders and compensation:** *Sterlite Industries v Union of India* (2013, 2024).
+- **Environment compensation:** the Delhi Environment Compensation Charge; NGT compensation based on turnover (*Rhythm County*, 2026).
+- **Creation of institutions:** the Central Empowered Committee; the NGT, after *A.P. Pollution Control Board v Nayudu* and Law Commission Report 186.
+### Recent judgments
+- Ex post facto environmental clearance:
+  - *Vanashakti* (May 2025) struck it down.
+  - *CREDAI v Vanashakti* (Nov 2025) recalled that judgment, 2:1.
+  - *Vanashakti* (July 2026) restored prior clearance as the rule, with only a narrow exception.
+- Forest land cases: *Godavarman* (2025); *Gandhi Jeevan* (2026).
+- Landlord not liable for a tenant's pollution (*Gujarat PCB v Jagmohan*, 2026).
+### Criticism
+- judicial overreach and governance by courts;
+- lack of technical expertise; and
+- poor follow-through on implementation.
+### Conclusion
+The Indian judiciary has been the main driver of environmental protection, turning directive principles into enforceable rights and importing international principles into domestic law.
+
+Q: Explain the mechanism for prevention and control of water and air pollution under the Water Act, 1974 and the Air Act, 1981.
+### Water (Prevention and Control of Pollution) Act, 1974
+- **Boards:** the Central Pollution Control Board (s.3) and State Pollution Control Boards (s.4).
+- **Functions (ss.16 and 17):**
+  - advise government;
+  - plan comprehensive programmes;
+  - lay down standards;
+  - inspect sewage and effluent treatment; and
+  - collect data.
+- **Consent (ss.25 and 26):** prior consent is needed to establish or operate any industry discharging effluents (consent to establish and consent to operate).
+- **Powers:**
+  - sampling (s.21);
+  - entry and inspection (s.23);
+  - emergency measures (s.32);
+  - court orders restraining pollution (s.33); and
+  - directions, including closure and stoppage of electricity or water (s.33A).
+- **Appeals (s.28).**
+- **Offences (ss.41 to 49).** The Water (Prevention and Control of Pollution) Amendment Act, 2024 decriminalised many minor offences, replacing imprisonment with monetary penalties imposed by adjudicating officers.
+### Air (Prevention and Control of Pollution) Act, 1981
+- Boards act under the Air Act as well.
+- **Air pollution control areas (s.19).**
+- **Emission standards for vehicles (s.20).**
+- **Consent to operate in control areas (s.21).**
+- **Directions (s.31A)** and restraint orders (s.22A).
+- **Appeals (s.31)** to the NGT.
+- Penalties were restructured by the Jan Vishwas (Amendment of Provisions) Act, 2023.
+### Environment (Protection) Act, 1986
+This is the umbrella law, with directions under s.5. Delhi-NCR has the Commission for Air Quality Management (2021 Act).
+### Critique
+- weak enforcement and resource constraints in the Boards;
+- reliance on courts; and
+- a move from criminal sanctions to penalties.
+### Conclusion
+The two Acts set up a consent-based regulatory system run by the Pollution Control Boards, backed by the NGT and the Supreme Court.
+
+Q: Discuss the evolution of international environmental law from Stockholm to the present.
+### Stockholm 1972
+- The Declaration on the Human Environment and UNEP.
+- Principle 21: sovereignty over resources, and responsibility not to cause transboundary harm (drawn from *Trail Smelter*, 1941).
+### Brundtland Report (1987)
+Introduced sustainable development.
+### Rio 1992 (Earth Summit)
+- The Rio Declaration (27 principles):
+  - precaution (Principle 15);
+  - polluter pays (16);
+  - EIA (17);
+  - common but differentiated responsibilities (7).
+- Agenda 21, the UN Framework Convention on Climate Change, the Convention on Biological Diversity and the Forest Principles.
+### Climate regime
+- Kyoto Protocol (1997): binding targets for developed countries.
+- Paris Agreement (2015):
+  - nationally determined contributions;
+  - the goal of well below 2°C and efforts towards 1.5°C;
+  - "progression" of ambition.
+### Other conventions
+- Vienna Convention and Montreal Protocol (ozone, 1985 and 1987).
+- Basel Convention (hazardous waste, 1989).
+- Ramsar (wetlands), CITES and the Nagoya Protocol.
+- The BBNJ (high seas biodiversity) Agreement, 2023.
+### ICJ advisory opinion (23 July 2025)
+The ICJ unanimously advised that States have binding obligations under treaties and customary law:
+- to prevent significant harm to the climate system;
+- to exercise due diligence; and
+- to cooperate in good faith.
+Breach may engage State responsibility. The customary obligations apply to all States, even non-parties to the climate treaties.
+### India's implementation
+- Arts. 48A, 51A(g) and 253.
+- The Air Act (Stockholm), the Environment Protection Act and the Biological Diversity Act (CBD).
+- Courts adopting Rio principles.
+### Conclusion
+International environmental law has moved from soft declarations to binding treaties and judicial affirmation of State duties. India absorbed these principles through legislation and judicial activism.
+
+Q: Explain the powers of the Central Government under the Environment (Protection) Act, 1986.
+### Background
+The Act was passed after the Bhopal gas tragedy (1984) under Art. 253, implementing the Stockholm decisions. It is an umbrella law.
+### Powers
+1. **General power (s.3):** to take all measures necessary to protect and improve the environment, including:
+   - coordinating State action;
+   - planning national programmes;
+   - laying down standards of environmental quality and of emissions;
+   - restricting industries in certain areas;
+   - procedures for accidents; and
+   - inspection and research.
+   It may constitute authorities (s.3(3)), such as the CGWA and the Central Empowered Committee.
+2. **Directions (s.5):** to any person, officer or authority, including the closure, prohibition or regulation of any industry, and stoppage of electricity or water.
+3. **Rules (s.6):** for example, the Hazardous Waste Rules, Coastal Regulation Zone Notification, EIA Notification 2006, Plastic Waste Rules, E-waste Rules and Noise Rules.
+4. **Prohibitions:**
+   - emitting pollutants beyond standards (s.7);
+   - handling hazardous substances without following procedure (s.8).
+5. **Entry, inspection and sampling (ss.10 and 11).**
+6. **Penalties:** the Jan Vishwas Act, 2023 replaced imprisonment for many contraventions with monetary penalties imposed by adjudicating officers, with appeals to the NGT.
+7. **Citizen suits (s.19):** a person may complain after giving 60 days' notice.
+8. **Bar of civil court jurisdiction (s.22).**
+### Notable instruments
+- EIA Notification 2006 (prior clearance).
+- CRZ Notification 2019.
+- Eco-sensitive zones around protected areas (*Godavarman*, 2022 and 2023).
+### Conclusion
+The Act gives the Central Government wide regulatory and directive powers. Its effectiveness depends on enforcement and on judicial oversight.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A cement company starts construction of a plant without prior environmental clearance under the EIA Notification, 2006. After a complaint, it applies for ex post facto clearance and offers to pay a penalty. Advise the authorities.
+**Issue:** Can ex post facto environmental clearance be granted?
+**Law:**
+- *Common Cause* (2017) and *Alembic Pharmaceuticals v Rohit Prajapati* (2020): ex post facto clearance is alien to environmental law; prior clearance is mandatory.
+- *Vanashakti v Union of India* (May 2025) struck down the 2017 notification and the 2021 office memorandum permitting it.
+- *CREDAI v Vanashakti* (Nov 2025, 2:1) recalled that judgment, permitting such clearance in exceptional cases on penalty.
+- *Vanashakti* (July 2026) reaffirmed that prior clearance is the rule, and projects without it cannot generally be regularised. The 2017 window operates only narrowly and is time-bound.
+**Application:** The company deliberately began construction without clearance. Unless its case falls within the narrow exceptional window, regularisation is not available, and the work must stop.
+**Conclusion:** The authorities should stop construction and take penal and compensatory action. They should consider fresh appraisal only if the narrow exception applies, with heavy penalties and restoration conditions.
+
+Q: Tanneries on a river bank discharge untreated effluents, polluting drinking water and agricultural land downstream. Villagers file a public interest litigation. What principles will the court apply?
+**Issue:** The liability of polluting industries and the remedies available.
+**Law:**
+- *Vellore Citizens' Welfare Forum v Union of India* (1996): the precautionary and polluter pays principles are part of Indian law. The Court ordered compensation, restoration, and the closure of units not installing treatment plants.
+- *M.C. Mehta v Union of India* (Ganga tanneries, 1987): closure of units without primary treatment.
+- Water Act ss.25 and 33A; Environment Protection Act s.5.
+**Application:** Untreated discharge violates consent conditions and Art. 21. The industries must bear the cost of compensation and of restoring the environment.
+**Conclusion:** The court will:
+- direct the industries to install effluent treatment plants within a fixed time, failing which they will be closed;
+- fix compensation for victims and for ecological restoration; and
+- direct monitoring by the Pollution Control Board.
+The NGT may also award compensation under s.15 of the NGT Act.
+
+Q: The State government leases part of a protected forest on a river bank to a private company to build a resort. The company diverts the river's course to protect the resort. Is the lease valid?
+**Issue:** Can the State transfer natural resources held in public trust to a private party for commercial use?
+**Law:**
+- *M.C. Mehta v Kamal Nath* (1997): the public trust doctrine. The State, as trustee of natural resources, cannot transfer ecologically fragile land for private commercial use. The lease was quashed, the company was directed to pay restoration costs, and exemplary damages were imposed later.
+- Forest (Conservation) Act s.2 (now the Van Adhiniyam): prior Central approval is needed for non-forest use or leasing of forest land.
+**Application:** The lease of forest land for a resort, without Central approval, together with the diversion of the river, breaches the public trust and forest law.
+**Conclusion:** The lease is invalid. The court will quash it, order restoration of the river and forest at the company's cost, and impose compensation under the polluter pays principle.
+
+Q: A landlord rents his premises to a dyeing unit. The unit discharges untreated effluent. The Pollution Control Board proceeds against both the landlord and the tenant. The landlord argues that he had no control over the unit. Decide.
+**Issue:** Is a landlord liable for pollution caused by a tenant's industry?
+**Law:**
+- *Gujarat Pollution Control Board v Jagmohan* (2026): a landlord is not accountable for a tenant's violations merely because he owns the premises.
+- Liability attaches to the occupier who carries on the activity and controls the discharge.
+- The polluter pays principle targets the polluter.
+**Application:** The tenant operated the unit and controlled the effluent. The landlord's ownership alone does not make him the polluter, unless he participated in, permitted or profited from the polluting activity knowingly.
+**Conclusion:** Proceedings against the landlord should be dropped, unless there is evidence of his participation. The tenant is liable for penalties, closure and compensation.

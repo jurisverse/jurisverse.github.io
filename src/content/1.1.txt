@@ -1,0 +1,1236 @@
+@title Contracts – I
+@subtitle General Principles of the Law of Contract, with the Specific Relief Act, 1963
+@paper 1.1
+@sem I
+@color #7a1f2b
+@dark #6b1a25
+@intro Covers sections 1 to 75 of the Indian Contract Act, 1872 and the remedies under the Specific Relief Act, 1963 as amended in 2018.
+@reading Indian Contract Act, 1872 and Specific Relief Act, 1963, with commentaries
+@reading Anson, Law of Contract
+@reading Avtar Singh, Law of Contract and Specific Relief
+@reading Cheshire, Fifoot and Furmston, Law of Contract
+@reading Chitty on Contracts, Vol. I (General Principles)
+@reading Pollock and Mulla, Indian Contract and Specific Relief Acts
+@reading Mulla, The Indian Contract Act
+@reading M. Krishnan Nair, Law of Contracts
+@reading G.M. Sen, Case Book on the Law of Contract
+@reading Treitel, The Law of Contract
+@reading Venkatesa Iyer, Law of Contract
+@reading Singhal and Subrahmanyam, Indian Contract Act, Vol. I
+@reading Indian Law Institute, Annual Survey of Indian Law (relevant volumes)
+
+# 1 | History and nature of contractual obligations
+@topics Writs of debt, covenant and account; Actions on the case and assumpsit; Consideration; Moral basis of contractual obligation; Subjective and objective theories; Sanctity of contracts
+>> Contract law grew out of procedure: English courts first enforced promises through narrow writs, and the general idea of an enforceable promise arrived only when assumpsit replaced them.
+
+## Why history matters for an Indian student
+The Indian Contract Act, 1872 is a codification of English common law as it stood in the mid-nineteenth century. Words such as consideration, privity, frustration and quasi-contract are English inventions, and Indian courts still read them in the light of English decisions unless the Act says otherwise. Knowing how those ideas were born explains why the Act is shaped the way it is.
+
+## The old writs
+Medieval English law had no general law of contract. A plaintiff had to fit the claim into one of the royal writs, each with its own procedure.
+- **Debt**: recovery of a fixed sum of money owed, for example the price of goods delivered or a loan. The defendant could defeat it by *wager of law*, that is, by producing compurgators who swore he owed nothing.
+- **Covenant**: enforcement of a promise made under seal (a deed). By the fourteenth century courts insisted on a sealed document, so informal promises fell outside it.
+- **Account**: used against a bailiff, receiver or partner who had handled another's money and had to render an account.
+- **Detinue**: recovery of a specific chattel wrongfully withheld.
+These writs left a large gap: an informal promise to do something (not to pay a fixed sum) could not be sued on at all.
+
+## Action on the case and assumpsit
+The gap was filled by **trespass on the case**, a flexible action for wrongs not covered by trespass proper. Courts first allowed it where a person undertook (*assumpsit*) a task and performed it badly, causing harm (misfeasance). In the fifteenth and sixteenth centuries it was extended to cases where the person did nothing at all (nonfeasance). Finally, in **Slade's Case (1602)** the King's Bench held that assumpsit could be brought instead of debt, because every executory contract implied a promise to pay. Assumpsit, a tort-based action, thus became the general remedy for broken promises.
+
+CASE: Slade's Case (1602) :: The plaintiff sold a crop of wheat and rye; the buyer did not pay. The court allowed assumpsit in place of debt, holding that every contract executory imports in itself an assumpsit. This avoided wager of law and made assumpsit the general action on informal contracts.
+
+## How consideration emerged
+Once assumpsit was available for any informal promise, courts needed a test to separate promises worth enforcing from mere gratuitous ones. The answer was **consideration**: something given, done or promised in exchange for the promise. By the seventeenth century it was settled that a promise not under seal was enforceable only if supported by consideration. The rule survives in s.25 of the Indian Act.
+
+## The moral basis of contractual obligation
+Why should the law enforce promises at all? Four answers are usually given.
+- **Promise principle**: a person who freely promises creates a moral obligation; the law reinforces it (Fried, Contract as Promise).
+- **Reliance**: the promisee changes position in reliance on the promise; law protects that reliance (this explains promissory estoppel).
+- **Bargain and exchange**: markets depend on reliable exchange; enforcement lowers the cost of trade.
+- **Natural law**: *pacta sunt servanda*, agreements must be kept, a principle drawn from canon and Roman law and now a rule of international treaty law too.
+
+## Subjective and objective theories
+### Will theory (subjective)
+Nineteenth-century jurists such as Savigny and Pothier treated a contract as a meeting of two wills (*consensus ad idem*). If the parties did not in fact intend the same thing, there was no contract.
+### Objective theory
+English and American courts moved to an objective test: what matters is what a reasonable person would understand from the words and conduct, not what each party secretly meant. Holmes famously said the law has nothing to do with the actual state of the parties' minds.
+
+CASE: Smith v Hughes (1871) :: A buyer bought oats thinking they were old oats; they were new. Blackburn J held that if a reasonable man would believe the other party was assenting to the terms proposed, he is bound, whatever his real intention. The objective test governs formation.
+
+Indian law combines both. Section 13 defines consent as agreement "upon the same thing in the same sense", which is subjective language, but courts decide whether that agreement exists by looking at outward words and conduct.
+
+## Sanctity of contract and freedom of contract
+The classical view held that adults should be free to make whatever bargains they choose, and courts should enforce them strictly.
+
+CASE: Printing and Numerical Registering Co v Sampson (1875) :: Sir George Jessel MR said that if there is one thing more than another which public policy requires, it is that men of full age and competent understanding shall have the utmost liberty of contracting, and their contracts freely entered into shall be held sacred and enforced.
+
+The twentieth century qualified this freedom:
+- standard form contracts drafted by the stronger party (railway tickets, insurance policies, bank forms);
+- statutory controls on rent, wages, interest and consumer terms;
+- courts striking down unconscionable terms as opposed to public policy.
+
+CASE: Central Inland Water Transport Corporation v Brojo Nath Ganguly (1986) :: A service rule allowing a government company to terminate a permanent employee on three months' notice without reasons was struck down. The Supreme Court held that an unfair and unreasonable clause in a contract between parties of grossly unequal bargaining power is opposed to public policy and void under s.23.
+
+## The Indian Contract Act, 1872
+- Drafted by the Third Indian Law Commission in England, largely on English principles, with some departures (for example, past consideration and consideration from a third party are recognised).
+- In force from 1 September 1872. It now extends to the whole of India.
+- Originally covered sale of goods and partnership as well; those were moved to the Sale of Goods Act, 1930 and the Indian Partnership Act, 1932.
+- The Preamble says the Act defines and amends "certain parts" of the law relating to contracts. It is therefore not exhaustive: courts may apply principles of justice, equity and good conscience where the Act is silent.
+
+CASE: Irrawaddy Flotilla Co v Bugwandas (1891) :: The Privy Council held that the Contract Act is not a complete code dealing with the law relating to contracts; it deals only with the topics it covers.
+
+| Feature | English common law | Indian Contract Act |
+|---|---|---|
+| Source | Judge-made over centuries | Statute of 1872, codifying English law |
+| Past consideration | Not good consideration | Good consideration (s.2(d): "has done") |
+| Consideration from third party | Must move from promisee | May move from promisee "or any other person" |
+| Minor's agreement | Voidable at minor's option | Void ab initio (Mohori Bibee) |
+| Frustration theories | Implied term, foundation, just solution | Statutory rule in s.56 |
+
+* Medieval writs of debt, covenant and account left informal promises unenforceable.
+* Assumpsit, an action on the case, became the general contract action after Slade's Case (1602).
+* Consideration developed as the test for which informal promises the law would enforce.
+* Formation is judged objectively (Smith v Hughes), though s.13 speaks of consensus ad idem.
+* Freedom of contract is now limited by public policy and statutes protecting weaker parties (Brojo Nath Ganguly).
+* The Contract Act is not exhaustive (Irrawaddy Flotilla).
+
+QL: Trace the historical development of contractual obligation in English law from the writs of debt and covenant to assumpsit. How did the doctrine of consideration emerge?
+QL: Discuss the subjective and objective theories of contract. Which does Indian law follow?
+QL: "The sanctity of contract has given way to the protection of the weaker party." Discuss with reference to standard form contracts and Indian case law.
+QS: Slade's Case
+QS: Pacta sunt servanda
+QS: Wager of law
+QS: Freedom of contract
+QS: Consensus ad idem
+
+MCQ: Which case allowed assumpsit to be brought in place of an action of debt? || Pinnel's Case | *Slade's Case | Smith v Hughes | Carlill v Carbolic Smoke Ball Co || Slade's Case (1602) held that every executory contract implies a promise to pay, so assumpsit could replace debt.
+MCQ: The writ of covenant was available for || any oral promise | recovery of a fixed sum | *promises made under seal | recovery of a specific chattel || Covenant enforced promises contained in a sealed deed.
+MCQ: Smith v Hughes is authority for || *the objective test of agreement | the rule against penalties | frustration of contract | privity of contract || A party is bound by what a reasonable person would take him to have agreed.
+MCQ: The Indian Contract Act, 1872 is || a complete code of contract law | *not exhaustive of the law of contract | applicable only to commercial contracts | based on Roman law || Irrawaddy Flotilla (1891): the Act deals only with certain parts of contract law.
+
+# 2 | Agreement and contract: definitions, elements and kinds
+@topics Definitions in s.2; Essential elements of a valid contract (s.10); Kinds of contracts
+>> Every contract is an agreement, but only an agreement that meets the conditions of s.10 is a contract.
+
+## The chain of definitions in s.2
+The Act builds the idea of a contract in steps.
+SEC: s.2(a), (b) :: A proposal is made when one person signifies to another his willingness to do or abstain from doing anything, with a view to obtaining the assent of that other. A proposal, when accepted, becomes a promise.
+SEC: s.2(e) :: Every promise and every set of promises, forming the consideration for each other, is an agreement.
+SEC: s.2(h) :: An agreement enforceable by law is a contract.
+So: proposal + acceptance = promise; promise + consideration = agreement; agreement + enforceability = contract. Salmond summed it up: a contract is an agreement creating and defining obligations between the parties.
+
+Other key definitions:
+- s.2(c): the person making the proposal is the promisor; the person accepting is the promisee.
+- s.2(f): promises which form the consideration for each other are reciprocal promises.
+- s.2(g): an agreement not enforceable by law is void.
+- s.2(i): an agreement enforceable at the option of one or more parties but not the others is a voidable contract.
+- s.2(j): a contract which ceases to be enforceable by law becomes void when it ceases to be enforceable.
+
+## Essential elements: s.10
+SEC: s.10 :: All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void. Nothing here affects any law requiring a contract to be in writing, attested or registered.
+
+From s.10 and the general law, a valid contract needs:
+1. **Offer and acceptance**: a lawful proposal and an absolute acceptance (ss.3 to 9).
+2. **Intention to create legal relations**: not stated in the Act but applied by Indian courts from English law.
+3. **Lawful consideration**: ss.2(d), 23 and 25.
+4. **Capacity of parties**: ss.11 and 12.
+5. **Free consent**: ss.13 to 22.
+6. **Lawful object**: s.23.
+7. **Not expressly declared void**: ss.24 to 30 and 56.
+8. **Certainty**: s.29.
+9. **Possibility of performance**: s.56.
+10. **Formalities**, where a statute requires writing or registration (for example, s.25(1), the Registration Act, 1908, and s.54 of the Transfer of Property Act for sale of immovable property worth ₹100 or more).
+
+### Intention to create legal relations
+Social and domestic arrangements are presumed not to be intended as legally binding; commercial agreements are presumed to be.
+
+CASE: Balfour v Balfour (1919) :: A husband working in Ceylon promised his wife £30 a month while she stayed in England. Held: no contract. Arrangements between husband and wife are ordinarily not intended to create legal relations.
+
+CASE: Rose and Frank Co v J.R. Crompton and Bros (1925) :: A business agreement stated it was "not a formal or legal agreement" and would not be subject to the courts. Held: the express clause rebutted the usual presumption, so the agreement itself was not binding, though orders actually accepted under it were.
+
+## Kinds of contracts
+| Basis | Kinds | Meaning |
+|---|---|---|
+| Validity | Valid, void, voidable, illegal, unenforceable | Whether and how far the law enforces it |
+| Formation | Express, implied, tacit, quasi | How consent is shown |
+| Performance | Executed, executory, partly executed | How much remains to be done |
+| Obligation | Unilateral, bilateral | Whether one or both sides still have to perform |
+| Form | Formal (deed, registered), simple, e-contract | Whether writing, sealing or e-signature is needed |
+
+### Void, voidable, illegal and unenforceable
+- **Void agreement** (s.2(g)): never enforceable, for example an agreement with a minor, or a wagering agreement.
+- **Voidable contract** (s.2(i)): valid until the aggrieved party rescinds it, for example a contract induced by coercion, undue influence, fraud or misrepresentation (ss.19, 19A).
+- **Contract that becomes void** (s.2(j)): valid when made but later unenforceable, for example through supervening impossibility (s.56).
+- **Illegal agreement**: forbidden by law. Every illegal agreement is void, but not every void agreement is illegal. Collateral transactions to an illegal agreement are also tainted; collateral transactions to a merely void agreement are not (Gherulal Parakh v Mahadeodas Maiya, discussed in Unit 7).
+- **Unenforceable contract**: valid in substance but cannot be enforced because of a technical defect, such as want of stamp or registration, or a time-barred debt.
+
+### Express, implied and quasi
+An express contract is made in words. An implied contract is inferred from conduct (s.9): boarding a bus implies a promise to pay the fare. Quasi-contracts (ss.68 to 72) are not contracts at all; the law imposes an obligation to prevent unjust enrichment (Unit 9).
+
+### Electronic contracts
+SEC: s.10A, Information Technology Act, 2000 :: Where formation of a contract involves communication of proposals, acceptances or revocations in electronic form, the contract shall not be deemed unenforceable solely because electronic form was used.
+Click-wrap and browse-wrap terms, email exchanges and electronic signatures under the IT Act are valid ways to contract.
+
+CASE: Trimex International FZE v Vedanta Aluminium Ltd (2010) :: A concluded contract was held to have been formed by an exchange of emails, even though a formal written contract was to follow and was never signed.
+
+### Standard form contracts
+Printed terms offered on a take-it-or-leave-it basis. Courts protect the weaker party by requiring reasonable notice of the terms, construing ambiguity against the drafter (*contra proferentem*), and striking down unconscionable terms under s.23.
+
+TIP: In an essay on "All contracts are agreements but all agreements are not contracts", quote ss.2(e), 2(h) and 10, list the elements, and give one example of an agreement that fails each element.
+
+* Proposal + acceptance = promise; promise + consideration = agreement; agreement enforceable by law = contract.
+* s.10 lists free consent, competent parties, lawful consideration, lawful object and not expressly void.
+* Intention to create legal relations is presumed in commercial but not in social or domestic dealings (Balfour v Balfour).
+* Void, voidable, illegal and unenforceable contracts must be distinguished; illegality also taints collateral transactions.
+* E-contracts are valid under s.10A of the IT Act, 2000.
+
+QL: "All contracts are agreements but all agreements are not contracts." Explain with reference to the essentials of a valid contract.
+QL: Distinguish between void agreements, voidable contracts and illegal agreements, with examples and case law.
+QL: Discuss the role of intention to create legal relations in the formation of a contract. Is it a requirement under the Indian Contract Act?
+QS: Voidable contract
+QS: Quasi-contract
+QS: E-contracts
+QS: Standard form contracts
+QS: Balfour v Balfour
+
+MCQ: Under s.2(h), a contract is || any promise | an accepted proposal | *an agreement enforceable by law | an agreement supported by consideration || s.2(h): an agreement enforceable by law is a contract.
+MCQ: A contract induced by coercion is || void | illegal | *voidable at the option of the party coerced | unenforceable || s.19 makes it voidable at the option of the party whose consent was so caused.
+MCQ: Balfour v Balfour deals with || capacity | *intention to create legal relations | consideration | mistake || Domestic arrangements are presumed not to be legally binding.
+MCQ: Which statement is correct? || Every void agreement is illegal | *Every illegal agreement is void | Void and illegal mean the same | Illegal agreements are voidable || Illegality also taints collateral transactions; mere voidness does not.
+MCQ: Section 10A of the IT Act, 2000 provides that || e-contracts must be registered | *contracts are not unenforceable merely because electronic means were used | e-contracts are voidable | only digital signatures make e-contracts valid || s.10A validates contracts formed through electronic communications.
+
+# 3 | Proposal and acceptance
+@topics Forms and essentials of proposal and acceptance; Communication and revocation; Proposal and invitation to proposal; Floating offers; Tenders; Dumping of goods
+>> A contract begins with a proposal capable of acceptance and an acceptance that is absolute; the timing rules of ss.4 to 6 decide when each becomes binding.
+
+## Proposal (offer)
+SEC: s.2(a) :: When one person signifies to another his willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal.
+
+### Essentials of a valid proposal
+- It must express willingness to be bound, not merely to negotiate.
+- It must be made with a view to obtaining assent.
+- Its terms must be certain (s.29).
+- It must be communicated to the offeree (s.4).
+- It must not contain a term that silence will amount to acceptance.
+- It may be express or implied (s.9), specific (to a named person) or general (to the world at large).
+
+### General offers
+CASE: Carlill v Carbolic Smoke Ball Co (1893) :: The company advertised £100 to anyone who caught influenza after using its smoke ball as directed, and deposited £1,000 to show sincerity. Mrs Carlill used it and caught influenza. Held: the advertisement was a general offer; performing the conditions was acceptance, and notice of acceptance was dispensed with by the nature of the offer.
+
+CASE: Lalman Shukla v Gauri Dutt (1913) :: A servant traced the defendant's missing nephew, not knowing that a reward had been announced. Held: he could not claim the reward. There can be no acceptance without knowledge of the offer.
+
+### Cross offers
+Two identical offers crossing in the post do not make a contract, because neither is an acceptance of the other: **Tinn v Hoffman (1873)**.
+
+## Proposal and invitation to proposal
+An invitation to treat (invitation to offer) is a preliminary step that invites others to make offers. Examples: display of goods in a shop, catalogues, price lists, advertisements, auction announcements, calls for tenders, prospectuses.
+
+CASE: Pharmaceutical Society of Great Britain v Boots Cash Chemists (1953) :: Goods on the shelves of a self-service shop are an invitation to treat. The customer makes the offer at the cash desk, and the shop accepts it there, where a pharmacist supervised the sale.
+
+CASE: Harvey v Facey (1893) :: Asked "Will you sell us Bumper Hall Pen? Telegraph lowest cash price", the defendant replied "Lowest price for Bumper Hall Pen £900". Held: the reply was a statement of price, not an offer, so the plaintiff's "We agree to buy" made no contract.
+
+- **Auctions**: the bid is the offer; the fall of the hammer is acceptance; a bid may be withdrawn before then (s.64, Sale of Goods Act, 1930). An advertisement of an auction is not an offer to hold it: **Harris v Nickerson (1873)**.
+- **Tenders**: a call for tenders is an invitation; each tender is an offer: **Spencer v Harding (1870)**. In government tenders the State's choice is subject to judicial review for arbitrariness: **Tata Cellular v Union of India (1994)**.
+
+### Floating (standing) offers and tenders
+A tender to supply goods "as and when required" over a period is a standing offer. Each order placed is a separate acceptance, creating a separate contract. The offeror may revoke the standing offer for the future but must honour orders already placed.
+
+CASE: Great Northern Railway v Witham (1873) :: Witham tendered to supply stores as required over a year. The railway's orders were acceptances, so he was bound to supply what had been ordered, though he could withdraw as to future orders.
+
+### Dumping of goods (unsolicited goods)
+Sending goods without request and saying that silence or retention will be treated as acceptance does not bind the recipient. Silence is not acceptance (Felthouse v Bindley, below). The recipient owes at most the duty of an involuntary bailee, and in consumer settings such a practice can amount to an unfair trade practice under the Consumer Protection Act, 2019.
+
+## Acceptance
+SEC: s.2(b) :: When the person to whom the proposal is made signifies his assent thereto, the proposal is said to be accepted.
+SEC: s.7 :: Acceptance must be absolute and unqualified, and expressed in some usual and reasonable manner, unless the proposal prescribes the manner. If the proposal prescribes a manner and the acceptance is not made in that manner, the proposer may insist within a reasonable time on that manner; if he does not, he accepts the acceptance.
+SEC: s.8 :: Performance of the conditions of a proposal, or acceptance of any consideration for a reciprocal promise offered with a proposal, is an acceptance.
+
+### Rules of acceptance
+- Absolute and unqualified: a conditional acceptance is a counter-offer, which destroys the original offer: **Hyde v Wrench (1840)**.
+- Only the person to whom the offer is made can accept it (Boulton v Jones, 1857).
+- It must be communicated by the offeree or his authorised agent. Unauthorised information is not acceptance: **Powell v Lee (1908)**, where a manager privately told an applicant he had been selected but the board then changed its mind.
+- Silence is not acceptance.
+
+CASE: Felthouse v Bindley (1862) :: An uncle wrote to his nephew: "If I hear no more about him, I consider the horse mine." The nephew said nothing. Held: no contract. The offeror cannot impose silence as acceptance.
+
+## Communication: when is it complete?
+SEC: s.4 :: Communication of a proposal is complete when it comes to the knowledge of the person to whom it is made. Communication of an acceptance is complete as against the proposer when it is put in a course of transmission to him so as to be out of the power of the acceptor; as against the acceptor, when it comes to the knowledge of the proposer.
+
+| Event | Complete as against proposer | Complete as against acceptor |
+|---|---|---|
+| Proposal | When it comes to the offeree's knowledge | Same |
+| Acceptance by post | When posted | When received by proposer |
+| Revocation | As against the person who makes it, when posted; as against the recipient, when it reaches his knowledge (s.4, third para) | |
+
+The postal rule comes from **Adams v Lindsell (1818)**; in England the contract is made even if the letter is lost: **Household Fire Insurance v Grant (1879)**.
+
+### Instantaneous communication
+For telephone, telex and similar instantaneous modes, the contract is complete only when the acceptance is heard by the proposer, and it is made at the place where the acceptance is received.
+
+CASE: Entores Ltd v Miles Far East Corporation (1955) :: Acceptance by telex from Amsterdam to London: the contract was made in London where the acceptance was received.
+
+CASE: Bhagwandas Goverdhandas Kedia v Girdharilal Parshottamdas (1966) :: An offer made from Khamgaon was accepted by telephone from Ahmedabad. By majority, the Supreme Court held the contract was made at Ahmedabad (where the acceptance was spoken and heard) for purposes of jurisdiction. Hidayatullah J dissented, arguing the postal rule in s.4 should apply to all modes.
+
+For e-mail, s.13 of the IT Act fixes time and place of dispatch and receipt: an electronic record is received when it enters the designated computer resource, and is deemed dispatched and received at the place of business of the originator and the addressee.
+
+## Revocation
+SEC: s.5 :: A proposal may be revoked at any time before the communication of its acceptance is complete as against the proposer, but not afterwards. An acceptance may be revoked at any time before the communication of acceptance is complete as against the acceptor, but not afterwards.
+SEC: s.6 :: A proposal is revoked (1) by notice of revocation; (2) by lapse of the time prescribed, or a reasonable time; (3) by failure of the acceptor to fulfil a condition precedent to acceptance; (4) by the death or insanity of the proposer, if the fact comes to the knowledge of the acceptor before acceptance.
+Other modes recognised by courts: counter-offer, rejection, and subsequent illegality or destruction of the subject-matter.
+
+### The "window" for revocation in a postal contract
+A posts an offer to B on Monday; it reaches B on Tuesday; B posts acceptance on Wednesday; it reaches A on Friday.
+- A can revoke his offer up to Wednesday (before B posts acceptance).
+- B can revoke his acceptance up to Friday (before it reaches A), by a faster mode such as telephone.
+- A promise to keep an offer open is not binding unless supported by consideration (an option contract): **Dickinson v Dodds (1876)**.
+
+TIP: Problem questions on communication almost always turn on s.4 and s.5. Draw a simple timeline with dates, mark when communication is complete as against each party, and then apply the revocation windows.
+
+* Advertisements, shop displays, catalogues, auctions and calls for tender are invitations to treat; the response is the offer.
+* A general offer is accepted by performing its conditions (Carlill); knowledge of the offer is essential (Lalman Shukla).
+* Acceptance must be absolute; a qualified acceptance is a counter-offer (Hyde v Wrench).
+* Silence is not acceptance (Felthouse v Bindley); unsolicited goods do not bind the recipient.
+* s.4: acceptance is complete against the proposer on posting and against the acceptor on receipt.
+* For instantaneous communication the contract is made where acceptance is received (Bhagwandas Kedia).
+* A standing offer is accepted afresh by each order (Great Northern Railway v Witham).
+
+QL: Explain the rules regarding communication and revocation of proposal and acceptance under the Indian Contract Act. Illustrate with a postal contract.
+QL: Distinguish between a proposal and an invitation to proposal. Discuss with reference to shop displays, auctions and tenders.
+QL: "Acceptance must be absolute and unqualified." Discuss. What is the effect of a counter-offer?
+QL: Discuss the law relating to contracts concluded over the telephone and by e-mail, with reference to Bhagwandas Goverdhandas Kedia.
+QS: General offer
+QS: Cross offers
+QS: Standing offer
+QS: Lalman Shukla v Gauri Dutt
+QS: Lapse of offer
+QS: Dumping of goods
+
+MCQ: In Lalman Shukla v Gauri Dutt the claim failed because || there was no consideration | *the plaintiff did not know of the offer | the offer was revoked | the plaintiff was a minor || Acceptance presupposes knowledge of the offer.
+MCQ: Communication of acceptance is complete as against the proposer when || it reaches the proposer | *it is put in a course of transmission out of the acceptor's power | it is written | the proposer reads it || s.4, second paragraph.
+MCQ: Display of goods with price tags in a self-service shop is || an offer | *an invitation to offer | an acceptance | a standing offer || Pharmaceutical Society v Boots (1953).
+MCQ: In Bhagwandas Kedia, the contract was held to be made at || Khamgaon | *Ahmedabad | Bombay | wherever the offer was made || For telephone contracts, the place where acceptance is received.
+MCQ: A proposal is NOT revoked by || notice of revocation | lapse of time | death of proposer known to acceptor before acceptance | *a counter-offer made after acceptance is complete || Once acceptance is complete, the contract is concluded.
+MCQ: Hyde v Wrench decided that || silence is acceptance | *a counter-offer destroys the original offer | tenders are offers | postal acceptance is complete on posting || A counter-offer operates as a rejection.
+
+# 4 | Consideration
+@topics Nudum pactum; Meaning, kinds and essentials of consideration; Privity of contract and its exceptions; Adequacy; Past, present and future consideration; Unlawful consideration; Views of the Law Commission; Evaluation of the doctrine
+>> Ex nudo pacto non oritur actio: a bare promise gives no right of action. Consideration is the price paid for the promise.
+
+## Definition
+SEC: s.2(d) :: When, at the desire of the promisor, the promisee or any other person has done or abstained from doing, or does or abstains from doing, or promises to do or to abstain from doing, something, such act or abstinence or promise is called a consideration for the promise.
+The classic English definition is from **Currie v Misa (1875)**: some right, interest, profit or benefit accruing to one party, or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other.
+
+## Essentials
+### 1. At the desire of the promisor
+An act done at the request of a third party, or voluntarily, is not consideration.
+
+CASE: Durga Prasad v Baldeo (1880) :: The plaintiff built shops in a market at the Collector's order. The defendant, who later occupied a shop, promised him a commission. Held: no consideration, because the building was not done at the desire of the defendant.
+
+### 2. May move from the promisee or any other person
+Unlike English law, Indian law allows consideration to come from a third party.
+
+CASE: Chinnaya v Ramayya (1882) :: An old woman gifted property to her daughter on condition that the daughter pay an annuity to the woman's brother. The daughter promised the brother to pay and then refused. Held: the brother could sue. Consideration had moved from the mother, and s.2(d) allows that.
+
+### 3. Past, present or future
+- **Past**: "has done". Past consideration is valid in India if the act was done at the promisor's desire (for example, a service rendered earlier at request and later paid for by promise). In England past consideration is no consideration (Re McArdle, 1951), subject to the request exception in Lampleigh v Brathwait (1615).
+- **Present (executed)**: "does".
+- **Future (executory)**: "promises to do".
+
+### 4. Must be real, not illusory
+It must have some value in the eye of the law. Performing an existing legal duty is not consideration (Collins v Godefroy, 1831), though doing more than the duty is (Glasbrook Bros v Glamorgan CC, 1925). Performing an existing contractual duty owed to a third party can be good consideration (Scotson v Pegg, 1861). In England, a practical benefit to the promisor can support a promise of extra pay (Williams v Roffey Bros, 1990).
+
+### 5. Need not be adequate
+SEC: s.25, Explanation 2 :: An agreement to which the consent of the promisor is freely given is not void merely because the consideration is inadequate; but the inadequacy may be taken into account by the court in deciding whether the consent was freely given.
+Illustration (f) to s.25: A agrees to sell a horse worth ₹1,000 for ₹10. The agreement is a contract if A's consent was free, but inadequacy is evidence on that question. English authority: **Chappell v Nestlé (1960)**, chocolate wrappers as part consideration.
+
+### 6. Must be lawful
+Sections 23 and 24 (Unit 7).
+
+## Kinds of consideration
+| Kind | Meaning | Example |
+|---|---|---|
+| Executed | Act done at the time of the promise | Paying cash for goods over the counter |
+| Executory | A promise to be performed later | Promise to deliver goods next month for a promise to pay |
+| Past | Act done before the promise, at the promisor's desire | Services rendered last year at request, promise to pay now |
+| Unlawful | Forbidden, fraudulent, immoral, against public policy | Payment to procure a government job |
+
+## Privity of contract
+Two related rules:
+1. **Privity of consideration**: in England consideration must move from the promisee. India rejects this (Chinnaya).
+2. **Privity of contract**: only a party to the contract can sue on it. A stranger cannot sue even if the contract was for his benefit. India accepts this rule.
+
+CASE: Tweddle v Atkinson (1861) :: The fathers of a bride and groom agreed to pay the groom money. The groom sued the bride's father's estate. Held: he could not sue, as he was not a party to the contract.
+
+CASE: Dunlop Pneumatic Tyre Co v Selfridge and Co (1915) :: Dunlop sold tyres to a dealer who agreed not to sell below list price and to obtain the same promise from retailers. Selfridge, a retailer, broke the promise. Held: Dunlop could not sue Selfridge, as Dunlop was not party to that contract and gave no consideration to Selfridge.
+
+CASE: M.C. Chacko v State Bank of Travancore (1969) :: The Supreme Court held that a person not a party to a contract cannot enforce it, even though it was made for his benefit, unless he comes within a recognised exception.
+
+### Exceptions to privity
+- **Trust or charge**: a beneficiary under a trust or a charge on property can enforce it: **Khwaja Muhammad Khan v Husaini Begum (1910)**, where a bride enforced her father-in-law's promise of an allowance charged on property.
+- **Family settlements and marriage arrangements**: a member of the family for whose benefit a provision is made in a family arrangement or marriage settlement can enforce it.
+- **Acknowledgement or estoppel**: where the promisor acknowledges the third party's right, for example by paying him or admitting liability.
+- **Assignment**: an assignee of contractual rights can sue (s.130 TPA for actionable claims).
+- **Agency**: a principal can sue on a contract made by his agent.
+- **Covenants running with land**: a purchaser with notice is bound by restrictive covenants (Tulk v Moxhay, 1848).
+- **Statutory exceptions**: for example, third-party claims against insurers under the Motor Vehicles Act, 1988.
+
+## Exceptions to "no consideration, no contract": s.25
+SEC: s.25 :: An agreement made without consideration is void, unless (1) it is expressed in writing and registered, and made on account of natural love and affection between parties standing in a near relation to each other; or (2) it is a promise to compensate, wholly or in part, a person who has already voluntarily done something for the promisor, or something the promisor was legally compellable to do; or (3) it is a promise in writing, signed by the person to be charged or his agent, to pay wholly or in part a debt which the creditor might have enforced but for the law of limitation.
+
+CASE: Rajlukhy Dabee v Bhootnath Mookerjee (1900) :: A husband promised in a registered document to pay his wife maintenance, after quarrels. Held: void. Though near relations, the document showed no natural love and affection.
+
+Further exceptions:
+- Explanation 1 to s.25: completed gifts are valid without consideration.
+- s.185: no consideration is needed to create an agency.
+- s.127: anything done or promise made for the benefit of the principal debtor is sufficient consideration for a surety.
+- Charitable subscriptions: where the promisee has acted on the promise, for example by incurring liability, the promise is enforceable: **Kedar Nath Bhattacharji v Gorie Mahomed (1886)**, a subscription for building a town hall.
+
+## Promissory estoppel
+Where a promise is made intending it to be acted on, and it is acted on, the promisor may be stopped from going back on it, even without consideration.
+
+CASE: Central London Property Trust v High Trees House (1947) :: A landlord promised to halve the rent during wartime. Denning J held that he could not claim the full rent for the war years, because the tenant had relied on the promise.
+
+CASE: Motilal Padampat Sugar Mills v State of Uttar Pradesh (1979) :: The State promised a sales tax exemption to new industrial units; the company set up a factory relying on it. The Supreme Court held the State bound by promissory estoppel; the government is not exempt from the doctrine, except where public interest requires otherwise.
+
+## Law Commission and evaluation of the doctrine
+The Law Commission of India in its **13th Report (1958)** reviewed the Contract Act and did not recommend abolishing consideration; it favoured the existing structure while suggesting limited reforms. Critics argue that:
+- consideration is technical and often fictional (a peppercorn suffices);
+- the doctrine defeats reasonable reliance, which is why equity created promissory estoppel;
+- other systems (civil law countries) enforce serious promises without any bargain requirement.
+Defenders reply that consideration separates bargains from casual or gratuitous promises and gives commercial certainty. Lord Mansfield's attempt in **Pillans v Van Mierop (1765)** to treat consideration as only evidence of seriousness was rejected by later courts.
+
+TIP: For "No consideration, no contract", start with s.2(d), explain the Indian features (desire of promisor, any other person, past consideration), and then list all exceptions: s.25(1), (2), (3), Explanation 1, s.185, charitable subscriptions and promissory estoppel.
+
+* Consideration must be at the desire of the promisor (Durga Prasad v Baldeo).
+* In India it may move from a third party (Chinnaya v Ramayya) and may be past.
+* Inadequacy does not void the contract but is evidence on free consent (s.25 Expl. 2).
+* A stranger to the contract cannot sue (Tweddle v Atkinson, Dunlop v Selfridge, M.C. Chacko), subject to trust, family settlement, acknowledgement, assignment and agency exceptions.
+* s.25 saves agreements based on natural love and affection (written and registered), compensation for past voluntary services and written promises to pay time-barred debts.
+* Promissory estoppel binds even the State (Motilal Padampat).
+
+QL: "An agreement without consideration is void." Explain the exceptions to this rule.
+QL: Define consideration. How does the Indian definition differ from the English concept? Refer to Durga Prasad v Baldeo and Chinnaya v Ramayya.
+QL: "A stranger to a contract cannot sue." Discuss the doctrine of privity of contract and its exceptions in India.
+QL: Evaluate the doctrine of consideration. Should it be abolished?
+QS: Past consideration
+QS: Adequacy of consideration
+QS: Promissory estoppel
+QS: Khwaja Muhammad Khan v Husaini Begum
+QS: Nudum pactum
+QS: Charitable subscriptions
+
+MCQ: Durga Prasad v Baldeo establishes that consideration must be || adequate | *at the desire of the promisor | from the promisee only | in writing || The act was done at the Collector's desire, not the defendant's.
+MCQ: Which is good consideration in India but not in England? || Present consideration | Future consideration | *Past consideration given at the promisor's request, and consideration from a third party | Illegal consideration || s.2(d) includes "has done" and "any other person".
+MCQ: A promise to pay a time-barred debt is enforceable if || made orally | *in writing and signed by the debtor or his agent | registered | made in court || s.25(3).
+MCQ: Chinnaya v Ramayya held that || a stranger to consideration cannot sue | *consideration may move from a third party | past consideration is no consideration | gifts need registration || The brother could sue though the consideration came from his sister.
+MCQ: Which of these does NOT require consideration? || A sale of goods | A lease | *Creation of an agency | A contract of insurance || s.185.
+
+# 5 | Capacity to contract
+@topics Meaning; Incapacity from status and mental defect; Minor's agreements; Definition of minor; Necessaries supplied to a minor; Beneficial and detrimental agreements; Ratification; Minor's agreements and estoppel; Evaluation; Other incapacities
+>> The law protects those who cannot protect themselves: a minor's agreement is void, and a person of unsound mind can contract only when of sound mind.
+
+## Who is competent?
+SEC: s.11 :: Every person is competent to contract who is of the age of majority according to the law to which he is subject, who is of sound mind, and who is not disqualified from contracting by any law to which he is subject.
+SEC: s.12 :: A person is of sound mind for contracting if, at the time he makes the contract, he is capable of understanding it and of forming a rational judgment as to its effect upon his interests. A person usually of unsound mind but occasionally of sound mind may contract when of sound mind; a person usually of sound mind but occasionally of unsound mind may not contract when of unsound mind.
+
+## Who is a minor?
+Under s.3 of the **Indian Majority Act, 1875**, a person domiciled in India attains majority on completing eighteen years. The Act applies irrespective of religion for purposes of contract, though it does not affect capacity in matters of marriage, dower, divorce and adoption.
+
+## Nature of a minor's agreement: void ab initio
+The Act did not say expressly whether a minor's agreement was void or voidable. The Privy Council settled it.
+
+CASE: Mohori Bibee v Dharmodas Ghose (1903) :: Dharmodas, a minor, mortgaged his house to a moneylender for ₹20,000, of which about ₹8,000 was actually advanced. The lender's agent knew he was a minor. The minor sued to set aside the mortgage. Held: (1) a minor's agreement is void ab initio, since ss.10 and 11 require competent parties; (2) the minor need not repay the advance, because ss.64 and 65 apply only to contracts made between competent parties; (3) there is no estoppel against a minor where the other party knew the truth.
+
+### Consequences of the rule
+- **No ratification**: a minor cannot ratify on attaining majority an agreement made during minority, because a void agreement cannot be ratified. A fresh contract with fresh consideration is needed.
+- **No estoppel**: a minor who misrepresents his age is not estopped from pleading minority, because estoppel cannot override a statutory incapacity (s.121 of the Bharatiya Sakshya Adhiniyam, 2023, earlier s.115 of the Evidence Act). Confirmed in **Sadiq Ali Khan v Jai Kishore (1928)**.
+- **No specific performance** for or against a minor, because there is no mutuality: **Mir Sarwarjan v Fakhruddin Mohd Chowdhury (1912)**, where a guardian's contract to buy land for a minor was not enforced.
+- **No liability in tort** where the tort is merely a way of enforcing the void contract: **R. Leslie Ltd v Sheill (1914)**, where a minor who lied about his age to borrow money could not be made to repay it as damages for deceit.
+- **Minor cannot be adjudged insolvent**, since he cannot incur contractual debts.
+
+### Restitution where the minor misrepresented his age
+Should a minor who obtained property by fraud keep it? Indian courts applied equity.
+
+CASE: Khan Gul v Lakha Singh (1928) :: A minor who had fraudulently represented himself as an adult sold land and took the price but refused to deliver the land. The Lahore High Court (Full Bench, Shadi Lal CJ) held that he must restore the money received, applying the equitable principle of restitution (now in the Specific Relief Act).
+
+SEC: s.33(2)(b), Specific Relief Act, 1963 :: Where a defendant successfully resists a suit on the ground that the agreement is void because he was not competent to contract, the court may require him to restore any benefit he received from the other party, to the extent that he or his estate has benefited.
+SEC: s.30, Specific Relief Act, 1963 :: On adjudging rescission of a contract, the court may require the party to whom relief is granted to restore so far as may be any benefit he has received and to make compensation.
+So the minor who is plaintiff in a cancellation suit, or who as defendant successfully pleads minority, may be ordered to give back what he obtained, though never to pay damages or repay out of his other assets.
+
+## Necessaries supplied to a minor
+SEC: s.68 :: If a person incapable of entering into a contract, or anyone whom he is legally bound to support, is supplied by another person with necessaries suited to his condition in life, the person who furnished such supplies is entitled to be reimbursed from the property of such incapable person.
+- "Necessaries" means goods and services suited to the minor's station in life and actual needs at the time: food, clothing, shelter, education, medical aid, and legal services to protect his property.
+- The supplier must prove the goods were necessaries and that the minor was not already adequately supplied: **Nash v Inman (1908)**, where eleven fancy waistcoats supplied to a Cambridge undergraduate who already had enough clothes were held not necessaries.
+- Liability is of the minor's **property**, not personal. It arises in quasi-contract, not contract.
+
+## Beneficial and detrimental agreements
+A minor can be a promisee or beneficiary: nothing prevents him from receiving a benefit.
+- A mortgage executed in favour of a minor who has advanced the money is enforceable by him: **Raghava Chariar v Srinivasa Raghava Chariar (1916)** (Madras Full Bench).
+- A minor may be admitted to the benefits of a partnership with the consent of all partners (s.30, Indian Partnership Act, 1932), but is not personally liable for losses.
+- A minor can be an agent, binding the principal, though not personally liable to the principal (s.184).
+- A minor can draw, endorse and negotiate negotiable instruments, binding all parties except himself (s.26, Negotiable Instruments Act).
+- A guardian may, within his powers, enter a contract for the minor's benefit, for example to buy necessaries or for marriage expenses: courts have enforced such contracts where they are within the guardian's competence and for the minor's benefit (**Srikakulam Subrahmanyam v Kurra Subba Rao, 1948, Privy Council**, where a sale by the mother as guardian to pay off a debt was upheld).
+
+## Evaluation of the law on minors
+- The void-ab-initio rule protects minors firmly but can be harsh on honest traders, and encourages dishonest minors.
+- Equitable restitution (Khan Gul; s.33 SRA) softens the harshness.
+- Critics suggest that India adopt a "voidable at the minor's option" model like English law, combined with a clear statutory restitution rule (as in the English Minors' Contracts Act, 1987).
+- Modern problems: minors contracting online (app purchases, gaming, e-commerce); these are void but platforms rely on parental consent mechanisms.
+
+## Persons of unsound mind
+- Idiots, lunatics, drunkards and persons under the influence of drugs, at the time of contracting, are incapable.
+- An agreement by a person of unsound mind is void (as with minors), though he is liable for necessaries out of his property under s.68.
+- A lunatic may contract in a lucid interval.
+
+## Other persons disqualified by law
+- **Alien enemies**: during war, an alien enemy cannot contract with Indian citizens except with government licence.
+- **Foreign sovereigns and ambassadors**: can contract and sue, but cannot be sued without consent of the Central Government (s.86, CPC).
+- **Insolvents**: an undischarged insolvent cannot deal with property vested in the official receiver.
+- **Convicts**: in England, while undergoing sentence; Indian law has no general disability.
+- **Companies**: capacity limited by the objects clause; acts outside it are ultra vires and void: **Ashbury Railway Carriage and Iron Co v Riche (1875)**.
+
+TIP: For a problem on a minor's agreement, cover five points in order: void ab initio (Mohori Bibee), no estoppel, no ratification, restitution under s.33 SRA (Khan Gul), and liability for necessaries under s.68.
+
+* A minor is a person under eighteen (Indian Majority Act, 1875).
+* A minor's agreement is void ab initio and cannot be ratified (Mohori Bibee v Dharmodas Ghose).
+* No estoppel against a minor; but equity may order restitution of benefits (Khan Gul; s.33 SRA).
+* Necessaries: supplier is reimbursed from the minor's property only (s.68; Nash v Inman).
+* A minor may be a beneficiary, promisee, agent or admitted partner.
+* A person of unsound mind can contract only during sound mind (s.12).
+
+QL: Discuss the nature and effect of a minor's agreement under the Indian Contract Act with reference to Mohori Bibee v Dharmodas Ghose.
+QL: "There is no estoppel against a minor." Discuss. Is a minor bound to restore benefits received by misrepresenting his age?
+QL: Explain the law relating to necessaries supplied to a minor or a person of unsound mind.
+QL: Critically evaluate the law relating to minors' agreements in India. Suggest reforms.
+QS: Mohori Bibee v Dharmodas Ghose
+QS: Khan Gul v Lakha Singh
+QS: Sound mind for the purposes of contracting
+QS: Minor as partner
+QS: Ratification of minor's agreement
+
+MCQ: A minor's agreement under Indian law is || voidable at the minor's option | valid | *void ab initio | illegal || Mohori Bibee (1903).
+MCQ: A supplier of necessaries to a minor can recover || from the minor personally | from the minor's guardian personally | *from the minor's property | nothing || s.68.
+MCQ: Which case allowed restitution against a minor who misrepresented his age? || Mohori Bibee | *Khan Gul v Lakha Singh | Leslie v Sheill | Nash v Inman || Lahore High Court (Full Bench) applied equitable restitution.
+MCQ: A minor on attaining majority || can ratify the agreement | *cannot ratify, since a void agreement cannot be ratified | must ratify within one year | is automatically bound || A fresh contract is needed.
+MCQ: Under s.12, a person usually of unsound mind || can never contract | *may contract when of sound mind | may contract only through a guardian | is always liable || s.12 second paragraph.
+
+# 6 | Free consent
+@topics Need and definition of free consent; Coercion and economic duress; Undue influence, independent advice, pardanashin women, unconscionable bargains; Misrepresentation of law and fact; Fraud, suppressio veri, when silence is fraud; Mistake of law and of fact
+>> Consent obtained by pressure, domination, deceit or error is not the free consent s.10 demands. Most such contracts are voidable; a shared mistake of fact makes them void.
+
+## Consent and free consent
+SEC: s.13 :: Two or more persons are said to consent when they agree upon the same thing in the same sense.
+SEC: s.14 :: Consent is said to be free when it is not caused by (1) coercion (s.15), (2) undue influence (s.16), (3) fraud (s.17), (4) misrepresentation (s.18), or (5) mistake, subject to ss.20, 21 and 22. Consent is "caused" by any of these when it would not have been given but for its existence.
+Where there is no consent at all (for example, a party signs not knowing what the document is), there is no agreement. Where consent exists but is not free, the contract is usually voidable.
+
+| Factor | Section | Effect | Section on effect |
+|---|---|---|---|
+| Coercion | 15 | Voidable | 19 |
+| Undue influence | 16 | Voidable; court may set aside on terms | 19A |
+| Fraud | 17 | Voidable plus damages | 19 |
+| Misrepresentation | 18 | Voidable | 19 |
+| Bilateral mistake of fact | 20 | Void | 20 |
+| Mistake of Indian law | 21 | Not voidable | 21 |
+| Unilateral mistake | 22 | Not voidable | 22 |
+
+## 6.1 Coercion
+SEC: s.15 :: Coercion is the committing, or threatening to commit, any act forbidden by the Indian Penal Code, or the unlawful detaining, or threatening to detain, any property, to the prejudice of any person whatever, with the intention of causing any person to enter into an agreement. Explanation: it is immaterial whether the Indian Penal Code is or is not in force where the coercion is employed.
+NOTE: The Indian Penal Code was repealed and replaced by the Bharatiya Nyaya Sanhita, 2023 from 1 July 2024. Section 15 has not been textually amended, but under s.8 of the General Clauses Act, 1897 a reference to a repealed enactment is read as a reference to the re-enacting one, so "act forbidden by the IPC" is now read as an act forbidden by the BNS.
+
+### Elements
+- An act forbidden by the penal law, or unlawful detention of property, committed or threatened.
+- To the prejudice of any person (not necessarily the contracting party).
+- By any person (not necessarily the other contracting party).
+- With intention of causing any person to enter into an agreement.
+
+CASE: Chikham Amiraju v Chikham Seshamma (1917) :: A husband threatened to commit suicide unless his wife and son executed a release of property in favour of his brother. The Madras High Court (majority) held this was coercion: attempt to commit suicide was then punishable under the IPC, so a threat to commit it was a threat of an act forbidden by the Code.
+
+CASE: Ranganayakamma v Alwar Setti (1889) :: A thirteen-year-old widow was prevented from removing her husband's body for cremation until she agreed to adopt a boy. The adoption was set aside as obtained by coercion.
+
+### Coercion and duress compared
+| Point | Coercion (India) | Duress (English common law) |
+|---|---|---|
+| Against whom | Any person | The contracting party or close family |
+| By whom | Any person | The other party or his agent |
+| What | Penal offences and unlawful detention of property | Violence or threats to the person; extended to goods and economic pressure |
+| Criminal law | Act forbidden by penal code | Need not be a crime |
+
+### Economic duress
+Illegitimate commercial pressure, such as a threat to break a contract unless the victim pays more, can vitiate consent if it leaves no practical choice: **Pao On v Lau Yiu Long (1980)**; **Universe Tankships v ITWF (1983)**. Indian courts reach similar results through s.23 public policy and the unconscionability principle (Brojo Nath Ganguly, Unit 1), and by allowing recovery under s.72 of money paid under pressure.
+
+CASE: Seth Kanhaya Lal v National Bank of India (1913) :: Money paid under protest to avoid unlawful seizure of property could be recovered under s.72 as paid "under coercion"; the Privy Council read coercion in s.72 in its ordinary sense, not confined to s.15.
+
+### Evaluation of s.15
+- The link to the penal code is narrow: a threat of a civil wrong or of lawful action used for an improper purpose is not coercion.
+- The reference to the repealed IPC is outdated.
+- "Threat to commit suicide" was coercion when suicide attempt was an offence; the BNS does not carry over the general offence of attempt to suicide (IPC s.309), so after 2024 such a threat may no longer fit s.15 and is better argued as undue influence. This is a good point for evaluation answers.
+
+## 6.2 Undue influence
+SEC: s.16(1) :: A contract is said to be induced by undue influence where the relations subsisting between the parties are such that one of them is in a position to dominate the will of the other and uses that position to obtain an unfair advantage over the other.
+SEC: s.16(2) :: A person is deemed to be in a position to dominate the will of another (a) where he holds a real or apparent authority over the other, or stands in a fiduciary relation; or (b) where he makes a contract with a person whose mental capacity is temporarily or permanently affected by age, illness or mental or bodily distress.
+SEC: s.16(3) :: Where a person in a position to dominate enters into a transaction which on its face or on the evidence appears unconscionable, the burden of proving that it was not induced by undue influence lies on the person in the position to dominate.
+
+### Three stages (Raghunath Prasad v Sarju Prasad)
+CASE: Raghunath Prasad v Sarju Prasad (1923) :: The Privy Council laid down the order of inquiry: (1) were the relations such that one party was in a position to dominate the other's will; (2) if so, did he use that position to obtain the contract; (3) is the transaction unconscionable? If so, the burden shifts to the dominant party. On the facts, high interest alone, without proof of domination, did not show undue influence.
+
+CASE: Mannu Singh v Umadat Pande (1890) :: A disciple gifted all his property to his spiritual guru to secure benefits to his soul. Held: the gift was voidable for undue influence. Spiritual advisers are a classic dominant relationship.
+
+Relations presumed to involve domination: parent and child, guardian and ward, doctor and patient, spiritual adviser and devotee, solicitor and client, trustee and beneficiary. Husband and wife is not a presumed relation; domination must be proved.
+
+### Independent advice
+The dominant party rebuts the presumption most easily by showing the weaker party had competent independent advice before acting, understood the transaction and acted freely.
+
+### Pardanashin women
+A pardanashin woman lives in seclusion, does not deal with the outside world. Courts give her special protection.
+
+CASE: Kali Bakhsh Singh v Ram Gopal Singh (1913) :: The Privy Council held that a person relying on a deed executed by a pardanashin woman must prove that it was explained to her and understood by her, and that she had independent advice. The protection rests on her presumed inexperience, not on any presumption of undue influence.
+
+The same protection has been extended to illiterate or inexperienced women who are not strictly pardanashin.
+
+### Unconscionable bargains
+Moneylending at exorbitant rates to a person in distress is the common case. The Usurious Loans Act, 1918 also allows courts to reopen unfair loan transactions.
+
+SEC: s.19A :: When consent is caused by undue influence, the contract is voidable at the option of the party whose consent was so caused. The court may set it aside absolutely, or, if the party entitled to avoid it has received any benefit, on such terms as the court thinks just.
+
+CASE: Subhas Chandra Das Mushib v Ganga Prasad Das Mushib (1967) :: The Supreme Court held that mere relationship is not enough. The plaintiff must first show the other party was in a position to dominate his will; only then does the inquiry move to whether the position was used and whether the bargain was unconscionable.
+
+## 6.3 Misrepresentation
+SEC: s.18 :: Misrepresentation means and includes (1) the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true; (2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing it by misleading another to his prejudice; (3) causing, however innocently, a party to an agreement to make a mistake as to the substance of the thing which is the subject of the agreement.
+
+- Misrepresentation is an innocent false statement: the maker honestly believes it.
+- The statement must be of fact, not opinion (Bisset v Wilkinson, 1927) or mere puff.
+- **Misrepresentation of law**: everyone is presumed to know the law, so a false statement of the general law is ordinarily not actionable. But a misstatement of foreign law, or of private rights (for example, about the effect of a particular deed), is treated as one of fact.
+- It must induce the contract and the other party must have acted on it.
+
+SEC: s.19, Exception :: If consent was caused by misrepresentation or by silence fraudulent within s.17, the contract is nevertheless not voidable if the party whose consent was so caused had the means of discovering the truth with ordinary diligence.
+This differs from English law, where the victim is not deprived of relief merely because he could have checked (Redgrave v Hurd, 1881).
+
+## 6.4 Fraud
+SEC: s.17 :: Fraud means any of the following acts committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another party or his agent, or to induce him to enter the contract: (1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true; (2) the active concealment of a fact by one having knowledge or belief of the fact; (3) a promise made without any intention of performing it; (4) any other act fitted to deceive; (5) any act or omission the law specially declares fraudulent.
+SEC: s.17, Explanation :: Mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances are such that it is the duty of the person keeping silence to speak, or unless his silence is in itself equivalent to speech.
+
+### Essentials
+- A false representation of fact (*suggestio falsi*) or active concealment (*suppressio veri*).
+- Knowledge of falsity or recklessness: **Derry v Peek (1889)**, where directors honestly but wrongly believed they had permission to run steam trams; held no fraud, as fraud needs absence of honest belief.
+- Intent to deceive or to induce the contract.
+- The other party must have been actually deceived and must have acted on it. Fraud which does not cause consent does not make the contract voidable (Explanation to s.19).
+
+### When does silence amount to fraud?
+1. **Duty to speak**: contracts *uberrimae fidei* (of utmost good faith) such as insurance, family settlements, partnership, company prospectuses; and fiduciary relations.
+2. **Silence equivalent to speech**: illustration (c) to s.17, where B says "If you do not deny it, I shall assume the horse is sound," and A says nothing.
+3. **Half-truths**: a true statement that is misleading because of what it leaves out.
+4. **Change of circumstances**: a statement true when made becomes false before the contract, and the maker stays silent: **With v O'Flanagan (1936)**, where a medical practice's income collapsed before sale.
+
+CASE: Mithoolal Nayak v Life Insurance Corporation of India (1962) :: The insured concealed serious illness when taking a life policy. The Supreme Court held the policy voidable for fraudulent suppression of material facts, since insurance is a contract of utmost good faith.
+
+### Effect
+Voidable at the option of the deceived party (s.19), who may also insist on being put in the position he would have been in had the representation been true. Fraud is also the tort of deceit, giving a claim for damages.
+
+| Point | Misrepresentation | Fraud |
+|---|---|---|
+| Belief | Maker believes statement true | Maker knows it is false or is reckless |
+| Intent | No intent to deceive | Intent to deceive |
+| Remedy | Rescission only | Rescission and damages |
+| Ordinary diligence defence | Available (s.19 Exception) | Available only for silence fraud, not active fraud |
+| Criminal liability | None | May be cheating under the BNS |
+
+## 6.5 Mistake
+### Mistake of fact
+SEC: s.20 :: Where both parties to an agreement are under a mistake as to a matter of fact essential to the agreement, the agreement is void. Explanation: an erroneous opinion as to the value of the thing which forms the subject-matter of the agreement is not to be deemed a mistake as to a matter of fact.
+
+Kinds of bilateral mistake:
+- **As to existence of subject-matter** (*res extincta*): illustration (a) to s.20, a horse already dead at the time of sale; **Couturier v Hastie (1856)**, a cargo of corn already sold off.
+- **As to identity of subject-matter**: **Raffles v Wichelhaus (1864)**, the two ships named *Peerless*.
+- **As to title** (*res sua*): **Cooper v Phibbs (1867)**, a man leased a fishery that already belonged to him.
+- **As to quality**: only if it makes the thing essentially different from what was agreed. In **Bell v Lever Bros (1932)**, a golden handshake paid under a shared mistake that the contracts could not be terminated without compensation was not void.
+- **As to quantity or price**, when essential.
+
+### Mistake of law
+SEC: s.21 :: A contract is not voidable because it was caused by a mistake as to any law in force in India; but a mistake as to a law not in force in India has the same effect as a mistake of fact.
+The maxim is *ignorantia juris non excusat*. But money paid under a mistake of law can still be recovered under s.72 (Unit 9).
+
+### Unilateral mistake
+SEC: s.22 :: A contract is not voidable merely because it was caused by one of the parties being under a mistake as to a matter of fact.
+Exceptions where unilateral mistake makes the agreement void:
+- **Mistake as to the identity of the other party**, where identity is vital.
+
+CASE: Cundy v Lindsay (1878) :: A rogue named Blenkarn ordered goods by letter, signing so as to look like Blenkiron and Co, a reputable firm. The sellers meant to deal only with Blenkiron. Held: no contract; the rogue got no title and could pass none to an innocent buyer.
+
+- Contrast face-to-face dealings, where the seller is presumed to intend to deal with the person present, so the contract is voidable for fraud, not void: **Phillips v Brooks (1919)**; **Lewis v Averay (1972)**. The House of Lords confirmed the written-contract rule in **Shogun Finance v Hudson (2003)**.
+- **Mistake as to the nature of the document** (*non est factum*): a person who signs a document fundamentally different from what he thought, without negligence, is not bound: **Foster v Mackinnon (1869)**. The plea is narrow: **Saunders v Anglia Building Society (1971)**.
+
+TIP: In a problem, first ask whether there was any consent (if not, there is no agreement), then which factor caused it, then the section that gives the effect, then any exception (ordinary diligence, s.19A terms, restitution under s.64 or s.65).
+
+* s.14 lists five factors; consent is "caused" if it would not have been given otherwise.
+* Coercion is wide: any person, any victim, penal-code acts or unlawful detention of property (Amiraju).
+* Undue influence: domination, use of position, unconscionable bargain; burden shifts under s.16(3) (Raghunath Prasad).
+* Pardanashin women get special protection (Kali Bakhsh Singh).
+* Fraud needs knowledge of falsity (Derry v Peek); silence is fraud only where there is a duty to speak or silence is equivalent to speech.
+* Bilateral mistake of fact makes the agreement void (s.20); mistake of Indian law or unilateral mistake does not, except mistake as to identity or non est factum.
+
+QL: What is free consent? Explain the factors that vitiate free consent and their effect on the contract.
+QL: Define coercion. How does it differ from duress? Discuss with reference to Chikham Amiraju v Chikham Seshamma.
+QL: Discuss the law of undue influence with reference to the presumption under s.16(3) and the protection of pardanashin women.
+QL: Distinguish between fraud and misrepresentation. When does silence amount to fraud?
+QL: "Mistake of law is no excuse." Discuss the law relating to mistake under the Indian Contract Act.
+QS: Economic duress
+QS: Suppressio veri
+QS: Pardanashin woman
+QS: Non est factum
+QS: Cundy v Lindsay
+QS: Derry v Peek
+
+MCQ: A threat to commit suicide was held to be coercion in || Ranganayakamma v Alwar Setti | *Chikham Amiraju v Chikham Seshamma | Mannu Singh v Umadat Pande | Derry v Peek || Madras High Court, 1917.
+MCQ: Under s.20, a bilateral mistake of fact essential to the agreement makes it || voidable | *void | illegal | valid || s.20.
+MCQ: Mere silence is not fraud unless || the other party is a minor | *there is a duty to speak or silence is equivalent to speech | the contract is in writing | the price is inadequate || Explanation to s.17.
+MCQ: The burden of proving no undue influence shifts to the dominant party when || the parties are related | *the transaction appears unconscionable and the dominant position is shown | the contract is registered | the weaker party is a woman || s.16(3).
+MCQ: In Derry v Peek, the House of Lords held that fraud requires || negligence | *absence of honest belief in the truth of the statement | a written statement | a contract of utmost good faith || Honest belief, however unreasonable, is not fraud.
+MCQ: A mistake as to a foreign law is treated as || a mistake of Indian law | *a mistake of fact | no mistake at all | fraud || s.21.
+
+# 7 | Legality of object and void agreements
+@topics Void agreements; Unlawful consideration and objects (forbidden by law, defeating law, fraudulent, injurious, immoral, against public policy); Agreements without consideration; Restraint of marriage; Restraint of trade and its exceptions; Restraint of legal proceedings; Uncertain agreements; Wagering agreements
+>> Even a freely made bargain fails if its object or consideration is unlawful, or if the Act expressly declares that kind of agreement void.
+
+## Section 23: when consideration or object is unlawful
+SEC: s.23 :: The consideration or object of an agreement is lawful, unless it is forbidden by law; or is of such a nature that, if permitted, it would defeat the provisions of any law; or is fraudulent; or involves or implies injury to the person or property of another; or the court regards it as immoral, or opposed to public policy. Every agreement of which the object or consideration is unlawful is void.
+
+### 1. Forbidden by law
+An act punishable by statute, or prohibited by rules having the force of law. Example: an agreement to sell liquor without the licence required by law, or to trade in goods banned by import control.
+
+CASE: Mannalal Khetan v Kedar Nath Khetan (1977) :: A transfer of shares made in contravention of a statutory provision that was prohibitory and mandatory (carrying a penalty) was held void. Where a statute imposes a penalty, it implies a prohibition, and an agreement in breach of it is void.
+
+### 2. Would defeat the provisions of any law
+The act is not itself prohibited, but allowing the agreement would circumvent a statute. Example: an agreement by a debtor not to plead limitation, or a benami arrangement designed to defeat land-ceiling or tax laws; illustration (f) to s.23, a promise to drop a prosecution for robbery in return for restoration of goods.
+
+### 3. Fraudulent
+An agreement to defraud third parties or the public. Illustration (h): A, B and C agree to divide gains acquired by them by fraud. **Scott v Brown, Doering, McNab and Co (1892)**: an agreement to buy shares to create a false premium on the stock exchange was unenforceable.
+
+### 4. Injury to person or property of another
+An agreement to commit a tort or crime, or to cause loss to another. Agreements creating bonded labour, or for a loan repayable by personal servitude, fall here and are also prohibited by Article 23 of the Constitution and the Bonded Labour System (Abolition) Act, 1976.
+
+### 5. Immoral
+CASE: Gherulal Parakh v Mahadeodas Maiya (1959) :: The Supreme Court held that "immoral" in s.23 is confined to sexual morality and must be judged by the prevailing standards of the time. It should not be extended to cover every agreement against general morals; wagering was not "immoral" in this sense.
+
+Example: letting a house or carriage to a prostitute for her trade, if the lessor knows the purpose (**Pearce v Brooks, 1866**). Agreements for future separation of husband and wife are also treated as immoral or opposed to public policy.
+
+### 6. Opposed to public policy
+Public policy is "an unruly horse" (Burrough J, Richardson v Mellish, 1824). Courts apply it with care. Recognised heads:
+- trading with the enemy;
+- stifling prosecution of non-compoundable offences;
+- traffic in public offices and titles, or to influence public servants;
+- marriage brokerage (payments for procuring a marriage);
+- agreements interfering with parental duty or the course of justice (maintenance and champerty in England; in India, champertous agreements are void only if extortionate or unconscionable);
+- unconscionable terms between parties of unequal bargaining power.
+
+CASE: Central Inland Water Transport Corporation v Brojo Nath Ganguly (1986) :: Public policy is not static. An unconscionable term in a contract between unequal parties, such as termination of permanent service by notice, is void under s.23 as opposed to public policy.
+
+### Partial illegality
+SEC: s.24 :: If any part of a single consideration for one or more objects, or any one or any part of any one of several considerations for a single object, is unlawful, the agreement is void.
+The legal part survives only if it can be severed (compare s.57, reciprocal promises to do legal and illegal things: the legal part is enforceable).
+
+### Effects of illegality
+- The agreement is void; neither party can enforce it.
+- *In pari delicto potior est conditio defendentis*: where both parties are equally at fault, the position of the defendant is stronger, so money paid cannot be recovered.
+- *Ex turpi causa non oritur actio*: no action arises from a base cause.
+- Exceptions: the plaintiff was not equally guilty (for example, coerced or deceived), or repented before the illegal purpose was carried out.
+- Collateral transactions to an illegal agreement are also void.
+
+## Agreements expressly declared void
+| Section | Agreement |
+|---|---|
+| 24 | Part of consideration or object unlawful |
+| 25 | Without consideration (subject to exceptions, Unit 4) |
+| 26 | In restraint of marriage |
+| 27 | In restraint of trade |
+| 28 | In restraint of legal proceedings |
+| 29 | Uncertain |
+| 30 | By way of wager |
+| 36 | Contingent on an impossible event |
+| 56 | To do an impossible act |
+
+## Restraint of marriage: s.26
+SEC: s.26 :: Every agreement in restraint of the marriage of any person, other than a minor, is void.
+A promise not to marry at all, or not to marry anyone except a particular person, is void (Lowe v Peers, 1768). Indian law, unlike English law, voids even partial restraints. Restraints on remarriage of widows found in some customs are not saved by contract.
+
+## Restraint of trade: s.27
+SEC: s.27 :: Every agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind is to that extent void. Exception 1: one who sells the goodwill of a business may agree with the buyer to refrain from carrying on a similar business within specified local limits, so long as the buyer or his successor carries on a like business there, provided the limits are reasonable.
+
+CASE: Madhub Chunder v Rajcoomar Doss (1874) :: Two shopkeepers agreed that one would close his shop in a locality in return for compensation. The Calcutta High Court held the agreement void, even though the restraint was partial. Under s.27 any restraint, total or partial, is void unless it falls within an exception.
+
+This differs from English law, where reasonable restraints are valid (**Nordenfelt v Maxim Nordenfelt, 1894**).
+
+### Exceptions and qualifications
+- **Sale of goodwill**: s.27 Exception 1, within reasonable local limits.
+- **Partnership Act, 1932**: a partner may agree not to carry on competing business during the partnership (s.11(2)); an outgoing partner (s.36(2)), partners on dissolution (s.54) and a seller of goodwill of the firm (s.55(3)) may agree to reasonable restraints.
+- **Restraint during employment**: a negative covenant operating while the contract subsists is valid.
+
+CASE: Niranjan Shankar Golikari v Century Spinning and Manufacturing Co (1967) :: An employee agreed to serve exclusively for five years and not to work elsewhere during that period. The Supreme Court upheld the restraint because it operated during the term of employment; restraints operating after termination are generally void.
+
+CASE: Superintendence Company of India v Krishan Murgai (1981) :: A clause restraining an employee from serving a competitor for two years after leaving was held void under s.27.
+
+CASE: Percept D'Mark (India) v Zaheer Khan (2006) :: A right-of-first-refusal clause operating after expiry of a cricketer's management contract was held void as a restraint of trade under s.27.
+
+- **Trade combinations**: agreements regulating business among traders (for example, pooling or price fixing) were sometimes upheld as not restraining trade (**Fraser and Co v Bombay Ice Manufacturing Co, 1904**), but anti-competitive agreements are now governed by s.3 of the Competition Act, 2002.
+- **Exclusive dealing**: a trader agreeing to deal only with one supplier during the contract is valid if it promotes trade: **Gujarat Bottling Co v Coca Cola Co (1995)**.
+
+## Restraint of legal proceedings: s.28
+SEC: s.28 :: Every agreement (a) by which a party is restricted absolutely from enforcing his rights under or in respect of any contract by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights; or (b) which extinguishes the rights of any party, or discharges any party from any liability, on the expiry of a specified period so as to restrict any party from enforcing his rights, is void to that extent.
+Clause (b) was added by an amendment of 1997 to overcome decisions that had upheld clauses extinguishing rights after a short period.
+
+Exceptions:
+- **Exception 1**: agreement to refer future disputes to arbitration.
+- **Exception 2**: agreement to refer existing disputes to arbitration.
+- **Exception 3** (added 2013): a guarantee agreement of a bank or financial institution extinguishing rights or discharging liability on expiry of a specified period of not less than one year from the date of occurrence or non-occurrence of a specified event.
+- **Exclusive jurisdiction clauses**: parties may choose one of two or more courts that already have jurisdiction; this is not an absolute restraint: **A.B.C. Laminart v A.P. Agencies (1989)**; **Swastik Gases v Indian Oil Corporation (2013)**. They cannot confer jurisdiction on a court that has none.
+
+## Uncertain agreements: s.29
+SEC: s.29 :: Agreements the meaning of which is not certain, or capable of being made certain, are void.
+Illustrations: A agrees to sell B "a hundred tons of oil" (void, the kind is uncertain), but if A deals only in coconut oil, the meaning is capable of being made certain. An agreement to sell a car "on hire-purchase terms" was void for uncertainty in **Scammell v Ouston (1941)**. An agreement to agree in future is not a contract.
+
+## Wagering agreements: s.30
+SEC: s.30 :: Agreements by way of wager are void; and no suit shall be brought for recovering anything alleged to be won on any wager, or entrusted to any person to abide the result of any game or other uncertain event. Exception: subscriptions or contributions towards any plate, prize or sum of money of the value of five hundred rupees or upwards, to be awarded to the winner of any horse race, are not unlawful.
+
+### Essentials (from Carlill v Carbolic Smoke Ball, Hawkins J)
+- A promise to pay money or money's worth.
+- On the determination of an uncertain future event (or past event unknown to the parties).
+- Mutual chances of gain and loss: each party may win or lose.
+- Neither party has control over the event.
+- Neither has any interest in the event other than the stake.
+
+### Wagers distinguished
+- **Insurance**: the insured has an insurable interest; the contract is one of indemnity (except life). Not a wager.
+- **Commercial transactions**: genuine sales for future delivery are valid; a transaction where both intend only to pay differences in price is a wager.
+- **Games of skill**: competitions where success depends substantially on skill are not wagers.
+
+CASE: Gherulal Parakh v Mahadeodas Maiya (1959) :: Two parties agreed to enter wagering contracts with third parties and share profits and losses. Held: a wagering agreement is void but not illegal (except in states such as Gujarat and Maharashtra, where it is made illegal by statute). A collateral agreement, such as a partnership to carry on wagering, is not void and can be enforced.
+
+CASE: Dr K.R. Lakshmanan v State of Tamil Nadu (1996) :: Betting on horse racing was held to be a game of mere skill, not gambling, because skill in assessing horses, jockeys and form predominates.
+
+NOTE: Online money games are now regulated by the Promotion and Regulation of Online Gaming Act, 2025, which prohibits offering online money games. Agreements to stake money on such games would be void under s.30 and also forbidden by law under s.23.
+
+TIP: Remember the contrast that examiners like: in English law, reasonable restraints of trade are valid; in India, s.27 voids all restraints except the statutory exceptions, though courts accept negative covenants during employment.
+
+## Recent judgments (2025–26)
+
+CASE: Vijaya Bank v Prashant B. Narnaware (2025) :: A clause requiring a newly recruited officer to serve a minimum period, or pay liquidated damages for leaving early, was held not to be a restraint of trade under s.27. It operates only during employment and protects a legitimate interest of the employer.
+
+* Minimum-service bonds with liquidated damages are not a restraint of trade under s.27 (Vijaya Bank, 2025).
+* s.23 lists six heads of unlawfulness; immoral means sexual immorality (Gherulal Parakh); public policy can strike down unconscionable terms (Brojo Nath Ganguly).
+* Illegality taints collateral transactions; mere voidness (as in wagers) does not.
+* s.27 voids partial restraints too (Madhub Chunder); exceptions are sale of goodwill and Partnership Act provisions; restraint during employment is valid (Niranjan Golikari).
+* s.28 voids clauses barring or time-limiting legal proceedings; arbitration and bank guarantee clauses are saved; exclusive jurisdiction clauses are valid.
+* Wagering agreements are void, not illegal; horse-race prizes of ₹500 or more are excepted.
+
+QL: When is the consideration or object of an agreement unlawful? Discuss with special reference to public policy.
+QL: "Every agreement in restraint of trade is void." Discuss the exceptions, with reference to employment contracts.
+QL: Define a wagering agreement. Distinguish it from a contract of insurance. Are collateral transactions to a wager enforceable?
+QL: Discuss the validity of agreements in restraint of legal proceedings with reference to the 1997 and 2013 amendments to s.28.
+QS: Ex turpi causa non oritur actio
+QS: In pari delicto
+QS: Gherulal Parakh v Mahadeodas Maiya
+QS: Exclusive jurisdiction clause
+QS: Uncertain agreements
+QS: Restraint of marriage
+
+MCQ: In Gherulal Parakh, the Supreme Court held that a wagering agreement is || illegal | *void but not illegal | voidable | valid || Collateral transactions remain enforceable.
+MCQ: An agreement restraining an employee from joining a competitor after leaving service is generally || valid if reasonable | *void under s.27 | voidable | valid only if in writing || Superintendence Co v Krishan Murgai (1981).
+MCQ: Which is an exception to s.28? || Agreement limiting time to sue | *Agreement to refer disputes to arbitration | Agreement not to sue at all | Agreement to extinguish rights after 30 days || Exceptions 1 and 2 to s.28.
+MCQ: "Immoral" in s.23 has been interpreted to mean || anything against religion | *sexual immorality as judged by prevailing standards | any unfair bargain | gambling || Gherulal Parakh (1959).
+MCQ: Under s.27, a partial restraint of trade is || valid if reasonable | *void unless within an exception | voidable | valid during war || Madhub Chunder v Rajcoomar Doss (1874).
+
+# 8 | Discharge of a contract
+@topics By performance: tender, by whom, where, when, manner; reciprocal promises; time as the essence; By breach: anticipatory and present; Impossibility of performance and frustration, application to leases, theories, effect, restitution; By period of limitation; By agreement: rescission, alteration, remission, waiver, extension of time, accord and satisfaction
+>> A contract ends when its obligations are performed, excused, broken, released by agreement or barred by time.
+
+## Modes of discharge
+1. Performance (actual or attempted)
+2. Agreement (novation, rescission, alteration, remission, waiver)
+3. Impossibility (frustration)
+4. Lapse of time (limitation)
+5. Operation of law (death in personal contracts, insolvency, merger, unauthorised material alteration)
+6. Breach (actual or anticipatory)
+
+## 8.1 Performance
+SEC: s.37 :: The parties to a contract must either perform, or offer to perform, their respective promises, unless performance is dispensed with or excused under the Act or any other law. Promises bind the representatives of the promisor in case of his death, unless a contrary intention appears.
+
+### Tender (offer to perform): s.38
+A valid tender, if refused, discharges the promisor from further performance (but not from a debt, which remains payable). Conditions:
+- unconditional;
+- made at a proper time and place;
+- under such circumstances that the promisee has a reasonable opportunity of ascertaining that the person offering is able and willing to do the whole of what he is bound to do;
+- of the whole obligation, not part;
+- to the promisee or his authorised agent;
+- if goods, giving a reasonable opportunity to inspect;
+- of money, in the exact amount and in legal tender.
+
+### Who must perform? ss.40 to 45
+| Situation | Rule |
+|---|---|
+| Personal contracts (skill, taste) | Promisor himself (s.40) |
+| Other contracts | Promisor, his agent, or legal representatives (ss.37, 40) |
+| Performance by a third person accepted by the promisee | Promisee cannot afterwards enforce against the promisor (s.41) |
+| Joint promisors | All jointly during their lives; then survivors and representatives (s.42); promisee may compel any one to perform the whole (s.43) |
+| Joint promisees | Right to claim performance rests with all jointly (s.45) |
+
+### When and where? ss.46 to 50
+- No time specified: within a reasonable time (s.46).
+- Specific day, no hour: during usual business hours at the usual place (s.47).
+- Application by promisee needed: at a proper time and place (s.48).
+- No place fixed and no application needed: promisor must apply to promisee to appoint a reasonable place (s.49).
+- In the manner and at the time prescribed or sanctioned by the promisee (s.50).
+
+### Reciprocal promises: ss.51 to 58
+- Promises to be performed simultaneously: the promisor need not perform unless the promisee is ready and willing (s.51).
+- Order of performance as fixed by the contract or by the nature of the transaction (s.52).
+- Where one party prevents the other from performing, the contract becomes voidable at the option of the party prevented (s.53).
+- Where one promise cannot be performed until the other is performed, the party who fails first cannot claim performance (s.54).
+- Reciprocal promises to do legal and illegal things: the legal part is enforceable (s.57).
+- Alternative promise, one branch illegal: only the legal branch can be enforced (s.58).
+
+### Time as the essence: s.55
+SEC: s.55 :: When a party fails to perform at the fixed time and the intention was that time should be of the essence, the contract becomes voidable at the option of the promisee. If time was not essential, the contract does not become voidable, but the promisee is entitled to compensation for loss. If the promisee accepts late performance, he cannot claim compensation unless he gives notice at the time of acceptance.
+
+Whether time is of the essence depends on the express terms, the nature of the contract and surrounding circumstances.
+- In mercantile contracts time is ordinarily of the essence.
+- In contracts for sale of immovable property, the presumption is that time is not of the essence: **Chand Rani v Kamal Rani (1993)** (Constitution Bench).
+- In building and construction contracts, time is generally not of the essence where there are provisions for extension of time and liquidated damages: **Hind Construction Contractors v State of Maharashtra (1979)**.
+
+### Appropriation of payments: ss.59 to 61
+Where a debtor owes several debts and pays without full discharge of all: the debtor's express or implied intention governs (s.59); failing that the creditor may appropriate to any lawful debt, even a time-barred one (s.60); failing both, the payment goes to debts in order of time (s.61).
+
+## 8.2 Breach
+### Actual (present) breach
+Failure to perform when performance is due, or performance that is defective.
+
+### Anticipatory breach
+SEC: s.39 :: When a party has refused to perform, or disabled himself from performing, his promise in its entirety, the promisee may put an end to the contract, unless he has signified by words or conduct his acquiescence in its continuance.
+
+CASE: Hochster v De la Tour (1853) :: The defendant engaged the plaintiff as a courier from 1 June, then wrote in May repudiating. The plaintiff sued at once. Held: he could sue immediately without waiting for 1 June.
+
+The innocent party has an election:
+- **Accept the repudiation**, treat the contract as ended and sue at once; damages are measured by reference to the date fixed for performance, subject to the duty to mitigate.
+- **Keep the contract alive** and wait; but then the contract continues for the benefit of both, and any intervening event (such as frustration) may also benefit the defaulter: **Avery v Bowden (1855)**, where the outbreak of the Crimean War frustrated the contract before the date for performance, so the shipowner lost his claim.
+
+## 8.3 Impossibility of performance (frustration)
+SEC: s.56 :: An agreement to do an act impossible in itself is void. A contract to do an act which, after the contract is made, becomes impossible, or, by reason of some event which the promisor could not prevent, unlawful, becomes void when the act becomes impossible or unlawful. Where one person has promised to do something which he knew, or with reasonable diligence might have known, and which the promisee did not know, to be impossible or unlawful, the promisor must compensate the promisee for any loss.
+
+### Initial and supervening impossibility
+- Initial: known to both, the agreement is void (s.56 para 1); unknown to both, void as mistake (s.20); known only to promisor, compensation (s.56 para 3).
+- Supervening: the contract becomes void (s.56 para 2). This is the Indian statutory form of frustration.
+
+### Meaning of "impossible"
+CASE: Satyabrata Ghose v Mugneeram Bangur and Co (1954) :: A developer agreed to sell plots and make roads; the land was temporarily requisitioned during the Second World War. The Supreme Court held: (1) "impossible" in s.56 is not used in the sense of physical or literal impossibility; performance may be impracticable and useless from the point of view of the object the parties had in view; (2) s.56 lays down a positive rule of law and is exhaustive in India, so English theories are only of persuasive value; (3) on the facts the requisition was temporary and the contract was not frustrated.
+
+### Specific grounds of frustration
+| Ground | Illustration or case |
+|---|---|
+| Destruction of subject-matter | Taylor v Caldwell (1863): music hall burnt down before the concerts |
+| Death or personal incapacity | Robinson v Davison (1871): pianist too ill to perform |
+| Change of law or government action | Contract to import goods later banned |
+| Outbreak of war | Trading with the enemy becomes unlawful |
+| Non-occurrence of the event forming the basis | Krell v Henry (1903): rooms hired to view a coronation procession that was cancelled |
+| Requisition of property | Temporary requisition does not frustrate (Satyabrata Ghose) |
+
+Not frustration:
+- **Increased cost or difficulty**: **Alopi Parshad and Sons v Union of India (1960)**: an agent could not claim higher rates merely because wartime prices rose; s.56 does not apply because performance became more onerous.
+- **Self-induced impossibility**: **Maritime National Fish v Ocean Trawlers (1935)**.
+- **Commercial hardship, strikes, riots**, unless they make performance radically different.
+- **Failure of one of several objects**: **Herne Bay Steam Boat Co v Hutton (1903)**, where the naval review was cancelled but the cruise round the fleet was still possible.
+
+CASE: Energy Watchdog v Central Electricity Regulatory Commission (2017) :: A rise in the price of imported coal due to change in Indonesian law did not frustrate power purchase agreements. Where a contract has a force majeure clause, the matter is governed by s.32 (contingent contracts) and the clause; s.56 applies only to events outside the contract.
+
+### Application to leases
+CASE: Raja Dhruv Dev Chand v Raja Harmohinder Singh (1968) :: The Supreme Court held that s.56 does not apply to a lease, because a lease is a completed conveyance of an interest in property, not a mere executory contract. Relief is under s.108(B)(e) of the Transfer of Property Act, which lets the lessee avoid the lease if the property is wholly destroyed or rendered substantially unfit by fire, tempest, flood, violence of an army or mob, or other irresistible force.
+
+### Theories of frustration (English law)
+- **Implied term theory**: the parties impliedly agreed that the contract would end if the foundation disappeared (Blackburn J in Taylor v Caldwell).
+- **Foundation of contract**: the basis on which both contracted has disappeared (Krell v Henry).
+- **Just and reasonable solution**: the court imposes a fair result (Lord Wright).
+- **Radical change in the obligation**: performance would be a thing radically different from that undertaken (**Davis Contractors v Fareham UDC, 1956**, Lord Radcliffe). This is now the accepted English test.
+India: s.56 is exhaustive and the radical-change idea is used in applying it (Satyabrata Ghose; Naihati Jute Mills v Khyaliram Jagannath, 1968).
+
+### Effect of frustration and restitution
+- The contract becomes void from the moment of impossibility; future obligations end.
+SEC: s.65 :: When an agreement is discovered to be void, or a contract becomes void, any person who has received any advantage under it is bound to restore it, or to make compensation for it, to the person from whom he received it.
+- So money advanced or benefits received must be returned. English law reached the same result through the Law Reform (Frustrated Contracts) Act, 1943, after **Fibrosa v Fairbairn (1943)**.
+
+NOTE: During the COVID-19 lockdowns, courts examined force majeure clauses first and s.56 second. In Halliburton Offshore Services v Vedanta (Delhi High Court, 2020) the court said the pandemic could not be a blanket excuse for non-performance that began before it.
+
+## 8.4 Period of limitation
+- The Limitation Act, 1963 bars the remedy, not the right. A time-barred debt remains a debt: it can be paid, adjusted by the creditor under s.60, or revived by a written promise under s.25(3).
+- For breach of contract, the period is generally three years from the date of breach (Article 55 of the Schedule).
+
+## 8.5 Discharge by agreement
+SEC: s.62 :: If the parties agree to substitute a new contract for it, or to rescind or alter it, the original contract need not be performed.
+- **Novation**: substitution of a new contract between the same or different parties. It must be agreed before the original is broken.
+- **Rescission**: cancellation of the contract by agreement (also s.64, rescission of voidable contracts).
+- **Alteration**: a change of terms by mutual consent; the old terms are discharged.
+SEC: s.63 :: Every promisee may dispense with or remit, wholly or in part, the performance of the promise made to him, or may extend the time for such performance, or may accept instead of it any satisfaction which he thinks fit.
+- **Remission**: accepting less than what was due. Unlike English law (Pinnel's Case, 1602; Foakes v Beer, 1884), in India no consideration is needed for remission: illustration (b) to s.63, A owes ₹5,000 and B accepts ₹2,000 in full satisfaction.
+- **Waiver**: abandonment of a right, expressly or by conduct.
+- **Extension of time**.
+- **Accord and satisfaction**: accepting something different in full discharge of the obligation (the accord is the agreement, the satisfaction is the consideration).
+- **Merger**: an inferior right merges into a superior one, for example an oral agreement into a written deed.
+
+TIP: For frustration questions in India always quote s.56, say Satyabrata Ghose made it exhaustive, apply the "radical change" test, list what is not frustration (higher cost, self-induced), and end with s.65 restitution. If the contract has a force majeure clause, mention Energy Watchdog and s.32.
+
+* Valid tender (s.38) discharges the promisor except for debts.
+* Time is presumed not to be essential in sales of land (Chand Rani) and construction contracts (Hind Construction).
+* Anticipatory breach lets the promisee sue at once (s.39; Hochster v De la Tour), but if he keeps the contract alive he takes the risk of later events (Avery v Bowden).
+* s.56 is exhaustive; "impossible" includes impracticable from the point of view of the object (Satyabrata Ghose); higher cost is not frustration (Alopi Parshad).
+* s.56 does not apply to leases (Dhruv Dev Chand); force majeure clauses come under s.32 (Energy Watchdog).
+* s.63 allows remission without consideration, unlike Pinnel's rule in England.
+
+QL: Discuss the doctrine of frustration under s.56 of the Indian Contract Act. How does it differ from the English law? Refer to Satyabrata Ghose.
+QL: What is anticipatory breach? What are the remedies of the promisee? Discuss with cases.
+QL: Explain the rules relating to performance of contracts: who must perform, time and place of performance, and reciprocal promises.
+QL: When is time of the essence of a contract? Discuss s.55 with reference to sale of immovable property.
+QL: Discuss the various modes of discharge of a contract by agreement.
+QS: Valid tender
+QS: Novation
+QS: Accord and satisfaction
+QS: Taylor v Caldwell
+QS: Appropriation of payments
+QS: Frustration and leases
+
+MCQ: In Satyabrata Ghose, the Supreme Court held that the word "impossible" in s.56 || means literal physical impossibility | *includes impracticability and uselessness from the point of view of the object | applies only to war | applies to leases || Frustration in India is governed exhaustively by s.56.
+MCQ: A rise in cost of performance || frustrates the contract | *does not by itself frustrate the contract | makes the contract voidable | makes the contract illegal || Alopi Parshad (1960).
+MCQ: Remission of performance under s.63 || requires fresh consideration | *does not require consideration | must be registered | is void || Contrast Pinnel's Case and Foakes v Beer in England.
+MCQ: Hochster v De la Tour is a leading case on || frustration | *anticipatory breach | remoteness of damages | quasi-contract || The plaintiff sued before the date fixed for performance.
+MCQ: In sale of immovable property, time is || always of the essence | *presumed not to be of the essence | never relevant | essential only if registered || Chand Rani v Kamal Rani (1993).
+MCQ: Section 56 does not apply to a lease because || leases are void | *a lease is a completed transfer of interest in property | leases cannot be frustrated in any case | leases are governed by the Sale of Goods Act || Raja Dhruv Dev Chand (1968); see s.108(B)(e) TPA.
+
+# 9 | Quasi-contracts: certain relations resembling contract
+@topics Basis of quasi-contractual obligation; Necessaries supplied to incapable persons; Payment by an interested person; Benefit of non-gratuitous act; Finder of goods; Money paid by mistake or under coercion
+>> The law imposes an obligation to restore benefits that it would be unjust to keep, even though no one promised anything.
+
+## Nature and basis
+Chapter V of the Act (ss.68 to 72) is headed "Of certain relations resembling those created by contract". These obligations do not arise from agreement but from the principle of **unjust enrichment**: no one should be enriched at the expense of another without legal justification.
+
+CASE: Moses v Macferlan (1760) :: Lord Mansfield explained that the action for money had and received lies where the defendant is obliged by the ties of natural justice and equity to refund the money.
+
+CASE: Fibrosa Spolka Akcyjna v Fairbairn Lawson Combe Barbour (1943) :: Lord Wright said that any civilised system of law is bound to provide remedies for cases of unjust enrichment, that is, to prevent a man from retaining money or a benefit derived from another which it is against conscience that he should keep.
+
+English law once explained these obligations by an "implied contract" fiction. Indian law treats them as statutory obligations under ss.68 to 72. The remedy is compensation under the last paragraph of s.73.
+
+## The five quasi-contracts
+### 1. Necessaries supplied to an incapable person: s.68
+A person who supplies necessaries suited to the condition in life of a minor or person of unsound mind, or of anyone whom he is legally bound to support, is entitled to be reimbursed from the property of the incapable person (Unit 5). There is no personal liability.
+
+### 2. Payment by an interested person: s.69
+SEC: s.69 :: A person who is interested in the payment of money which another is bound by law to pay, and who therefore pays it, is entitled to be reimbursed by the other.
+Elements: the plaintiff was interested in making the payment (to protect his own interest), the defendant was bound by law to pay, and the plaintiff paid. Illustration: B holds land on lease from A, the zamindar; the revenue payable by A to the government is in arrears and the land is advertised for sale. B pays to prevent the sale and can recover from A.
+
+### 3. Obligation to pay for a non-gratuitous act: s.70
+SEC: s.70 :: Where a person lawfully does anything for another person, or delivers anything to him, not intending to do so gratuitously, and such other person enjoys the benefit thereof, the latter is bound to make compensation to the former, or to restore the thing so done or delivered.
+
+CASE: State of West Bengal v B.K. Mondal and Sons (1962) :: A contractor built a kitchen and other structures for the State at the request of an officer, but there was no valid contract because Article 299 (formalities of government contracts) was not complied with. The State used the buildings. The Supreme Court held the State liable under s.70. Three conditions: (1) the act was done lawfully; (2) it was not intended to be gratuitous; (3) the other person enjoyed the benefit. The State had a choice to accept or reject the work, and having accepted it must pay.
+
+CASE: Mulamchand v State of Madhya Pradesh (1968) :: Even where a contract with the government is void for non-compliance with Article 299, a person who supplied goods or services can claim compensation under s.70 if the government accepted the benefit.
+
+### 4. Finder of goods: s.71
+SEC: s.71 :: A person who finds goods belonging to another and takes them into his custody is subject to the same responsibility as a bailee.
+The finder:
+- must take reasonable care of the goods (s.151);
+- must try to find the owner;
+- may retain the goods against everyone except the true owner (Armory v Delamirie, 1722);
+- may sue for a specific reward offered by the owner and may retain the goods until he receives it (s.168);
+- may sell the goods in specified cases, for example when they are perishable or the lawful charges amount to two-thirds of their value (s.169).
+
+### 5. Money paid by mistake or under coercion: s.72
+SEC: s.72 :: A person to whom money has been paid, or anything delivered, by mistake or under coercion, must repay or return it.
+
+CASE: Sales Tax Officer, Banaras v Kanhaiya Lal Mukundlal Saraf (1959) :: A firm paid sales tax on forward contracts that was later held unconstitutional. The Supreme Court held that "mistake" in s.72 includes mistake of law as well as of fact, so the tax was refundable. There is no distinction between a mistake of law and of fact for this purpose, and s.21 does not limit s.72.
+
+- "Coercion" in s.72 is used in its general sense, not limited to s.15 (Seth Kanhaya Lal, Unit 6).
+- Defences: the payee has changed position in good faith, or the payer has passed on the burden to others (in tax refund cases, the doctrine of unjust enrichment bars refund where the tax was passed on to consumers: **Mafatlal Industries v Union of India, 1997**).
+
+## Quantum meruit
+"As much as he has earned." Where a contract is discharged or void, a party who has done part of the work can recover reasonable payment for what he has done, if the other party has taken the benefit.
+
+CASE: Planche v Colburn (1831) :: An author was engaged to write a book for a periodical; the publishers abandoned the periodical. He recovered a reasonable sum for the work done, on quantum meruit.
+
+Quantum meruit applies where: the contract is discovered to be void (s.65); the contract is discharged by the defendant's breach; or work is done under an agreement that does not fix the price. It does not help a party who has himself abandoned the contract half-way where the contract was entire (Sumpter v Hedges, 1898), unless the other voluntarily accepted the benefit.
+
+| Point | Contract | Quasi-contract |
+|---|---|---|
+| Basis | Agreement of parties | Imposed by law (unjust enrichment) |
+| Consent | Necessary | Not necessary |
+| Duty owed to | The other party | Specific person benefited at plaintiff's cost |
+| Remedy | Damages, specific performance, injunction | Compensation or restitution (s.73 last paragraph) |
+
+* Quasi-contracts rest on unjust enrichment (Moses v Macferlan, Fibrosa), not agreement.
+* s.68 necessaries: reimbursement from property only.
+* s.69 interested person paying another's legal debt can recover.
+* s.70 needs lawful act, non-gratuitous intention and enjoyment of benefit (B.K. Mondal); it applies to government contracts void under Article 299.
+* s.71 finder has a bailee's duties and rights.
+* s.72 covers mistake of law as well as fact (Kanhaiya Lal).
+* Quantum meruit gives reasonable pay for work done (Planche v Colburn).
+
+QL: What is a quasi-contract? Explain the various quasi-contracts recognised by the Indian Contract Act.
+QL: Discuss the scope of s.70 with reference to State of West Bengal v B.K. Mondal and Sons.
+QL: "Money paid under a mistake of law is recoverable." Discuss with reference to s.72.
+QS: Unjust enrichment
+QS: Quantum meruit
+QS: Rights and duties of a finder of goods
+QS: Payment by an interested person
+
+MCQ: Which case held that s.72 covers mistake of law? || B.K. Mondal | *Sales Tax Officer v Kanhaiya Lal | Moses v Macferlan | Planche v Colburn || 1959 Supreme Court decision on sales tax refund.
+MCQ: Under s.70, the defendant is liable if || he requested the work | he signed a contract | *he enjoyed the benefit of a lawful, non-gratuitous act | the plaintiff is a minor || State of West Bengal v B.K. Mondal (1962).
+MCQ: A finder of goods is subject to the responsibility of a || trustee | owner | *bailee | agent || s.71.
+MCQ: Quantum meruit means || an equal sum | *as much as he has earned | as much as he has paid | the market price || Reasonable payment for work actually done.
+
+# 10 | Remedies for breach of contract
+@topics Damages, kinds, remoteness, ascertainment; Injunction; Refund and restitution; Specific performance, why and when; Specific performance under the Specific Relief Act, 1963; Rescission; Cancellation of instruments; Declaratory decrees; Preventive relief
+>> The injured party may claim money (damages), ask the court to make the other side perform (specific performance), stop him from acting (injunction), or undo the contract (rescission and restitution).
+
+## Overview of remedies
+| Remedy | Source | Purpose |
+|---|---|---|
+| Damages | ss.73 to 75, ICA | Compensate for loss |
+| Quantum meruit | ss.65, 70, ICA | Pay for work done |
+| Restitution | ss.64, 65, ICA; s.30, SRA | Restore benefits |
+| Specific performance | ss.10 to 25, SRA | Compel performance |
+| Injunction | ss.36 to 42, SRA; Order XXXIX, CPC | Restrain or compel acts |
+| Rescission | ss.27 to 30, SRA | Undo the contract |
+| Cancellation of instruments | ss.31 to 33, SRA | Cancel a void or voidable document |
+| Declaration | ss.34, 35, SRA | Declare legal status or right |
+
+## 10.1 Damages
+SEC: s.73 :: When a contract has been broken, the party who suffers by the breach is entitled to receive, from the party who has broken it, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach. Explanation: in estimating the loss, the means which existed of remedying the inconvenience caused by non-performance must be taken into account.
+
+### Remoteness: the rule in Hadley v Baxendale
+CASE: Hadley v Baxendale (1854) :: A mill's crankshaft broke and was sent for repair through carriers, who delayed delivery. The mill stood idle. The carriers were not told the mill had no spare shaft. Held: loss of profits was not recoverable. Damages are recoverable (1) for loss arising naturally, in the usual course of things, from the breach; or (2) for loss that may reasonably be supposed to have been in the contemplation of both parties at the time of contracting as the probable result of breach. Section 73 embodies both limbs.
+
+CASE: Victoria Laundry v Newman Industries (1949) :: A boiler was delivered late. The laundry recovered ordinary profits it would have made, which the sellers must have known about, but not exceptionally lucrative dyeing contracts the sellers did not know of.
+
+CASE: Koufos v C. Czarnikow, The Heron II (1969) :: The House of Lords held that the test in contract is stricter than in tort: loss is recoverable if it was "not unlikely" to result, or a "real danger" or "serious possibility", in the contemplation of the parties.
+
+### Kinds of damages
+- **Ordinary (general)**: loss arising naturally; for sale of goods, the difference between contract price and market price on the date of breach.
+- **Special**: loss from special circumstances communicated at the time of contracting.
+- **Nominal**: a token sum where a right is infringed but no loss is proved.
+- **Exemplary (punitive)**: not normally awarded in contract (Addis v Gramophone Co, 1909, no damages for injured feelings on wrongful dismissal). Exceptions recognised: breach of promise of marriage; and in consumer law, compensation for harassment and mental agony (Ghaziabad Development Authority v Balbir Singh, 2004).
+- **Damages for inconvenience and discomfort**: allowed where physical inconvenience is caused, for example a ruined holiday (Jarvis v Swans Tours, 1973).
+
+### Duty to mitigate
+The Explanation to s.73 requires the plaintiff to take reasonable steps to reduce his loss. He cannot recover for loss he could reasonably have avoided (British Westinghouse v Underground Electric Railways, 1912).
+
+### Liquidated damages and penalties: s.74
+SEC: s.74 :: When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or the penalty stipulated.
+
+- English law distinguishes a genuine pre-estimate of loss (enforceable) from a penalty (unenforceable). Indian law does away with the distinction: in both cases the court awards reasonable compensation up to the named sum.
+
+CASE: Fateh Chand v Balkishan Das (1963) :: The Supreme Court held that s.74 cuts across the English distinction between liquidated damages and penalties. The court will award reasonable compensation not exceeding the amount stated, whatever the label.
+
+CASE: ONGC Ltd v Saw Pipes Ltd (2003) :: Where the parties have pre-estimated damages and the loss is difficult to prove, the pre-estimate is presumed reasonable and can be awarded without proof of actual loss.
+
+CASE: Kailash Nath Associates v Delhi Development Authority (2015) :: Reasonable compensation is the ceiling, and where actual loss can be proved, it must be proved. Where no loss is caused at all, nothing is payable; the phrase "whether or not actual damage or loss is proved" only dispenses with proof where loss is difficult or impossible to prove.
+
+### s.75: compensation on rescission
+A person who rightfully rescinds a contract is entitled to compensation for any damage sustained through non-fulfilment of the contract.
+
+## 10.2 to 10.4 Specific performance
+Specific performance is an equitable remedy: the court orders the defendant to do what he promised. The Specific Relief Act, 1963 was significantly amended by the **Specific Relief (Amendment) Act, 2018**.
+
+### Before and after 2018
+| Point | Before 2018 | After 2018 |
+|---|---|---|
+| Nature | Discretionary (old s.20) | Specific performance "shall be enforced" by the court, subject to ss.11(2), 14 and 16 (new s.10) |
+| Adequacy of damages | Relief refused if damages adequate (old s.14(1)(a)) | Adequacy of damages no longer a bar |
+| Substituted performance | Not provided | s.20: aggrieved party may get the contract performed by a third party at the defaulter's cost after notice |
+| Infrastructure projects | No special rule | s.20A and s.41(ha): no injunction that would impede an infrastructure project |
+| Experts | No provision | s.14A: court may engage experts |
+| Time limit | None | Suits to be disposed of within 12 months of service of summons (s.20C), extendable by 6 months |
+
+CASE: Katta Sujatha Reddy v Siddamsetty Infra Projects (2023) :: The Supreme Court held that the 2018 amendment is substantive and prospective. It does not apply to transactions entered into before 1 October 2018, the date it came into force.
+
+### Contracts that cannot be specifically enforced: s.14
+- where a party has obtained substituted performance under s.20;
+- a contract involving performance of a continuous duty which the court cannot supervise;
+- a contract so dependent on the personal qualifications of the parties that the court cannot enforce specific performance of its material terms;
+- a contract which is in its nature determinable.
+
+### Personal bars to relief: s.16
+Specific performance cannot be enforced in favour of a person:
+- who has obtained substituted performance under s.20;
+- who has become incapable of performing, or violates an essential term, or acts in fraud of the contract or wilfully at variance with it;
+- who fails to prove that he has performed or has always been **ready and willing** to perform the essential terms to be performed by him (s.16(c)). Readiness and willingness must be pleaded and proved throughout.
+
+### Other provisions
+- s.12: specific performance of part of a contract, in limited cases.
+- s.19: against whom specific performance may be enforced (parties, their representatives, and subsequent transferees except bona fide purchasers for value without notice).
+- s.21: compensation may be claimed in addition to, or in substitution for, specific performance, if prayed for.
+- s.22: in a suit for specific performance of a contract to transfer immovable property, the plaintiff may also claim possession, partition or refund of earnest money.
+
+## 10.2 Injunction
+| Kind | Section | Purpose |
+|---|---|---|
+| Temporary (interim) | s.37(1), Order XXXIX CPC | Preserve status quo until trial; needs prima facie case, balance of convenience and irreparable injury |
+| Perpetual | ss.37(2), 38 | Granted by decree after hearing to prevent breach of an obligation |
+| Mandatory | s.39 | Compels performance of acts necessary to prevent breach |
+
+- **s.41** lists cases where an injunction cannot be granted, including: to restrain judicial proceedings; to prevent breach of a contract that cannot be specifically enforced; where equally efficacious relief is available; where the plaintiff's conduct disentitles him; and (since 2018) where it would impede or delay an infrastructure project (s.41(ha)).
+- **s.42: negative agreements**. Where a contract has an affirmative part that cannot be specifically enforced and a negative part (not to do something), the court may restrain breach of the negative part.
+
+CASE: Lumley v Wagner (1852) :: An opera singer agreed to sing at Lumley's theatre and not to sing elsewhere during the period. She agreed to sing at a rival theatre. The court could not compel her to sing for Lumley but restrained her from singing elsewhere.
+
+CASE: Warner Bros Pictures v Nelson (1937) :: The actress Bette Davis was restrained from acting for another studio during her contract period, though the court would not order her to act for Warner Bros.
+
+## Refund and restitution
+- s.64: a person who rescinds a voidable contract must restore any benefit received.
+- s.65: on discovery that an agreement is void or a contract becomes void, benefits must be restored.
+- s.30, SRA: on rescission the court may require restoration and compensation.
+
+## 10.6 Rescission: ss.27 to 30, SRA
+A party may sue to have a contract rescinded where it is voidable or terminable by the plaintiff, or unlawful for causes not apparent on its face and the defendant is more to blame. Rescission is refused where the plaintiff has ratified the contract, where parties cannot be substantially restored to their original position, where third parties have acquired rights in good faith for value, or where only part of the contract is sought to be rescinded and that part is not severable (s.27(2)).
+
+## 10.7 Cancellation of instruments: ss.31 to 33, SRA
+SEC: s.31 :: Any person against whom a written instrument is void or voidable, and who has reasonable apprehension that such instrument, if left outstanding, may cause him serious injury, may sue to have it adjudged void or voidable, and the court may in its discretion so adjudge it and order it to be delivered up and cancelled.
+If the instrument is registered, a copy of the decree is sent to the registering officer. Partial cancellation is possible (s.32). On cancellation, the court may require the plaintiff to restore benefits (s.33).
+
+## 10.8 Declaratory decrees: ss.34 and 35, SRA
+SEC: s.34 :: Any person entitled to any legal character, or to any right as to any property, may institute a suit against any person denying or interested to deny his title to such character or right, and the court may in its discretion declare that he is so entitled. Proviso: no court shall make such a declaration where the plaintiff, being able to seek further relief than a mere declaration of title, omits to do so.
+A declaration binds only the parties and those claiming through them (s.35).
+
+## 10.9 Preventive relief: s.36, SRA
+Preventive relief is granted at the discretion of the court by injunction, temporary or perpetual. It prevents a wrong rather than compensating for it.
+
+TIP: For a question on liquidated damages, cite s.74, then Fateh Chand (no penalty distinction in India), ONGC v Saw Pipes (pre-estimate presumed reasonable) and Kailash Nath (actual loss must be proved where possible). For specific performance, always contrast the pre- and post-2018 positions and mention Katta Sujatha Reddy on prospectivity.
+
+## 10.10 Recent judgments (2025–26)
+
+CASE: Godrej Projects Development Ltd v Anil Karlekar (2025) :: Forfeiture of earnest money on cancellation of a flat booking must be reasonable. A one-sided clause forfeiting an excessive amount operates as a penalty under s.74; only a reasonable deposit falls outside s.74 (applying Maula Bux).
+
+CASE: BPL Ltd v Morgan Securities and Credits Pvt Ltd (2025) :: In a dispute over a high contractual interest rate agreed between sophisticated commercial parties, the Court stressed party autonomy and asked whether the stipulation protected a legitimate interest, distinguishing the older approach in Fateh Chand.
+
+CASE: Saisudhir Energy Ltd v NTPC Vidyut Vyapar Nigam Ltd (2026) :: In public utility projects (here, solar power under the National Solar Mission), where loss is difficult to prove, the employer need not prove actual loss before claiming liquidated damages under s.74. An appellate court under s.37 of the Arbitration Act cannot re-work the 'reasonable compensation' fixed by the tribunal.
+
+CASE: Mohammed Khaleel v Jayamma (2026) :: For specific performance, readiness (financial capacity) and willingness (conduct) must be shown continuously from the date of the agreement to the decree. Bank deposits made after filing the suit do not prove readiness for the earlier period.
+
+* s.74: reasonableness of forfeiture (Godrej, 2025); no proof of loss in public utility contracts (Saisudhir, 2026); continuous readiness for specific performance (Mohammed Khaleel, 2026).
+* Damages under s.73 cover natural and contemplated losses, not remote ones (Hadley v Baxendale); the plaintiff must mitigate.
+* s.74: reasonable compensation up to the named sum; no penalty distinction (Fateh Chand); actual loss must be proved where possible (Kailash Nath).
+* After 2018, specific performance is the rule, not a discretion; substituted performance under s.20 is new; the amendment is prospective (Katta Sujatha Reddy).
+* s.16(c): plaintiff must prove continuous readiness and willingness.
+* Negative covenants can be enforced by injunction under s.42 (Lumley v Wagner).
+* Rescission, cancellation and declarations are distinct remedies under the SRA.
+
+QL: Explain the rules governing the measure of damages for breach of contract. Discuss Hadley v Baxendale and s.73.
+QL: Distinguish between liquidated damages and penalty. What is the position under s.74 of the Indian Contract Act?
+QL: What changes did the Specific Relief (Amendment) Act, 2018 make to the law of specific performance? When is specific performance not granted?
+QL: Write an essay on injunctions as a remedy for breach of contract, with reference to negative covenants.
+QS: Remoteness of damages
+QS: Mitigation of damages
+QS: Substituted performance
+QS: Readiness and willingness
+QS: Declaratory decree
+QS: Lumley v Wagner
+
+MCQ: The rule on remoteness of damages comes from || Fateh Chand v Balkishan Das | *Hadley v Baxendale | Lumley v Wagner | Taylor v Caldwell || 1854 Court of Exchequer decision.
+MCQ: Under s.74, the court awards || the full stipulated sum always | *reasonable compensation not exceeding the stipulated sum | nothing if the clause is a penalty | double the actual loss || Fateh Chand (1963).
+MCQ: After the 2018 amendment, specific performance is || purely discretionary | *to be enforced by the court subject to ss.11(2), 14 and 16 | barred where damages are adequate | available only for land || New s.10, SRA.
+MCQ: The 2018 amendment to the Specific Relief Act applies || retrospectively to all pending suits | *prospectively to transactions after 1 October 2018 | only to government contracts | only to infrastructure projects || Katta Sujatha Reddy (2023).
+MCQ: Lumley v Wagner is an authority for || specific performance of personal service | *injunction to enforce a negative covenant | exemplary damages | rescission || The singer was restrained from singing elsewhere.
+MCQ: A temporary injunction requires || only a prima facie case | *prima facie case, balance of convenience and irreparable injury | a decree | a registered contract || Order XXXIX CPC principles.
+MCQ: In Saisudhir Energy v NTPC Vidyut Vyapar Nigam (2026), the Supreme Court held that in public utility projects || liquidated damages are always void | *proof of actual loss is not mandatory to claim liquidated damages | only actual loss can be recovered | s.74 does not apply to government contracts || Loss in such projects is hard to prove.

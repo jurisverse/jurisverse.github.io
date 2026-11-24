@@ -1,0 +1,160 @@
+@label A full 50-mark paper (1½ hours), matching this subject's written exam, which carries 50 marks alongside 50 marks of record work. It is set on this syllabus for practice; it is not a past VSU paper, and the university's exact pattern may differ.
+
+PART: A | Short answer questions | Answer any FOUR of the following. | 4 × 5 = 20 marks
+
+Q: Lok Adalat award
+Under s.21 of the Legal Services Authorities Act, 1987, every award of a Lok Adalat is deemed to be a decree of a civil court. It is final and binding on all parties, and no appeal lies against it. Court fees paid are refunded.
+- An award can be challenged only by a writ under Arts. 226 and 227, on limited grounds such as fraud or the absence of consent (*State of Punjab v Jalour Singh*, 2008).
+- Permanent Lok Adalats for public utility services can decide on merits if conciliation fails (s.22C).
+
+Q: Section 89 CPC
+Where it appears to the court that elements of a settlement exist, it shall formulate the terms and refer the dispute to:
+- arbitration;
+- conciliation;
+- judicial settlement, including Lok Adalat; or
+- mediation.
+*Afcons Infrastructure v Cherian Varkey Construction* (2010) explained which cases are suitable and which are unsuitable, such as those involving fraud, criminal offences or public interest. It also clarified that the court need not formulate detailed terms. Order X Rules 1A to 1C apply.
+
+Q: Essentials of an arbitration agreement
+Under s.7 of the Arbitration and Conciliation Act, 1996, an arbitration agreement must be:
+- in writing, as a clause or a separate agreement, including an exchange of letters, emails, or pleadings not denied;
+- an agreement to refer present or future disputes arising from a defined legal relationship; and
+- binding, showing an intention to be bound by the tribunal's decision (*K.K. Modi v K.N. Modi*, 1998).
+A clause saying parties "can" arbitrate is not a binding agreement (*NagreeKa Indcon*, 2026). If the agreement itself is alleged to be forged, the dispute is non-arbitrable until existence is established (*Rajia Begum*, 2026).
+
+Q: Kompetenz-kompetenz
+Under s.16, the arbitral tribunal may rule on its own jurisdiction, including objections about the existence or validity of the arbitration agreement. The arbitration clause is treated as independent of the main contract (separability).
+- Pleas must be raised no later than the statement of defence.
+- If the plea is rejected, the arbitration continues, and the challenge can be raised only under s.34 after the award (*MCM Worldwide*, 2026). Art. 227 is not available (*Manash Kamal Bezboruah*, 2026).
+- At the s.11 stage, courts conduct only a prima facie examination of existence (*In re Interplay*, 2023; *SBI General Insurance v Krish Spinning*, 2024).
+
+Q: Seat and venue
+- The seat is the juridical home of the arbitration. It determines the curial law and which courts have supervisory jurisdiction.
+- The venue is merely the place of hearings.
+- Designating a "venue" without a contrary indication means the seat (*BGS SGS Soma JV v NHPC*, 2019).
+- *BALCO v Kaiser Aluminium* (2012): Part I of the Act does not apply to foreign-seated arbitrations.
+- Once a seat is chosen, its courts have exclusive jurisdiction (*Indus Mobile Distribution*, 2017).
+
+Q: Grounds for setting aside an award
+Under s.34, an award may be set aside if:
+- a party was under incapacity;
+- the agreement was invalid;
+- notice was not given, or a party was unable to present its case;
+- the award deals with matters outside the submission;
+- the tribunal's composition or procedure was improper;
+- the subject matter is non-arbitrable; or
+- the award conflicts with public policy: fraud or corruption, contravention of the fundamental policy of Indian law, or conflict with basic notions of morality or justice.
+Patent illegality applies to domestic awards. The court cannot re-appreciate evidence (*Ssangyong Engineering v NHAI*, 2019).
+- Limitation: three months, plus 30 days. Where a s.33 application is made, time runs from its disposal (*NHAI v T. Younis*, 2026).
+- Modification is permitted in limited cases (*Gayatri Balasamy v ISG Novasoft*, 2025).
+
+Q: The Mediation Act, 2023: key features
+- **Pre-litigation mediation:** voluntary (s.5). It is mandatory under s.12A of the Commercial Courts Act for commercial disputes.
+- **Time limit:** 120 days, extendable by 60 days.
+- **Mediated settlement agreements:** final, binding and enforceable as a decree (s.27). They can be challenged within 90 days on limited grounds: fraud, corruption, impersonation, or non-mediable disputes (s.28).
+- **Other features:** online and community mediation; confidentiality; the Mediation Council of India, established by notification on 27 August 2026; and mediation service providers.
+- **Commencement:** many core provisions still await notification.
+- **Settlements:** a party cannot resile from a mediated settlement except on limited grounds (*Dhananjay Rathi*, 2026).
+
+PART: B | Essay questions | Answer any ONE of the following. | 1 × 15 = 15 marks
+
+Q: Explain the law relating to the appointment of arbitrators and challenges to them.
+### Appointment (s.11)
+- **Party autonomy:** the parties are free to agree on a procedure. Failing agreement, in a three-member tribunal each party appoints one arbitrator, and the two appoint the presiding arbitrator.
+- **Court appointment:** on failure, the Supreme Court (international commercial arbitration) or the High Court appoints, on application. Since the 2015 and 2019 amendments, appointment may be made through arbitral institutions.
+- **Scope at the s.11 stage:** limited to a prima facie examination of the existence of an arbitration agreement (s.11(6A); *Vidya Drolia v Durga Trading*, 2020; *In re Interplay*, 2023). Stamping issues are not decided at this stage.
+- **Time limit:** applications are to be disposed of within 60 days.
+### Unilateral appointments
+- *TRF Ltd v Energo Engineering* (2017): a person ineligible to be an arbitrator cannot nominate one.
+- *Perkins Eastman Architects v HSCC* (2019): a party with an interest in the outcome cannot unilaterally appoint a sole arbitrator.
+- *Central Organisation for Railway Electrification v ECI-SPIC-SMO-MCML* (2024, five judges): unilateral appointment clauses in public–private contracts violate equality (Art. 14), and are invalid for appointing sole arbitrators. Panels must be broad-based, and the decision applies prospectively.
+### Grounds of challenge (s.12)
+- Circumstances giving rise to justifiable doubts about independence or impartiality (Fifth Schedule).
+- Lack of agreed qualifications.
+- **Seventh Schedule relationships:** for example, an employee, consultant or adviser of a party. These make a person ineligible (s.12(5)), unless waived by express written agreement after the dispute has arisen (*Bharat Broadband v United Telecoms*, 2019).
+- Disclosure is required (s.12(1), Sixth Schedule).
+### Procedure (s.13)
+- A challenge is made to the tribunal within 15 days.
+- If rejected, the arbitration continues, and the challenge is raised under s.34 after the award.
+- Termination of mandate: s.14 (de jure ineligibility, with court determination) and s.15 (substitution).
+- Time limit for the award: s.29A, 12 months plus six months, with extension by the "Court" (*Jagdeep Chowgule*, 2026). Substitution is not automatic (*Viva Highways*, 2026).
+### Conclusion
+The law protects party autonomy while insisting on independence and impartiality. Recent decisions have ended unilateral appointments.
+
+Q: Discuss the organisation and functions of Lok Adalats under the Legal Services Authorities Act, 1987.
+### Constitutional basis
+Art. 39A (equal justice and free legal aid), together with Arts. 14 and 21.
+### Legal services institutions
+- NALSA (s.3), State Legal Services Authorities (s.6), District Legal Services Authorities (s.9) and Taluk Legal Services Committees (s.11A).
+- Free legal services are available to eligible persons (s.12): women, children, SC/ST, persons with disabilities, industrial workmen, persons in custody, and those below the income limits.
+### Lok Adalats (ss.19 to 22)
+- Organised by the authorities, with serving or retired judicial officers and other members.
+- **Jurisdiction:** pending cases or pre-litigation disputes, but not non-compoundable offences.
+- **Reference (s.20):** with the consent of the parties, or on the application of one party if the court is satisfied that there is a chance of settlement.
+- **Determination:** by compromise or settlement only. If there is no settlement, the case returns to the court.
+- **Award (s.21):** deemed decree, final, no appeal, and court fee refunded. It can be challenged only by writ (*Jalour Singh*, 2008).
+- **Powers (s.22):** those of a civil court for summons, evidence and similar matters.
+### Permanent Lok Adalats (Chapter VIA, 2002)
+For public utility services, such as transport, postal, telecom, power, hospitals, insurance and banking. They can decide on merits up to ₹1 crore if conciliation fails, and their awards are final.
+### National Lok Adalats
+These are held periodically across the country and settle very large numbers of cases, such as motor accident claims, cheque bounce and family matters.
+### Assessment
+- **Benefits:** speed, cost, finality and reduced backlog.
+- **Concerns:** pressure to settle, inadequate compensation, and limited voluntariness.
+### Conclusion
+Lok Adalats are India's distinctive contribution to ADR. They operationalise Art. 39A and reduce pendency.
+
+Q: Explain the conciliation and mediation framework in India.
+### Conciliation under the 1996 Act (Part III, ss.61 to 81)
+- **Voluntary:** started by invitation and acceptance (s.62).
+- **Conciliators** are appointed by the parties (s.64).
+- The conciliator assists parties to reach an amicable settlement, and may make proposals (s.67).
+- **Settlement agreement (s.73):** signed, with the same status and effect as an arbitral award (s.74).
+- **Confidentiality (s.75)** and **inadmissibility of statements (s.81).**
+- **Termination (s.76).**
+- **Restrictions:** no arbitral or judicial proceedings during conciliation (s.77), and the conciliator cannot later act as arbitrator (s.80).
+### Mediation before the 2023 Act
+- Court-annexed mediation under s.89 CPC (*Salem Advocate Bar Association*, 2005; *Afcons*, 2010).
+- Mandatory pre-institution mediation in commercial suits (s.12A, Commercial Courts Act; *Patil Automation v Rakheja Engineers*, 2022, holding it mandatory).
+- Family court counselling.
+### Mediation Act, 2023
+- **Pre-litigation mediation:** voluntary for civil and commercial disputes (s.5). The First Schedule lists matters not fit for mediation, such as criminal prosecution and fraud.
+- **Mediators:** appointed by the parties or service providers. Their independence and disclosures are covered.
+- **Time limit:** 120 days, extendable by 60 days.
+- **Mediated settlement agreement (s.19):** enforceable as a decree (s.27), challengeable within 90 days on limited grounds (s.28).
+- **Online and community mediation.**
+- **Confidentiality and privilege.**
+- **The Mediation Council of India:** registration of mediators and standards. It was established by notification on 27 August 2026.
+- **Amendments:** the Act amends conciliation provisions of the 1996 Act, which will be omitted when the Act is fully in force.
+- **Status:** many core provisions are not yet in force.
+### Singapore Convention, 2019
+India has signed it but not ratified it. It deals with the enforcement of international mediated settlements.
+### Conclusion
+India is moving from conciliation under the 1996 Act to a comprehensive mediation framework. Full commencement of the 2023 Act and institution-building are the next steps.
+
+PART: C | Problems | Answer any ONE of the following. | 1 × 15 = 15 marks
+
+Q: A applies under section 11 for appointment of an arbitrator under a contract with B. B denies ever signing the contract and alleges that the signature on the page containing the arbitration clause is forged. Decide.
+**Issue:** Can the court refer to arbitration where the existence of the arbitration agreement itself is disputed as forged?
+**Law:**
+- At the s.11 stage, the court examines only prima facie existence (*In re Interplay*, 2023; *SBI General Insurance v Krish Spinning*, 2024).
+- Where the arbitration agreement itself is allegedly forged, there is no consent to arbitrate, and the dispute is non-arbitrable until existence is established (*Rajia Begum*, 2026; see also *A. Ayyasamy v A. Paramasivam*, 2016, on serious fraud).
+- In some cases, the genuineness of the agreement may be a preliminary issue for the arbitrator (*Salson Liquors*, 2026).
+**Application:** B denies execution of the very page containing the clause, which goes to the root of consent.
+**Conclusion:** If the allegation is serious and supported by material, the court should decide the existence of the agreement first. If B's denial is bald and unsubstantiated, the court may refer the dispute and leave the issue to the tribunal under s.16.
+
+Q: A government contract provides that disputes "can be referred to arbitration by the Chief Engineer, whose decision shall be final". The contractor seeks appointment of an arbitrator under section 11. Decide.
+**Issue:** Is this a binding arbitration agreement, and is the appointment mechanism valid?
+**Law:**
+- An arbitration agreement requires a clear intention to refer disputes to a binding decision. A clause that uses "can" or "may", indicating only possibility, is not binding (*Jagdish Chander v Ramesh Chander*, 2007; *NagreeKa Indcon*, 2026).
+- A unilateral appointment by an interested official is invalid (*Perkins Eastman*, 2019; *CORE*, 2024; s.12(5) and the Seventh Schedule).
+**Application:** "Can be referred" expresses only a possibility, not an obligation. Even if it were binding, appointment of the Chief Engineer, an employee of a party, would be barred.
+**Conclusion:** The s.11 application is likely to fail for want of a binding arbitration agreement. The contractor should pursue a civil suit, unless the parties agree to arbitrate afresh.
+
+Q: Two parties settle a family property dispute at a Lok Adalat. Three months later, one party files an appeal in the District Court, claiming that he was pressured into the settlement. Decide.
+**Issue:** Can a Lok Adalat award be appealed?
+**Law:**
+- Section 21(2) of the LSA Act: every Lok Adalat award is final and binding, and no appeal lies to any court.
+- The only remedy is a writ petition under Arts. 226 and 227, on limited grounds such as fraud, coercion or no genuine consent (*State of Punjab v Jalour Singh*, 2008; *Bhargavi Constructions v Kothakapu Muthyam Reddy*, 2018).
+**Application:** An appeal in the District Court is not maintainable.
+**Conclusion:** The appeal will be dismissed. The party may file a writ petition before the High Court if he can prove coercion or fraud.

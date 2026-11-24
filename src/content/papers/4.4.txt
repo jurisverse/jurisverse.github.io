@@ -1,0 +1,239 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Idea–expression dichotomy
+Copyright protects the expression of an idea, not the idea itself. Themes, plots and historical facts are free for all.
+- *R.G. Anand v Delux Films* (1978): there is copying only if an average viewer, after seeing both works, gets an unmistakable impression that one is a copy of the other. A similarity of theme alone is not infringement.
+- *Eastern Book Co v D.B. Modak* (2008): the "modicum of creativity" standard for originality.
+- Under the merger doctrine, where an idea can be expressed in only one way, the expression is not protected.
+
+Q: Fair dealing
+Section 52 of the Copyright Act, 1957 lists acts that are not infringement, including fair dealing for:
+- private or personal use, including research;
+- criticism or review; and
+- reporting current events.
+It also covers judicial proceedings, educational use, and temporary or incidental storage.
+- *The Chancellor, Masters and Scholars of the University of Oxford v Rameshwari Photocopy Services* (Delhi HC, 2016): photocopied course packs for education are covered by s.52(1)(i).
+- Factors include the purpose, the amount taken, and the effect on the market.
+
+Q: Moral rights
+Section 57 of the Copyright Act gives an author, independently of the economic rights and even after assignment:
+- the right of paternity, to claim authorship; and
+- the right of integrity, to restrain distortion, mutilation or modification prejudicial to honour or reputation.
+- *Amar Nath Sehgal v Union of India* (Delhi HC, 2005): damages were awarded for the destruction of a mural.
+- The rights may be exercised by the author's legal representatives.
+
+Q: Well-known trade mark
+Under s.2(1)(zg) of the Trade Marks Act, 1999, a well-known mark is one so known to a substantial segment of the public that its use on other goods or services would suggest a connection with the owner.
+- Such marks get protection across all classes, against dilution and unrelated use (ss.11(2) and 29(4)).
+- Factors for determination are in s.11(6). Marks can be included in the Registry's list of well-known marks (Rule 124).
+- Examples: *Daimler Benz v Hybo Hindustan* (1994, "Benz" for underwear); *Tata Sons v Manoj Dodia* (2011).
+
+Q: Passing off
+Passing off is a common-law remedy against misrepresentation of goods or business as those of another, whether or not the mark is registered (s.27(2)). Elements (the classical trinity, *Reckitt & Colman v Borden*, 1990):
+1. goodwill;
+2. misrepresentation; and
+3. damage.
+- *Cadila Health Care v Cadila Pharmaceuticals* (2001): factors for deceptive similarity, with stricter standards for medicines.
+- It is also available for domain names (*Satyam Infoway v Sifynet Solutions*, 2004).
+
+Q: Criteria of patentability
+Under the Patents Act, 1970, an invention (s.2(1)(j)) must be:
+1. **novel**: not anticipated by prior publication or use (s.2(1)(l));
+2. **inventive**: a technical advance or economic significance not obvious to a person skilled in the art (s.2(1)(ja)); and
+3. **capable of industrial application** (s.2(1)(ac)).
+It must also not fall within the exclusions in s.3 (non-inventions) or s.4 (atomic energy).
+
+Q: Section 3(d) of the Patents Act
+Section 3(d) excludes the mere discovery of a new form of a known substance that does not enhance its known efficacy. Salts, esters, polymorphs and similar forms are treated as the same substance unless they differ significantly in efficacy.
+- *Novartis AG v Union of India* (2013): a patent for the beta crystalline form of imatinib mesylate (Glivec) was refused. "Efficacy" means therapeutic efficacy, and there was no proof of enhanced efficacy.
+- The provision prevents "evergreening" and is consistent with TRIPS flexibilities.
+
+Q: Compulsory licence
+Under s.84 of the Patents Act, after three years from the grant, any person may apply for a compulsory licence on grounds that:
+- the reasonable requirements of the public are not satisfied;
+- the invention is not available at a reasonably affordable price; or
+- it is not worked in India.
+Other provisions cover national emergencies, public non-commercial use (s.92) and exports to countries lacking manufacturing capacity (s.92A).
+- *Bayer Corporation v Natco Pharma* (2012, upheld by the Bombay HC, 2014): sorafenib (Nexavar) was licensed with a 6% royalty.
+
+Q: Anton Piller order
+An Anton Piller order is an ex parte order permitting the plaintiff's representatives, often through a local commissioner, to enter the defendant's premises to inspect, seize or preserve evidence of infringement. It prevents destruction of evidence (*Anton Piller KG v Manufacturing Processes*, 1976).
+Conditions:
+- an extremely strong prima facie case;
+- very serious potential damage; and
+- clear evidence that the defendant has incriminating material and may destroy it.
+Indian courts grant such orders under Order XXXIX and Order XXVI CPC, through local commissioners. Related orders include John Doe orders and dynamic injunctions.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: What constitutes infringement of copyright? Explain the remedies available.
+### Subject matter (s.13)
+- original literary, dramatic, musical and artistic works;
+- cinematograph films; and
+- sound recordings.
+Computer programs are literary works.
+### Rights (s.14)
+Rights of reproduction, issue of copies, performance, communication to the public, adaptation and translation.
+### Infringement (s.51)
+Copyright is infringed when a person, without a licence or contrary to its conditions:
+- does any act that the copyright owner has the exclusive right to do;
+- permits a place to be used for communication of the work for profit; or
+- sells, hires, distributes or imports infringing copies.
+**Test:** substantial similarity, and the "unmistakable impression" of the average viewer (*R.G. Anand*, 1978). Copying must be proved, so independent creation is a defence. *Sujoy Ghosh v State of Jharkhand* (2026) quashed a complaint where the defendant's screenplay predated the complainant's script.
+**Exceptions:** fair dealing and other acts under s.52.
+**Online infringement:**
+- intermediary safe harbour (s.79, IT Act);
+- dynamic and blocking injunctions against rogue websites (*UTV Software v 1337x.to*, Delhi HC, 2019); and
+- streaming piracy (*JioStar India v GHD Sports*, 2026).
+**AI training:** the question of whether training AI models on works is infringement is pending in *ANI v OpenAI* (Delhi HC).
+### Remedies
+1. **Civil (ss.54 to 62):** injunction, including interlocutory, Anton Piller and John Doe orders; damages or accounts of profits; delivery up of infringing copies. Jurisdiction lies where the plaintiff resides or carries on business (s.62).
+2. **Criminal (ss.63 to 70):** imprisonment of six months to three years and a fine; enhanced punishment for second offences; seizure of infringing copies (s.64).
+3. **Administrative:** the Registrar of Copyrights, and border measures.
+### Defences
+- fair dealing;
+- independent creation;
+- de minimis copying;
+- licence;
+- expiry of copyright (life plus 60 years); and
+- public interest.
+### Conclusion
+Copyright law protects expression while leaving ideas free. Courts have adapted remedies to digital piracy, and new questions on AI are being litigated.
+
+Q: Explain the grounds for refusal of registration of a trade mark and what constitutes infringement.
+### Absolute grounds (s.9)
+These are inherent defects:
+- marks devoid of distinctive character;
+- descriptive marks, which designate kind, quality, purpose or origin;
+- generic or customary marks;
+- deceptive marks;
+- marks hurting religious susceptibilities;
+- scandalous or obscene marks;
+- marks prohibited under the Emblems and Names Act; and
+- shapes resulting from the nature of the goods, needed for a technical result, or giving substantial value.
+The proviso allows registration of descriptive marks that have acquired distinctiveness through use.
+### Relative grounds (s.11)
+These involve conflict with earlier rights:
+- identical or similar marks for identical or similar goods, likely to cause confusion;
+- identical or similar marks to an earlier well-known mark, for dissimilar goods, where use would take unfair advantage or be detrimental; and
+- marks whose use is prevented by passing off or copyright.
+Honest concurrent use is allowed (s.12).
+### Infringement (s.29)
+Use in the course of trade, by a person who is not the proprietor or a permitted user, of:
+- an identical or deceptively similar mark for the same or similar goods, likely to cause confusion (s.29(1) and (2)). Confusion is presumed where both the mark and the goods are identical (s.29(3));
+- a similar mark for dissimilar goods, where the registered mark has a reputation in India and the use takes unfair advantage (s.29(4), dilution);
+- the mark as a trade name (s.29(5));
+- the mark in comparative advertising contrary to honest practices (s.29(8)); and
+- spoken use of word marks (s.29(9)).
+### Tests of deceptive similarity
+- the average consumer with imperfect recollection;
+- the overall impression;
+- phonetic similarity; and
+- the nature of the goods (*Cadila*, 2001; *Amritdhara Pharmacy v Satya Deo Gupta*, 1963).
+### Defences (s.30)
+Honest descriptive use, comparative advertising, exhaustion of rights (*Kapil Wadhwa v Samsung*, 2012, on parallel imports), and acquiescence (s.33).
+### Remedies (ss.134 and 135)
+Injunctions, damages or accounts of profits, and delivery up. Criminal offences are dealt with under ss.103 and 104.
+### Conclusion
+Registration requires distinctiveness and no conflict with earlier rights. Infringement protects the origin function, and for marks with a reputation, protects against dilution.
+
+Q: Discuss the patentability of inventions and the inventions that are not patentable under the Patents Act, 1970.
+### Patentable invention
+A new product or process involving an inventive step and capable of industrial application (s.2(1)(j)).
+- **Novelty:** global absolute novelty. There are grace periods for some disclosures (ss.29 to 34).
+- **Inventive step:** a technical advance or economic significance that is not obvious (*Bishwanath Prasad Radhey Shyam v Hindustan Metal Industries*, 1979).
+- **Industrial application.**
+### Non-inventions (s.3)
+- (a) frivolous inventions, or those contrary to natural laws;
+- (b) inventions contrary to public order or morality, or causing serious prejudice to health or the environment;
+- (c) mere discovery of a scientific principle, or of living or non-living substances occurring in nature;
+- (d) new forms of known substances without enhanced efficacy, new uses, and mere use of known processes (*Novartis*, 2013);
+- (e) mere admixtures resulting in aggregation of properties;
+- (f) mere arrangement of known devices;
+- (h) methods of agriculture or horticulture;
+- (i) methods of medical treatment;
+- (j) plants and animals, and essentially biological processes, though micro-organisms are patentable;
+- (k) mathematical or business methods, computer programs per se, and algorithms. Software with a technical effect may be patentable (*Ferid Allani v Union of India*, Delhi HC, 2019; *Microsoft Technology Licensing v Assistant Controller*, 2023);
+- (l) literary, dramatic, musical and artistic works;
+- (m) mental acts and methods of playing games;
+- (n) presentation of information;
+- (o) topography of integrated circuits; and
+- (p) traditional knowledge.
+Section 4 excludes inventions relating to atomic energy.
+### TRIPS and India
+- Product patents for pharmaceuticals were introduced in 2005.
+- Flexibilities: s.3(d), compulsory licensing, pre-grant and post-grant opposition (ss.25(1) and 25(2)), and parallel imports.
+- Term: 20 years from filing (s.53).
+### Conclusion
+Indian patent law grants strong protection for genuine inventions while using TRIPS flexibilities to protect public health and the public domain.
+
+Q: Discuss the TRIPS Agreement and its impact on Indian intellectual property law.
+### TRIPS (1994, WTO)
+- **Minimum standards** for all major IP categories: copyright, trade marks, geographical indications, industrial designs, patents, layout designs and trade secrets.
+- **Principles:** national treatment and MFN (Arts. 3 and 4).
+- **Enforcement:** civil and criminal remedies and border measures (Part III).
+- **Dispute settlement** through the WTO's Dispute Settlement Understanding.
+- **Transition periods** for developing countries, with India's deadline in 2005.
+### Key provisions
+- patents in all fields of technology, including product patents for pharmaceuticals and chemicals (Art. 27);
+- a 20-year term (Art. 33);
+- exceptions (Art. 30);
+- compulsory licences (Art. 31);
+- protection of undisclosed information (Art. 39);
+- GIs (Arts. 22 to 24); and
+- the Doha Declaration (2001) on public health, and Art. 31bis (exports under compulsory licence).
+### India's implementation
+- **Patents:** amendments in 1999 (mailbox), 2002 and 2005 (product patents). Flexibilities: s.3(d), oppositions and compulsory licences. *Novartis* (2013); *Natco* (2012).
+- **Trade Marks Act, 1999:** service marks and well-known marks.
+- **Geographical Indications Act, 1999:** examples include Darjeeling tea and Tirupati laddu.
+- **Designs Act, 2000.**
+- **Semiconductor layout designs (2000).**
+- **Protection of Plant Varieties and Farmers' Rights Act, 2001:** a sui generis system for plant varieties, which also protects farmers' rights.
+- **Copyright amendments:** 1994, 1999 and 2012.
+- **Biological Diversity Act, 2002:** access and benefit sharing.
+- IP Divisions in the Delhi and Madras High Courts after the IPAB was abolished (2021).
+### Impact
+- **Positive:** stronger IP protection, FDI and innovation.
+- **Concerns:** access to medicines and the price of drugs. India's use of flexibilities is criticised by developed countries (the US Special 301 report).
+### Conclusion
+India complied with TRIPS while making full use of its flexibilities, especially in pharmaceuticals, to balance protection with public interest.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: W files a criminal complaint alleging that a film director copied W's script. The director shows that his screenplay was registered and circulated before W wrote the script, though both stories involve a missing husband and a woman's search. Decide.
+**Issue:** Is there copyright infringement?
+**Law:**
+- Copyright protects expression, not ideas. A similarity of theme is not infringement (*R.G. Anand v Delux Films*, 1978).
+- Copying requires access to the earlier work.
+- *Sujoy Ghosh v State of Jharkhand* (2026): no infringement where the accused's screenplay predated the complainant's script, and the criminal case was quashed.
+**Application:** The director's work came first, so he could not have copied W's later script. The shared theme is an idea.
+**Conclusion:** There is no infringement. The complaint is liable to be quashed.
+
+Q: Unknown persons upload AI-generated deepfake videos using a famous actor's face and voice to endorse products and spread false statements. Advise the actor.
+**Issue:** Remedies for misuse of personality and publicity rights.
+**Law:**
+- Personality and publicity rights, covering name, image, voice and likeness, are protected under Art. 21 (privacy and dignity), passing off and trade mark law.
+- The Delhi High Court has granted ex parte injunctions and takedown orders against unknown persons (John Doe), including for AI-generated misuse:
+  - *Sadhguru Jagadish Vasudev v Igor Isakov* (2025);
+  - *Vivek Anand Oberoi v Collector Bazar* (2026);
+  - *Anil Kapoor v Simply Life India* (2023).
+- Under the IT Rules, 2021, intermediaries must remove such content on court orders. Recent amendments to the IT Rules also address synthetically generated content.
+**Application:** The deepfakes use the actor's persona without consent, for commercial gain and to mislead.
+**Conclusion:** The actor should sue for an injunction against John Doe defendants, with directions to platforms to take down the content and disclose the uploaders' details, and claim damages. A criminal complaint may also be filed under the IT Act and the BNS.
+
+Q: A pharmaceutical company applies for a patent on a new salt form of its existing patented anti-cancer drug. The new form has better stability but no proven improvement in therapeutic effect. Advise the Controller.
+**Issue:** Is the new form patentable under s.3(d)?
+**Law:**
+- Section 3(d): new forms of known substances, including salts, are not patentable unless they differ significantly in efficacy.
+- *Novartis AG v Union of India* (2013): "efficacy" means therapeutic efficacy for medicines. Physical properties such as better flow or stability do not count unless they translate into therapeutic efficacy.
+**Application:** Better stability is not therapeutic efficacy, and no improvement in therapeutic effect is proved.
+**Conclusion:** The Controller should refuse the patent under s.3(d). This is a case of evergreening.
+
+Q: B registers the domain name "tatahousing.in" and offers it for sale to Tata Sons at a high price. Advise Tata Sons.
+**Issue:** Domain names and trade mark or passing off protection.
+**Law:**
+- Domain names function as business identifiers and are protected by passing off (*Satyam Infoway v Sifynet Solutions*, 2004).
+- TATA is a well-known mark (*Tata Sons v Manoj Dodia*, 2011), protected against dilution (s.29(4)).
+- Bad-faith registration with an intention to sell is cybersquatting. The remedies are the INDRP (.IN Domain Name Dispute Resolution Policy) and civil suits.
+**Application:** B has no legitimate interest in the name and registered it in bad faith.
+**Conclusion:** Tata Sons can obtain transfer of the domain through an INDRP complaint, or an injunction and damages through a suit for infringement and passing off.

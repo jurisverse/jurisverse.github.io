@@ -1,0 +1,207 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Continuing guarantee
+A guarantee that extends to a series of transactions (s.129), such as a guarantee for a running account or for an agent's faithful conduct over time.
+Revocation:
+- By notice, as to future transactions (s.130).
+- By the surety's death, unless otherwise agreed, as to future transactions (s.131).
+The surety remains liable for transactions entered into before revocation.
+
+Q: Bailee's lien
+- **Particular lien (s.170):** a bailee who has rendered services involving labour or skill on the goods may retain them until paid. Example: a tailor or repairer.
+- **General lien (s.171):** bankers, factors, wharfingers, attorneys of a High Court and policy brokers may retain any goods bailed to them as security for a general balance of account, unless otherwise agreed.
+A lien is a right of retention only, not a right of sale, except under statute or agreement.
+
+Q: Pledge by non-owners
+A pledge by a person who is not the owner is valid in the following cases:
+- a mercantile agent in possession with the owner's consent, acting in the ordinary course of business, with a pledgee in good faith (s.178);
+- a person in possession under a voidable contract not rescinded at the time (s.178A);
+- a person with a limited interest, to the extent of that interest (s.179);
+- a seller or buyer in possession after sale (ss.30 and 30(2) of the Sale of Goods Act).
+
+Q: Sub-agent and substituted agent
+- A **sub-agent** is employed by and acts under the control of the original agent (s.191). A sub-agent may be appointed only where custom or the nature of the agency permits (s.190).
+  - A properly appointed sub-agent binds the principal; the agent is responsible to the principal for the sub-agent (s.192).
+  - The principal can sue a sub-agent directly only for fraud or wilful wrong.
+- A **substituted agent** is named by the agent at the principal's authority, to act for the principal directly. Privity is created between the principal and the substitute (s.194).
+
+Q: Caveat emptor
+"Let the buyer beware" (s.16, Sale of Goods Act): there is no implied condition as to quality or fitness, subject to exceptions:
+- fitness for a particular purpose made known, where the buyer relies on the seller's skill (s.16(1));
+- merchantable quality in a sale by description (s.16(2));
+- usage of trade (s.16(3));
+- fraud; and
+- a sale by sample (s.17).
+The rule has been eroded by consumer protection law.
+
+Q: Rights of an unpaid seller against the goods
+An unpaid seller (s.45) has the following rights:
+- **lien:** retaining possession until paid (ss.47 to 49);
+- **stoppage in transit:** on the buyer's insolvency (ss.50 to 52);
+- **re-sale:** for perishable goods, after notice, or where the right is reserved (s.54).
+The seller also has rights against the buyer personally, such as a suit for the price and damages (ss.55 and 56).
+
+Q: Holder in due course
+Under s.9 of the Negotiable Instruments Act, a holder in due course is a person who:
+- became the holder for consideration;
+- before the amount became payable; and
+- without sufficient cause to believe that any defect existed in the title of the person from whom he derived his title.
+Privileges:
+- He takes the instrument free from defects (s.53).
+- Prior parties remain liable to him until the instrument is duly satisfied (s.36).
+- Estoppel against denying validity (ss.120 to 122).
+- The presumption of holding in due course (s.118(g)).
+
+Q: Crossing of cheques
+A crossing is a direction to the paying banker to pay only through a banker (ss.123 to 131).
+- **General crossing:** two parallel transverse lines, with or without "& Co.". Payment is made only through a banker.
+- **Special crossing:** the name of a banker is added. Payment is made only to that banker.
+- **"Not negotiable"** (s.130): the transferee gets no better title than the transferor.
+- **"Account payee":** a banking practice that directs the collecting banker to credit only the payee's account.
+A paying banker who pays in due course is protected (s.128). A collecting banker who receives payment in good faith and without negligence for a customer is protected (s.131).
+
+Q: Implied authority of a partner
+Under s.19 of the Partnership Act, the act of a partner done to carry on, in the usual way, the business of the firm binds the firm.
+Under s.19(2), unless trade usage permits, a partner cannot:
+- submit disputes to arbitration;
+- open a bank account in his own name;
+- compromise or relinquish claims;
+- withdraw a suit;
+- admit liability in a suit;
+- acquire or transfer immovable property; or
+- enter into partnership on behalf of the firm.
+The firm is bound by acts under implied authority, and by a partner's wrongful acts in the ordinary course of business (s.26).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Explain the rights of a surety and the modes of discharge of a surety.
+### Contract of guarantee (s.126)
+A contract to perform the promise, or discharge the liability, of a third person in case of his default. There are three parties: the creditor, the principal debtor and the surety. Anything done for the benefit of the principal debtor is sufficient consideration (s.127). The surety's liability is co-extensive with that of the principal debtor (s.128). The creditor may proceed against the surety first (*Bank of Bihar v Damodar Prasad*, 1969).
+### Rights of the surety
+1. **Against the creditor:**
+   - the benefit of every security the creditor holds against the principal debtor, whether or not the surety knew of it (s.141);
+   - to require the creditor to sue the principal first, where so agreed.
+2. **Against the principal debtor:**
+   - **subrogation:** on payment, the surety is invested with all the creditor's rights against the debtor (s.140);
+   - **implied indemnity:** for sums rightfully paid (s.145).
+3. **Against co-sureties:**
+   - contribution in equal shares (s.146), or in proportion to the amounts guaranteed (s.147).
+### Discharge of the surety
+- revocation of a continuing guarantee by notice or death (ss.130 and 131);
+- variance in the terms of the contract without the surety's consent (s.133);
+- release or discharge of the principal debtor (s.134);
+- composition with, promise to give time to, or promise not to sue the principal debtor (s.135). Mere forbearance to sue does not discharge (s.137), nor does an agreement with a third person (s.136);
+- the creditor's act or omission impairing the surety's eventual remedy (s.139);
+- loss of security by the creditor, to the extent of its value (s.141);
+- a guarantee obtained by misrepresentation or by concealment (ss.142 and 143).
+### Insolvency context
+The surety's liability survives the principal debtor's insolvency resolution. Creditors may proceed against personal guarantors (*Lalit Kumar Jain v Union of India*, 2021).
+### Conclusion
+The surety is a favoured debtor in law. Because his liability is secondary, the Contract Act protects him through rights of subrogation, indemnity and contribution, and by discharge where the creditor prejudices him.
+
+Q: What are conditions and warranties? Explain the implied conditions in a contract of sale of goods.
+### Definitions
+- **Condition (s.12(2)):** a stipulation essential to the main purpose of the contract. Its breach gives a right to treat the contract as repudiated.
+- **Warranty (s.12(3)):** a stipulation collateral to the main purpose. Its breach gives a right to claim damages, but not to reject the goods.
+- Whether a stipulation is a condition depends on the construction of the contract (s.12(4)).
+- A condition may be treated as a warranty, by waiver or by acceptance of the goods (s.13).
+### Implied conditions
+1. **Title (s.14(a)):** the seller has the right to sell (*Rowland v Divall*, 1923).
+2. **Description (s.15):** the goods correspond to the description (*Varley v Whipp*, 1900).
+3. **Fitness for purpose (s.16(1)):** the buyer makes the purpose known and relies on the seller's skill (*Priest v Last*, 1903, a hot-water bottle; *Grant v Australian Knitting Mills*, 1936).
+4. **Merchantable quality (s.16(2)):** in a sale by description by a seller dealing in such goods. Hidden defects are covered; defects that examination ought to have revealed are not.
+5. **Sale by sample (s.17):** the bulk corresponds to the sample, there is a reasonable opportunity to compare, and there are no hidden defects.
+6. **Wholesomeness:** for eatables (*Frost v Aylesbury Dairy*, 1905).
+### Implied warranties
+- quiet possession (s.14(b));
+- freedom from encumbrances (s.14(c)).
+### Caveat emptor
+Section 16 states the rule; the conditions above are its exceptions.
+### Conclusion
+The implied conditions protect buyers. Consumer protection law, including product liability under the Consumer Protection Act, 2019, adds to this protection.
+
+Q: Explain the modes of dissolution of a partnership firm and the consequences of dissolution.
+### Dissolution of a firm (s.39)
+Dissolution of the partnership between all the partners of a firm. It differs from dissolution of partnership, which is a change in the relationship among partners, such as on retirement.
+### Modes
+1. **By agreement (s.40):** with the consent of all partners.
+2. **Compulsory (s.41):**
+   - adjudication of all partners, or all but one, as insolvent;
+   - the business becomes unlawful.
+3. **On contingencies (s.42), unless otherwise agreed:**
+   - expiry of the fixed term;
+   - completion of the adventure;
+   - death of a partner;
+   - insolvency of a partner.
+4. **By notice in a partnership at will (s.43).**
+5. **By the court (s.44), at the suit of a partner, on grounds of:**
+   - unsoundness of mind;
+   - permanent incapacity;
+   - misconduct prejudicial to the business;
+   - persistent breach of agreement;
+   - transfer of the whole interest;
+   - continuous losses; or
+   - just and equitable grounds.
+### Consequences
+- Partners remain liable to third parties until public notice of dissolution is given (s.45).
+- Each partner may have the business wound up and the property applied to pay debts, with the surplus distributed (s.46).
+- Continuing authority to wind up affairs (s.47).
+- Settlement of accounts (s.48):
+  - losses are paid first from profits, then capital, then partners individually in their profit-sharing ratio;
+  - assets are applied to outside debts, then partners' advances, then capital, then surplus.
+- Firm debts and private debts (s.49).
+- The sale of goodwill and restraint on competition (ss.53 and 55).
+- *Garner v Murray* (1904): a solvent partner is not liable for an insolvent partner's capital deficiency. Indian courts generally follow this rule.
+### Conclusion
+Dissolution ends the firm's business. The Act protects third parties through the public notice requirement and provides an orderly settlement of accounts.
+
+Q: Discuss the offence of dishonour of a cheque under section 138 of the Negotiable Instruments Act.
+### Ingredients
+1. A cheque drawn on an account maintained by the drawer.
+2. For the discharge of a legally enforceable debt or liability, wholly or partly.
+3. Presented within its validity (three months).
+4. Returned unpaid for insufficiency of funds, or because it exceeds the arranged amount. Courts have included "account closed", "payment stopped" and "signature mismatch" (*NEPC Micon v Magma Leasing*, 1999; *Laxmi Dyechem v State of Gujarat*, 2012).
+5. A written demand notice by the payee within 30 days of information of dishonour.
+6. Failure of the drawer to pay within 15 days of receiving the notice.
+7. A complaint filed within one month of the cause of action (s.142), with delay condonable.
+### Presumptions
+- Sections 118 and 139: the cheque is presumed to be for a legally enforceable debt.
+- The presumption is rebuttable by a probable defence on a preponderance of probabilities (*Rangappa v Sri Mohan*, 2010; *Basalingappa v Mudibasappa*, 2019).
+### Companies (s.141)
+Every person in charge of and responsible for the conduct of business is vicariously liable. Specific averments are needed (*SMS Pharmaceuticals v Neeta Bhalla*, 2005). Directors cannot be prosecuted where the company is not arraigned (*Aneeta Hada*, 2012).
+### Procedure
+- Summary trial (s.143).
+- Interim compensation of up to 20% (s.143A).
+- Deposit of up to 20% in appeal (s.148).
+- Compounding at any stage (s.147; *Damodar S. Prabhu*, 2010, on graded costs).
+- Punishment: up to two years, or a fine up to twice the cheque amount, or both.
+- Jurisdiction lies where the payee's bank branch is (s.142(2), 2015 amendment).
+- *In re Expeditious Trial of Cases under Section 138* (2021) gave directions to speed up trials.
+### Conclusion
+Section 138 converts a civil liability into a criminal offence to promote credibility of cheques. The courts have balanced its deterrent purpose with compounding and speedy summary trials.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: C lends ₹5 lakh to P on S's guarantee, repayable on 1 June. On P's request, C agrees in writing to extend the time for repayment by one year, without S's knowledge. P defaults. C sues S. Decide.
+**Issue:** Is S discharged by C's agreement to give time to P?
+**Law:** Under s.135 of the Contract Act, a contract between the creditor and the principal debtor by which the creditor makes a composition with, or promises to give time to, or not to sue, the principal debtor discharges the surety, unless the surety assents. Mere forbearance to sue does not discharge the surety (s.137).
+**Application:** C made a binding promise in writing to give P one year's further time, without S's consent. This is more than mere forbearance.
+**Conclusion:** S is discharged. C can recover only from P.
+
+Q: B tells a seller that he needs a pump to lift water from a 40-metre deep well. Relying on the seller's recommendation, B buys a pump, which can lift water only from 20 metres. Advise B.
+**Issue:** Is there a breach of the implied condition of fitness for purpose?
+**Law:** Under s.16(1) of the Sale of Goods Act, where the buyer expressly or by implication makes known the particular purpose and relies on the seller's skill or judgement, and the goods are of a description the seller deals in, there is an implied condition that the goods are reasonably fit for that purpose (*Priest v Last*, 1903).
+**Application:** B disclosed the purpose (40 metres) and relied on the seller. The pump is unfit.
+**Conclusion:** There is a breach of condition. B may reject the pump and recover the price with damages. If he has already accepted it, he may treat the breach as a breach of warranty and claim damages (s.59). A consumer complaint is also available.
+
+Q: A appoints B as his agent to buy cotton. B, without telling A, sells his own cotton to A at the market price. Later, A discovers this. What are A's rights?
+**Issue:** Can an agent deal on his own account in the business of the agency without disclosure?
+**Law:** Under s.215 of the Contract Act, if an agent deals on his own account without the principal's consent, and without disclosing all material facts, the principal may repudiate the transaction if it was disadvantageous to him or if the agent concealed material facts. Under s.216, the principal is entitled to any benefit the agent made.
+**Application:** B secretly sold his own cotton to A. Even at market price, A may repudiate, and if B made any profit, A may claim it.
+**Conclusion:** A may repudiate the purchase, or affirm it and claim any secret benefit B made.
+
+Q: D issues a cheque for ₹3 lakh to E towards repayment of a loan. Before presentation, D closes his bank account. The cheque is returned with the remark "account closed". E sends a notice, and D does not pay. D argues that s.138 applies only to "insufficiency of funds". Decide.
+**Issue:** Does dishonour for "account closed" attract s.138?
+**Law:** *NEPC Micon v Magma Leasing* (1999): "account closed" is a species of "insufficiency of funds", and the drawer cannot escape by closing the account. "Payment stopped" is also covered if the account has insufficient funds or there is no valid reason (*Modi Cements v Kuchil Kumar Nandi*, 1998). The presumption under s.139 applies.
+**Application:** The cheque was issued for a debt, presented in time, and dishonoured. The notice was given and payment not made.
+**Conclusion:** D is liable under s.138. E should file a complaint within one month of the expiry of the 15-day notice period, in the court where E's bank branch is located.

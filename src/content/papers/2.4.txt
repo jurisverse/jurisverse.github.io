@@ -1,0 +1,206 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Austin's command theory
+John Austin (*The Province of Jurisprudence Determined*, 1832) defined law as a command of the sovereign, backed by a sanction. The sovereign is a determinate person or body whom the bulk of society habitually obeys and who habitually obeys no one. The elements are command, duty, sanction and sovereign.
+Criticisms:
+- it ignores customary and international law;
+- it does not explain power-conferring rules;
+- it cannot account for continuity of law when sovereigns change (Hart); and
+- sovereignty is divided in federal constitutions such as India's.
+
+Q: Kelsen's Grundnorm
+Hans Kelsen's Pure Theory of Law treats law as a hierarchy of norms, each deriving validity from a higher norm, up to the basic norm (Grundnorm), which is presupposed, not posited. Example: "the first constitution ought to be obeyed".
+- The theory excludes morality, sociology and politics from legal science.
+- A revolution that succeeds creates a new Grundnorm. The theory was used in *State v Dosso* (Pakistan, 1958) and *Uganda v Commissioner of Prisons, ex parte Matovu* (1966).
+- Criticism: the Grundnorm is a fiction; efficacy decides validity in the end.
+
+Q: Hart's rule of recognition
+In *The Concept of Law* (1961), H.L.A. Hart describes law as a union of:
+- **primary rules** of obligation; and
+- **secondary rules**, which cure the defects of a pre-legal society:
+  - **recognition**, which cures uncertainty;
+  - **change**, which cures the static quality of rules; and
+  - **adjudication**, which cures the inefficiency of diffuse pressure.
+The rule of recognition is the ultimate criterion of validity in a legal system. It is accepted from the internal point of view by officials. In India, it would be roughly "what the Constitution, as interpreted by the Supreme Court, recognises as law".
+
+Q: Natural law
+Natural law is a higher law derived from nature, reason or God, by which positive law is judged. Its main phases are:
+- Greek (Stoics);
+- Roman (jus naturale);
+- medieval (Aquinas: lex aeterna, naturalis, humana); and
+- modern, with social contract theorists (Hobbes, Locke, Rousseau).
+A 20th-century revival came from Fuller (the inner morality of law), Finnis (basic goods) and Radbruch (extreme injustice is not law).
+In India, natural law influence appears in:
+- *Maneka Gandhi* (fair procedure);
+- *ADM Jabalpur*, through Khanna J's dissent; and
+- the basic structure doctrine.
+
+Q: Ratio decidendi
+The ratio decidendi is the principle of law on which a case is decided, the binding part of a precedent.
+- **Wambaugh's inversion test:** reverse the proposition; if the decision would change, it is the ratio.
+- **Goodhart's material facts test:** the facts treated as material, plus the decision.
+Only the ratio binds under Art. 141; obiter dicta are persuasive. A ratio cannot be extracted by reading a judgment like a statute (*Islamic Academy of Education v State of Karnataka*, 2003).
+
+Q: Obiter dicta
+Obiter dicta are statements of law made in passing, not necessary for the decision.
+- They are not binding as precedent in English law, but they are persuasive, depending on the court and the judge.
+- In India, considered obiter dicta of the Supreme Court are generally followed by lower courts (*Mohandas Issardas v A.N. Sattanathan*, 1955; *Peerless General Finance*, 1992), though only the ratio binds strictly.
+
+Q: American legal realism
+- Holmes: law is "prophecies of what the courts will do in fact". The life of the law has been experience, not logic.
+- Llewellyn: "rule-scepticism".
+- Jerome Frank: "fact-scepticism", since uncertainty lies in fact-finding.
+The realists focused on judicial behaviour, the role of judges' personalities, and the gap between "law in books" and "law in action". Scandinavian realists (Olivecrona, Ross) took a psychological approach.
+Criticism: realism overstates uncertainty and ignores the normative quality of rules.
+
+Q: Pound's social engineering
+Roscoe Pound saw law as a tool of social engineering: balancing competing interests to satisfy the maximum of wants with the minimum of friction. He classified interests as:
+- **individual**: personality, domestic, substance;
+- **public**: those of the State; and
+- **social**: general security, social institutions, morals, resources, progress and individual life.
+This approach shaped Indian welfare legislation and public interest litigation.
+
+Q: Hohfeld's analysis of rights
+Wesley Hohfeld identified eight fundamental legal conceptions:
+| Jural correlatives | Jural opposites |
+| right – duty | right – no-right |
+| privilege – no-right | privilege – duty |
+| power – liability | power – disability |
+| immunity – disability | immunity – liability |
+A claim-right always implies a correlative duty in another person. The analysis clarifies the loose use of the word "right" in judgments.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Critically examine H.L.A. Hart's concept of law.
+### Context
+Hart revised Austin's command theory while staying within positivism: the separation of law and morality.
+### Critique of Austin
+- Laws are not like a "gunman situation": being obliged is different from having an obligation.
+- Austin cannot explain power-conferring rules such as those on contracts, wills and marriage.
+- Austin cannot explain the continuity and persistence of law across changes of sovereign.
+- Laws bind the legislators themselves.
+### Union of primary and secondary rules
+- Primary rules impose duties.
+- In a primitive society, primary rules alone suffer from uncertainty, a static quality and inefficiency.
+- These defects are cured by secondary rules: recognition, change and adjudication.
+### Internal point of view
+Rules exist when people accept them as standards of conduct, shown in criticism and demands for conformity. A mere habit of obedience is not enough.
+### The rule of recognition
+It is the ultimate rule identifying valid law. Its existence is a matter of social fact, the practice of officials.
+### Open texture
+Words have a "core of settled meaning" and a "penumbra of doubt" (the "vehicles in the park" example). In the penumbra, judges exercise discretion.
+### Minimum content of natural law
+Hart accepted some overlap with morality because of five human truisms:
+1. human vulnerability;
+2. approximate equality;
+3. limited altruism;
+4. limited resources; and
+5. limited understanding and strength of will.
+### Criticisms
+- **Dworkin:** principles, not just rules, are part of law. Judges have no strong discretion; there is a "right answer" (the *Riggs v Palmer* example).
+- **Fuller:** the eight principles of legality form an "inner morality" of law (the Hart–Fuller debate on Nazi laws).
+- **Finnis:** the central case of law is morally justified.
+### Conclusion
+Hart's work is the foundation of modern positivism. Its accounts of the internal point of view and the rule of recognition remain essential, though Dworkin's critique shows the role of principles in adjudication.
+
+Q: Explain the doctrine of precedent and its operation in India.
+### Meaning
+Stare decisis means "to stand by what has been decided". Like cases are to be decided alike, which brings certainty, equality and efficiency.
+### Binding effect in India
+- **Art. 141:** the law declared by the Supreme Court is binding on all courts in India. The Supreme Court is not bound by its own decisions (*Bengal Immunity Co. v State of Bihar*, 1955), but departs from them only for compelling reasons.
+- **Benches:** a smaller bench is bound by a larger bench. A coordinate bench that doubts a precedent must refer it to a larger bench (*Central Board of Dawoodi Bohra Community*, 2005; *National Insurance Co v Pranay Sethi*, 2017).
+- **High Courts:** bound by Supreme Court decisions. Within a High Court, a single judge is bound by a Division Bench. One High Court's decisions are only persuasive for another.
+- **Judicial discipline:** lower courts must follow binding precedent and cannot refuse to follow it on the ground that it is wrong (*Rohan Vijay Nahar v State of Maharashtra*, 2025).
+### Exceptions to binding force
+- per incuriam: decided in ignorance of a statute or binding authority;
+- sub silentio: a point not argued;
+- obiter dicta; and
+- decisions overruled or altered by statute.
+### Techniques
+- distinguishing;
+- overruling, for example *ADM Jabalpur* by *Puttaswamy*, and *Dheeraj Mor* by *Rejanish K.V.* (2025);
+- prospective overruling (*Golak Nath*, 1967); and
+- reference to larger benches, such as the nine-judge reference in *Jai Bir Singh* (decided 2026).
+### Problems
+- conflicting decisions of benches of equal strength;
+- volume of judgments; and
+- reliance on unverified or AI-generated citations, which courts have condemned (*Pooja Ramesh Singh v J&K Bank*, 2026).
+### Conclusion
+Precedent provides certainty while allowing growth. Its Indian form, centred on Art. 141, combines strict vertical binding with flexibility at the apex.
+
+Q: "Why are laws obligatory?" Discuss the various theories.
+### The question
+What gives law its binding force: coercion, consent, morality or acceptance?
+### Theories
+1. **Command and sanction (Austin; Bentham).** Laws oblige because of the threat of sanction. Criticism: this confuses "being obliged" with "having an obligation".
+2. **Natural law.** Laws oblige because, and to the extent that, they conform to reason and morality (Aquinas). An unjust law is not law (lex injusta non est lex); Radbruch's formula applies to extreme injustice.
+3. **Social contract.** Hobbes argued that individuals surrendered their rights to a sovereign for security. Locke argued for consent of the governed with a limited government. Rousseau grounded obligation in the general will.
+4. **Historical school (Savigny).** Law springs from the Volksgeist, the spirit of the people, and is obeyed because it reflects popular consciousness.
+5. **Realist and psychological theories (Olivecrona).** Laws are "independent imperatives" producing psychological effects.
+6. **Hart's acceptance.** Officials accept the rule of recognition from the internal point of view, and citizens generally comply.
+7. **Kelsen.** Validity derives from higher norms, up to the presupposed Grundnorm, so obligation is normative, not psychological.
+8. **Fairness and political obligation (Rawls; Hart's principle of fairness).** Those who accept the benefits of a just cooperative scheme should bear its burdens.
+9. **Raz's service conception.** Legitimate authority helps subjects better conform to the reasons that already apply to them.
+### Civil disobedience
+Gandhi's satyagraha, and Rawls on civil disobedience in a nearly just society, show the limits of the duty to obey.
+### Conclusion
+No single theory suffices. In a constitutional democracy like India, obligation rests on the legitimacy of a constitution adopted by "We, the People", the rule of law, and the moral acceptability of laws, reinforced by sanctions.
+
+Q: What limits exist on legislative authority? Discuss with reference to India.
+### Theoretical limits
+- Natural law: higher law limits positive law.
+- Fuller's inner morality: laws must be general, promulgated, prospective, clear, consistent, possible, stable and congruently administered.
+- Dicey: parliamentary sovereignty is unlimited in Britain, subject only to political and practical limits.
+### Limits under the Indian Constitution
+1. **Federal distribution:** legislative competence under Art. 246 and the Seventh Schedule; colourable legislation is void (*K.C. Gajapati Narayan Deo*, 1953).
+2. **Fundamental Rights:** a law violating Part III is void (Art. 13(2)).
+3. **Basic structure:** constitutional amendments cannot destroy basic features (*Kesavananda Bharati*, 1973).
+4. **Territorial limits (Art. 245):** subject to the nexus doctrine (*GVK Industries*, 2011).
+5. **Delegation:** the legislature cannot abdicate essential legislative functions (*In re Delhi Laws Act*, 1951).
+6. **Separation of powers:**
+   - the legislature cannot simply overrule a judgment; it must remove its basis (*Madras Bar Association v Union of India*, 2025, on the Tribunals Reforms Act; *S.R. Bhagwat*, 2015);
+   - courts in turn cannot create offences (*Ashwini Kumar Upadhyay*, 2026).
+7. **Manifest arbitrariness:** a ground to strike down legislation (*Shayara Bano*, 2017; *Joseph Shine*, 2018).
+8. **Procedural limits:** money Bill certification is subject to review (*Rojer Mathew*, 2019; referred to a larger bench).
+### Conclusion
+Unlike Britain, India has a sovereign Constitution, not a sovereign legislature. Legislative authority is limited by competence, rights, the basic structure and the separation of powers, all enforced through judicial review.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A High Court judge refuses to follow a Supreme Court decision, saying it was wrongly decided and ignores social realities. Comment.
+**Issue:** Can a High Court refuse to follow a binding Supreme Court precedent?
+**Law:**
+- Art. 141 makes Supreme Court decisions binding on all courts.
+- A High Court cannot declare a Supreme Court judgment wrong or per incuriam. It may only distinguish it on facts or note a later binding decision.
+- *Rohan Vijay Nahar v State of Maharashtra* (2025) stressed judicial discipline.
+- *Cassell & Co v Broome* (1972) is the English parallel ("the hierarchical system").
+**Application:** Disagreement on merits is no ground to refuse to follow. The judge may record his reservations, but must apply the precedent.
+**Conclusion:** The refusal is improper and contrary to Art. 141. On appeal, the decision will be set aside.
+
+Q: The Supreme Court strikes down a statutory provision fixing a short tenure for tribunal members. Parliament then re-enacts the same provision in a new Act without changing its basis. Is the new law valid?
+**Issue:** Can the legislature override a judicial decision by re-enacting the invalidated provision?
+**Law:**
+- The legislature may remove the basis of a judgment by changing the law. It cannot simply declare the judgment ineffective or re-enact the same defect (*S.R. Bhagwat*, 2015; *Madras Bar Association v Union of India*, 2021 and 2025).
+- In 2025, the Court struck down provisions of the Tribunals Reforms Act, 2021 as an impermissible legislative override and directed a National Tribunals Commission.
+**Application:** Re-enacting the same tenure provision without curing its basis is an override of the judgment.
+**Conclusion:** The new law is invalid. It violates the separation of powers and judicial independence.
+
+Q: A trial court relies on three Supreme Court "precedents" cited in a party's written submissions. It later turns out that none of them exists; they were generated by an AI tool. Discuss.
+**Issue:** The validity of a decision based on non-existent authorities, and the responsibilities of courts and counsel.
+**Law:**
+- Only real decisions bind under Art. 141.
+- Counsel owe a duty of candour to the court (BCI Rules).
+- *Pooja Ramesh Singh v J&K Bank* (2026) set aside orders relying on AI-generated fake precedents, and courts have warned trial judges (*Gummadi Usha Rani*, 2026).
+- The Supreme Court has issued draft rules on the use of AI in courts (2026).
+**Application:** The order rests on non-existent law, which is a manifest error. Counsel failed to verify the citations.
+**Conclusion:** The order is liable to be set aside, and the matter remanded. Counsel may face professional action. Every authority must be verified against a reliable report before it is cited or relied on.
+
+Q: Under a former dictatorship, a woman reported her husband's anti-government remarks under a law making such remarks a capital offence. The husband was sentenced to death. After democracy is restored, she is prosecuted for unlawfully depriving him of liberty. She argues that she acted under the law then in force. Discuss with reference to theories of law.
+**Issue:** Was the oppressive law "law"? This is the grudge informer problem.
+**Views:**
+- **Hart (positivist):** the Nazi-era statute was law, but too evil to be obeyed. The honest solution is retrospective legislation, openly choosing the lesser evil, not denying that it was law.
+- **Fuller (natural law):** the Nazi regime failed the inner morality of law. Its "laws" lacked legality, so they were not law, and the informer cannot rely on them.
+- **Radbruch:** a statute in intolerable conflict with justice must yield ("statutory lawlessness").
+- **The German court (1949):** convicted the woman, reasoning that the statute was "contrary to the sound conscience and sense of justice of all decent human beings".
+**Application in India:** Under a written Constitution, such a law would be void under Arts. 14, 19 and 21, and the dispute would be resolved through judicial review.
+**Conclusion:** The answer depends on one's theory. The case illustrates the Hart–Fuller debate on the separation of law and morality.

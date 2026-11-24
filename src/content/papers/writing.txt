@@ -1,0 +1,125 @@
+@title Writing exercises with model answers
+@toc Writing exercises
+@label Practise each skill from the book: try the exercise yourself first, then open the model answer to compare. Part A is plain-language editing, Part B is structured answers and briefs, and Part C is longer professional writing.
+
+PART: A | Plain-language editing | Rewrite each passage in clear, plain English without changing its legal meaning. | Skill
+
+Q: Rewrite: "It is hereby humbly submitted that the petitioner herein was at no point in time given an opportunity of being heard by the respondent authority prior to the passing of the impugned order."
+The respondent passed the impugned order without hearing the petitioner.
+- "It is hereby humbly submitted that" adds nothing in a written submission.
+- "At no point in time", "prior to" and "herein" are wordy.
+- The active voice puts the actor (the respondent) first.
+
+Q: Rewrite: "In the event that the Tenant fails to make payment of the rent on or before the fifth day of each and every month, the Landlord shall be entitled to and may terminate the said lease."
+If the Tenant does not pay the rent by the fifth day of a month, the Landlord may terminate the lease.
+- "In the event that" becomes "if".
+- "Make payment of" becomes "pay".
+- "On or before" becomes "by".
+- "Each and every" becomes "a".
+- "Shall be entitled to and may" becomes "may".
+- "The said" becomes "the".
+Check that "by the fifth day" is understood to include the fifth day; if there is doubt, write "on or before the fifth day".
+
+Q: Rewrite: "The goods shall be delivered and/or installed by the Supplier within thirty days of the order."
+The Supplier must deliver and install the goods within 30 days after the date of the order.
+- "And/or" is ambiguous. Here the buyer needs both delivery and installation, so "and" is correct.
+- "Shall be delivered by the Supplier" (passive) becomes "the Supplier must deliver" (active, with a clear duty).
+- "Within 30 days after the date of the order" fixes the starting point.
+
+Q: Rewrite: "Consideration was given by the court to the question as to whether the accused had knowledge of the fact that the cheque would be dishonoured."
+The court considered whether the accused knew the cheque would be dishonoured.
+- "Consideration was given to" becomes "considered".
+- "The question as to whether" becomes "whether".
+- "Had knowledge of the fact that" becomes "knew".
+
+Q: Rewrite in gender-neutral language: "Every advocate shall ensure that he maintains the confidentiality of his client's affairs, and he shall not disclose them to any person."
+Every advocate must keep the client's affairs confidential and must not disclose them to anyone.
+- Repeating "he" is avoided by restructuring the sentence.
+- Alternatively: "Advocates must keep their clients' affairs confidential."
+
+Q: Split this sentence into clear parts: "The landlord, who had let out the premises in 2019 to the tenant for running a pharmacy under a lease which contained a clause prohibiting any change of use without written consent, filed an eviction petition after the tenant, without obtaining such consent, converted part of the premises into a mobile phone shop."
+The landlord let the premises to the tenant in 2019 for running a pharmacy. The lease prohibited any change of use without the landlord's written consent. The tenant converted part of the premises into a mobile phone shop without that consent. The landlord then filed an eviction petition.
+- The original is a single sentence of more than 60 words, with the main verb ("filed") buried at the end.
+- The revision puts the events in time order, one idea per sentence, each with its subject and verb at the start.
+
+Q: Rewrite these headings as argumentative headings for a writ petition: (1) "Natural justice"; (2) "Limitation".
+1. "The impugned order is void because it was passed without hearing the petitioner."
+2. "The writ petition is not barred by delay, because the petitioner challenged the order within three weeks of receiving it."
+- An argumentative heading states the proposition the court is asked to accept, so a judge reading only the headings understands the whole argument.
+
+PART: B | Structured answers and briefs | Write a short structured answer. | Skill
+
+Q: Write a short note (4 marks) on "res ipsa loquitur".
+**Res ipsa loquitur** ("the thing speaks for itself") is a rule of evidence in the law of negligence. It allows negligence to be inferred where:
+1. the thing causing harm was under the defendant's control;
+2. the accident would not ordinarily happen without negligence; and
+3. the cause is unexplained.
+The burden then shifts to the defendant to explain.
+**Leading case:** *Municipal Corporation of Delhi v Subhagwanti* (1966): the collapse of the Chandni Chowk clock tower led to an inference of negligence.
+**Application:** medical negligence, such as a surgical mop left in a patient (*Achutrao Khodwa v State of Maharashtra*, 1996).
+**Limit:** it does not apply where the cause of the accident is known.
+(This answer follows the short-note method: rule, elements, case, limit.)
+
+Q: Answer using IRAC: X, a 17-year-old, buys a motorcycle on credit, falsely stating he is 19. He refuses to pay. Can the seller recover the price?
+**Issue:** Can a seller enforce a credit sale against a minor who misrepresented his age?
+**Rule:** A minor's agreement is void ab initio (s.11 Contract Act; *Mohori Bibee v Dharmodas Ghose*, 1903). A minor is not estopped by misrepresenting his age. Under s.68, a supplier of necessaries can be reimbursed from the minor's property. Under ss.33 and 41 of the Specific Relief Act, a court may order restitution of benefits obtained by fraud.
+**Application:** The contract is void, so the seller cannot sue for the price. A motorcycle is unlikely to be a "necessary" for a 17-year-old, unless it is shown to suit his condition in life. Because X obtained the motorcycle by fraud, the court may order him to return it.
+**Conclusion:** The seller cannot recover the price, but may recover the motorcycle through restitution in equity.
+
+Q: Prepare a case brief of Vishaka v State of Rajasthan (1997).
+**Citation:** *Vishaka v State of Rajasthan*, (1997) 6 SCC 241; Supreme Court; three judges.
+**Facts:** After the gang rape of a social worker in Rajasthan who tried to stop a child marriage, women's groups filed a writ petition seeking enforcement of the rights of working women against sexual harassment. There was no law on the subject.
+**Issue:** In the absence of legislation, can the court lay down norms to protect women from sexual harassment at work?
+**Holding:** Yes. Sexual harassment at the workplace violates Arts. 14, 15, 19(1)(g) and 21. The court laid down binding guidelines (the Vishaka guidelines) until Parliament legislated.
+**Reasoning:** International conventions such as CEDAW, which India had ratified, may be read into fundamental rights where there is no inconsistency with domestic law (Arts. 51(c) and 253). The court has power under Art. 32, read with Art. 141, to fill the vacuum.
+**Ratio:** In the absence of domestic law, international norms consistent with fundamental rights may be used to interpret and give content to those rights, and the court may issue guidelines that operate as law until legislation is made.
+**Significance:** It led to the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. It is a leading example of judicial use of international law and of guidelines under Art. 32.
+
+Q: Write a question presented and a brief answer for this problem: A tenant in Nellore stops paying rent for six months, claiming the landlord has not repaired a leaking roof.
+**Question presented:** Under the Andhra Pradesh rent control law and the Transfer of Property Act, can a tenant who has not paid rent for six months resist eviction on the ground that the landlord failed to repair a leaking roof?
+**Brief answer:** Probably not. The tenant's duty to pay rent is independent of the landlord's repair obligations. Wilful default in paying rent is a ground for eviction under the State rent control law. The tenant's remedy for non-repair is to carry out the repair and deduct the cost if the law or the lease allows it, or to claim damages, not to stop paying rent. The tenant may avoid eviction only if the default is not wilful, for example if he deposited the rent in court as the statute permits.
+
+PART: C | Professional writing | Write the full document. | Skill
+
+Q: Write a short email to a client explaining that the hearing in her case has been adjourned.
+DRAFT: Email to client
+Subject: O.S. No. 245 of 2025 (Nellore): hearing adjourned to 12 January 2027
+
+Dear Ms Lakshmi,
+
+Your case was listed today, 24 November 2026, but the court adjourned it to 12 January 2027 because the presiding judge was on leave. Nothing was decided against you, and no action is needed from you now.
+
+At the next hearing, the defendant's witness is due to be cross-examined. Please keep the original sale deed ready, as we may need to show it to the court.
+
+I will write to you again a week before the hearing. Please call me if you have any questions.
+
+Regards,
+...
+Advocate
+END
+- The subject line gives the case and the news.
+- The first paragraph answers the client's main question: what happened, and does she need to do anything.
+- The tone is plain and reassuring, with no legal jargon.
+
+Q: Write a one-page legal memorandum on whether an online gaming company can be prosecuted for offering "rummy for stakes" in a State that bans online gaming for stakes.
+DRAFT: Office memorandum
+To: Senior Counsel
+From: Junior Associate
+Date: ...
+Subject: Validity of a State ban on online games played for stakes
+
+**Question presented:** Can a State validly ban online games of skill such as rummy when they are played for money, and can a company offering them be prosecuted under the ban?
+
+**Brief answer:** Probably yes. The Supreme Court has upheld State bans on online games played for stakes, holding that betting on the outcome of a game, even a game of skill, can be treated as gambling.
+
+**Facts:** The client operates a platform offering rummy for cash prizes. The State law bans online games played for money or other stakes, with penal consequences.
+
+**Discussion:**
+1. *Rummy as a game of skill.* Earlier, rummy was held to be a game mainly of skill (*State of Andhra Pradesh v K. Satyanarayana*, 1968), which took it outside gambling laws when played without stakes.
+2. *Effect of stakes.* In *State of Tamil Nadu v Junglee Games* (2026), the Supreme Court upheld State bans on online games played for stakes, treating betting even on games of skill as gambling within the State's legislative competence over betting and gambling.
+3. *Counter-arguments.* The client may argue that the ban violates Art. 19(1)(g), and that skill-based games are protected trade. These arguments are weaker after Junglee Games, though the specific wording of the State law should be checked for overbreadth.
+4. *Central law.* The Promotion and Regulation of Online Gaming Act, 2025 should also be checked for its effect on real-money games.
+
+**Conclusion and next steps:** Prosecution is likely to be lawful if the platform offers rummy for stakes. Recommend that the client suspend stake-based games in the State, and that we review the State Act's exact wording and the central Act before advising on any challenge.
+END
+- Check every authority in a memo like this against the full judgment before relying on it.

@@ -1,0 +1,208 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Freedom of the press
+The press has no separate fundamental right. Its freedom is part of Art. 19(1)(a) (*Romesh Thappar v State of Madras*, 1950; *Brij Bhushan v State of Delhi*, 1950). It includes:
+- freedom of circulation (*Sakal Papers v Union of India*, 1962);
+- freedom from excessive taxation and from control of newsprint (*Bennett Coleman v Union of India*, 1972; *Indian Express Newspapers v Union of India*, 1985); and
+- the right to report court proceedings.
+Restrictions are permitted only under Art. 19(2).
+
+Q: Pre-censorship
+Prior restraint on publication is generally impermissible for the press.
+- *Brij Bhushan* (1950): pre-censorship of a journal violates Art. 19(1)(a).
+- *R. Rajagopal v State of TN* (1994): the State cannot restrain publication of an autobiography based on public records; the remedy is damages after publication.
+- Films are an exception: prior certification by the CBFC is permitted because of their impact (*K.A. Abbas v Union of India*, 1970).
+- Courts may order temporary postponement of reporting to protect fair trials (*Sahara India v SEBI*, 2012).
+
+Q: Film certification by the CBFC
+Under the Cinematograph Act, 1952, the Central Board of Film Certification certifies films as:
+- U;
+- UA, with age-based categories UA 7+, UA 13+ and UA 16+ after the 2023 amendment;
+- A; and
+- S (for specialised audiences).
+Certification may be refused, or cuts ordered, on the s.5B grounds, which mirror Art. 19(2). The 2023 amendment added offences for piracy. The Film Certification Appellate Tribunal was abolished in 2021, so appeals now lie to the High Court.
+- *S. Rangarajan v P. Jagjivan Ram* (1989): a film cannot be suppressed out of fear of a hostile audience.
+
+Q: Prasar Bharati
+The Prasar Bharati (Broadcasting Corporation of India) Act, 1990 established an autonomous public broadcaster, comprising Doordarshan and All India Radio.
+- Its objectives are to uphold unity, impartial news coverage, education and the cultural heritage of the country.
+- It is governed by a board, with government financing and some control.
+- It followed *Secretary, Ministry of I&B v Cricket Association of Bengal* (1995), which called for an independent authority to regulate airwaves.
+
+Q: Airwaves as public property
+*Secretary, Ministry of Information and Broadcasting v Cricket Association of Bengal* (1995):
+- Airwaves are public property, to be used for the public good.
+- The right to broadcast is part of Art. 19(1)(a), but the State may regulate it through licensing because the airwaves are a scarce resource.
+- There is no government monopoly over broadcasting.
+- An independent public authority should regulate.
+This laid the basis for private broadcasting and the Cable Television Networks (Regulation) Act, 1995.
+
+Q: Contempt of court and the media
+The Contempt of Courts Act, 1971 covers:
+- civil contempt; and
+- criminal contempt: scandalising the court, prejudicing judicial proceedings, or interfering with the administration of justice.
+Defences include fair and accurate reporting (s.4), fair criticism of judicial acts (s.5), and truth in the public interest (s.13, 2006 amendment).
+- *In re Prashant Bhushan* (2020): tweets were held to be contempt, and a fine of ₹1 was imposed.
+- Media trials of pending cases may amount to contempt.
+- The court must balance press freedom and fair trial (*Sahara*, 2012).
+
+Q: Blocking under section 69A of the IT Act
+The Central Government may direct intermediaries to block public access to information, in the interests of sovereignty, integrity, defence, security of the State, friendly relations with foreign States, public order, or to prevent incitement to cognizable offences.
+- Procedure is under the Blocking Rules, 2009: a committee, a hearing for the originator or intermediary where possible, reasoned orders, and confidentiality.
+- The provision was upheld in *Shreya Singhal v Union of India* (2015) because it is narrowly drawn with safeguards.
+- The Karnataka High Court dismissed X Corp's challenges to blocking orders (2023) and to the government's Sahyog portal (2025).
+
+Q: Public authority under the RTI Act
+Under s.2(h) of the RTI Act, a public authority is any authority or body or institution of self-government:
+- established or constituted by the Constitution, by Parliament or State law, or by government notification; or
+- owned, controlled or substantially financed by government, including NGOs substantially financed directly or indirectly.
+- *Thalappalam Service Cooperative Bank v State of Kerala* (2013): cooperative societies are not public authorities merely because of regulation. Substantial financing means funding without which the body would struggle to exist.
+- *CPIO, Supreme Court v Subhash Chandra Agarwal* (2019): the office of the CJI is a public authority.
+
+Q: Exemptions under section 8 of the RTI Act
+Exemptions include information affecting:
+- sovereignty and security;
+- court-prohibited matters;
+- breach of legislative privilege;
+- commercial confidence and trade secrets;
+- fiduciary relationships;
+- foreign government information;
+- endangering life;
+- impeding investigation;
+- Cabinet papers (until the decision is taken); and
+- personal information unrelated to public activity. Section 8(1)(j) was amended by the DPDP Act, 2023 to bar personal information outright.
+The public interest override in s.8(2) applies. Information older than 20 years must be disclosed, with exceptions (s.8(3)). Exempt parts may be severed (s.10).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: "Freedom of the press is the ark of the covenant of democracy." Discuss the scope of press freedom and the permissible restrictions.
+### Source
+Press freedom is not separately mentioned in Art. 19(1)(a), but it is implied (*Romesh Thappar*, 1950). Dr Ambedkar explained that the press has no special rights beyond the citizen's. The phrase "ark of the covenant of democracy" comes from *Indian Express Newspapers v Union of India* (1985).
+### Content
+- freedom of publication and circulation (*Sakal Papers*, 1962: a price and page schedule was struck down);
+- no excessive taxation (*Indian Express*, 1985);
+- freedom from newsprint control (*Bennett Coleman*, 1972);
+- the right to interview prisoners, subject to rules (*Prabha Dutt*, 1982);
+- access to information (*State of UP v Raj Narain*, 1975); and
+- freedom of the electronic and digital press. Internet access has been recognised (*Anuradha Bhasin*, 2020; *Just Rights for Children Alliance*, 2026).
+### Restrictions (Art. 19(2))
+Sovereignty and integrity, security, friendly relations, public order, decency or morality, contempt of court, defamation, and incitement to offence.
+- **Defamation:** criminal defamation was upheld in *Subramanian Swamy v Union of India* (2016), and is now in s.356 BNS. In 2025, in a case involving the *Foundation for Independent Journalism*, a Supreme Court bench orally observed that it may be time to decriminalise defamation.
+- **Privacy:** *R. Rajagopal* (1994); *K.S. Puttaswamy* (2017).
+- **Contempt.**
+- **Hate speech regulation:** see *Ashwini Kumar Upadhyay* (2026), where the Court said creating offences is for the legislature.
+- **Sedition:** s.124A IPC was kept in abeyance in *S.G. Vombatkere* (2022). The BNS replaced it with s.152 (acts endangering sovereignty).
+### Regulation
+- the Press Council of India (Press Council Act, 1978);
+- the Digital Media Ethics Code under the IT Rules, 2021, partly stayed by High Courts; and
+- the Fact Check Unit, whose rule was struck down by the Bombay High Court (*Kunal Kamra v Union of India*, 2024; an appeal is pending in the Supreme Court).
+### Conclusion
+Press freedom is vital for democracy. Restrictions must fit Art. 19(2) and be proportionate. Courts guard against both direct censorship and indirect pressure.
+
+Q: Explain the law relating to film censorship and the courts' approach to freedom of expression in cinema.
+### Justification for prior restraint
+Film has a unique impact, combining sight and sound and reaching a mass audience (*K.A. Abbas v Union of India*, 1970).
+### Cinematograph Act, 1952
+- **CBFC (s.3)** and certification categories (s.4, as amended in 2023).
+- **Guidelines (s.5B):** in the interests of sovereignty, security, friendly relations, public order, decency, morality, defamation, contempt or incitement. The Central guidelines of 1991 apply.
+- **Revisional power (s.6):** struck down in *Union of India v K.M. Shankarappa* (2001).
+- **Piracy:** criminalised by the 2023 amendment (ss.6AA and 6AB).
+### Judicial approach
+- *K.A. Abbas* (1970): censorship of films is valid, but guidelines must be precise. Art. 19(1)(a) applies.
+- *S. Rangarajan v P. Jagjivan Ram* (1989): the State cannot suppress a film because of a threatened hostile reaction. It must maintain law and order. The test is the "spark in a powder keg".
+- *Bobby Art International v Om Pal Singh Hoon* (1996, *Bandit Queen*): the film should be judged as a whole.
+- *Prakash Jha Productions v Union of India* (2011): a State cannot ban a certified film on law-and-order grounds.
+- *Viacom 18 v Union of India* (2018, *Padmaavat*): States cannot ban a certified film; they must protect screening.
+- *Indibility Creative v State of WB* (2019): the State must ensure exhibition; ₹20 lakh costs were imposed.
+### OTT platforms
+These are regulated by the IT Rules, 2021, with self-classification and a grievance system, not CBFC certification.
+### Copyright issues
+Copyright claims over scripts and screenplays: idea versus expression (*R.G. Anand*, 1978; *Sujoy Ghosh*, 2026).
+### Conclusion
+Films are subject to prior certification. Once certified, the State must protect their exhibition against mob pressure.
+
+Q: Explain the machinery for obtaining information under the RTI Act, 2005.
+### Right (s.3)
+All citizens have the right to information.
+### Obligations of public authorities
+- **Proactive disclosure (s.4):** records management and publication of 17 categories of information.
+- **Public Information Officers (s.5):** Central and State PIOs and assistant PIOs.
+### Request (s.6)
+In writing or electronically, with a fee. No reasons need be given, except contact details.
+### Disposal (s.7)
+- within 30 days;
+- within 48 hours where life or liberty is concerned; and
+- within 40 days where a third party is involved (s.11).
+Deemed refusal follows if there is no reply. No fee is charged if the deadline is missed. BPL applicants are exempt from fees.
+### Exemptions
+- section 8;
+- section 9 (copyright of persons other than the State);
+- severability (s.10);
+- Second Schedule organisations, such as intelligence and security agencies, are exempt except for corruption and human rights allegations (s.24).
+### Appeals (s.19)
+- the first appeal to a senior officer within 30 days; and
+- the second appeal to the Central or State Information Commission within 90 days.
+### Information Commissions (ss.12 to 17)
+Chief and other commissioners. The 2019 amendment allowed the Central Government to fix their tenure and salaries. Commissions have civil court powers (s.18).
+### Penalties (s.20)
+₹250 per day, up to ₹25,000, against a PIO for refusal or delay without reasonable cause, and disciplinary recommendations.
+### Bar of courts (s.23)
+Subject to writ jurisdiction.
+### Recent changes
+- The DPDP Act, 2023 amended s.8(1)(j) to exempt personal information more broadly.
+- *Muppathadam Service Co-operative Bank v State Chief Information Commissioner* (2026): records of a private body that a public authority, such as the Registrar of Cooperative Societies, can access under law are "information" under s.2(f), and must be obtained and supplied.
+### Conclusion
+The Act sets up a time-bound, low-cost process with an independent appellate structure. Its effectiveness depends on vacancies being filled and on commissions functioning well.
+
+Q: Examine the important judicial decisions on the Right to Information.
+### Constitutional foundation
+- *State of UP v Raj Narain* (1975): the right to know is part of Art. 19(1)(a).
+- *S.P. Gupta v Union of India* (1981): open government; disclosure is the rule.
+- *Union of India v Association for Democratic Reforms* (2002): voters have the right to know candidates' antecedents.
+### Under the RTI Act
+1. *CBSE v Aditya Bandopadhyay* (2011): evaluated answer sheets are "information", and students have a right to inspect them. Fiduciary exemption does not apply to examining bodies. The Court also warned against indiscriminate demands.
+2. *Thalappalam Service Cooperative Bank v State of Kerala* (2013): cooperatives are not public authorities unless substantially financed.
+3. *Girish Ramchandra Deshpande v CIC* (2012): service records and assets of employees are personal information (s.8(1)(j)).
+4. *RBI v Jayantilal N. Mistry* (2015): the RBI does not hold information in a fiduciary capacity towards banks. Inspection reports are disclosable.
+5. *CPIO, Supreme Court v Subhash Chandra Agarwal* (2019, five judges): the office of the CJI is a public authority. Judges' assets may be disclosed, while collegium deliberations are subject to balancing.
+6. *Namit Sharma v Union of India* (2012, reviewed in 2013): the qualifications of Information Commissioners.
+7. *Anjali Bhardwaj v Union of India* (2019): directions to fill Information Commission vacancies.
+8. *Association for Democratic Reforms v Union of India* (2024): the electoral bonds scheme was struck down as violating the right to information.
+9. *Muppathadam Service Co-operative Bank* (2026): information about a private body accessible to a public authority under law falls within s.2(f), so a member could obtain the bank's construction agreement and general body minutes through the Registrar.
+### Conclusion
+The courts have expanded transparency while protecting privacy and confidentiality through balancing. The 2023 DPDP amendment and the 2019 tenure amendment raise new concerns.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A member of a cooperative bank (which is not a "public authority") applies under the RTI Act to the Joint Registrar of Cooperative Societies for a copy of the bank's construction contract and minutes of its last general body meeting. The PIO refuses, citing Thalappalam. Decide.
+**Issue:** Can information about a non-public-authority cooperative be obtained through the Registrar?
+**Law:**
+- *Thalappalam* (2013): cooperatives are not public authorities unless substantially financed. However, information about them that the Registrar can access under the State Cooperative Societies Act is "information" under s.2(f).
+- *Muppathadam Service Co-operative Bank v State Chief Information Commissioner* (2026): such information must be obtained by the Registrar and supplied, subject to the s.8 exemptions. A member cannot be denied it.
+**Application:** The Registrar has statutory powers to access the society's records.
+**Conclusion:** The PIO must call for the documents and supply them, as the Supreme Court directed, within a short time.
+
+Q: The government blocks an online news portal under section 69A of the IT Act, without giving it a hearing or a copy of the reasons. Advise the portal.
+**Issue:** The validity of a blocking order made without following the procedural safeguards.
+**Law:**
+- *Shreya Singhal* (2015) upheld s.69A because of its safeguards: a committee, reasons recorded, and an opportunity of hearing where the originator can be identified.
+- Under the Blocking Rules, 2009, an interim emergency block must be placed before the committee within 48 hours.
+- *Anuradha Bhasin* (2020): proportionality.
+**Application:** The order was made without a hearing or reasons, though the portal is identifiable.
+**Conclusion:** The order is liable to be quashed for violating the Rules and Art. 19(1)(a). The portal may seek review by the committee and file a writ.
+
+Q: A film has been certified "UA 13+" by the CBFC. A State bans its exhibition, citing apprehension of protests. The producer challenges the ban. Decide.
+**Issue:** Can a State ban a certified film on law-and-order grounds?
+**Law:**
+- *S. Rangarajan* (1989): fear of a hostile audience is no ground to suppress a film. The State must protect free expression.
+- *Prakash Jha Productions v Union of India* (2011), *Viacom 18 v Union of India* (2018) and *Indibility Creative* (2019): a State cannot ban a film certified by the CBFC, and must ensure its exhibition.
+**Application:** The film is certified, and the ban rests only on apprehended protests.
+**Conclusion:** The ban is unconstitutional. The State must provide police protection for screenings.
+
+Q: A failed candidate seeks under the RTI Act a copy of his evaluated answer sheet in a State public service examination. The commission refuses, claiming a fiduciary relationship with its examiners. Decide.
+**Issue:** Are evaluated answer sheets exempt from disclosure?
+**Law:**
+- *CBSE v Aditya Bandopadhyay* (2011): evaluated answer sheets are "information". Examining bodies do not hold them in a fiduciary capacity towards examinees, so the s.8(1)(e) exemption does not apply.
+- The examiners' names and identities may be withheld (s.10 severability).
+**Application:** The candidate seeks his own answer sheet.
+**Conclusion:** The commission must provide a copy or inspection, after masking the examiner's identity.

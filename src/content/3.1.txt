@@ -1,0 +1,550 @@
+@title Property Law
+@subtitle The Transfer of Property Act, 1882, the Indian Easements Act, 1882, registration and stamp duty
+@paper 3.1
+@sem III
+@color #7a5a1e
+@dark #6b4f1a
+@intro Covers the concept of property, the general principles and specific transfers under the Transfer of Property Act, 1882 (sale, mortgage, charge, lease, exchange, gift, actionable claims), easements and licences, and the law of registration and stamp duty.
+@reading Mulla, The Transfer of Property Act
+@reading G.P. Tripathi, The Transfer of Property Act
+@reading Shukla, The Transfer of Property Act
+@reading Avtar Singh, Textbook on the Transfer of Property Act
+@reading Peacock, Easements in British India
+@reading Mulla, The Registration Act
+@reading The Indian Stamp Act, 1899 (with State amendments)
+
+# 1 | Jurisprudential contours of property
+@topics Concept and meaning of property; new property; government largesse; Kinds: movable and immovable, tangible and intangible, intellectual property (copyright, patents, designs, trademarks); Private and public property; natural resources; privatisation; Capitalist and socialist analysis; Possession and ownership; finder of lost goods; Social functions of property
+>> Property is not a thing but a bundle of rights over things, recognised and limited by law. Its meaning has widened from land and goods to intangible and "new" forms of wealth.
+
+## Concept and meaning
+- **Salmond**: property in its widest sense includes all a person's legal rights (proprietary and personal); in the narrower sense, proprietary rights in rem (ownership of material things and of incorporeal rights).
+- **Bentham**: property is nothing but a basis of expectation: an expectation of deriving advantages from a thing because of the relation in which we stand to it.
+- **Hohfeld and the "bundle of rights"**: rights to possess, use, exclude, transfer, and to income and capital value.
+- Constitutional status: Art. 300A (no deprivation save by authority of law); right to property is a constitutional and human right (Vidya Devi v State of HP, 2020).
+
+### New property and government largesse
+Charles Reich ("The New Property", 1964) argued that government benefits (licences, jobs, contracts, welfare, franchises) are a new form of property deserving procedural protection. Indian courts protect largesse through Art. 14: the State must not distribute it arbitrarily (**Ramana Dayaram Shetty v International Airport Authority, 1979**; **Centre for Public Interest Litigation v Union of India, 2012** on spectrum).
+
+## Kinds of property
+| Classification | Meaning |
+|---|---|
+| Movable and immovable | Immovable property does not include standing timber, growing crops or grass (s.3, TPA); under the General Clauses Act, 1897 (s.3(26)), it includes land, benefits to arise out of land, and things attached to the earth or permanently fastened to anything attached to the earth |
+| Tangible (corporeal) and intangible (incorporeal) | Things that can be touched versus rights such as debts, shares, easements |
+| Intellectual property | Copyright (Copyright Act, 1957), patents (Patents Act, 1970), designs (Designs Act, 2000), trade marks (Trade Marks Act, 1999), geographical indications |
+
+- "Attached to the earth" (s.3, TPA) means rooted in the earth (trees, shrubs), imbedded in the earth (walls, buildings), or attached to what is so imbedded for the permanent beneficial enjoyment of that to which it is attached.
+
+CASE: Shantabai v State of Bombay (1958) :: A right to enter land and cut and take away trees (other than standing timber) is a benefit arising out of land and therefore immovable property; but where the contract is to cut trees as standing timber soon, it is movable.
+
+## Private and public property
+- **Private property**: owned by individuals, companies, associations.
+- **Public property**: owned by the State or held for public use (roads, parks, rivers).
+- **Natural resources** are held by the State in public trust for the people (M.C. Mehta v Kamal Nath, 1997); allocation must be fair and transparent.
+- **Privatisation** of public property (disinvestment of public sector undertakings, public-private partnerships, leasing of airports and ports) raises questions of fair value, transparency and public interest.
+
+## Capitalist and socialist analysis
+- **Capitalist (liberal)** view: Locke's labour theory (one who mixes his labour with a thing acquires property in it); private property encourages enterprise and protects liberty.
+- **Socialist** view: Proudhon's "property is theft"; Marx: private ownership of the means of production leads to exploitation; property in means of production should be social.
+- **India**: a mixed approach. The Directive Principles (Art. 39(b), (c)) call for distribution of material resources to subserve the common good. Property Owners Association v State of Maharashtra (2024) held that not all private resources are "material resources of the community".
+
+## Possession and ownership
+- **Ownership**: the most comprehensive right a person can have over a thing: right to possess, use, enjoy, alienate, destroy (Austin: a right indefinite in point of user, unrestricted in point of disposition and unlimited in point of duration).
+- **Possession**: physical control (corpus) plus intention to exclude others (animus possidendi). Possession is prima facie evidence of ownership; a possessor has a good title against everyone except the true owner.
+- **Finder of lost goods**: has a title good against everyone except the true owner.
+
+CASE: Armory v Delamirie (1722) :: A chimney sweep's boy found a jewel and gave it to a goldsmith's apprentice for valuation; the goldsmith kept the stones. Held: the finder had a title good against all but the true owner and could recover the value.
+
+- Indian law: a finder is subject to the responsibility of a bailee (s.71, Contract Act); adverse possession for 12 years extinguishes the owner's title (s.27 and Art. 65, Limitation Act, 1963).
+
+CASE: Ravinder Kaur Grewal v Manjit Kaur (2019) :: A three-judge bench held that a person who has perfected title by adverse possession can sue to protect his possession or for declaration of title, not merely use adverse possession as a shield.
+
+## Social functions of property
+- Provides security and independence; incentive for work and investment; basis of credit; means of social status.
+- Duties attached: property must be used without harming others (*sic utere tuo ut alienum non laedas*), subject to taxation, eminent domain, zoning and environmental law.
+- Duguit's theory: property is a social function; the owner must use it for social needs.
+
+* Property is a bundle of rights; new property includes government largesse protected by Art. 14.
+* Immovable property is defined in s.3 TPA and s.3(26) General Clauses Act.
+* Natural resources are held in public trust.
+* Capitalist (Locke) and socialist (Marx) views; India follows a mixed approach.
+* Possession is good against all but the true owner (Armory v Delamirie); adverse possession can found title (Ravinder Kaur Grewal).
+
+QL: Discuss the concept of property and its kinds. What is "new property"?
+QL: Distinguish between ownership and possession. Discuss the rights of a finder of lost goods.
+QL: Examine the capitalist and socialist approaches to property and the Indian constitutional position.
+QS: Things attached to the earth
+QS: Government largesse
+QS: Armory v Delamirie
+QS: Social functions of property
+
+MCQ: Under s.3 TPA, immovable property does NOT include || land | buildings | *standing timber, growing crops or grass | benefits arising out of land || s.3 TPA.
+MCQ: The finder of goods has a title good against || no one | *everyone except the true owner | only the police | the State only || Armory v Delamirie (1722).
+MCQ: "The New Property" (1964) was written by || Bentham | *Charles Reich | Duguit | Hohfeld || Government largesse as property.
+
+# 2 | General principles of transfer of property and sale
+@topics General principles: transfer of property, what may be transferred, competence, conditions restraining alienation, rule against perpetuity, vested and contingent interests, conditional transfers, election, ostensible owner, feeding the grant by estoppel, lis pendens, fraudulent transfer, part performance; Specific transfer: sale
+>> The TPA deals only with transfers between living persons. Its general rules decide what can be transferred, by whom, with what conditions, and how third parties are protected.
+
+## Meaning of transfer: s.5
+SEC: s.5, TPA :: "Transfer of property" means an act by which a living person conveys property, in present or in future, to one or more other living persons, or to himself, or to himself and one or more other living persons; and "to transfer property" is to perform such act. "Living person" includes a company or association or body of individuals, whether incorporated or not.
+- The Act does not apply to transfers by will or by operation of law (inheritance, insolvency, court sale).
+- Transfer of property is an **act inter vivos**.
+
+## What may be transferred: s.6
+Property of any kind may be transferred, except:
+| Clause | Not transferable |
+|---|---|
+| (a) | Chance of an heir apparent succeeding to an estate (*spes successionis*), chance of a relation obtaining a legacy, or any other mere possibility |
+| (b) | A mere right of re-entry for breach of condition subsequent, except to the owner of the property affected |
+| (c) | An easement apart from the dominant heritage |
+| (d) | An interest restricted in its enjoyment to the owner personally |
+| (dd) | A right to future maintenance |
+| (e) | A mere right to sue |
+| (f) | A public office, or the salary of a public officer before or after it becomes payable |
+| (g) | Stipends allowed to military, naval, air force and civil pensioners, and political pensions |
+| (h) | Transfers opposed to the nature of the interest, for an unlawful object or consideration, or to a person legally disqualified |
+| (i) | Certain interests of tenants of agricultural land under statute |
+
+- **Competence** (s.7): a person competent to contract and entitled to transferable property, or authorised to dispose of property not his own, may transfer it.
+- **Operation** (s.8): unless a different intention appears, a transfer passes all the interest the transferor can pass, including legal incidents.
+- **Oral transfer** (s.9): permitted wherever writing is not expressly required by law.
+
+## Conditions restraining alienation and repugnant interests
+- **s.10**: where property is transferred subject to a condition absolutely restraining the transferee from parting with or disposing of his interest, the condition is void (except in a lease for the benefit of the lessor, and in property transferred to a woman other than a Hindu, Muslim or Buddhist, during marriage). Partial restraints may be valid.
+- **s.11**: where an absolute interest is created, a direction restricting its enjoyment is void.
+- **s.12**: condition making the interest determinable on insolvency or attempted alienation is void (except in a lease for the lessor's benefit).
+
+## Rule against perpetuity: ss.13 and 14
+SEC: s.14, TPA :: No transfer of property can operate to create an interest which is to take effect after the lifetime of one or more persons living at the date of such transfer, and the minority of some person who shall be in existence at the expiration of that period, and to whom, if he attains full age, the interest created is to belong.
+- **s.13**: a transfer for the benefit of an unborn person must be preceded by a prior interest, and the interest to the unborn must be the whole remaining interest of the transferor.
+- Maximum period: life or lives in being plus the minority (18 years) of the ultimate beneficiary (plus gestation if relevant).
+- **Exceptions**: transfers for the benefit of the public for religion, knowledge, commerce, health, safety or other benefit to mankind (s.18); covenants of redemption in mortgages; personal agreements.
+- **Accumulation** (s.17): directions to accumulate income beyond the life of the transferor or 18 years are void beyond that period, with exceptions.
+
+## Vested and contingent interests
+- **Vested** (s.19): takes effect on the transfer or on a fixed event certain to happen; not defeated by the death of the transferee before possession; transferable and heritable.
+- **Contingent** (s.21): depends on an uncertain event; becomes vested when the event happens; if the transferee dies before, the interest fails.
+- **Conditional transfers** (ss.25 to 34): conditions precedent must be lawful and possible; conditions subsequent that are void do not affect the transfer.
+
+## Doctrine of election: s.35
+Where a person professes to transfer property that he has no right to transfer, and as part of the same transaction confers a benefit on the owner of that property, the owner must elect either to confirm the transfer or to dissent from it; if he dissents, he must relinquish the benefit.
+
+## Transfer by ostensible owner: s.41
+SEC: s.41, TPA :: Where, with the consent, express or implied, of the persons interested in immovable property, a person is the ostensible owner of such property and transfers the same for consideration, the transfer shall not be voidable on the ground that the transferor was not authorised to make it, provided that the transferee, after taking reasonable care to ascertain that the transferor had power to make the transfer, has acted in good faith.
+
+## Feeding the grant by estoppel: s.43
+Where a person fraudulently or erroneously represents that he is authorised to transfer immovable property and professes to transfer it for consideration, the transfer, at the option of the transferee, operates on any interest the transferor may later acquire in that property, during the subsistence of the contract (without prejudice to purchasers for value without notice).
+
+## Lis pendens: s.52
+SEC: s.52, TPA :: During the pendency in any court of a suit or proceeding which is not collusive and in which any right to immovable property is directly and specifically in question, the property cannot be transferred or otherwise dealt with by any party so as to affect the rights of any other party under any decree or order which may be made, except under the authority of the court.
+- The transfer is not void, but the transferee is bound by the result of the litigation.
+
+CASE: Bellamy v Sabine (1857) :: The doctrine of lis pendens is based on the necessity that neither party to litigation may alienate the property in dispute so as to affect his opponent; otherwise no suit could be brought to a successful end.
+
+## Fraudulent transfer: s.53
+A transfer made with intent to defeat or delay the creditors of the transferor is voidable at the option of any creditor so defeated or delayed (subject to rights of a transferee in good faith for consideration); a gratuitous transfer with intent to defraud a subsequent transferee is voidable by him.
+
+## Part performance: s.53A
+SEC: s.53A, TPA :: Where any person contracts to transfer for consideration any immovable property by writing signed by him or on his behalf, from which the terms can be ascertained with reasonable certainty, and the transferee has taken possession in part performance of the contract, or being already in possession continues in possession in part performance and has done some act in furtherance of the contract, and has performed or is willing to perform his part, then, notwithstanding that the contract, though required to be registered, has not been registered, the transferor shall be debarred from enforcing against the transferee any right in respect of the property, other than a right expressly provided by the contract.
+- Indian part performance is a **shield, not a sword**: it protects the transferee's possession but does not confer title.
+- Since the Registration and Other Related Laws (Amendment) Act, 2001, a contract for s.53A purposes must be registered; unregistered contracts after 2001 cannot claim protection.
+
+## Sale: ss.54 to 57
+SEC: s.54, TPA :: "Sale" is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised. Such transfer, in the case of tangible immovable property of the value of one hundred rupees and upwards, or of a reversion or other intangible thing, can be made only by a registered instrument. For tangible immovable property of less than one hundred rupees, transfer may be by registered instrument or by delivery of the property. A contract for the sale of immovable property is a contract that a sale shall take place on terms settled between the parties; it does not, of itself, create any interest in or charge on such property.
+
+CASE: Suraj Lamp and Industries v State of Haryana (2011) :: Transfers of immovable property through sale agreements, general powers of attorney and wills (SA/GPA/Will) do not convey title. Immovable property can be legally transferred only by a registered deed of conveyance.
+
+### Rights and liabilities of seller and buyer: s.55
+| Seller (before completion) | Buyer |
+|---|---|
+| Disclose material defects in property or title that the buyer could not discover with ordinary care | Disclose facts materially increasing the value of the property that the seller is not aware of |
+| Produce documents of title for examination | Pay the price |
+| Answer relevant questions on title | Bear loss from destruction after ownership passes |
+| Execute a proper conveyance; take care of the property until delivery | Pay public charges after ownership passes |
+| Implied covenant that the interest he professes to transfer subsists and he has power to transfer | Charge on the property for the purchase money paid, if the seller fails to deliver |
+| Charge on the property for unpaid purchase money (unpaid vendor's lien) | |
+
+- **Marshalling by subsequent purchaser** (s.56): where an owner mortgages two properties and then sells one, the buyer may require the mortgage debt to be satisfied out of the property not sold, so far as possible.
+
+TIP: Section 53A (part performance) and s.52 (lis pendens) are favourite problem questions. For s.53A, list all six conditions and add the 2001 registration requirement.
+
+## Recent judgments (2025–26)
+
+CASE: Ramesh Chand v Suresh Chand (2025) :: An agreement to sell, a GPA, an affidavit and a receipt do not transfer title; only a registered sale deed does (s.54). Section 53A can be used only by a transferee in possession, as a shield and not a sword.
+
+CASE: Mehnoor Fatima v Vishveshka Infrastructure (2025) :: Registration does not create title where the seller had none; land that had vested in the State could not be sold.
+
+* Only a registered sale deed transfers title; s.53A needs possession (Ramesh Chand, 2025).
+* Transfer is an act inter vivos by a living person (s.5); s.6 lists non-transferable interests.
+* Absolute restraints on alienation are void (s.10); rule against perpetuity limits remote vesting (s.14).
+* Ostensible owner (s.41), feeding the grant (s.43), lis pendens (s.52), fraudulent transfer (s.53), part performance (s.53A).
+* Sale of immovable property worth ₹100 or more requires a registered deed (s.54); SA/GPA/Will transactions do not transfer title (Suraj Lamp).
+* Rights and liabilities of seller and buyer under s.55.
+
+QL: Define transfer of property. What property cannot be transferred under s.6 of the TPA?
+QL: Explain the rule against perpetuity and its exceptions.
+QL: Discuss the doctrine of lis pendens and the doctrine of part performance.
+QL: Define sale. Explain the rights and liabilities of the seller and buyer.
+QS: Spes successionis
+QS: Doctrine of election
+QS: Feeding the grant by estoppel
+QS: Ostensible owner
+
+MCQ: A chance of an heir apparent succeeding to an estate is || transferable | *not transferable under s.6(a) | transferable by registered deed | transferable with court permission || Spes successionis.
+MCQ: The doctrine of part performance in India is || a sword conferring title | *a shield protecting possession | inapplicable to immovable property | applicable only to leases || s.53A.
+MCQ: Transfers by SA/GPA/Will were held not to convey title in || Bellamy v Sabine | *Suraj Lamp and Industries v State of Haryana | Shantabai | Armory v Delamirie || 2011.
+MCQ: Lis pendens is in || s.41 | s.43 | *s.52 | s.53 || Transferee bound by the result of litigation.
+MCQ: In Ramesh Chand v Suresh Chand (2025), the Supreme Court held that s.53A TPA || transfers title to the buyer | *can be invoked only by a transferee in possession | applies to oral agreements | overrides registration || A shield, not a sword.
+
+# 3 | Mortgage
+@topics Mortgage; Kinds: simple, conditional sale (distinguished from sale with condition to repurchase), usufructuary, English, deposit of title deeds, anomalous; Registration and formalities; Rights of mortgagor: redemption, due and payable, clog on redemption, partial redemption, accession, improvements, power to lease; Rights and liabilities of mortgagee: foreclosure or sale, suit for money, accession, mortgagee in possession, substituted security; Postponement of prior mortgage; Marshalling and contribution; Who may sue for redemption; Subrogation; "Redeem up and foreclose down"
+>> A mortgage is a transfer of an interest in immovable property as security for a loan. The mortgagor's right to redeem is jealously protected: "once a mortgage, always a mortgage".
+
+## Definition: s.58(a)
+SEC: s.58(a), TPA :: A mortgage is the transfer of an interest in specific immovable property for the purpose of securing the payment of money advanced or to be advanced by way of loan, an existing or future debt, or the performance of an engagement which may give rise to a pecuniary liability. The transferor is the mortgagor, the transferee the mortgagee; the principal money and interest are the mortgage-money; and the instrument is the mortgage-deed.
+
+## Kinds of mortgage: s.58(b) to (g)
+| Kind | Essence | Remedy of mortgagee |
+|---|---|---|
+| (b) Simple mortgage | Personal covenant to pay, and agreement that on default the mortgagee may have the property sold; no delivery of possession | Sale through court (s.67) |
+| (c) Mortgage by conditional sale | Ostensible sale with a condition that on default the sale becomes absolute, or on payment the sale becomes void or the buyer reconveys; the condition must be in the same document | Foreclosure (s.67) |
+| (d) Usufructuary mortgage | Possession delivered; mortgagee takes rents and profits in lieu of interest or principal; no personal liability | No foreclosure or sale; retains possession until paid |
+| (e) English mortgage | Mortgagor binds himself to repay on a certain date and transfers the property absolutely, subject to re-transfer on payment | Sale (with or without court; s.69) |
+| (f) Mortgage by deposit of title deeds (equitable mortgage) | Delivery of documents of title to immovable property in notified towns (Kolkata, Chennai, Mumbai and others notified) with intent to create security | Sale through court |
+| (g) Anomalous mortgage | Any mortgage not falling within the above, or a combination | As per the terms |
+
+### Mortgage by conditional sale v sale with condition to repurchase
+CASE: Chunchun Jha v Ebadat Ali (1955) :: Whether a transaction is a mortgage by conditional sale or an out-and-out sale with a condition of repurchase depends on the intention of the parties as gathered from the document itself. If the condition for reconveyance is in a separate document, it cannot be a mortgage (proviso to s.58(c)). Indicators of a mortgage: a debtor-creditor relationship, price far below value, and continued possession by the transferor.
+
+CASE: Tamboli Ramanlal Motilal v Ghanchi Chimanlal Keshavlal (1993) :: The real intention, not the form, decides; where the consideration was close to market value and there was no debtor-creditor relationship, the transaction was a sale with an option to repurchase.
+
+## Registration and formalities: s.59
+Where the principal money secured is one hundred rupees or upwards, a mortgage other than a mortgage by deposit of title deeds can be effected only by a registered instrument signed by the mortgagor and attested by at least two witnesses. Below one hundred rupees, it may be by registered instrument or (except a simple mortgage) by delivery.
+
+CASE: K.J. Nathan v S.V. Maruthi Rao (1965) :: A mortgage by deposit of title deeds does not require writing or registration; if the parties reduce the bargain into a document that is itself the contract, it must be registered; a mere memorandum recording a past deposit need not be.
+
+- The debt may be proved even if the mortgage is invalid for want of registration, so the creditor can sue on the personal covenant.
+
+## Rights of the mortgagor
+### Right to redeem: s.60
+SEC: s.60, TPA :: At any time after the principal money has become due, the mortgagor has a right, on payment or tender of the mortgage-money, to require the mortgagee to deliver the mortgage-deed and documents, to deliver possession (if in possession), and to retransfer the property or execute an acknowledgement that the right is extinguished. The right is extinguished by act of the parties or by decree of a court.
+- **Due and payable**: the right arises when the money becomes "due", even if not yet "payable"; the mortgagee cannot refuse merely because the date has not arrived if the contract allows earlier payment.
+- **Clog on redemption**: any provision that prevents or unreasonably restricts redemption is void. "Once a mortgage, always a mortgage, and nothing but a mortgage."
+
+CASE: Seth Ganga Dhar v Shankar Lal (1958) :: A stipulation that the mortgagor would not redeem for 85 years was not, by itself, a clog; a long term is not void unless it is unconscionable or the mortgagee obtains an unfair advantage. On the facts it was valid.
+
+CASE: Pomal Kanji Govindji v Vrajlal Karsandas Purohit (1989) :: A usufructuary mortgage for 99 years, at an inadequate rate, with an option to redeem only at the end, was a clog on redemption and void as unconscionable; the right of redemption cannot be fettered.
+
+- **Partial redemption**: not allowed, except where the mortgagee has acquired part of the mortgagor's interest (s.60, last para).
+- **Accession** (s.63): accessions to the property during the mortgage go with the property on redemption, subject to payment of their cost where acquired at the mortgagee's expense and separable.
+- **Improvements** (s.63A): improvements by the mortgagee in possession go to the mortgagor on redemption; necessary improvements are paid for.
+- **Power to lease** (s.65A): a mortgagor in lawful possession may grant leases binding on the mortgagee, subject to conditions (ordinary course of management, no premium, best rent, not exceeding three years for non-agricultural property).
+- Other rights: inspection and copies of documents (s.60A); transfer to a third party instead of retransfer (s.60B); redemption of separate mortgages (s.61).
+
+## Rights and liabilities of the mortgagee
+| Right | Section |
+|---|---|
+| Foreclosure (bar of the right to redeem) or sale through court, on the mortgage money becoming due | s.67 |
+| Suit for mortgage money (personal remedy) where the mortgagor binds himself to repay, or property is destroyed, or the mortgagee is deprived of security | s.68 |
+| Power of sale without court intervention (English mortgage; where expressly conferred and the mortgagee is a government; property in notified towns) | s.69 |
+| Accession to mortgaged property | s.70 |
+| Expenses for preservation, protecting title, insurance | s.72 |
+| Substituted security: right to proceeds of sale, compensation on acquisition | s.73 |
+
+### Liabilities of a mortgagee in possession: s.76
+Manage the property as a person of ordinary prudence; collect rents; pay government revenue; make necessary repairs; not commit destructive acts; keep accounts; apply receipts towards interest and then principal; protect from loss through his gross negligence.
+
+## Priorities, postponement, marshalling and contribution
+- **Priority** follows time (s.48): *qui prior est tempore, potior est jure*.
+- **Postponement of prior mortgagee** (s.78): where through the fraud, misrepresentation or gross neglect of a prior mortgagee another person is induced to advance money on the security, the prior mortgagee is postponed to the subsequent one.
+- **Marshalling** (s.81): if the owner mortgages two properties to one person and then one to another, the second mortgagee may require the first to satisfy his debt from the property not mortgaged to the second, so far as possible.
+- **Contribution** (s.82): where property subject to one mortgage belongs to different persons, each contributes rateably according to the value of his share.
+
+## Who may sue for redemption: s.91
+Any person (other than the mortgagor) who has an interest in or charge on the property, or in the right to redeem: a subsequent mortgagee, a surety, a creditor who has obtained a decree for sale, a purchaser of the equity of redemption, a co-mortgagor.
+
+## Subrogation: s.92
+- **Legal subrogation**: any person (other than the mortgagor) who redeems a mortgage and who is entitled to redeem (s.91) acquires the rights of the mortgagee he redeems.
+- **Conventional subrogation**: a person who advances money to the mortgagor to redeem, under a written agreement that he shall be subrogated, acquires the redeemed mortgagee's rights.
+
+## "Redeem up and foreclose down"
+An English doctrine (now reflected in Order XXXIV CPC): where there are several mortgages, a puisne mortgagee who wishes to redeem a prior mortgage must also foreclose the subsequent mortgagees (and the mortgagor), so that all parties interested are before the court and their rights settled in one suit. In India, all persons interested must be made parties in a suit for foreclosure, sale or redemption (O. XXXIV, R. 1).
+
+NOTE: Secured creditors (banks and financial institutions) enforce security interests without court intervention under the SARFAESI Act, 2002 (s.13), and corporate debts are resolved under the Insolvency and Bankruptcy Code, 2016.
+
+TIP: Learn the six kinds of mortgage with their characteristic remedy (table above). In a clog on redemption question, contrast Seth Ganga Dhar (long term not necessarily a clog) with Pomal Kanji (unconscionable term is a clog).
+
+* Mortgage: transfer of an interest in specific immovable property as security (s.58(a)).
+* Six kinds: simple, conditional sale, usufructuary, English, deposit of title deeds, anomalous.
+* Conditional sale vs sale with repurchase: intention; condition in the same deed (Chunchun Jha).
+* Registration needed for ₹100 or more, except deposit of title deeds (s.59; K.J. Nathan).
+* Right to redeem (s.60); clogs void (Pomal Kanji).
+* Mortgagee's remedies: foreclosure, sale, money suit, power of sale (ss.67 to 69).
+* Postponement (s.78), marshalling (s.81), contribution (s.82), subrogation (s.92).
+
+QL: Define mortgage. Explain the different kinds of mortgages under the TPA.
+QL: Distinguish between a mortgage by conditional sale and a sale with a condition of repurchase.
+QL: "Once a mortgage, always a mortgage." Discuss the right of redemption and the doctrine of clog on redemption.
+QL: Explain the rights and liabilities of a mortgagee in possession.
+QL: Write notes on marshalling, contribution and subrogation.
+QS: Mortgage by deposit of title deeds
+QS: Partial redemption
+QS: Postponement of prior mortgage
+QS: Redeem up and foreclose down
+
+MCQ: In a mortgage by conditional sale, the condition for reconveyance must be || in a separate document | *in the same document | oral | registered separately || Proviso to s.58(c).
+MCQ: The remedy of a usufructuary mortgagee is || foreclosure | sale | *retaining possession and taking rents and profits | suit for money in all cases || No personal liability or foreclosure.
+MCQ: A mortgage by deposit of title deeds || needs a registered deed | *does not require registration if no document embodies the bargain | is invalid in towns | needs attestation || K.J. Nathan (1965).
+MCQ: The right of redemption is in || s.58 | *s.60 | s.67 | s.92 || s.60 TPA.
+
+# 4 | Actionable claims, security interests, charges, leases, exchange and gifts
+@topics Actionable claims; Security interests in immovable property; Charges; Leases; Exchange; Gifts
+>> Beyond sale and mortgage, the TPA governs the transfer of debts, charges as security without transfer, leases of the right to enjoy, exchanges and gifts.
+
+## Actionable claims: ss.3, 130 to 137
+- "Actionable claim" (s.3): a claim to any debt (other than one secured by mortgage of immovable property or by hypothecation or pledge of movables), or to any beneficial interest in movable property not in possession, which the civil courts recognise as affording grounds for relief.
+- Transfer is by an instrument in writing signed by the transferor; it is complete on execution, and the transferee gets all rights and remedies of the transferor (s.130). Notice to the debtor protects the transferee against payment to the transferor.
+- The transferee takes subject to all liabilities and equities to which the transferor was subject (s.132).
+- Negotiable instruments, shares, debentures and policies are governed by their own statutes (s.137).
+- **Security interests**: the SARFAESI Act, 2002 defines "security interest" to include mortgages, charges, hypothecation and assignments, and allows secured creditors to enforce without court intervention.
+
+## Charges: s.100
+SEC: s.100, TPA :: Where immovable property of one person is by act of parties or operation of law made security for the payment of money to another, and the transaction does not amount to a mortgage, the latter person is said to have a charge on the property.
+| Point | Mortgage | Charge |
+|---|---|---|
+| Nature | Transfer of an interest | No transfer of interest; only a right to payment out of the property |
+| Creation | Only by act of parties | By act of parties or operation of law (for example, unpaid vendor's lien s.55(4)(b); maintenance decree) |
+| Personal liability | Usually present | Not necessarily |
+| Enforceability against transferee | Against all | Not against a transferee for consideration without notice |
+| Foreclosure | Possible in some kinds | Not possible; only sale |
+
+## Leases: ss.105 to 117
+SEC: s.105, TPA :: A lease of immovable property is a transfer of a right to enjoy such property, made for a certain time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or any other thing of value, to be rendered periodically or on specified occasions to the transferor by the transferee, who accepts the transfer on such terms.
+
+| Point | Lease | Licence (Easements Act, s.52) |
+|---|---|---|
+| Nature | Transfer of an interest in property | Personal permission; no interest |
+| Transferability | Transferable and heritable | Not transferable; ends on death |
+| Possession | Exclusive possession usually | No exclusive possession |
+| Revocation | Only as per lease and law | Revocable, with exceptions |
+
+CASE: Associated Hotels of India Ltd v R.N. Kapoor (1959) :: The test of whether a document creates a lease or licence is the intention of the parties, as gathered from the substance of the document, not its form; exclusive possession is an important but not conclusive indicator. The arrangement for running a shop in a hotel was held a lease.
+
+- **Duration in absence of contract** (s.106): lease for agricultural or manufacturing purposes is from year to year, terminable by six months' notice; lease for other purposes is month to month, terminable by fifteen days' notice (as amended in 2003).
+- **Registration** (s.107): a lease from year to year, or for a term exceeding one year, or reserving a yearly rent, can be made only by a registered instrument.
+- **Rights and liabilities** (s.108): lessor must disclose defects, put lessee in possession, covenant for quiet enjoyment; lessee must pay rent, keep property in good condition, not use it for other purposes, not build permanent structures without consent; lessee may avoid the lease if property is destroyed by fire, flood or violence (s.108(B)(e)).
+- **Determination** (s.111): efflux of time, happening of a specified event, merger, express or implied surrender, forfeiture (breach of express condition, denial of title, insolvency), notice to quit.
+- **Relief against forfeiture** for non-payment of rent (s.114) on payment of arrears with interest and costs.
+- **Holding over** (s.116): if the lessee remains in possession after determination and the lessor accepts rent or assents, the lease is renewed from year to year or month to month.
+- State rent control laws (and the Model Tenancy Act, 2021) override many of these provisions for urban premises.
+
+## Exchange: s.118
+When two persons mutually transfer the ownership of one thing for the ownership of another, neither thing nor both things being money only, the transaction is called an exchange. Each party has the rights and liabilities of a seller as to what he gives and of a buyer as to what he takes (s.120). Formalities are the same as for sale.
+
+## Gifts: ss.122 to 129
+SEC: s.122, TPA :: "Gift" is the transfer of certain existing movable or immovable property made voluntarily and without consideration by one person, called the donor, to another, called the donee, and accepted by or on behalf of the donee. Such acceptance must be made during the lifetime of the donor and while he is still capable of giving. If the donee dies before acceptance, the gift is void.
+- **Formalities** (s.123): a gift of immovable property must be effected by a registered instrument signed by or on behalf of the donor and attested by at least two witnesses; movables by such an instrument or by delivery.
+- **Future property**: a gift of future property is void (s.124).
+- **Suspension or revocation** (s.126): by agreement between donor and donee on the happening of an event not dependent on the donor's will, or in cases where it would be rescinded if it were a contract (fraud, coercion), but not merely at the donor's will.
+- **Onerous gifts** (s.127): a donee who accepts a gift must accept the burdens attached; he cannot take the benefit and reject the burden of a single gift.
+- **Universal donee** (s.128): a donee of the whole of the donor's property is personally liable for the donor's debts at the time of the gift to the extent of the property.
+- **Exceptions** (s.129): donationes mortis causa and gifts under Muslim law (hiba, which needs declaration, acceptance and delivery of possession, but not registration) are not governed by this chapter.
+
+CASE: Renikuntla Rajamma v K. Sarwanamma (2014) :: A gift deed reserving to the donor the right to enjoy the property during her lifetime is valid; delivery of possession is not essential under s.123 where the registered deed transfers ownership.
+
+
+TIP: For leases, always distinguish lease from licence (Associated Hotels) and cite ss.106, 107, 108 and 111. For gifts, the three essentials are transfer of existing property, voluntarily without consideration, and acceptance during the donor's lifetime.
+
+## Recent judgments (2025–26)
+
+CASE: Urmila Dixit v Sunil Sharan Dixit (2025) :: Under the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, a gift deed made on the implied condition of care can be cancelled if the donee fails to look after the senior citizen. The Act must be read purposively.
+
+* Gift to child can be cancelled for failure to care for senior citizen (Urmila Dixit, 2025).
+* Actionable claims are transferred by written instrument (s.130), subject to equities.
+* Charge creates security without transfer of interest (s.100).
+* Lease is a transfer of a right to enjoy (s.105); lease vs licence depends on intention (Associated Hotels).
+* Default duration and notice under s.106; registration under s.107; determination under s.111.
+* Exchange is mutual transfer of ownership (s.118).
+* Gift: existing property, voluntary, without consideration, accepted in donor's lifetime; registration for immovables (ss.122, 123); onerous gifts (s.127).
+
+QL: Distinguish between a mortgage and a charge.
+QL: Define lease. Distinguish lease from licence. Explain the modes of determination of a lease.
+QL: Define gift. Explain the essentials and the circumstances in which a gift may be revoked.
+QS: Actionable claim
+QS: Holding over
+QS: Onerous gift
+QS: Exchange
+
+MCQ: A lease for agricultural purposes, in the absence of contract, is || month to month | *year to year, terminable by six months' notice | perpetual | at will || s.106.
+MCQ: The test to distinguish a lease from a licence is || payment of rent | *intention of the parties from the substance of the document | registration | duration || Associated Hotels (1959).
+MCQ: A gift of future property is || valid | *void | voidable | valid if registered || s.124.
+
+# 5 | Easements and licences
+@topics Easements; Creation; Nature and characteristics; Extinction; Riparian rights; Licences (Indian Easements Act, 1882)
+>> An easement is a right over another's land for the beneficial enjoyment of one's own; a licence is a mere personal permission that creates no interest.
+
+## Definition: s.4
+SEC: s.4, Indian Easements Act, 1882 :: An easement is a right which the owner or occupier of certain land possesses, as such, for the beneficial enjoyment of that land, to do and continue to do something, or to prevent and continue to prevent something being done, in or upon, or in respect of, certain other land not his own.
+- **Dominant heritage**: land for whose benefit the right exists; **servient heritage**: land on which the burden is imposed.
+
+## Nature and characteristics
+1. There must be a dominant and a servient heritage.
+2. They must belong to different owners.
+3. The right must be for the beneficial enjoyment of the dominant heritage.
+4. It must be to do something or prevent something on the servient land.
+5. The right must be certain and capable of being the subject of a grant.
+
+### Kinds (s.5)
+| Kind | Meaning | Example |
+|---|---|---|
+| Continuous | Enjoyment is or may be continual without human act | Right to light and air |
+| Discontinuous | Needs an act of man for enjoyment | Right of way |
+| Apparent | Shown by some permanent sign | A window, a path |
+| Non-apparent | No such sign | Right to prevent building above a certain height |
+Other kinds: positive and negative; affirmative and prohibitory; customary (s.18); easement of necessity and quasi-easements (s.13).
+
+## Creation of easements
+| Mode | Section |
+|---|---|
+| Express grant | s.8 |
+| Implied grant, including easements of necessity and quasi-easements (on severance of heritages) | s.13 |
+| Prescription: peaceable and open enjoyment, as an easement and as of right, without interruption, for 20 years (30 years against the government) | s.15 |
+| Custom: local customary easements | s.18 |
+
+CASE: Hero Vinoth v Seshammal (2006) :: An easement of necessity arises only where the dominant heritage cannot be used at all without it; mere convenience is not enough. Once the necessity ends (for example, an alternative access is acquired), the easement of necessity ends (s.41).
+
+## Extinction of easements (ss.37 to 51)
+- Dissolution of the right of the servient owner (s.37).
+- Release by the dominant owner, express or implied (s.38).
+- Revocation under a reserved power (s.39).
+- Expiry of the limited period or happening of the condition (s.40).
+- Termination of necessity (s.41).
+- Uselessness (s.42).
+- Permanent change in the dominant heritage making the burden heavier (s.43).
+- Permanent alteration of the servient heritage by superior force (s.44).
+- Destruction of either heritage (s.45).
+- Unity of ownership of both heritages (s.46).
+- Non-enjoyment for 20 years (s.47).
+
+## Riparian rights
+Riparian owners (owners of land on the banks of a natural stream) have natural rights (s.7, illustrations (h) to (j)): every owner of land on a natural stream has the right to the continued flow of water without material alteration in quantity, quality or direction, and to make reasonable use of the water for domestic and agricultural purposes. These are not easements but natural rights incidental to ownership; they may be enlarged or restricted by easement. Statutes (irrigation Acts) and the public trust doctrine regulate them.
+
+## Licences: ss.52 to 64
+SEC: s.52, Indian Easements Act :: Where one person grants to another, or to a definite number of other persons, a right to do or continue to do, in or upon the immovable property of the grantor, something which would, in the absence of such right, be unlawful, and such right does not amount to an easement or an interest in the property, the right is called a licence.
+- A licence is personal, not transferable (s.56), and generally revocable (s.60).
+- **Irrevocable licences** (s.60): (a) where the licence is coupled with a transfer of property and such transfer is in force; (b) where the licensee, acting on the licence, has executed a work of a permanent character and incurred expenses in its execution.
+- Licensee's rights on revocation: reasonable time to leave and remove goods (s.63); compensation if revoked without cause where the licence was granted for consideration (s.64).
+
+| Point | Easement | Licence |
+|---|---|---|
+| Nature | Interest in land, attached to dominant heritage | Personal right, no interest |
+| Transfer | Passes with the dominant heritage | Not transferable |
+| Revocation | Not revocable at will | Generally revocable |
+| Effect of transfer of servient land | Binds transferee | Generally not binding on transferee (s.59) |
+
+TIP: For easements by prescription, list the five conditions of s.15 (peaceable, open, as an easement, as of right, uninterrupted for 20 years). Distinguish easement and licence in a table.
+
+* Easement: right of an owner of dominant land over servient land (s.4).
+* Continuous/discontinuous, apparent/non-apparent (s.5).
+* Created by grant, implication (necessity, quasi-easement), prescription (20 years) and custom.
+* Easement of necessity ends with the necessity (Hero Vinoth).
+* Extinguished by release, unity of ownership, non-enjoyment for 20 years and other modes.
+* Riparian rights are natural rights.
+* Licence is personal and revocable, except when coupled with transfer or after permanent work (s.60).
+
+QL: Define easement. Discuss its essential characteristics and modes of creation.
+QL: Explain the acquisition of easements by prescription.
+QL: Distinguish between an easement and a licence. When is a licence irrevocable?
+QS: Easement of necessity
+QS: Riparian rights
+QS: Extinction of easements by unity of ownership
+
+MCQ: An easement by prescription requires uninterrupted enjoyment (against a private owner) for || 12 years | *20 years | 30 years | 10 years || s.15.
+MCQ: A right of way is a || continuous easement | *discontinuous easement | natural right | licence || Requires an act of man.
+MCQ: A licence is irrevocable where || it is oral | *the licensee has executed a work of permanent character and incurred expenses | it is for a year | the licensor dies || s.60(b).
+
+# 6 | Recordation of property rights: registration and stamp duty
+@topics Law relating to registration of documents affecting property; exemption of leases and mortgages in favour of Land Development Banks; Recordation of rights in agricultural land in the States; Investigation of title; Law relating to stamp duties; liability of instruments to duty; by whom payable; effect of not duly stamping; examination and impounding; inadmissibility in evidence
+>> Registration gives public notice of property transactions; stamp duty taxes them. Defects in either can make a document inadmissible or ineffective.
+
+## Registration Act, 1908
+### Compulsory registration: s.17
+SEC: s.17(1), Registration Act :: The following documents shall be registered: (a) instruments of gift of immovable property; (b) other non-testamentary instruments which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of the value of one hundred rupees and upwards, to or in immovable property; (c) non-testamentary instruments acknowledging receipt of consideration for such purposes; (d) leases of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent; (e) non-testamentary instruments transferring or assigning any decree or order of a court affecting such rights.
+- s.17(1A) (2001): documents containing contracts to transfer immovable property for the purpose of s.53A TPA must be registered.
+- s.17(2) lists exemptions (for example, compositions, shares in companies, debentures, decrees and orders of court except compromise decrees involving other property).
+- **Optional registration** (s.18): wills, instruments of less than ₹100 value, leases of one year or less.
+
+### Exemption for Land Development Banks
+State Land Development Bank (now cooperative agriculture and rural development bank) Acts, and s.17(2)(xii)-type provisions, exempt mortgages and leases executed in favour of such banks, or certificates of their loans, from the requirement of registration, or provide for registration by filing a copy, to facilitate agricultural credit.
+
+### Time and place
+- Documents must be presented within four months of execution (s.23), with up to four more months on payment of a fine (s.25).
+- Presentation at the office of the sub-registrar within whose sub-district the property is situated (s.28).
+
+### Effect of non-registration: s.49
+No document required by s.17 or by the TPA to be registered shall affect any immovable property comprised in it, confer any power to adopt, or be received as evidence of any transaction affecting such property, unless registered. Proviso: an unregistered document may be received as evidence of a contract in a suit for specific performance, as evidence of part performance under s.53A (pre-2001 position), or as evidence of any collateral transaction not required to be registered.
+- A registered document operates from the date of its execution (s.47).
+- Registered documents prevail over unregistered ones (s.48).
+
+## Recordation of rights in agricultural land
+- Land revenue laws provide for record of rights (pattas, adangals, pahanis, khatauni) maintained by revenue officials. In Andhra Pradesh, the **AP Rights in Land and Pattadar Pass Books Act, 1971** provides for record of rights and pass books; Telangana enacted the **Bhu Bharathi (Record of Rights in Land) Act, 2025**, replacing its 2020 Act.
+- Revenue records are not documents of title; entries raise a presumption for fiscal purposes, but title is decided by civil courts.
+
+CASE: Suraj Bhan v Financial Commissioner (2007) :: Entries in revenue records do not confer or extinguish title; mutation is only for fiscal purposes (collection of land revenue). Title is decided by competent civil courts.
+
+- The Digital India Land Records Modernization Programme (DILRMP) aims at conclusive titling; the Unique Land Parcel Identification Number (ULPIN) is being rolled out.
+
+## Investigation of title
+A purchaser or lender should examine: the chain of title deeds for at least 30 years; encumbrance certificates from the sub-registrar; revenue records and mutation; approved plans and conversion orders; tax receipts; litigation and lis pendens; succession and partition documents; powers of attorney; and statutory permissions (ceiling, land reform, scheduled area restrictions). Under s.55(1) TPA, the seller must produce documents of title and answer relevant questions.
+
+## Indian Stamp Act, 1899
+- Stamp duty on instruments is a State subject for rates (List II, Entry 63) except instruments listed in the Union List (bills of exchange, cheques, promissory notes, bills of lading, letters of credit, insurance policies, transfers of shares, debentures, proxies and receipts), which are under Entry 91 of List I. Stamp duties other than judicial stamps are in the Concurrent List (Entry 44) as to legislative power.
+
+### Liability of instruments to duty: s.3
+Every instrument mentioned in Schedule I (or the State schedule) executed in India is chargeable with the duty indicated. Duty is on the instrument, not the transaction. Several instruments in one document are separately chargeable (s.5); an instrument covering several distinct matters is charged for each.
+
+### Duties by whom payable: s.29
+| Instrument | Payable by |
+|---|---|
+| Conveyance (including sale certificate) | Grantee (purchaser) |
+| Lease or agreement to lease | Lessee |
+| Mortgage, bond, debenture | Person drawing, making or executing |
+| Exchange | Parties in equal shares |
+| Partition | Parties in proportion to their shares |
+| Counterpart of a lease | Lessor |
+
+### Effect of not duly stamping; examination and impounding
+- **Impounding** (s.33): every person having authority to receive evidence, and every person in charge of a public office (except police), before whom an unstamped or insufficiently stamped instrument is produced, shall impound it.
+- **Inadmissibility** (s.35): no instrument chargeable with duty shall be admitted in evidence for any purpose, or acted upon, registered or authenticated, unless duly stamped. Proviso: it can be admitted on payment of the deficit duty and a penalty (ten times the deficit, or as State law provides).
+- Once an instrument is admitted in evidence, its admission cannot be questioned later on the ground of insufficient stamping (s.36).
+- **Adjudication** of proper stamp duty by the Collector (s.31).
+
+CASE: In re: Interplay between Arbitration Agreements under the Arbitration and Conciliation Act, 1996 and the Indian Stamp Act, 1899 (2023) :: A seven-judge bench held that non-stamping or insufficient stamping does not render an agreement void or unenforceable; it is a curable defect affecting admissibility. Courts at the referral stage under the Arbitration Act need not decide stamping; the arbitral tribunal can. It overruled N.N. Global Mercantile (2023) on this point.
+
+TIP: Remember the pairing: s.17 and s.49 of the Registration Act (what must be registered and the effect of not registering), and s.33 and s.35 of the Stamp Act (impounding and inadmissibility).
+
+## Recent judgments (2025–26)
+
+CASE: K. Ramalingam v State (2026) :: A gift of temple inam land was void, and registration of documents dealing with such prohibited land is barred (s.22-A, Registration Act as applicable in the State).
+
+* Registration barred for prohibited properties (K. Ramalingam, 2026).
+* s.17 Registration Act: compulsory registration of gifts, transfers of ₹100 and above, long leases, and s.53A contracts (since 2001).
+* Non-registration: the document does not affect property but may be evidence of contract or collateral purpose (s.49).
+* Revenue records are not documents of title (Suraj Bhan).
+* Investigation of title examines 30 years of records, encumbrances, revenue entries and approvals.
+* Stamp duty is on instruments (s.3); payer under s.29; unstamped instruments impounded (s.33) and inadmissible unless duty and penalty paid (s.35).
+* Non-stamping is a curable defect (2023 seven-judge bench).
+
+QL: Which documents require compulsory registration? What is the effect of non-registration?
+QL: Discuss the law relating to impounding of instruments and the admissibility of unstamped documents.
+QL: Explain the steps in investigation of title to immovable property.
+QS: Optional registration
+QS: Record of rights
+QS: Section 35 of the Indian Stamp Act
+QS: Liability for payment of stamp duty
+
+MCQ: A lease for a term exceeding one year must be || oral | *registered | notarised only | stamped only || s.17(1)(d) Registration Act.
+MCQ: Under s.29 of the Stamp Act, duty on a conveyance is payable by || the seller | *the grantee (purchaser) | both equally | the registrar || Unless agreed otherwise.
+MCQ: Non-stamping of an agreement, according to the seven-judge bench (2023), makes it || void | *inadmissible until cured, not void | illegal | unenforceable forever || Curable defect.
+MCQ: Entries in revenue records || confer title | *are for fiscal purposes and do not confer title | are conclusive proof of ownership | override registered deeds || Suraj Bhan (2007).

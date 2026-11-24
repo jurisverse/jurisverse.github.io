@@ -1,0 +1,463 @@
+@title Labour Law – I
+@subtitle Trade unions, collective bargaining, standing orders and industrial disputes, now under the Industrial Relations Code, 2020
+@paper 3.2
+@sem III
+@color #8a2f2f
+@dark #7a2929
+@intro Follows the syllabus topics (Trade Unions Act, 1926; Industrial Employment (Standing Orders) Act, 1946; Industrial Disputes Act, 1947). All three Acts were repealed and consolidated in the Industrial Relations Code, 2020, which came fully into force on 21 November 2025. Each unit explains the classical law, which the leading cases interpret, and then the position under the Code.
+@reading R.F. Rustomji, The Law of Industrial Disputes in India
+@reading J.N. Malik, Trade Union Law
+@reading Bagri, Law of Industrial Disputes
+@reading Srivastava, Law of Trade Unions in India
+@reading V.G. Goswami, Labour and Industrial Laws
+@reading S.N. Misra, Labour and Industrial Laws
+@reading Khan and Khan, Labour Law
+@reading The Industrial Relations Code, 2020
+
+# 1 | Historical perspectives of labour
+@topics Labour through the ages: slave labour, guild system, caste-based division, feudal labour; Colonial labour law and policy; Labour-capital conflicts; International labour standards; From laissez faire to welfare State: exploitation to protection, contract to statute
+>> Labour law emerged to correct the inequality between employer and worker. It moved the employment relation from free contract to statutory protection.
+
+## 1.1 Labour through the ages
+- **Slave labour**: workers owned as property (ancient Greece and Rome; Indian *dasa*); no rights.
+- **Guild system**: medieval associations of craftsmen and merchants (in India, *shrenis*) regulating training, prices and quality.
+- **Caste-based division of labour**: occupations tied to birth, with forced and unpaid labour (*begar*) imposed on lower castes.
+- **Feudal labour**: serfs and tenants bound to land; bonded labour persisted into modern India.
+
+## 1.2 Colonial labour law and policy
+- Early laws protected employers: the **Workmen's Breach of Contract Act, 1859** made breach of contract by workers a criminal offence; indentured labour was exported to plantations abroad; the **Assam Labour and Emigration Act** regulated tea garden labour on harsh terms.
+- Gradual protective laws: **Factories Act, 1881** (child labour); **Workmen's Compensation Act, 1923**; **Trade Unions Act, 1926** (after Buckingham Mill case, 1920, where union leaders were restrained by injunction); **Trade Disputes Act, 1929**; Royal Commission on Labour (Whitley Commission, 1929 to 1931).
+- Post-independence: **Industrial Disputes Act, 1947**, **Industrial Employment (Standing Orders) Act, 1946**, Minimum Wages Act, 1948, Factories Act, 1948, ESI Act, 1948, EPF Act, 1952.
+
+## 1.3 Labour-capital conflicts
+Exploitation, profit motive, poor bargaining power of workers, poor working conditions, unorganised and surplus labour, extreme division of labour and lack of alternative employment produce conflict. Labour law aims to balance this through collective bargaining, minimum standards, social security and dispute resolution.
+
+## 1.4 International labour standards
+- The **International Labour Organisation** (1919), with tripartite structure (governments, employers, workers), adopts conventions and recommendations. India is a founding member.
+- Core (fundamental) conventions: freedom of association (No. 87) and collective bargaining (No. 98) (India has not ratified these two); forced labour (Nos. 29, 105); equal remuneration (No. 100); discrimination (No. 111); minimum age (No. 138); worst forms of child labour (No. 182); occupational safety and health (Nos. 155, 187, added in 2022).
+- Implementation in India: through legislation, the Constitution (Arts. 23, 24, 39, 41, 42, 43, 43A) and judicial decisions.
+
+## 1.5 From laissez faire to welfare State
+- Under laissez faire, employment was a private contract; the State did not interfere ("hire and fire").
+- The welfare State intervenes: minimum wages, hours, safety, social security, collective bargaining, protection against arbitrary dismissal. Status (protected by statute) replaces contract.
+- **Second National Commission on Labour (2002)** recommended consolidation of central labour laws into four or five codes. This led to the **Code on Wages, 2019**, the **Industrial Relations Code, 2020**, the **Code on Social Security, 2020**, and the **Occupational Safety, Health and Working Conditions Code, 2020**, all in force from 21 November 2025, consolidating 29 central laws.
+
+* Labour evolved from slavery, guilds, caste and feudal service to protected employment.
+* Colonial law favoured employers; protective laws grew after 1920.
+* ILO standards guide Indian law; India has not ratified Conventions 87 and 98.
+* The welfare State moved labour from contract to statute.
+* Four Labour Codes replaced 29 central laws from 21 November 2025.
+
+QL: Trace the historical development of labour law in India from colonial times to the Labour Codes.
+QL: Discuss the role of the ILO and international labour standards in shaping Indian labour law.
+QS: Whitley Commission
+QS: Second National Commission on Labour
+QS: ILO core conventions
+
+MCQ: The Labour Codes came into force on || 1 April 2020 | *21 November 2025 | 1 July 2024 | 26 January 2025 || All four Codes.
+MCQ: Which ILO convention on freedom of association has India NOT ratified? || No. 29 | *No. 87 | No. 100 | No. 138 || Nor No. 98.
+
+# 2 | Trade unionism and legal control of trade unions
+@topics Labour movement as a counter to exploitation; History of trade union movement in India; Right to form trade unions as part of freedom of association; Registration, amalgamation, rights and liabilities, dissolution; Problems: multiplicity, politicisation, intra- and inter-union rivalry, outside leadership, closed shop and union shop, recognition; Trade Unions Act, 1926 and reforms
+>> Trade unions give workers collective strength. The law registers and protects them, gives them immunities for trade disputes, and now provides for recognition of negotiating unions.
+
+## 2.1 and 2.2 Labour movement and its history in India
+- Early welfare associations (Bombay Mill Hands Association, 1890, led by N.M. Lokhande).
+- **Madras Labour Union (1918)**, led by B.P. Wadia, the first organised trade union.
+- **All India Trade Union Congress (1920)**.
+- After independence, unions became linked to political parties (INTUC, AITUC, HMS, CITU, BMS), leading to multiplicity and rivalry.
+
+## Right to form unions
+Art. 19(1)(c) guarantees the right to form associations or unions, subject to reasonable restrictions (Art. 19(4)).
+
+CASE: All India Bank Employees' Association v National Industrial Tribunal (1962) :: The right to form unions does not carry with it a fundamental right to strike, to bargain collectively, or to achieve every object of the union.
+
+CASE: B.R. Singh v Union of India (1989) :: The right to strike is not a fundamental right, but it is a legal right recognised by labour statutes, subject to restrictions; it is an important weapon of collective bargaining.
+
+## 2.3 Registration, rights, liabilities, amalgamation and dissolution
+### Under the Trade Unions Act, 1926
+- Any seven or more members could apply for registration (s.4), subject to at least 10% or 100 workers (whichever less) in the establishment (2001 amendment).
+- A registered union is a body corporate (s.13), with a general fund (for listed objects) and a separate political fund (voluntary contributions).
+- Immunities: from criminal conspiracy for agreements to further trade union objects (s.17); from civil suits for acts in furtherance of a trade dispute (s.18); enforceability of agreements in restraint of trade (s.19).
+- Amalgamation (s.24) and dissolution (s.27).
+
+### Under the Industrial Relations Code, 2020 (Chapter III)
+- Registration on application by at least 10% of workers or 100 workers, whichever is less, with a minimum of seven members; a registered union is a body corporate.
+- Membership ordinarily limited to persons engaged in the industry, with a limit on outsiders as office-bearers (in the organised sector, not more than one-third or five, whichever less, can be outsiders; the unorganised sector allows a higher proportion).
+- Immunities from criminal conspiracy and from civil suits for acts in contemplation or furtherance of an industrial dispute continue.
+- **Central and State trade unions** may be recognised by the appropriate government.
+- Disputes concerning registered unions (internal disputes, between union and members) are referred to the Industrial Tribunal.
+- Provisions for amalgamation, change of name, cancellation of registration and dissolution.
+
+## 2.4 Problems of trade unionism
+- **Multiplicity of unions** in one establishment, weakening bargaining.
+- **Over-politicisation**: unions as wings of political parties.
+- **Intra-union and inter-union rivalry**.
+- **Outside leadership**: politicians and professional leaders, not workers, lead unions.
+- **Closed shop** (only union members may be employed) and **union shop** (employees must join within a period): not recognised in Indian law, as they conflict with the freedom not to associate (Damyanti Naranga, 1971).
+- **Recognition**: the 1926 Act had no provision for compulsory recognition; some State laws (Maharashtra, Madhya Pradesh) and the Code of Discipline (1958) provided for it.
+
+### Recognition under the IR Code: negotiating union and council
+- Where only one union exists, it is recognised as the **sole negotiating union**.
+- Where more than one union exists, the union with the support of **51% or more** of the workers on the muster roll is recognised as the sole negotiating union.
+- If no union has 51%, a **negotiating council** is formed of unions each having at least **20%** of the workers, with one representative for each 20%.
+- The negotiating union or council negotiates on matters such as standing orders, wages and service conditions.
+
+TIP: Compare the 1926 Act and the IR Code in a table: registration thresholds, outsiders, immunities, and the new recognition provisions (51% and 20%).
+
+* Trade unions began with the Madras Labour Union (1918) and AITUC (1920).
+* Art. 19(1)(c) protects forming unions; no fundamental right to strike (All India Bank Employees; B.R. Singh).
+* Registration requires 10% or 100 workers and at least seven members; unions are bodies corporate with immunities.
+* Problems: multiplicity, politicisation, rivalry, outside leadership.
+* IR Code introduces sole negotiating union (51%) or negotiating council (20% each).
+
+QL: Trace the growth of the trade union movement in India. What are its main problems?
+QL: Discuss the registration, rights and liabilities of trade unions under the Trade Unions Act, 1926 and the Industrial Relations Code, 2020.
+QL: Discuss the recognition of trade unions under the Industrial Relations Code, 2020.
+QS: Closed shop and union shop
+QS: Immunities of registered trade unions
+QS: Negotiating council
+QS: Outside leadership
+
+MCQ: The first organised trade union in India was the || AITUC | *Madras Labour Union | INTUC | Bombay Mill Hands Association || 1918, B.P. Wadia.
+MCQ: Under the IR Code, a union is recognised as sole negotiating union if it has the support of || 20% | 33% | *51% or more | 75% || Of workers on the muster roll.
+MCQ: The right to strike was held not to be a fundamental right but a legal right in || All India Bank Employees | *B.R. Singh v Union of India | Damyanti Naranga | Rangarajan || 1989.
+
+# 3 | Collective bargaining
+@topics Concept; International norms; Conditions precedent; Merits and demerits; Bargaining process: negotiation; pressurisation: strike, lockout, go-slow, work to rule, gherao; Structure: plant, industry and national levels; Duration and enforcement of bipartite agreements; Reforms
+>> Collective bargaining replaces individual contracts with negotiated agreements between employers and organised workers, backed by the possibility of strikes and lockouts.
+
+## 3.1 Concept
+Collective bargaining is the process of negotiation between employers and organised workers (through unions) to determine wages and conditions of employment, and the settlement of disputes through agreements. ILO Convention No. 98 encourages voluntary negotiation.
+
+CASE: Karnal Leather Karamchari Sangathan v Liberty Footwear Co (1989) :: The Court described collective bargaining as a technique by which disputes about conditions of employment are resolved amicably by agreement rather than by coercion; the Industrial Disputes Act promotes it as the preferred method of industrial peace.
+
+## 3.2 Conditions precedent, merits and demerits
+- **Preconditions**: strong, representative unions; recognition of unions by employers; good faith on both sides; willingness to compromise; a legal framework supporting agreements.
+- **Merits**: industrial democracy; settlements suited to the enterprise; flexibility; less litigation.
+- **Demerits**: unequal bargaining power where unions are weak; multiplicity of unions; strikes and lockouts disrupt production; excludes unorganised workers.
+
+## 3.3 The bargaining process
+### Negotiation
+Charter of demands, negotiation, settlement (bipartite), or failure leading to conciliation.
+
+### Pressurisation
+| Form | Meaning and legal position |
+|---|---|
+| Strike | Cessation of work by a body of persons acting in combination, or a concerted refusal to continue to work. Under the IR Code, it includes concerted casual leave on a given day by 50% or more workers |
+| Lockout | Temporary closing of a place of employment, suspension of work, or refusal by an employer to continue to employ workers |
+| Go-slow | Deliberate slowing of work while drawing full wages; regarded as misconduct, not a protected strike (Bharat Sugar Mills v Jai Singh, 1961) |
+| Work to rule | Workers follow rules strictly to reduce output; legal status depends on circumstances |
+| Gherao | Physical confinement of management to press demands; illegal, as it involves wrongful confinement (Jay Engineering Works v State of West Bengal, Calcutta HC, 1968) |
+
+## 3.4 Structure of bargaining
+- **Plant level**: between a single employer and its union (most common in India).
+- **Industry level**: between employers' associations and federations of unions in an industry (textiles, banking: bipartite settlements between the Indian Banks' Association and bank unions).
+- **National level**: for public sector industries (steel, coal) through joint committees.
+
+## 3.5 Duration and enforcement of bipartite agreements
+- **Settlement** (s.2(p), IDA): a settlement arrived at in conciliation, or by written agreement between employer and workmen otherwise than in conciliation (signed and copied to the government and conciliation officer).
+- **Binding effect** (s.18, IDA): a bipartite settlement binds only the parties to it; a settlement in conciliation binds all parties to the dispute, including all present and future workmen of the establishment.
+- **Duration** (s.19): as agreed, or six months if not specified, and continues until terminated by two months' notice.
+- **Under the IR Code**: similar rules on settlements and their binding effect; a settlement remains in force for the period agreed (or as the Code provides where none is agreed) and continues until terminated by notice.
+
+CASE: ITC Ltd Workers' Welfare Association v Management of ITC Ltd (2002) :: A settlement arrived at in the course of conciliation proceedings, with a recognised majority union, is binding on all workers, including members of a minority union that did not sign it, unless shown to be unfair or arrived at by fraud or mala fides.
+
+## 3.6 Reforms
+- Statutory recognition of unions (now in the IR Code), compulsory bargaining in good faith, and promoting industry-wide bargaining.
+- Grievance redressal committees (IR Code, establishments with 20 or more workers) and works committees (100 or more) promote bipartite dialogue.
+
+* Collective bargaining is the preferred method of settling disputes (Karnal Leather).
+* Preconditions: strong, recognised unions and good faith.
+* Pressure tactics: strike and lockout are lawful within limits; go-slow and gherao are not protected.
+* Bargaining at plant, industry and national levels.
+* Settlements in conciliation bind all workmen; bipartite settlements bind parties (s.18 IDA; ITC Workers' Welfare Association).
+
+QL: What is collective bargaining? Discuss its preconditions, merits and demerits in India.
+QL: Explain strikes, lockouts, go-slow and gherao as forms of pressure in collective bargaining. Which are legal?
+QL: Discuss the binding nature and duration of settlements.
+QS: Gherao
+QS: Bipartite settlement
+QS: Industry-level bargaining
+
+MCQ: Gherao was held illegal because it involves || breach of contract | *wrongful confinement | go-slow | lockout || Jay Engineering Works (1968).
+MCQ: A settlement arrived at in conciliation binds || only signatory unions | *all workmen of the establishment, present and future | only the employer | nobody until approved by court || s.18(3) IDA.
+
+# 4 | State regulation of industrial relations
+@topics Theoretical foundations: social justice, welfare, public interest, productivity, industrial peace, price control; Methods: recognition of mutual arrangements, assistance to bipartite settlements (conciliation, voluntary arbitration, standing orders), State machinery (reference, adjudication, awards, judicial review), standards on lay-off, strike, lockout, retrenchment, closure and transfer; The conceptual conundrum: industry, industrial dispute, workman; Unfair labour practices
+>> The State intervenes in industrial relations to secure social justice and industrial peace, through conciliation, arbitration and adjudication, and by laying down standards.
+
+## 4.1 Theoretical foundations
+Social justice (Preamble; Arts. 38, 39, 43), labour welfare, public interest in uninterrupted production, productivity, industrial peace, economic development, and control of prices. The judiciary has treated industrial adjudication as a means of social justice, not mere contract enforcement.
+
+## 4.2 Methods of regulation
+### Recognition of mutual arrangements and assistance to bipartite settlements
+- **Conciliation**: conciliation officers and boards help parties reach a settlement (ss.4, 5, 12, 13 IDA; IR Code provides conciliation officers).
+- **Voluntary arbitration** (s.10A IDA; s.42 IR Code): parties may agree in writing to refer a dispute to an arbitrator; the award is binding.
+- **Standing orders**: certified conditions of service (Unit 6).
+
+### State prescription of machinery: adjudication
+- **Reference** (s.10 IDA): the appropriate government may refer a dispute to a Labour Court, Industrial Tribunal or National Tribunal. Reference was discretionary and administrative, criticised for political overtones.
+- **IR Code**: an aggrieved party may apply directly to the Industrial Tribunal if conciliation fails, after the conciliation officer's failure report or the lapse of the conciliation period, within the prescribed time; the government retains power to refer certain disputes to the National Industrial Tribunal.
+- **How tribunals differ from courts**: they can create new obligations, modify contracts in the interest of social justice, and are not bound by strict rules of evidence.
+- **Award**: binding on parties (s.18 IDA); enforceable; subject to judicial review under Arts. 226, 227 and 136.
+
+### State prescription of standards
+Lay-off, strike, lockout, retrenchment, closure and transfer of undertakings (Unit 9).
+
+## 4.3 The conceptual conundrum: industry, industrial dispute, workman
+### Industry
+CASE: Bangalore Water Supply and Sewerage Board v A. Rajappa (1978) :: A seven-judge bench (Krishna Iyer J) laid down the "triple test": where there is (1) systematic activity, (2) organised by co-operation between employer and employee, (3) for the production or distribution of goods and services calculated to satisfy human wants and wishes, prima facie there is an industry. Profit motive and capital are irrelevant. Hospitals, educational institutions, clubs and professions with organised activity can be industries. Only sovereign functions strictly understood are excluded.
+
+- The correctness of Bangalore Water Supply was referred to a larger bench in **State of UP v Jai Bir Singh (2005)**. The reference was decided in 2026 (see below).
+
+CASE: State of UP v Jai Bir Singh (2026) :: A nine-judge bench answered the 2005 reference. Disputes pending under the repealed Industrial Disputes Act continue to be governed by the Bangalore Water Supply triple test. The definition of 'industry' in s.2(p) of the Industrial Relations Code, 2020 must be applied on its own terms. A lead opinion reformulated the test for the future without overruling Bangalore Water Supply; the other judges saw no need to do so.
+
+NOTE: Current law. Bangalore Water Supply still governs pending ID Act disputes; for new disputes, apply the IR Code definition and its exclusions (charitable, sovereign, domestic).
+- **IR Code definition**: "industry" means any systematic activity carried on by co-operation between an employer and workers for production, supply or distribution of goods or services with a view to satisfy human wants (whether or not with capital or profit motive), but excludes institutions owned or managed by organisations wholly or substantially engaged in charitable, social or philanthropic service, sovereign functions (defence, research, atomic energy, space), domestic service, and other activities notified.
+
+### Industrial dispute
+- Any dispute or difference between employers and employers, employers and workmen, or workmen and workmen, connected with employment or non-employment, terms of employment or conditions of labour of any person (s.2(k) IDA).
+- An individual dispute becomes an industrial dispute if espoused by a union or substantial number of workmen; but dismissal, discharge, retrenchment or termination of an individual workman is deemed an industrial dispute (s.2A, 1965).
+
+CASE: Workmen of Dimakuchi Tea Estate v Management of Dimakuchi Tea Estate (1958) :: "Any person" in the definition of industrial dispute must be read in the context: the workmen raising the dispute must have a direct and substantial interest in the employment of that person. A dispute about a member of the staff (a doctor) who was not a workman was not an industrial dispute.
+
+### Workman
+- Any person employed in an industry to do manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward (s.2(s) IDA), excluding persons employed mainly in managerial or administrative capacity, and supervisory staff drawing above a wage ceiling.
+- **IR Code** defines "worker" on similar lines, raising the wage ceiling for supervisory staff (₹18,000 per month or as notified), and also includes working journalists and sales promotion employees.
+
+CASE: H.R. Adyanthaya v Sandoz (India) Ltd (1994) :: A Constitution Bench held that medical representatives were not "workmen" under the IDA as it then stood, since their work was not manual, clerical, technical or supervisory; the dominant nature of the work decides.
+
+## 4.4 Unfair labour practices
+- Introduced in 1982 (Fifth Schedule, IDA; ss.25T, 25U): practices by employers (interfering with union formation, victimisation, discharge for union activities, refusal to bargain collectively, recruiting strike-breakers) and by workers and unions (coercion, illegal strikes, go-slow, gherao, violence).
+- **IR Code**: prohibits unfair labour practices listed in the Second Schedule, with penalties.
+
+* Theoretical basis: social justice, welfare, industrial peace.
+* Conciliation, voluntary arbitration and adjudication; IR Code allows direct approach to the Tribunal.
+* Industry: triple test (Bangalore Water Supply) still governs pending ID Act cases (Jai Bir Singh, nine judges, 2026); IR Code s.2(p) read on its own terms, excluding charitable, sovereign and domestic activities.
+* Industrial dispute requires substantial interest (Dimakuchi); individual dismissals deemed disputes (s.2A).
+* Workman depends on dominant nature of work (H.R. Adyanthaya).
+* Unfair labour practices prohibited (Fifth Schedule IDA; Second Schedule IR Code).
+
+QL: Discuss the meaning of "industry" with reference to Bangalore Water Supply and the Industrial Relations Code, 2020.
+QL: Define "industrial dispute" and "workman". When does an individual dispute become an industrial dispute?
+QL: Discuss the role of the State in regulating industrial relations through conciliation, arbitration and adjudication.
+QS: Triple test
+QS: Unfair labour practices
+QS: Section 2A of the Industrial Disputes Act
+QS: Voluntary arbitration
+
+MCQ: The triple test for "industry" was laid down in || Dimakuchi Tea Estate | *Bangalore Water Supply v A. Rajappa | Jai Bir Singh | Adyanthaya || 1978.
+MCQ: Medical representatives were held not to be workmen in || Bangalore Water Supply | *H.R. Adyanthaya v Sandoz | Dimakuchi | B.R. Singh || 1994.
+MCQ: Under the IR Code, if conciliation fails, a party || must wait for government reference only | *may apply directly to the Industrial Tribunal | must go to the High Court | must strike || New procedure.
+
+# 5 | Discipline in industry: restraints on managerial prerogative
+@topics Doctrine of hire and fire; Fairness in disciplinary process: misconduct, charge sheet, domestic enquiry, notice, evidence, cross-examination, representation, unbiased inquiry officer, reasoned decision; Prior permission and post-facto approval during pendency of proceedings (s.33 IDA)
+>> The employer's power to discipline is now subject to fairness: a worker can be punished for misconduct only after a fair domestic inquiry, and only within limits during pending disputes.
+
+## 5.1 Doctrine of hire and fire
+Under common law, an employer could dismiss a worker at will on notice or payment in lieu. Indian labour law limits this through standing orders, the requirement of a fair inquiry, s.11A IDA (tribunal's power to modify punishment), protection during pending proceedings (s.33), and retrenchment conditions.
+
+## 5.2 Fairness in the disciplinary process
+### Misconduct
+Defined in the certified or model standing orders: wilful insubordination, theft, fraud, dishonesty, habitual absence, habitual late attendance, riotous behaviour, taking bribes, striking illegally, neglect of work. Misconduct outside the workplace may be punished if it affects the employer's business or reputation.
+
+### The right to know: charge sheet
+The charge sheet must state the charges clearly with particulars, so the worker can answer them.
+
+### The right to defend: domestic enquiry
+Essentials of a fair inquiry:
+1. Notice of the inquiry, with time, date and place.
+2. Opportunity to examine documents relied upon.
+3. Evidence led by the management in the worker's presence.
+4. Right to cross-examine management witnesses.
+5. Right to lead defence evidence and examine witnesses.
+6. Representation by a co-worker (and by a lawyer only if the rules permit or the management is represented by a legally trained person).
+7. An unbiased inquiry officer.
+8. A reasoned finding based on evidence.
+9. Proportionate punishment.
+
+CASE: Delhi Cloth and General Mills v Ludh Budh Singh (1972) :: If the employer does not hold an inquiry, or the inquiry is defective, the employer may justify the action by leading evidence before the tribunal; the tribunal then decides on that evidence. The employer must seek this opportunity at the appropriate stage.
+
+CASE: Workmen of Firestone Tyre and Rubber Co v Management (1973) :: Explaining s.11A IDA (1971), the Court held that the tribunal now has power to reappraise the evidence, decide whether misconduct is proved, and interfere with the punishment if it is disproportionate, substituting a lesser punishment.
+
+## 5.2.4 Prior permission and post-facto approval: s.33 IDA
+- During the pendency of conciliation or adjudication proceedings, the employer shall not, in regard to any matter connected with the dispute, alter conditions of service to the prejudice of workmen, or discharge or punish them for misconduct connected with the dispute, without the **express permission** of the authority (s.33(1)).
+- For matters not connected with the dispute, the employer may discharge or dismiss for misconduct, but must pay one month's wages and apply for **approval** of the action (s.33(2)(b)).
+- Protected workmen (union office-bearers) need express permission (s.33(3)).
+
+CASE: Jaipur Zila Sahakari Bhoomi Vikas Bank v Ram Gopal Sharma (2002) :: A Constitution Bench held that if the employer dismisses a workman under s.33(2)(b) without paying one month's wages or without applying for approval, or approval is refused, the dismissal is void ab initio, and the workman is deemed to continue in service.
+
+- Under the IR Code, a corresponding provision bars changes in conditions of service and discharge or punishment during pending proceedings without permission or approval, on similar lines.
+
+TIP: Discipline questions are answered as a checklist: misconduct defined, charge sheet, inquiry with natural justice, unbiased officer, reasoned finding, proportionate punishment, then s.11A review and s.33 protection.
+
+* Hire and fire is now limited by statute and natural justice.
+* Fair domestic inquiry: notice, documents, cross-examination, defence, unbiased officer, reasoned finding.
+* Defective inquiry can be cured by evidence before the tribunal (Ludh Budh Singh).
+* s.11A lets tribunals modify disproportionate punishments (Firestone).
+* s.33: permission or approval during pendency; dismissal without approval is void (Jaipur Zila Sahakari).
+
+QL: Discuss the essentials of a fair domestic inquiry in disciplinary proceedings.
+QL: Explain the protection given to workmen during the pendency of proceedings under s.33 of the Industrial Disputes Act.
+QL: Discuss the powers of the Labour Court under s.11A of the Industrial Disputes Act.
+QS: Misconduct
+QS: Charge sheet
+QS: Protected workman
+
+MCQ: Dismissal without approval under s.33(2)(b) was held void ab initio in || Ludh Budh Singh | Firestone | *Jaipur Zila Sahakari Bhoomi Vikas Bank v Ram Gopal Sharma | Adyanthaya || 2002.
+MCQ: The tribunal's power to modify punishment was introduced by || s.33 | *s.11A | s.2A | s.25F || 1971.
+
+# 6 | Law relating to service conditions: standing orders
+@topics Industrial Employment (Standing Orders) Act, 1946: scope and object; Model standing orders; Matters in the Schedule; Draft, certification and modification; Interpretation; Rule-making; Misconduct, disciplinary action and punishment
+>> Standing orders codify conditions of service so that workers know their rights and duties, and employers cannot change them unilaterally.
+
+## Scope and object
+- The Industrial Employment (Standing Orders) Act, 1946 required employers in industrial establishments with 100 or more workmen (reduced by some States) to define conditions of employment precisely and make them known to workmen.
+- Matters in the Schedule: classification of workmen (permanent, temporary, probationer, badli, apprentice); shift working, hours and holidays; attendance and late coming; leave; termination; suspension or dismissal for misconduct and acts constituting misconduct; grievance redressal.
+
+## Certification and modification
+- Employer submits draft standing orders to the Certifying Officer (s.3) within six months.
+- Copy sent to the union or workmen; objections heard; certifying officer decides whether the draft is fair and reasonable (s.4).
+- Appeal to the appellate authority (s.6).
+- Modification after six months, by application (s.10).
+- Until certified, model standing orders apply (s.12A).
+- Interpretation disputes may be referred to the Labour Court (s.13A).
+
+CASE: Western India Match Co v Workmen (1973) :: Certified standing orders have statutory force and are binding on employer and workmen; a contract of employment inconsistent with them to the workman's detriment is not valid.
+
+## Under the IR Code (Chapter IV)
+- Applies to industrial establishments with **300 or more workers** (raised from 100), though a State may lower the threshold.
+- The Central Government frames model standing orders; employers may adopt them with suitable changes; if the employer adopts the model, it is deemed certified.
+- Matters include classification of workers, working hours, holidays, paydays, shift working, attendance, leave, termination, suspension or dismissal for misconduct, grievance redressal.
+- Disciplinary process: suspension pending inquiry with subsistence allowance (50% of wages for the first 90 days, 75% thereafter); inquiry to be completed ordinarily within 90 days.
+
+## Concept of misconduct and punishment
+Misconduct includes acts listed in standing orders; punishments range from warning, fine, suspension, withholding increments to discharge and dismissal. Punishment must be proportionate and follow a fair inquiry.
+
+TIP: Note the key change: standing orders now apply under the IR Code to establishments with 300 or more workers (previously 100), with deemed certification on adoption of the model.
+
+* Standing orders define conditions of service and misconduct.
+* Certified after hearing objections; statutory force (Western India Match).
+* Model standing orders apply until certification.
+* IR Code: threshold of 300 workers; model standing orders and deemed certification; subsistence allowance during suspension.
+
+QL: Discuss the object and procedure for certification of standing orders under the 1946 Act and the IR Code.
+QL: What is misconduct? How is disciplinary action taken under standing orders?
+QS: Model standing orders
+QS: Subsistence allowance
+
+MCQ: Under the IR Code, standing orders apply to establishments with || 50 workers | 100 workers | *300 or more workers | 1,000 workers || Raised from 100.
+MCQ: Certified standing orders have || no legal force | *statutory force | only contractual force | only persuasive value || Western India Match (1973).
+
+# 7 | Industrial disputes: settlement machinery and adjudication
+@topics Disputes settlement machinery: conciliation officers, boards of conciliation, labour courts, industrial tribunals, national tribunals; Reference and voluntary arbitration; Awards: binding nature and judicial review; Statutory limits on strikes and lockouts; Unfair labour practices; Lay-off, retrenchment and closure
+>> When negotiation fails, the law provides conciliation and adjudication, restricts strikes and lockouts, and regulates lay-off, retrenchment and closure.
+
+## Settlement machinery under the IDA
+| Authority | Section | Function |
+|---|---|---|
+| Works Committee | 3 | Promote good relations in establishments with 100 or more workmen |
+| Conciliation Officer | 4 | Mediate and promote settlement |
+| Board of Conciliation | 5 | Ad hoc board for important disputes |
+| Court of Inquiry | 6 | Inquire into matters connected with a dispute |
+| Labour Court | 7 | Second Schedule matters: dismissals, legality of orders under standing orders, withdrawal of concessions, legality of strikes and lockouts |
+| Industrial Tribunal | 7A | Second and Third Schedule matters: wages, compensatory allowances, hours, leave, bonus, rationalisation, retrenchment, closure |
+| National Tribunal | 7B | Disputes involving questions of national importance or affecting establishments in more than one State |
+
+### Under the IR Code
+- Grievance Redressal Committee (20 or more workers), Works Committee (100 or more).
+- Conciliation officers; Industrial Tribunals with a judicial member and an administrative member; National Industrial Tribunal.
+- Labour Courts are abolished; their functions go to the Industrial Tribunals.
+- Voluntary arbitration by written agreement.
+
+## Reference and voluntary arbitration (s.10, s.10A IDA)
+- Government reference is an administrative act; courts may review refusal to refer if based on irrelevant considerations (Telco Convoy Drivers Mazdoor Sangh v State of Bihar, 1989: the government cannot decide the merits of the dispute while refusing reference).
+- Voluntary arbitration under s.10A; award binding.
+
+## Award: binding nature and judicial review
+- Awards bind the parties and their successors (s.18(3)); remain in force for one year, extendable (s.19).
+- s.11A: power to modify discharge or dismissal.
+- Judicial review by High Courts (Arts. 226, 227) and the Supreme Court (Art. 136), on grounds of jurisdiction, error of law, perversity and natural justice.
+
+## Statutory limits on strikes and lockouts (ss.22 to 31)
+- **Public utility services** (s.22): no strike without notice within six weeks before striking, within fourteen days of giving notice, before the expiry of the date in the notice, or during conciliation and seven days after.
+- **All industries** (s.23): no strike or lockout during conciliation before a board, adjudication, arbitration, or during the operation of a settlement or award on matters covered.
+- **Illegal strikes and lockouts** (s.24) and penalties (ss.26 to 28).
+- **IR Code**: the notice requirements (60 days' notice; no strike within 14 days of notice; none during conciliation and seven days after; none during tribunal or arbitration proceedings and 60 days after) now apply to **all industrial establishments**, not only public utility services. Concerted casual leave by 50% or more workers is a strike.
+
+CASE: Crompton Greaves Ltd v Workmen (1978) :: Where a strike is legal and justified, workers are entitled to wages for the strike period. A strike may be illegal but justified or legal but unjustified; wages depend on both legality and justification.
+
+## Lay-off, retrenchment and closure
+| Concept | Meaning | IDA protection |
+|---|---|---|
+| Lay-off (s.2(kkk)) | Failure or refusal to give employment due to shortage of coal, power, raw materials, accumulation of stocks, breakdown of machinery, natural calamity | Compensation of 50% of wages (s.25C) |
+| Retrenchment (s.2(oo)) | Termination for any reason other than punishment, excluding voluntary retirement, superannuation, non-renewal of contract, continued ill-health | One month's notice or wages, compensation of 15 days' average pay per completed year, notice to government (s.25F); last come, first go (s.25G); preference in re-employment (s.25H) |
+| Closure (s.2(cc)) | Permanent closing of a place of employment | 60 days' notice to government (s.25FFA); compensation as for retrenchment (s.25FFF) |
+
+- **Chapter VB** (ss.25K to 25S): in establishments with **100 or more** workmen, prior permission of the government needed for lay-off, retrenchment and closure.
+
+CASE: Excel Wear v Union of India (1978) :: The original s.25O (requiring permission for closure without reasons or appeal) was struck down as unreasonable restriction on the right to carry on business, which includes the right to close it. It was later re-enacted with safeguards and upheld in **Orissa Textile and Steel Ltd v State of Orissa (2002)**.
+
+### Under the IR Code
+- Lay-off compensation and retrenchment compensation on similar lines (15 days' average pay for every completed year).
+- **Chapter X** (special provisions): prior permission for lay-off, retrenchment and closure applies to establishments with **300 or more workers** (raised from 100); the appropriate government may lower or raise the threshold by notification.
+- **Worker Re-skilling Fund**: the employer contributes an amount equal to 15 days' last-drawn wages for each retrenched worker, to be credited to the worker within 45 days.
+- Fixed-term employment is recognised, with benefits on par with permanent workers.
+
+TIP: Present the IDA and IR Code positions side by side, especially for strikes (public utility only vs all establishments) and Chapter VB vs Chapter X thresholds (100 vs 300).
+
+## Recent judgments (2025–26)
+
+CASE: Premium Transmission Pvt Ltd v State of Maharashtra (2026) :: A prior written demand to the employer is not a precondition for a reference. The government may refer an apprehended industrial dispute.
+
+* No prior demand needed for reference; apprehended disputes may be referred (Premium Transmission, 2026).
+* Machinery: conciliation, labour courts, tribunals, national tribunals; IR Code abolishes labour courts.
+* Refusal of reference reviewable (Telco Convoy Drivers).
+* Awards bind parties; judicial review lies.
+* Strike notice: public utility under IDA; all establishments under IR Code.
+* Strike wages depend on legality and justification (Crompton Greaves).
+* Lay-off, retrenchment (s.25F) and closure; prior permission threshold 100 (IDA) to 300 (IR Code); re-skilling fund.
+
+QL: Explain the machinery for settlement of industrial disputes under the Industrial Disputes Act and the Industrial Relations Code.
+QL: Discuss the statutory restrictions on strikes and lockouts.
+QL: Distinguish between lay-off, retrenchment and closure. What conditions apply to retrenchment?
+QL: Examine the changes in the law on lay-off, retrenchment and closure under the IR Code.
+QS: Section 25F
+QS: Last come, first go
+QS: Worker Re-skilling Fund
+QS: Excel Wear v Union of India
+
+MCQ: Retrenchment compensation is || 30 days' pay per year | *15 days' average pay for every completed year of service | one month's pay in all | three months' pay || s.25F(b).
+MCQ: Under the IR Code, prior permission for retrenchment applies to establishments with || 50 or more | 100 or more | *300 or more workers | 1,000 or more || Chapter X.
+MCQ: The right to close a business was recognised in || Crompton Greaves | *Excel Wear v Union of India | Telco Convoy | Western India Match || 1978.
+
+# 8 | Recommendations of the Second National Commission on Labour on industrial disputes
+@topics Recommendations of the Second National Commission on Labour on industrial relations and industrial disputes
+>> The Second National Commission on Labour (2002) proposed a single, simplified law on industrial relations, more flexibility for employers, and stronger protection through recognition and social security. Most of its ideas shape the IR Code.
+
+## The Commission
+Set up in 1999 under the chairmanship of Ravindra Varma; report submitted in June 2002.
+
+## Key recommendations on industrial relations
+- **Consolidation** of central labour laws into a few codes: a Labour Management Relations law combining the Industrial Disputes Act, Trade Unions Act and Standing Orders Act.
+- **Recognition** of a negotiating agent: a union with 66% support as sole negotiating agent, or a negotiating college with proportional representation of unions with at least 25%. (The IR Code adopted 51% and 20%.)
+- **Labour Relations Commissions** at the national and State levels, and Lok Adalats and arbitration to reduce adjudication delays.
+- **Strikes**: secret ballot before a strike (strike decision by majority); "go-slow" and "work to rule" to be treated as misconduct.
+- **Flexibility**: no permission needed for lay-off or retrenchment in establishments below 300 workers; prior permission for closure only above 300, with higher compensation (adopted in substance in the IR Code).
+- **Social security** for unorganised workers, and a separate law for small enterprises.
+- **Grievance redressal committees** in establishments of 20 or more workers.
+
+## Evaluation
+- Employers welcomed flexibility; unions criticised dilution of job security and restrictions on strikes.
+- The IR Code adopted many proposals: unified law, recognition, Grievance Redressal Committees, higher threshold for Chapter X, re-skilling fund, fixed-term employment, and extended strike notice to all establishments.
+
+* Second National Commission on Labour (Ravindra Varma, 2002) recommended consolidation into codes.
+* Proposed recognition of negotiating agents, Labour Relations Commissions, and flexibility thresholds of 300.
+* The IR Code implements many of these recommendations.
+
+QL: Critically examine the recommendations of the Second National Commission on Labour on industrial relations, and how far the Industrial Relations Code, 2020 implements them.
+QS: Negotiating college
+QS: Labour Relations Commission
+
+MCQ: The Second National Commission on Labour was chaired by || V.V. Giri | *Ravindra Varma | P.B. Gajendragadkar | Krishna Iyer || Report in 2002.

@@ -1,0 +1,248 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Eminent domain
+Eminent domain is the sovereign power of the State to take private property for public purposes, subject to compensation. It derives from sovereignty, not from the Constitution.
+- After the 44th Amendment (1978), the right to property is not a fundamental right. It is a constitutional right under Art. 300A: no deprivation except by authority of law.
+- Compensation is required by statute (the 2013 Act) and as part of the rule of law.
+- *K.T. Plantation v State of Karnataka* (2011): Art. 300A requires the law to be just, fair and reasonable.
+- *Kolkata Municipal Corporation v Bimal Kumar Shah* (2024): seven sub-rights under Art. 300A, including notice, hearing, a reasoned decision, public purpose, compensation, efficient conduct and conclusion.
+
+Q: Escheat
+Escheat is the reversion of property to the State when the owner dies intestate without heirs. Bona vacantia covers ownerless goods.
+- Under Art. 296, such property vests in the State if situated there, otherwise in the Union.
+- Section 29 of the Hindu Succession Act provides for escheat subject to liabilities. Muslim law also provides for escheat.
+- *Pierce Leslie v Violet Ouchterlony Wapshare* (1969): the State takes only where there is no other owner.
+
+Q: Ryotwari settlement
+Under the ryotwari settlement (Madras Presidency, introduced by Munro and Read), land revenue was settled directly with individual cultivators (ryots), who were recognised as proprietors paying assessment to the State. There were no intermediaries.
+It contrasts with zamindari (the Permanent Settlement, 1793) and mahalwari. In Andhra Pradesh, ryotwari patta holders are recorded in revenue records, such as the 1-B register and pattadar passbooks (AP Rights in Land and Pattadar Pass Books Act, 1971).
+
+Q: Social impact assessment
+Under ss.4 to 9 of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, an SIA must be carried out before acquisition. It assesses:
+- public purpose;
+- the number of affected families;
+- the extent of land;
+- impact on livelihoods; and
+- alternatives.
+It involves public hearings and review by an expert group, and must be completed in six months. Urgency acquisitions (s.40) and some exemptions apply. States such as Telangana and Gujarat have created exemptions through amendments.
+
+Q: Surplus land under ceiling laws
+Surplus land is land held by a person or family above the ceiling limit fixed by land ceiling laws. In Andhra Pradesh, this is the AP Land Reforms (Ceiling on Agricultural Holdings) Act, 1973, with limits in "standard holdings" depending on land class. Surplus vests in the State with nominal compensation and is assigned to landless poor persons.
+Ceiling laws are protected by Art. 31A and the Ninth Schedule. After *I.R. Coelho* (2007), laws placed in the Ninth Schedule after 1973 are open to basic-structure review.
+
+Q: AP Assigned Lands (Prohibition of Transfers) Act, 1977
+Government land assigned to landless poor persons cannot be transferred. Any such transfer is void, and the land may be resumed and restored to the assignee or their heirs (ss.3 and 4).
+- Section 3(5) protects bona fide purchases by landless poor persons made before the Act. An AP High Court Full Bench (*D. Venugopal*, 2026) held, by majority, that such purchasers obtain full title.
+- A 2025 amendment permits use of assigned land for renewable energy projects.
+- Ex-servicemen assignees may alienate after ten years (*M. Appa Rao*, AP HC, 2026).
+
+Q: Land grabbing
+Under the AP Land Grabbing (Prohibition) Act, 1982, "land grabbing" means taking possession of land without lawful entitlement, by force, threat or fraud, or creating illegal tenancies for unauthorised construction.
+- It is an offence.
+- Special Courts (s.7) and Special Tribunals (s.7A) have both civil and criminal powers.
+- The burden of proof lies on the alleged land grabber (s.10).
+- A new law was passed in 2024 to replace the 1982 Act with stronger penalties and wider coverage.
+
+Q: Regulation 1 of 1970 (Andhra Pradesh)
+The AP Scheduled Area Land Transfer Regulation, 1959, amended by Regulation 1 of 1970, applies in the Scheduled Areas. It:
+- prohibits transfers of land by tribals to non-tribals;
+- makes such transfers void;
+- presumes, until the contrary is proved, that land held by a non-tribal was acquired from a tribal; and
+- empowers the Agent to restore the land to the tribal.
+It was upheld in *P. Rami Reddy v State of AP* (1988). *Samatha v State of AP* (1997) held that even government leases to non-tribal mining companies are void.
+
+Q: Fair compensation under the 2013 Act
+Under s.26 and the First Schedule:
+- The market value is the highest of the guideline value, the average of the top 50% of sale deeds, or the agreed compensation.
+- A multiplier of 1 to 2 applies in rural areas, according to distance from urban areas.
+- The value of assets is added.
+- A solatium of 100% is added.
+- 12% additional amount per year from the date of notification.
+- Rehabilitation and resettlement entitlements are additional (Second Schedule).
+- Under s.24(2), acquisitions under the 1894 Act lapse in specified cases, as interpreted in *Indore Development Authority v Manoharlal* (2020, five judges).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the main features of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013.
+### Background
+The Act replaced the Land Acquisition Act, 1894, which was criticised for low compensation, misuse of the urgency clause and absence of rehabilitation (Singur, Nandigram).
+### Public purpose (s.2)
+- defence;
+- infrastructure;
+- projects for affected families;
+- housing for weaker sections;
+- planned development; and
+- PPP and private company projects.
+### Consent (s.2(2))
+80% of affected families for private companies; 70% for PPP projects.
+### Social Impact Assessment (ss.4 to 9)
+Mandatory, with public hearings and expert review. It is exempted in urgency cases and for some projects.
+### Food security (s.10)
+Limits on acquiring multi-cropped irrigated land.
+### Process
+- preliminary notification (s.11);
+- objections (s.15);
+- a rehabilitation and resettlement scheme (s.16);
+- declaration (s.19); and
+- award within 12 months (s.25).
+### Compensation (ss.26 to 30)
+- market value;
+- a multiplier up to 2 in rural areas;
+- 100% solatium; and
+- 12% additional amount.
+### Rehabilitation and resettlement (Second Schedule)
+- a house;
+- an annuity or employment;
+- a subsistence grant;
+- transport and resettlement allowances; and
+- for Scheduled Caste and Scheduled Tribe families, land for land and additional benefits.
+### Other features
+- **Return of unutilised land:** land unused for five years returns to the original owners or the land bank (s.101).
+- **Urgency (s.40):** limited to defence, national security and natural calamities.
+- **Retrospective application (s.24):** pending awards and lapsing. *Indore Development Authority* (2020) held that "paid" includes tendering the amount, and lapse applies only if both possession and payment are absent.
+- **Authority:** the Land Acquisition, Rehabilitation and Resettlement Authority hears references.
+- **Exempted enactments (Fourth Schedule):** the National Highways Act and others, now subject to the 2013 compensation norms (the 2015 order). Solatium and interest under the NH Act were addressed in *NHAI v Tarsem Singh* (2019) and its review (2026).
+### State amendments
+Some States diluted SIA and consent for certain projects.
+### Conclusion
+The 2013 Act brought fairness, transparency and rehabilitation into acquisition. Its effectiveness depends on State rules and the exemptions that States carve out.
+
+Q: Trace the history of land reforms and tenancy reforms in India with special reference to Andhra Pradesh.
+### Objectives
+- abolishing intermediaries;
+- security of tenure for tenants;
+- ceiling on holdings and redistribution;
+- consolidation; and
+- updating land records.
+### Constitutional support
+- **1st Amendment (1951):** Arts. 31A and 31B and the Ninth Schedule. *Kameshwar Singh* and *Sankari Prasad* upheld zamindari abolition.
+- **Art. 39(b) and (c).**
+### Abolition of intermediaries
+In Andhra, the Madras Estates (Abolition and Conversion into Ryotwari) Act, 1948 abolished zamindari and inams, and ryotwari pattas were granted to ryots.
+### Tenancy reforms in Andhra Pradesh
+- The AP (Andhra Area) Tenancy Act, 1956 and the AP (Telangana Area) Tenancy and Agricultural Lands Act, 1950 provided:
+  - security of tenure;
+  - fair rent;
+  - protected tenants with a right to purchase; and
+  - restrictions on eviction.
+- Oral and concealed tenancies limited the impact.
+- The AP Land Licensed Cultivators Act, 2011 gave loan eligibility cards to tenants.
+- The AP Crop Cultivators Rights Act, 2019 provides crop cultivator rights cards without affecting the owner's title.
+### Ceiling
+- The AP Land Reforms (Ceiling on Agricultural Holdings) Act, 1973 fixes limits in standard holdings, with surplus distributed to landless poor persons.
+- The Urban Land Ceiling Act, 1976 was repealed in 1999, and the repeal was adopted by AP in 2008.
+### Assignment
+Government and surplus lands were assigned to landless poor persons, with a bar on transfer (AP Assigned Lands Act, 1977). See *D. Venugopal* (AP HC Full Bench, 2026) on pre-1977 purchasers.
+### Land records
+- The AP Rights in Land and Pattadar Pass Books Act, 1971.
+- Webland.
+- The AP Land Titling Act, 2022 was repealed in 2024.
+### Assessment
+- Intermediary abolition succeeded.
+- Tenancy and ceiling reforms were only partly successful because of evasion, benami holdings and litigation.
+- Current focus: land leasing, digitisation and title guarantee.
+### Conclusion
+Land reform transformed the agrarian structure. Andhra Pradesh's experience shows both gains and the limits of reform through law alone.
+
+Q: Discuss the protection of tribal lands in the Scheduled Areas.
+### Constitutional framework
+- **Fifth Schedule:** the Governor's power to make regulations for peace and good government in Scheduled Areas, prohibiting or restricting transfer of land by or among Scheduled Tribes, and regulating allotment of land and money-lending (para 5(2)).
+- **Tribes Advisory Council.**
+- **Art. 244.**
+- **Art. 46:** protection of weaker sections.
+### Andhra Pradesh law
+The AP Scheduled Area Land Transfer Regulation, 1959, amended by Regulation 1 of 1970:
+- transfers from tribals to non-tribals are void;
+- a non-tribal in possession is presumed to have acquired from a tribal;
+- the Agent or Special Deputy Collector may restore the land;
+- ejectment of transferees; and
+- a bar on the sale of land in execution of decrees against tribals.
+Upheld in *P. Rami Reddy v State of AP* (1988).
+### Samatha v State of AP (1997)
+- The word "person" in the Regulation includes the State.
+- Leasing tribal lands in Scheduled Areas to non-tribal private mining companies is void.
+- Mining may be done only by the State's instrumentality or by tribal cooperatives.
+- 20% of net profits should go to tribal welfare.
+### PESA (1996)
+- Gram Sabhas have power to prevent alienation of land and restore unlawfully alienated land.
+- Consultation is required before acquisition.
+### Forest Rights Act, 2006
+- recognises individual and community forest rights;
+- no eviction until the recognition process is complete; and
+- *Orissa Mining Corporation v MoEF* (2013, Niyamgiri): Gram Sabhas decide on religious and cultural rights.
+### The 2013 Act
+- special provisions for SC and ST families (s.41);
+- consent of Gram Sabhas; and
+- land for land.
+### Problems
+- benami transfers;
+- non-enforcement and delay;
+- displacement by development projects; and
+- disputes over Scheduled Area boundaries.
+### Conclusion
+A strong legal framework protects tribal land, combining constitutional regulations, PESA and the FRA. Implementation remains the challenge.
+
+Q: Discuss the legal framework to prevent land grabbing in Andhra Pradesh.
+### Problem
+Government land, wakf and endowment lands, and private lands of weak owners are occupied by force or fraud, often by organised groups, and civil remedies are slow.
+### AP Land Grabbing (Prohibition) Act, 1982
+- **"Land grabber" and "land grabbing":** taking possession without lawful entitlement, with a view to illegally taking possession, constructing, or creating illegal tenancies or leases.
+- **Offences:** land grabbing, punishable with six months to five years and a fine. Companies are liable too.
+- **Special Courts (s.7):** with civil and criminal jurisdiction, chaired by a sitting or retired High Court judge, with judicial and revenue members.
+- **Special Tribunals (s.7A):** District Judges.
+- **Presumption (s.10):** the burden of proof lies on the alleged land grabber.
+- **Finality and bar of civil suits:** orders are final, subject to writ jurisdiction.
+- **Scope:** courts have held the Act covers private land as well (*Konda Lakshmana Bapuji v Government of AP*, 2002).
+### New 2024 law
+A new Land Grabbing (Prohibition) law was passed by the AP Assembly in November 2024 to replace the 1982 Act. It has stronger penalties, covers government and private land, and expedites trials. Its commencement and details should be checked.
+### Other tools
+- the Assigned Lands Act (resumption);
+- the Endowments Act;
+- the Waqf Act;
+- encroachment eviction under the AP Land Encroachment Act, 1905;
+- criminal provisions under the BNS for criminal trespass and cheating; and
+- refusal of registration of prohibited lands (s.22-A, Registration Act, as amended in AP).
+### Courts
+- A bona fide purchaser is not automatically criminally liable (*S. Anand*, 2026).
+- Land grabbing cases are distinguished from civil disputes.
+### Conclusion
+Andhra Pradesh pioneered special legislation against land grabbing, with special courts and a reversed burden of proof. The 2024 law aims to strengthen enforcement.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: In 1970, K, a landless poor agricultural labourer, bought in good faith for value a plot assigned to A. The Collector now seeks to resume the land under the AP Assigned Lands Act, 1977, and K's legal heirs wish to sell it. Advise them.
+**Issue:** Are pre-1977 bona fide purchases by landless poor persons protected, and can the land be sold?
+**Law:** Under s.3(5) of the AP Assigned Lands (Prohibition of Transfers) Act, 1977, nothing in the Act applies to assigned land purchased before the Act by a landless poor person in good faith and for valuable consideration.
+- *State of AP v D. Venugopal* (AP HC Full Bench, 2026, majority, Raghunandan Rao and T.C.D. Sekhar JJ): such a purchaser gets full title, including the right to alienate. The land ceases to be "assigned land".
+- Ravi Cheemalapati J agreed that the purchase is protected, but held that the land remains assigned land.
+**Application:** K satisfies s.3(5): he was landless, the purchase was before 1977, and it was in good faith for value.
+**Conclusion:** Resumption is barred. Under the majority view, K's heirs hold full title and may sell the land.
+
+Q: The State notifies acquisition of 500 acres of multi-cropped irrigated land for a private automobile company, invoking urgency and skipping the social impact assessment and consent. Farmers challenge it. Decide.
+**Issue:** Validity of the acquisition under the 2013 Act.
+**Law:**
+- Section 2(2): acquisition for a private company needs the consent of 80% of affected families, and a social impact assessment (ss.4 to 9).
+- Section 10 restricts acquisition of multi-cropped irrigated land to exceptional circumstances, as a last resort.
+- Urgency (s.40) is limited to defence, national security and natural calamities.
+- *Kolkata Municipal Corporation v Bimal Kumar Shah* (2024): procedural rights under Art. 300A.
+**Application:** A private automobile plant is not a ground for urgency. Skipping the SIA and consent, and taking fertile irrigated land, violates the Act.
+**Conclusion:** The acquisition is illegal and will be quashed, unless the State's law validly exempts such projects; even then, it remains subject to Art. 300A.
+
+Q: A non-tribal businessman purchased agricultural land from a tribal in a Scheduled Area of Andhra Pradesh through an unregistered agreement in 2010, and has been in possession since. The tribal's son applies for restoration. Decide.
+**Issue:** Validity of a transfer from a tribal to a non-tribal in a Scheduled Area.
+**Law:**
+- The AP Scheduled Area Land Transfer Regulation, 1959, as amended by Regulation 1 of 1970: any transfer of immovable property in a Scheduled Area by a tribal to a non-tribal is void.
+- A non-tribal in possession is presumed to have acquired the land from a tribal, until the contrary is proved.
+- The Agent can restore the land.
+- The Regulation was upheld in *P. Rami Reddy* (1988).
+**Application:** The transfer in 2010 is void. The non-tribal's possession gives no title.
+**Conclusion:** The land must be restored to the tribal's son, after eviction of the non-tribal by the competent authority.
+
+Q: A person forcibly occupies government poramboke land and sells plots to buyers. The buyers claim to be bona fide purchasers. The government wants to proceed under the Land Grabbing Act. Advise.
+**Issue:** The liability of the land grabber and of the buyers.
+**Law:**
+- The AP Land Grabbing (Prohibition) Act: taking possession of land without lawful entitlement, and selling plots, is land grabbing. The Special Court can order eviction and punish. The burden lies on the alleged grabber (s.10).
+- Buyers acquire no title from a person without title (nemo dat), and registration does not confer title (*Mehnoor Fatima*, 2025).
+- A bona fide purchaser is not automatically criminally liable (*S. Anand*, 2026).
+**Application:** The occupation is land grabbing. The buyers' possession can be recovered, though they may not be prosecuted if they acted honestly.
+**Conclusion:** The government should file before the Special Court for eviction and prosecution of the grabber. The buyers can recover their money from the seller.

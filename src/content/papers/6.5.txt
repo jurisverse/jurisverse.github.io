@@ -1,0 +1,223 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: White-collar crime
+Edwin Sutherland (1939) defined white-collar crime as crime committed by a person of respectability and high social status in the course of his occupation. Examples include:
+- tax evasion;
+- bank fraud;
+- securities fraud and insider trading;
+- adulteration;
+- corruption; and
+- cyber fraud.
+It causes large economic loss and erodes trust, but it is under-reported and treated leniently. Special laws apply: the PMLA, the PC Act, the Companies Act (s.447), SEBI regulations and the Fugitive Economic Offenders Act, 2018.
+The 29th Law Commission Report (1972) and the Santhanam Committee (1964) studied it.
+
+Q: Theories of punishment
+- **Deterrent:** punishment deters the offender and others.
+- **Retributive:** an eye for an eye; just deserts.
+- **Preventive:** incapacitation, such as imprisonment or the death penalty.
+- **Reformative:** rehabilitation of the offender.
+- **Expiatory:** penance.
+Indian courts adopt a mixed approach, emphasising proportionality and reform (*Mohd. Giasuddin v State of AP*, 1977). Community service (s.4(f) BNS) reflects the reformative idea.
+
+Q: Rarest of rare doctrine
+The death penalty is imposed only in the "rarest of rare" cases, when the alternative of life imprisonment is unquestionably foreclosed (*Bachan Singh v State of Punjab*, 1980, five judges). The court must weigh aggravating and mitigating circumstances, both of the crime and of the criminal.
+- *Machhi Singh v State of Punjab* (1983) laid down categories.
+- *Manoj v State of MP* (2022) and *Aman Singh v State of Bihar* (2026) require collection of mitigation material, such as psychological evaluation, conduct in prison and background, before sentencing.
+
+Q: Open prisons
+Open prisons, or open correctional institutions, are minimum-security institutions where well-behaved prisoners live with minimal supervision, work outside and earn wages, and often live with their families. They promote reform and reintegration.
+Examples: Sanganer (Rajasthan) and Cherlapally (Telangana).
+- *Suhas Chakma v Union of India* (2026): the Supreme Court issued directions to expand open correctional institutions across States.
+
+Q: Probation
+Probation is conditional release of an offender without sentencing, under the supervision of a probation officer, on a bond of good conduct. It is governed by:
+- the Probation of Offenders Act, 1958 (ss.3 and 4: admonition or release on good conduct; s.6: offenders under 21 not to be imprisoned without reasons); and
+- s.401 BNSS [360 CrPC].
+It avoids the stigma and contamination of prison. Exclusions include offences punishable with death or life imprisonment, and some special statutes.
+
+Q: Parole and furlough
+- **Parole:** temporary release for specific reasons, such as family illness, death or marriage. It is granted by the executive under State prison rules. The period is usually not counted as part of the sentence, depending on the rules.
+- **Furlough:** periodic release as a matter of the prisoner's right, after serving part of the sentence, to maintain family ties. The period counts towards the sentence.
+- *State of Maharashtra v Suresh Pandurang Darvakar* (2006); *Asfaq v State of Rajasthan* (2017).
+- Parole is not a right; it is a concession, subject to conditions.
+
+Q: Victimology
+Victimology is the scientific study of victims, their relationship with offenders and the criminal justice system, and victim rights.
+- Pioneers: Hans von Hentig and Benjamin Mendelsohn, who developed victim typologies.
+- The UN Declaration of Basic Principles of Justice for Victims of Crime and Abuse of Power (1985).
+- In India:
+  - victim compensation (s.396 BNSS [357A CrPC]);
+  - the victim's right to appeal (s.413 BNSS);
+  - the right to be heard;
+  - witness protection (s.398 BNSS); and
+  - judicial recognition (*Mallikarjun Kodagali*, 2018).
+
+Q: Remission
+Remission is a reduction of the sentence without changing its character, granted by the appropriate government (s.473 BNSS [432 CrPC]), or by the President or Governor (Arts. 72 and 161).
+- Restriction (s.475 [433A]): life convicts for offences punishable with death cannot be released before 14 years.
+- Policies must be applied fairly. The gravity of the offence alone cannot justify refusal (*Rohit Chaturvedi*, 2026).
+- An Art. 161 policy prevails over a later statutory policy (*Parveen Kumar*, 2026).
+- *Union of India v V. Sriharan* (2016): special sentences fixing a term without remission.
+
+Q: Custodial torture
+Custodial torture is the infliction of physical or mental pain on persons in police or judicial custody. It violates Arts. 20(3) and 21.
+- *D.K. Basu v State of WB* (1997): arrest guidelines and compensation.
+- *Nilabati Behera* (1993): public-law compensation.
+- *Lahra Bai Tamre* (2026): CBI probe and ₹25 lakh compensation for a custodial death.
+- India has signed (1997) but not ratified the UN Convention against Torture, and the Prevention of Torture Bill lapsed.
+- Offences under the BNS cover hurt to extort confession (s.120).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Critically examine the death penalty in India.
+### Legal position
+- The death penalty is prescribed for murder (s.103 BNS), waging war, terrorist acts, rape of a girl under 12, gang rape of a girl under 18, rape causing death, organised crime causing death, and some special laws.
+- Sentencing requires "special reasons" (s.393(3) BNSS [354(3) CrPC]).
+- Confirmation by the High Court is required (s.407).
+- The clemency powers of the President and the Governor (Arts. 72 and 161) are subject to limited judicial review (*Epuru Sudhakar*, 2006).
+### Constitutional validity
+- *Jagmohan Singh v State of UP* (1973): upheld.
+- *Bachan Singh v State of Punjab* (1980): upheld subject to the "rarest of rare" test, weighing aggravating and mitigating circumstances. Life imprisonment is the rule.
+- *Mithu v State of Punjab* (1983): mandatory death penalty (s.303 IPC) was struck down.
+### Guidelines
+- *Machhi Singh* (1983) laid down categories.
+- *Santosh Bariyar v State of Maharashtra* (2009): principled sentencing, with the inconsistency noted.
+- *Shatrughan Chauhan v Union of India* (2014): delay in deciding mercy petitions can justify commutation; solitary confinement before rejection is illegal.
+- *Manoj v State of MP* (2022): mitigation investigation by experts.
+- *Aman Singh v State of Bihar* (2026): further directions structuring capital sentencing.
+- **Method of execution:** hanging; *Deena v Union of India* (1983). The Court declined to refer the issue to a larger bench (*Rishi Malhotra v Union of India*, 2026).
+- **Wrongful convictions:** *Surendra Koli* (2025) was acquitted on a curative petition, showing the risk of irreversible error.
+### Arguments
+- **For:** deterrence, retribution for heinous crimes, and public sentiment.
+- **Against:**
+  - no proven deterrent effect;
+  - arbitrariness and class bias (Project 39A data);
+  - irreversibility;
+  - the international abolition trend; and
+  - the 262nd Law Commission Report (2015), which recommended abolition except for terrorism-related offences.
+### Conclusion
+India retains the death penalty, but confines it through the rarest-of-rare doctrine and procedural safeguards. Recent judgments move towards individualised, mitigation-focused sentencing.
+
+Q: Discuss the problems of the Indian prison system and the reforms suggested.
+### Problems
+- **Overcrowding:** occupancy above 120%. About three-quarters of prisoners are undertrials.
+- **Delays in trial**, and poverty preventing bail.
+- **Poor conditions:** sanitation, health and food.
+- **Custodial violence and deaths.**
+- **Caste-based labour allocation:** struck down in *Sukanya Shantha v Union of India* (2024).
+- **Inadequate staffing and vocational training.**
+- **Women prisoners and children with them.**
+- **Prisoners with disabilities:** reasonable accommodation required (*Sathyan Naravoor*, 2026).
+### Constitutional and judicial safeguards
+- *Sunil Batra v Delhi Administration* (1978, 1980): prisoners retain fundamental rights. Bar fetters and solitary confinement were restricted.
+- *Hussainara Khatoon* (1979): speedy trial and bail for undertrials.
+- *Rama Murthy v State of Karnataka* (1996): nine problems of prisons identified.
+- *In re Inhuman Conditions in 1382 Prisons* (2016 onwards): continuing directions, including s.479 BNSS for undertrials.
+### Reforms
+- **Mulla Committee (1983):** a national policy, an all-India prison service, and separation of undertrials.
+- **Krishna Iyer Committee (1987):** women prisoners.
+- **Model Prison Manual (2016)** and the **Model Prisons and Correctional Services Act (2023):** correctional focus, technology, open prisons and parole rules.
+- **Open prisons:** expansion directed (*Suhas Chakma*, 2026).
+- **Early release:** for elderly and terminally ill prisoners (*NALSA v Union of India*, 2026).
+- **Legal aid:** undertrial review committees.
+- **Technology:** video-conferencing and e-prisons.
+### Conclusion
+Prison reform needs both decongestion through bail reform and speedy trials, and a shift from custody to correction and reintegration.
+
+Q: Explain the law relating to probation of offenders in India.
+### Concept
+Probation means suspending the sentence and releasing the offender into the community under supervision. Its objectives are reform, avoiding the harmful effects of short-term imprisonment, and reducing prison costs.
+### Probation of Offenders Act, 1958
+- **Admonition (s.3):** for offences punishable with up to two years, or theft, cheating and similar offences, for first offenders, after considering the circumstances.
+- **Release on probation of good conduct (s.4):** for offences not punishable with death or life imprisonment, on a bond of up to three years, with or without supervision, considering the nature of the offence and the character of the offender. A report from the probation officer is considered.
+- **Compensation and costs (s.5).**
+- **Offenders under 21 (s.6):** not to be imprisoned unless the court, for reasons, considers it undesirable to release them.
+- **Probation officers (ss.13 and 14):** inquiry, supervision and reports.
+- **No disqualification (s.12):** a person released under the Act suffers no disqualification attaching to conviction.
+- **Failure to observe conditions (s.9):** sentencing for the original offence.
+### Section 401 BNSS [360 CrPC]
+Release on good conduct for offences punishable with up to seven years, or for young or female offenders, and admonition (s.401(3)). In States where the 1958 Act is in force, the Act prevails (s.401(10)).
+### Judicial approach
+- Courts must consider probation, especially for young first offenders (*Ishwar Das v State of Punjab*, 1972; *Jugal Kishore Prasad v State of Bihar*, 1972).
+- Probation is not given for grave offences or under special statutes that exclude it, such as food adulteration in some cases (*Pyarali K. Tejani*, 1974).
+### Problems
+- shortage of probation officers;
+- non-use by courts; and
+- the absence of community service options. Community service under s.4(f) BNS is a new alternative.
+### Conclusion
+Probation is a humane, cost-effective alternative to imprisonment. Better infrastructure and judicial willingness are needed.
+
+Q: Discuss the rights of victims of crime in Indian criminal law.
+### Shift from offender-centred to victim-centred justice
+The UN Declaration (1985); the Malimath Committee (2003).
+### Rights
+1. **Information and participation:**
+   - a copy of the FIR (s.173(2) BNSS);
+   - information on investigation progress within 90 days (s.193(3));
+   - notice before withdrawal of prosecution (s.360);
+   - the right to engage an advocate to assist the prosecution (s.338(2)); and
+   - the right to be heard on bail in some offences, such as SC/ST Act cases (s.15A).
+2. **Compensation:**
+   - compensation ordered by the court from the fine (s.395 BNSS [357]);
+   - the Victim Compensation Scheme (s.396 [357A]), even where the offender is untraced or acquitted;
+   - free treatment (s.397 [357C]);
+   - compensation for acid attack and rape survivors (*Laxmi v Union of India*, 2014; *Nipun Saxena v Union of India*, 2018); and
+   - public-law compensation for State wrongs (*Lahra Bai Tamre*, 2026).
+3. **Appeal:** the victim's right of appeal (s.413) (*Mallikarjun Kodagali*, 2018).
+4. **Protection:**
+   - the Witness Protection Scheme, 2018 (*Mahender Chawla v Union of India*, 2018), now s.398 BNSS;
+   - identity protection (s.72 BNS); and
+   - in-camera trials.
+5. **Rehabilitation:** for trafficking victims, rehabilitation is part of Art. 21, and the Court directed a Victim Protection Plan (*Prajwala v Union of India*, 2026).
+6. **Restorative justice:** plea bargaining with compensation, and compounding.
+### Special laws
+- the POCSO Act (support persons);
+- the SC/ST Act (Chapter IVA rights); and
+- the Domestic Violence Act.
+### Conclusion
+Indian law increasingly recognises victims as stakeholders. Compensation schemes and participation rights need effective implementation.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A sessions court sentences a 24-year-old to death for the murder of two persons during a robbery. No evidence on mitigation was collected; the hearing on sentence was held on the same day as conviction. Advise the convict on appeal.
+**Issue:** Was the death sentence imposed in accordance with law?
+**Law:**
+- *Bachan Singh* (1980): rarest of rare, with mitigating circumstances (age, possibility of reform) weighed.
+- Section 258 BNSS: hearing on sentence.
+- *Manoj v State of MP* (2022) and *Aman Singh v State of Bihar* (2026): mitigation material must be gathered, such as psychological evaluation, prison conduct and background. A same-day sentencing hearing without this is inadequate.
+**Application:** No mitigation inquiry was done, and the accused is young, with a possibility of reform.
+**Conclusion:** The High Court should not confirm the death sentence. It may remand for a fresh sentencing hearing, or commute the sentence to life imprisonment, possibly for a fixed term without remission (*Sriharan*).
+
+Q: A convict serving a life sentence applies for premature release after 16 years of actual imprisonment, with good conduct. The State rejects the application solely because the offence was "heinous". Advise him.
+**Issue:** Can remission be refused only on the gravity of the offence?
+**Law:**
+- The State must consider remission under its policy, applying the relevant factors: conduct, likelihood of reoffending and age (*Laxman Naskar v Union of India*, 2000).
+- *Rohit Chaturvedi* (2026): gravity alone cannot justify refusal.
+- *Parveen Kumar v State of Haryana* (2026): an Art. 161 policy prevails over a later statutory policy.
+- Section 475 BNSS: the 14-year minimum has been satisfied.
+**Application:** The rejection rests solely on gravity, without assessing reform.
+**Conclusion:** The order can be quashed under Art. 226. The State must reconsider the application under the applicable policy within a fixed time.
+
+Q: A 19-year-old first offender is convicted of theft of a mobile phone. The magistrate sentences him to one year's imprisonment without considering probation. Advise him.
+**Issue:** Should the court have considered probation?
+**Law:**
+- Section 4 of the Probation of Offenders Act: release on good conduct for offences not punishable with death or life imprisonment.
+- Section 6: offenders under 21 must not be imprisoned unless the court records reasons why release is undesirable, after a probation officer's report.
+- Section 401 BNSS.
+- *Ishwar Das* (1972).
+**Application:** He is young, a first offender, and the offence is theft. The magistrate gave no reasons for refusing probation.
+**Conclusion:** On appeal or revision, the court is likely to set aside the sentence and release him on probation of good conduct, possibly with compensation to the victim. The conviction carries no disqualification (s.12).
+
+Q: A woman rescued from a trafficking ring is kept in a shelter home without counselling, vocational training or legal aid, and is pressured to return to her village. Advise her on her rights.
+**Issue:** The rights of trafficking survivors to rehabilitation.
+**Law:**
+- Art. 21 and Art. 23 (prohibition of trafficking).
+- The Immoral Traffic (Prevention) Act.
+- Victim compensation under s.396 BNSS.
+- *Prajwala v Union of India* (2026): rehabilitation is part of Art. 21. The Court directed a Victim Protection Plan with counselling, health care, education, livelihood and legal support.
+- *Budhadev Karmaskar v State of WB* (2011): rehabilitation of sex workers.
+**Application:** Holding her without rehabilitation services, and coercing her return, violates her rights.
+**Conclusion:**
+- She may approach the District Legal Services Authority for legal aid and compensation.
+- She may seek directions from the High Court for rehabilitation services under the Victim Protection Plan.
+- She must be allowed to choose her place of residence.

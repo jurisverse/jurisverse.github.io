@@ -1,0 +1,578 @@
+@title Interpretation of Statutes
+@subtitle Rules, presumptions and maxims of statutory and constitutional interpretation, and the doctrine of precedent
+@paper 3.5
+@sem III
+@color #5a3a6b
+@dark #4e325c
+@intro Follows the syllabus, which is modelled on Maxwell's Interpretation of Statutes, and illustrates each rule with Indian and English cases. The General Clauses Act, 1897 is referred to throughout.
+@reading Maxwell on the Interpretation of Statutes
+@reading G.P. Singh, Principles of Statutory Interpretation
+@reading Crawford, Statutory Construction
+@reading Cross, Statutory Interpretation
+@reading Vepa P. Sarathi, Interpretation of Statutes
+@reading The General Clauses Act, 1897
+
+# 1 | Introduction: construction, interpretation and the primary rules
+@topics Difference between construction and interpretation; Concept and power of interpretation; Literal construction and other principles; General principles: the primary rule, other main principles; Reading words in their context: external and statutory aspects
+>> The aim of interpretation is to find the intention of the legislature from the words it used. The words are read first in their ordinary sense, then in context, and only then with the help of other rules.
+
+## 1.1 Construction and interpretation
+- **Interpretation**: finding the true sense of the words used, the meaning the author attached to them (Salmond: the process by which courts seek to ascertain the meaning of the legislature through the medium of authoritative forms).
+- **Construction**: drawing conclusions beyond the direct expression of the text, from elements known from and given in the text, where the words are ambiguous or the case was not foreseen (Cooley).
+- In practice the terms are used interchangeably.
+
+## 1.2 Concept and power of interpretation
+- Courts interpret statutes because words are imprecise, situations are unforeseen, drafting errors occur, and laws must apply to changing facts.
+- In India, the power flows from the judicial function (Art. 141: law declared by the Supreme Court binds all courts).
+- The **General Clauses Act, 1897** provides definitions and rules applicable to all Central Acts unless the context otherwise requires (for example, s.3 definitions, s.6 effect of repeal, s.8 references to repealed enactments, s.13 gender and number, s.21 power to make includes power to amend).
+
+## 1.3 General principles
+### 1.3.1 The primary rule: literal construction
+Words must be given their plain, ordinary and grammatical meaning. If the words are clear, they must be applied, whatever the consequences.
+
+CASE: Sussex Peerage Case (1844) :: Tindal CJ said that if the words of the statute are precise and unambiguous, no more is necessary than to expound those words in their natural and ordinary sense; the words themselves best declare the intention of the lawgiver.
+
+CASE: Nelson Motis v Union of India (1992) :: Where the words of a statutory provision are clear and unambiguous, they must be given effect, and the court cannot add or subtract words on considerations of policy.
+
+### 1.3.2 The other main principles
+| Rule | Content | Case |
+|---|---|---|
+| Golden rule | Modify the ordinary meaning to avoid absurdity, repugnancy or inconsistency, but only to that extent | Grey v Pearson (1857), Lord Wensleydale; Lee v Knapp (1967); Tirath Singh v Bachittar Singh (1955) |
+| Mischief rule (Heydon's case) | Consider (1) the common law before the Act; (2) the mischief and defect for which the common law did not provide; (3) the remedy Parliament resolved to provide; (4) the true reason of the remedy; and interpret to suppress the mischief and advance the remedy | Heydon's case (1584); Smith v Hughes (1960); Bengal Immunity Co v State of Bihar (1955) |
+| Purposive construction | Interpret to give effect to the purpose of the legislation, especially in social welfare and modern statutes | Pepper v Hart (1993) allowed use of Hansard where the meaning is ambiguous; Indian courts use purposive interpretation frequently |
+| Harmonious construction | Reconcile conflicting provisions so that both are given effect | Venkataramana Devaru v State of Mysore (1958) |
+
+CASE: Tirath Singh v Bachittar Singh (1955) :: Under the Representation of the People Act, notice was to be given to "all parties" to an election petition. Literally, that included persons who were not parties to the specific allegation. The Court applied the golden rule and confined notice to those against whom allegations were made, to avoid an absurd result.
+
+CASE: Smith v Hughes (1960) :: Prostitutes soliciting from balconies and windows were held to be soliciting "in a street", applying the mischief rule: the Street Offences Act aimed to clean up the streets so that people could walk without being molested.
+
+## 1.3.3 and 1.3.4 Reading words in context
+### External aspect (external aids)
+- Historical background and the mischief the Act sought to remedy.
+- Statement of Objects and Reasons (to understand background, not to construe clear words).
+- Parliamentary debates, committee and Law Commission reports (increasingly used: **R.S. Nayak v A.R. Antulay, 1984**; **Kalpana Mehta v Union of India, 2018** on parliamentary committee reports).
+- Dictionaries, earlier and later statutes in pari materia, judicial decisions, foreign decisions, contemporanea expositio (contemporaneous official interpretation), scientific and technical meaning.
+
+### Statutory aspect (internal aids)
+- **Long title** and **preamble**: aid in resolving ambiguity, cannot control clear words.
+- **Headings** and **marginal notes**: may be referred to for resolving doubt (Bhinka v Charan Singh, 1959), not to override clear words.
+- **Definitions**: "means" (exhaustive), "includes" (extensive); "unless the context otherwise requires".
+- **Provisos**: carve out an exception from the main provision; do not enlarge it (unless it is in substance a substantive provision).
+- **Explanations**: clarify or explain the main provision; may widen or narrow it.
+- **Illustrations**: show how a provision applies; cannot curtail the section (Mahesh Chandra Sharma v Raj Kumari Sharma, 1996, on illustrations to the Evidence Act).
+- **Schedules**, **punctuation** (limited weight), **non obstante clauses** ("notwithstanding anything contained in"), and the rule that a statute must be read as a whole.
+
+CASE: Reserve Bank of India v Peerless General Finance and Investment Co (1987) :: Chinnappa Reddy J said interpretation must depend on the text and the context; text is the texture, context gives the colour. A statute is best interpreted when we know why it was enacted, and it must be read as a whole, chapter by chapter, section by section.
+
+* Interpretation finds meaning; construction draws conclusions beyond the text.
+* The General Clauses Act supplies definitions and rules.
+* Literal rule first (Sussex Peerage); golden rule to avoid absurdity (Tirath Singh); mischief rule (Heydon's case; Smith v Hughes); purposive and harmonious construction.
+* Internal aids (title, preamble, headings, definitions, provisos, explanations, illustrations) and external aids (history, debates, reports, dictionaries).
+* Text and context together (RBI v Peerless).
+
+QL: Distinguish between interpretation and construction. Explain the literal rule, golden rule and mischief rule.
+QL: Discuss the internal and external aids to interpretation.
+QL: "Text is the texture, context gives the colour." Explain.
+QS: Heydon's case
+QS: Proviso
+QS: Non obstante clause
+QS: General Clauses Act, 1897
+
+MCQ: The mischief rule was laid down in || Sussex Peerage | *Heydon's case | Grey v Pearson | Pepper v Hart || 1584.
+MCQ: The golden rule allows departure from literal meaning to avoid || inconvenience | *absurdity, repugnancy or inconsistency | policy disagreement | delay || Grey v Pearson (1857).
+MCQ: A definition using the word "includes" is generally || exhaustive | *extensive | restrictive | void || "Means" is exhaustive.
+
+# 2 | Beneficial, restrictive and anti-evasion construction
+@topics Beneficial construction; Restrictive construction: consequences, presumption against changes in common law, mens rea in statutory offences; Construction to prevent evasion and abuse of powers
+>> Welfare laws are construed liberally in favour of those they protect; laws that take away rights or create offences are construed strictly; and courts will not allow statutes to be evaded or powers to be abused.
+
+## Beneficial construction
+- Social welfare and remedial statutes (labour, consumer, rent control, maternity benefit) are construed liberally to advance their object and benefit the class they protect, if the words permit.
+
+CASE: Workmen of American Express International Banking Corporation v Management (1985) :: The term "actually worked" under the Industrial Disputes Act (for computing continuous service) was read to include holidays and leave with wages, since a beneficial provision should receive a liberal construction in favour of workmen.
+
+CASE: Municipal Corporation of Delhi v Female Workers (Muster Roll) (2000) :: Maternity benefits were extended to women employed on muster roll (daily wage) by the MCD, using Art. 39 and 42 and CEDAW, giving a beneficial interpretation to the Maternity Benefit Act.
+
+## 2.1 Restrictive construction
+### 2.1.1 Consequences to be considered
+Where two interpretations are possible, the court may prefer the one that avoids unreasonable, unjust or inconvenient consequences (argumentum ab inconvenienti), but cannot use consequences to override clear words.
+
+### 2.1.2 Presumption against changes in the common law
+The legislature does not intend to change the common law more than it expressly says or necessarily implies. Statutes in derogation of common law rights are strictly construed.
+
+### 2.1.3 Mens rea in statutory offences
+- Presumption that mens rea is required unless excluded expressly or by necessary implication (**Sherras v De Rutzen, 1895**; **Nathulal v State of MP, 1966**).
+- Exclusion in public welfare and socio-economic offences (**State of Maharashtra v Mayer Hans George, 1965**).
+
+CASE: Srinivas Mall Bairoliya v King-Emperor (1947) :: The Privy Council held that offences under food control orders were not to be read as creating absolute liability for a master's servant's acts without knowledge, unless the statute clearly required it; mens rea is an essential ingredient unless excluded.
+
+## 2.2 Construction to prevent evasion or abuse
+### 2.2.1 Construction to prevent evasion
+Courts interpret statutes to defeat devices for evading them; they look at the substance of a transaction, not its form.
+
+CASE: McDowell and Co v Commercial Tax Officer (1985) :: Chinnappa Reddy J said colourable devices cannot be part of tax planning; it is wrong to encourage the belief that it is honourable to avoid tax by dubious methods. (Later, **Union of India v Azadi Bachao Andolan, 2003**, and **Vodafone International Holdings v Union of India, 2012**, clarified that legitimate tax planning within the law is permissible; only sham and colourable devices are disregarded.)
+
+### 2.2.2 Construction to prevent abuse of powers
+Statutory powers are construed so that they are exercised for the purpose for which they were conferred, reasonably and in good faith; a power conferred on an authority is not construed to permit arbitrary action (Arts. 14, 21).
+
+## 2.3 Recent judgments (2025–26)
+
+CASE: Kamal Dev Prasad v Mahesh Forge (2025) :: The Employees' Compensation Act is beneficial legislation. The Schedule's percentages of disability are not rigid; compensation may reflect the actual loss of earning capacity (functional disability).
+
+CASE: Daivshala v Oriental Insurance Co (2025) :: An accident while commuting to or from work can arise 'out of and in the course of employment'. The Court read the Employees' Compensation Act consistently with s.51E of the ESI Act, treated as clarificatory.
+
+* Beneficial construction of welfare laws: functional disability (2025); commuting accidents covered (2025).
+* Welfare legislation is construed beneficially (American Express workmen; MCD female workers).
+* Restrictive construction considers consequences and presumes against changes in common law.
+* Mens rea presumed in offences unless excluded (Sherras; Nathulal; Srinivas Mall).
+* Courts look at substance to prevent evasion (McDowell), but legitimate tax planning is allowed (Azadi Bachao; Vodafone).
+
+QL: Discuss the rule of beneficial construction with reference to social welfare legislation.
+QL: Explain the presumption of mens rea in statutory offences.
+QL: How do courts interpret statutes to prevent evasion? Discuss with reference to McDowell and Azadi Bachao Andolan.
+QS: Argumentum ab inconvenienti
+QS: Presumption against change in common law
+QS: Colourable device
+
+MCQ: Welfare legislation is generally construed || strictly against the beneficiary | *liberally in favour of the class it protects | literally only | according to Hansard || Beneficial construction.
+MCQ: "Colourable devices cannot be part of tax planning" was said in || Azadi Bachao Andolan | *McDowell and Co v CTO | Vodafone | Mayer Hans George || 1985.
+
+# 3 | Theories of interpretation: restraint and activism
+@topics Theoretical and ideological approaches to interpretation; Judicial restraint; Judicial activism; Juristic restraint
+>> Interpretation reflects a judge's theory of the judicial role: restraint defers to the legislature's words and choices; activism uses interpretation to advance constitutional values and fill gaps.
+
+## 3.1 Theoretical approaches
+- **Textualism**: meaning is fixed by the words; the judge's role is to apply them.
+- **Intentionalism**: find the subjective intention of the legislature.
+- **Purposivism**: find the objective purpose of the statute and give effect to it.
+- **Originalism** (for constitutions): meaning as understood at the time of adoption.
+- **Living constitutionalism**: the meaning evolves with society (Indian courts largely follow this for the Constitution).
+- **Dynamic interpretation** (Eskridge): statutes must be read in light of present circumstances.
+- **Critical and law and economics approaches**.
+
+## 3.2 Judicial restraint
+Courts should not substitute their views for those of the legislature or executive, avoid deciding policy questions, presume constitutionality of laws, and decide cases on narrow grounds.
+
+CASE: Divisional Manager, Aravali Golf Course v Chander Hass (2008) :: The Court cautioned against judicial overreach, stating that judges must exercise restraint and not encroach on the legislative or executive domain; creating posts or directing policy is not the function of courts.
+
+## 3.3 Judicial activism
+Courts expand rights and remedies through creative interpretation, especially of Art. 21, relax standing (PIL), read international law into domestic law, and fill legislative gaps by guidelines.
+- Examples: Maneka Gandhi (1978, fair procedure); Vishaka (1997, sexual harassment guidelines); Puttaswamy (2017, privacy); Navtej Johar (2018); environmental cases (Vellore, M.C. Mehta).
+- Criticisms: lack of democratic legitimacy, institutional competence and accountability; erosion of separation of powers.
+
+## 3.4 Juristic restraint
+Restraint exercised by jurists and courts in developing legal doctrine: adherence to precedent, incremental development, respect for legislative text, avoiding broad pronouncements beyond the case, and self-discipline in using canons of construction (Cardozo's view that the judge legislates only between gaps, "from molar to molecular motions").
+
+* Approaches: textualism, intentionalism, purposivism, originalism, living constitutionalism.
+* Restraint: defer to legislature, presume constitutionality (Aravali Golf Course).
+* Activism: expand rights and remedies (Maneka, Vishaka, Puttaswamy); criticised for overreach.
+* Juristic restraint: incremental, precedent-respecting development.
+
+QL: Discuss judicial restraint and judicial activism as approaches to interpretation, with Indian examples.
+QL: Explain the major theories of statutory interpretation.
+QS: Purposivism
+QS: Living constitutionalism
+
+MCQ: Judicial restraint was emphasised in || Vishaka | *Aravali Golf Course v Chander Hass | Maneka Gandhi | Puttaswamy || 2008.
+
+# 4 | Presumptions regarding jurisdiction
+@topics Presumption against ousting established jurisdictions; against creating new and enlarging established jurisdictions; how far statutes affect the Crown (State); territorial extent of legislation; how far statutes conferring rights affect foreigners; presumption against violation of international law
+>> Courts presume that the legislature does not take away the jurisdiction of ordinary courts, does not bind the State unless it says so, does not legislate beyond its territory without a nexus, and does not intend to violate international law.
+
+## 4.1 Presumption against ousting established jurisdiction
+- Exclusion of civil courts' jurisdiction is not readily inferred; it must be express or clearly implied (s.9 CPC: civil courts try all civil suits unless barred expressly or impliedly).
+
+CASE: Dhulabhai v State of Madhya Pradesh (1968) :: The Supreme Court laid down principles: where a statute gives finality to orders of special tribunals, civil courts' jurisdiction is excluded if there is an adequate remedy; but civil courts can still examine cases where the provisions of the Act have not been complied with or the tribunal has not acted in conformity with fundamental principles of judicial procedure; challenges to the vires of the Act lie in civil courts.
+
+- Jurisdiction of High Courts under Arts. 226 and 227 and of the Supreme Court under Art. 32 cannot be ousted by statute (L. Chandra Kumar, 1997).
+
+## 4.2 Presumption against creating new or enlarging established jurisdiction
+Statutes are not construed to create new jurisdiction or enlarge existing jurisdiction unless clearly intended; jurisdiction cannot be conferred by consent of parties.
+
+## 4.3 How far statutes affect the Crown (State)
+- English rule: the Crown is not bound by a statute unless named expressly or by necessary implication.
+
+CASE: Superintendent and Legal Remembrancer, State of West Bengal v Corporation of Calcutta (1967) :: A nine-judge bench overruled Director of Rationing v Corporation of Calcutta (1960) and held that the common law rule that the Crown is not bound by statute unless named was not part of Indian law; the State is bound by a statute unless it is exempted expressly or by necessary implication. The State's market was held liable to obtain a municipal licence.
+
+## 4.4 Further presumptions
+### 4.4.1 Territorial extent of legislation
+- Parliament may make laws for the whole or any part of India, and no law made by Parliament shall be invalid on the ground of extra-territorial operation (Art. 245(2)). State laws must have a territorial nexus.
+- Even Parliament's extra-territorial laws should have a nexus with India's interests.
+
+CASE: GVK Industries Ltd v Income Tax Officer (2011) :: A Constitution Bench held that Parliament may make laws for extra-territorial aspects or causes that have an impact on or nexus with India; laws for aspects having no nexus with India would be ultra vires.
+
+CASE: State of Bombay v R.M.D. Chamarbaugwalla (1957) :: A Bombay tax on prize competitions run from Mysore through a newspaper circulated in Bombay was valid, because there was a sufficient territorial nexus: the competitions were conducted largely in Bombay.
+
+### 4.4.2 How far statutes conferring rights affect foreigners
+Statutes conferring rights or imposing duties are presumed to apply to persons within the territory, including foreigners, but rights conferred on "citizens" (Arts. 15, 16, 19) do not extend to foreigners; laws are not presumed to regulate conduct of foreigners outside the territory.
+
+### 4.4.3 Presumption against violation of international law
+Courts interpret domestic law, as far as possible, consistently with international law and treaty obligations (Art. 51(c)).
+
+CASE: Gramophone Co of India v Birendra Bahadur Pandey (1984) :: Rules of international law are incorporated into national law and considered part of it unless in conflict with an Act of Parliament; national courts should construe statutes so as to avoid conflict with international law. The Copyright Act was read consistently with transit rights of land-locked Nepal.
+
+* Exclusion of civil courts' jurisdiction must be express or clearly implied (Dhulabhai).
+* Writ jurisdiction cannot be ousted (L. Chandra Kumar).
+* The State is bound by statute unless exempted (Superintendent and Legal Remembrancer, 1967).
+* Extra-territorial laws need a nexus (GVK Industries; R.M.D. Chamarbaugwalla).
+* Statutes construed consistently with international law (Gramophone Co).
+
+QL: Discuss the presumption against ouster of jurisdiction of civil courts with reference to Dhulabhai's case.
+QL: Is the State bound by a statute? Discuss the Indian position.
+QL: Discuss the doctrine of territorial nexus and extra-territorial legislation.
+QS: Presumption against violation of international law
+QS: Section 9 CPC
+
+MCQ: In India, the State is bound by a statute unless exempted expressly or by necessary implication, as held in || Director of Rationing | *Superintendent and Legal Remembrancer v Corporation of Calcutta (1967) | Dhulabhai | GVK Industries || Nine-judge bench.
+MCQ: The principles on ouster of civil courts' jurisdiction were laid down in || Gramophone Co | *Dhulabhai v State of MP | L. Chandra Kumar | Chamarbaugwalla || 1968.
+
+# 5 | Construction most agreeable to justice and reason; exceptional construction
+@topics Presumptions against inconvenience, unreasonableness, injustice or absurdity; against impairing obligations or permitting advantage from one's own wrong; retrospective operation; Exceptional construction: modification of language to meet intention; equitable construction; strict construction of penal laws; statutes encroaching on rights or imposing burdens
+>> Where language allows a choice, courts choose the meaning that is just and reasonable. Penal and taxing statutes are construed strictly; statutes are presumed to operate prospectively unless they are procedural or clearly retrospective.
+
+## 5.1 Construction most agreeable to justice and reason
+### 5.1.1 and 5.1.2 Presumptions against inconvenience, unreasonableness, injustice or absurdity
+If the words are capable of two meanings, the court prefers the one that avoids inconvenience, hardship, injustice or absurdity; it cannot, however, rewrite clear words.
+
+### 5.1.3 Presumption against impairing obligations or permitting advantage from one's own wrong
+*Nullus commodum capere potest de injuria sua propria*: no one can take advantage of his own wrong. Statutes are not construed to allow a wrongdoer to benefit (Riggs v Palmer, 1889: a murderer could not inherit under the victim's will; Indian statutes now expressly disqualify murderers from inheriting, s.25 HSA).
+
+### 5.1.4 Retrospective operation of statutes
+- **Substantive laws** are presumed to be prospective unless expressly or by necessary implication made retrospective.
+- **Procedural laws** apply to pending proceedings unless they affect vested rights.
+- **Declaratory and curative statutes** may be retrospective.
+- **Penal statutes** cannot be retrospective to create offences or enhance punishment (Art. 20(1)); beneficial changes may apply.
+- **Taxing statutes** can be retrospective if Parliament so provides, subject to Art. 14 reasonableness.
+
+CASE: Hitendra Vishnu Thakur v State of Maharashtra (1994) :: The Court summarised: a statute dealing with substantive rights is prima facie prospective unless made retrospective expressly or by necessary implication; procedural law is generally retrospective unless it affects substantive rights; a right of appeal is a substantive right.
+
+CASE: Vineeta Sharma v Rakesh Sharma (2020) :: The 2005 amendment to s.6 of the Hindu Succession Act conferring coparcenary rights on daughters is retroactive: a daughter is a coparcener by birth, and her rights do not depend on her father being alive on 9 September 2005.
+
+## 5.2 Exceptional construction
+### 5.2.1 Modification of language to meet the intention
+Where literal reading leads to manifest absurdity or defeats the evident purpose, courts may modify, add or omit words (rectifying construction), but only where the intention is clear and the error obvious.
+
+### 5.2.3 Equitable construction
+Historically, English courts extended statutes to cases within their "equity" (spirit) though not their letter. Modern courts use purposive construction instead; equitable construction is not favoured where the words are clear.
+
+### 5.2.4 Strict construction of penal laws
+Penal statutes are construed strictly: if two reasonable constructions are possible, the one favouring the accused is adopted (rule of lenity); no one can be punished unless clearly within the words.
+
+CASE: Tolaram Relumal v State of Bombay (1954) :: The Court held that a penal statute must be strictly construed; where a provision admits of two interpretations, the court must lean towards the one exempting the subject from penalty. Receiving "pugree" (premium) for a lease not yet granted was not within the offence as worded.
+
+### 5.2.5 Statutes encroaching on rights or imposing burdens (taxing statutes)
+- Taxing statutes are strictly construed: there is no equity about tax, no presumption as to tax, nothing is to be read in or implied (Rowlatt J, Cape Brandy Syndicate v IRC, 1921).
+- Exemption notifications: in case of ambiguity, the benefit goes to the revenue, and the burden of proving entitlement is on the assessee.
+
+CASE: Commissioner of Customs v Dilip Kumar and Co (2018) :: A Constitution Bench held that an exemption notification must be interpreted strictly; the burden is on the assessee to show that his case comes within its terms; in case of ambiguity, the benefit must go to the State. It overruled Sun Export Corporation (1997) on this point.
+
+CASE: Commissioner of Income Tax v Vatika Township (2014) :: A Constitution Bench held that a legislation imposing a new burden or liability (here, a surcharge on block assessments) is presumed to be prospective, and the principle of fairness requires that tax obligations are not imposed retrospectively unless clearly intended.
+
+* Courts prefer just and reasonable meanings; no advantage from one's own wrong.
+* Substantive laws prospective, procedural retrospective (Hitendra Vishnu Thakur); 2005 HSA amendment retroactive (Vineeta Sharma).
+* Rectifying construction only for obvious errors; equitable construction disfavoured.
+* Penal statutes strictly construed in favour of the accused (Tolaram Relumal).
+* Taxing statutes strictly construed; exemption ambiguity benefits revenue (Dilip Kumar); new burdens prospective (Vatika Township).
+
+QL: Discuss the rules relating to retrospective operation of statutes.
+QL: "Penal statutes must be strictly construed." Explain with cases.
+QL: Discuss the principles of interpretation of taxing statutes and exemption notifications.
+QS: Nullus commodum capere potest de injuria sua propria
+QS: Rule of lenity
+QS: Declaratory statutes
+
+MCQ: In case of ambiguity in an exemption notification, the benefit goes to || the assessee | *the State (revenue) | neither | the court's discretion || Dilip Kumar (2018).
+MCQ: A right of appeal is || procedural | *substantive | not a right | always retrospective || Hitendra Vishnu Thakur (1994).
+MCQ: Strict construction of penal statutes was applied in || Vatika Township | *Tolaram Relumal v State of Bombay | Vineeta Sharma | Dilip Kumar || 1954.
+
+# 6 | Subordinate principles: maxims and canons
+@topics Usage and contemporanea expositio; Construction imposed by statute; Words in bonam partem; Change of language; Associated words: noscitur a sociis; expressio unius; Generic words following specific (ejusdem generis); Meaning of particular expressions
+>> A set of maxims helps courts read words in their setting: words are known by their companions, general words take colour from specific ones, and the express mention of one thing may exclude another.
+
+## 6.1 Usage and contemporanea expositio
+*Contemporanea expositio est optima et fortissima in lege*: a contemporaneous exposition is the best and strongest in law. Long usage and contemporaneous official interpretation of an old statute may be relied upon where the words are ambiguous, but cannot override clear words.
+
+CASE: Desh Bandhu Gupta and Co v Delhi Stock Exchange Association (1979) :: The Court relied on the contemporaneous understanding of a notification by the authorities and those affected to interpret it, holding that contemporanea expositio is a useful aid for old statutes and documents.
+
+## 6.2 Construction imposed by statute
+Where a statute (or the General Clauses Act) prescribes how words are to be understood (definitions, deeming provisions, interpretation clauses), that construction must be followed. **Deeming fictions** must be carried to their logical conclusion but only for the purpose for which they are created (East End Dwellings Co v Finsbury Borough Council, 1952; State of Bombay v Pandurang Vinayak, 1953).
+
+## 6.3 Words in bonam partem
+Words are construed in their lawful sense (*in bonam partem*); a statute is presumed not to intend an unlawful purpose. For example, a provision dealing with a "contract" refers to a lawful contract.
+
+## 6.4 Change of language
+A change of language in an amending or later statute, or within the same statute, raises a presumption of a change of intention; the same word in the same statute is ordinarily given the same meaning.
+
+## 6.5 Associated words and expressio unius
+### Noscitur a sociis (a word is known by the company it keeps)
+Where two or more words susceptible of analogous meaning are coupled together, they take their colour from each other.
+
+CASE: State of Bombay v Hospital Mazdoor Sabha (1960) :: Applying (and limiting) noscitur a sociis, the Court held that a hospital run by the government was an "industry" under the IDA; the associated words in the definition did not restrict "undertaking" to trade and business in a narrow sense. The maxim is only an aid where meaning is doubtful.
+
+CASE: Rainbow Steels Ltd v Commissioner of Sales Tax (1981) :: The word "old" in "old, discarded, unserviceable or obsolete machinery" was read in the light of its associated words to mean machinery that had become useless for its original purpose, not merely second-hand.
+
+### Expressio unius est exclusio alterius
+The express mention of one thing implies the exclusion of another. It is an aid only, and must be applied with caution, since the mention may be for abundant caution.
+
+## 6.6 Generic words following specific words: ejusdem generis
+Where general words follow specific words of a distinct category (genus), the general words are limited to things of the same class.
+Conditions: (1) the specific words form a distinct genus or category; (2) the general words follow the specific ones; (3) the statute shows no different intention.
+
+CASE: Amar Chandra Chakraborty v Collector of Excise (1972) :: The Court explained the conditions for applying ejusdem generis: the statute contains an enumeration of specific words; the subjects of enumeration constitute a class or category; that class is not exhausted by the enumeration; the general term follows the enumeration; and there is no indication of a different legislative intent.
+
+CASE: Siddeshwari Cotton Mills v Union of India (1989) :: Processes like "bleaching, mercerising, dyeing, printing, water-proofing, rubberising, shrink-proofing, organdie processing" share the character of bringing about a lasting change in fabric; "any other process" was read ejusdem generis to exclude calendering, which produced only a temporary effect.
+
+## 6.7 Meaning of particular expressions
+- **"Shall" and "may"**: "shall" is ordinarily mandatory and "may" directory, but context decides (Unit 7).
+- **"And" and "or"**: may be read conjunctively or disjunctively to give effect to intention.
+- **"Includes"**: extends; **"means"**: exhausts; **"means and includes"**: exhaustive.
+- **"Notwithstanding"**: non obstante clause gives overriding effect.
+- **"Subject to"**: makes the provision subordinate to another.
+- **Reddendo singula singulis**: where several words are followed by several objects, each word refers to its appropriate object.
+
+TIP: For ejusdem generis, list the conditions from Amar Chandra Chakraborty and apply them to a problem. For noscitur a sociis, contrast its use in Rainbow Steels with its limits in Hospital Mazdoor Sabha.
+
+* Contemporanea expositio aids old statutes (Desh Bandhu Gupta).
+* Statutory definitions and deeming fictions bind.
+* Words read in their lawful sense; change of language suggests change of intention.
+* Noscitur a sociis (Rainbow Steels; limits in Hospital Mazdoor Sabha).
+* Expressio unius: express mention excludes others, used with caution.
+* Ejusdem generis: conditions (Amar Chandra Chakraborty; Siddeshwari Cotton Mills).
+
+QL: Explain the rules of ejusdem generis and noscitur a sociis with decided cases.
+QL: What is contemporanea expositio? How far can it be used in interpretation?
+QL: Discuss expressio unius est exclusio alterius as an aid to interpretation.
+QS: Reddendo singula singulis
+QS: Deeming fiction
+QS: In bonam partem
+
+MCQ: "A word is known by the company it keeps" is the maxim || ejusdem generis | *noscitur a sociis | expressio unius | contemporanea expositio || Associated words.
+MCQ: The conditions for applying ejusdem generis were stated in || Rainbow Steels | *Amar Chandra Chakraborty v Collector of Excise | Desh Bandhu Gupta | Hospital Mazdoor Sabha || 1972.
+
+# 7 | Intentions attributed to the legislature when it expresses none
+@topics Imperative and directory enactments; Absolute and qualified duties; Impossibility of compliance; Waiver; Public and private remedies
+>> Where a statute does not say what happens if a requirement is not followed, courts decide whether the requirement is mandatory or directory, whether a duty is absolute, and what remedy the legislature intended.
+
+## 7.1 Imperative (mandatory) and directory enactments
+- A **mandatory** provision must be strictly complied with; non-compliance invalidates the act.
+- A **directory** provision requires substantial compliance; non-compliance does not invalidate the act, though it may attract other consequences.
+- Tests: the language ("shall", negative words, "only"), the scheme and object of the statute, the consequence of non-compliance (whether specified), whether it affects public duties or private rights, and the inconvenience or injustice of treating it as mandatory.
+
+CASE: State of Uttar Pradesh v Manbodhan Lal Srivastava (1957) :: Art. 320(3)(c), requiring consultation with the Public Service Commission before disciplinary action, was held directory: failure to consult did not invalidate the dismissal, because the Constitution did not provide the consequence and the provision was not meant to confer a right on the civil servant.
+
+CASE: May George v Special Tahsildar (2010) :: The Court summarised that the question whether a provision is mandatory or directory depends on the intent of the legislature, not the language alone; the court must consider the whole scope and object of the statute, the consequences, and whether penalty is provided for non-compliance.
+
+- "Shall" may be read as "may" and vice versa: **Bachahan Devi v Nagar Nigam, Gorakhpur (2008)**.
+- Provisions relating to time limits for public officers are usually directory; those conferring rights or imposing conditions on private persons (for example, notice under s.80 CPC) may be mandatory.
+
+## 7.2 Absolute and qualified duties
+- An **absolute duty** must be performed regardless of difficulty (strict liability statutes, safety duties under factory laws).
+- A **qualified duty** requires the duty-holder to do what is "reasonably practicable" or to use due diligence.
+
+## 7.3 Impossibility of compliance
+*Lex non cogit ad impossibilia*: the law does not compel the impossible. *Impotentia excusat legem*: inability excuses the law. Where compliance with a mandatory requirement is impossible without the party's fault, non-compliance may be excused.
+
+CASE: Raj Kumar Dey v Tarapada Dey (1987) :: Where the last day for filing fell on a day when the office was closed, the act done on the next working day was valid, applying lex non cogit ad impossibilia.
+
+## 7.4 Waiver
+*Quilibet potest renunciare juri pro se introducto*: everyone may renounce a right introduced for his own benefit. A party may waive a statutory requirement enacted for his own benefit, but not one enacted for public policy or public benefit. Fundamental Rights cannot be waived (Basheshar Nath, 1959).
+
+## 7.5 Public and private remedies
+- Where a statute creates a right and also provides a specific remedy, the remedy is generally exclusive.
+
+CASE: Premier Automobiles Ltd v Kamlekar Shantaram Wadke (1976) :: Where an industrial dispute relates to the enforcement of a right or obligation created only under the Industrial Disputes Act, the remedy is only under that Act; the civil court's jurisdiction is excluded. If the right exists under general law, the party may choose either remedy.
+
+- Breach of a statutory duty may give rise to a private civil action for damages if the statute was intended to protect a limited class and does not provide an adequate remedy (the tort of breach of statutory duty).
+
+* Mandatory vs directory depends on intention, object and consequences (Manbodhan Lal; May George).
+* Absolute duties vs duties qualified by reasonable practicability.
+* Impossibility excuses (Raj Kumar Dey).
+* Waiver of rights for one's own benefit allowed; not of public rights or Fundamental Rights.
+* A right created by statute with its own remedy must be enforced by that remedy (Premier Automobiles).
+
+QL: How do courts determine whether a provision is mandatory or directory?
+QL: Explain the maxims lex non cogit ad impossibilia and quilibet potest renunciare juri pro se introducto.
+QL: Where a statute creates a right and a remedy, can a party approach the civil court? Discuss Premier Automobiles.
+QS: Absolute and qualified duties
+QS: "Shall" and "may"
+
+MCQ: Art. 320(3)(c) (consultation with the PSC) was held directory in || May George | *State of UP v Manbodhan Lal Srivastava | Raj Kumar Dey | Premier Automobiles || 1957.
+MCQ: "The law does not compel the impossible" is || quilibet potest renunciare | *lex non cogit ad impossibilia | expressio unius | ejusdem generis || Raj Kumar Dey (1987).
+
+# 8 | Stare decisis
+@topics The doctrine as inherited; Techniques of innovation and subversion of stare decisis; Supreme Court's authority to overrule its own decisions (Antulay's case); Advisory jurisdiction and its import on precedent; Prospective overruling; Objections to judicial review as anti-majoritarian
+>> India inherited the English doctrine of precedent, but adapted it: the Supreme Court can overrule itself, uses prospective overruling, and has developed techniques to avoid inconvenient precedents.
+
+## 8.1 The doctrine as inherited
+- *Stare decisis et non quieta movere*: stand by decided cases and do not disturb settled matters.
+- **Art. 141**: the law declared by the Supreme Court is binding on all courts within India. High Court decisions bind subordinate courts in the State and are persuasive elsewhere.
+- Hierarchy within the Supreme Court: a smaller bench is bound by a larger bench; a bench of co-equal strength should refer a doubt to a larger bench (**Central Board of Dawoodi Bohra Community v State of Maharashtra, 2005**).
+
+## 8.2 Techniques of innovation (or subversion) of stare decisis
+- **Distinguishing** a precedent on material facts.
+- Treating a statement as **obiter dictum**.
+- Holding a decision **per incuriam** (rendered in ignorance of a statute or binding precedent).
+- **Sub silentio**: a point not argued or considered is not an authority.
+- **Overruling** by a larger bench.
+- **Reading down** or confining the precedent to its facts.
+
+CASE: A.R. Antulay v R.S. Nayak (1988) :: A seven-judge bench recalled earlier directions of a five-judge bench (1984) transferring Antulay's trial to the High Court, holding them per incuriam and violative of his rights under Arts. 14 and 21 (since the statute required trial by a Special Judge), and that the Court could correct its own errors to prevent injustice, even after finality.
+
+## 8.3 Supreme Court's authority to overrule its own decisions
+CASE: Bengal Immunity Co v State of Bihar (1955) :: The Supreme Court held that Art. 141 does not bind the Supreme Court itself; it can depart from its previous decisions if convinced they are erroneous and injurious to public welfare, though it should do so cautiously.
+
+## 8.4 Advisory jurisdiction and precedent
+- Opinions under Art. 143 are not binding on the President, but are of high persuasive authority and generally followed.
+- Whether they are "law declared" under Art. 141 has been debated; in **In re Cauvery Water Disputes Tribunal (1991)** the Court treated its opinion as binding law; others treat it as persuasive.
+- The 2025 Presidential Reference (assent to Bills) overruled, in effect, the April 2025 two-judge bench decision on timelines, showing that advisory opinions can reshape precedent.
+
+## 8.5 Prospective overruling in India
+CASE: I.C. Golak Nath v State of Punjab (1967) :: The Court applied the American doctrine of prospective overruling: earlier amendments were valid, but the new rule (Parliament cannot abridge Fundamental Rights) would apply only in future. Limitations: it applies only to constitutional matters, can be applied only by the Supreme Court, and its scope is at the discretion of the Court.
+
+- Later used in other contexts (for example, **Ashok Kumar Gupta v State of UP, 1997**; **Somaiya Organics v State of UP, 2001**), and the Court has applied it to statutory interpretation as well.
+
+## 8.6 Objections to judicial review as anti-majoritarian
+- **Counter-majoritarian difficulty** (Alexander Bickel, 1962): unelected judges invalidate decisions of elected representatives.
+- Responses: the Constitution itself is the supreme expression of the people's will; courts protect minorities and fundamental rights from majorities; judicial review is a basic feature (L. Chandra Kumar); the people can amend the Constitution (subject to basic structure).
+
+## 8.7 Recent judgments (2025–26)
+
+CASE: Rohan Vijay Nahar v State of Maharashtra (2025) :: Courts bound by Art. 141 must follow the law declared by the Supreme Court; judicial discipline is part of the rule of law.
+
+CASE: Rejanish K.V. v K. Deepa (2025) :: A larger bench overruled Dheeraj Mor (2020) on eligibility of in-service judges for direct recruitment, showing how a larger bench corrects precedent.
+
+* Judicial discipline under Art. 141 (Rohan Vijay Nahar, 2025).
+* Art. 141 binds all courts; larger benches bind smaller ones (Dawoodi Bohra).
+* Techniques: distinguishing, obiter, per incuriam, sub silentio, overruling.
+* Antulay (1988): the Court recalled per incuriam directions to prevent injustice.
+* The Supreme Court can overrule itself (Bengal Immunity).
+* Advisory opinions are of high persuasive value.
+* Prospective overruling (Golak Nath).
+* Counter-majoritarian objection and its answers.
+
+QL: Explain the doctrine of stare decisis as applied in India. Can the Supreme Court overrule its own decisions?
+QL: What is prospective overruling? Discuss its application in India.
+QL: Discuss the techniques used by courts to avoid binding precedents.
+QS: Per incuriam
+QS: A.R. Antulay v R.S. Nayak
+QS: Counter-majoritarian difficulty
+
+MCQ: The Supreme Court is not bound by its own previous decisions, as held in || Golak Nath | *Bengal Immunity Co v State of Bihar | Antulay | Dawoodi Bohra || 1955.
+MCQ: A decision rendered in ignorance of a binding statute or precedent is || obiter | *per incuriam | sub silentio | ratio || Antulay (1988).
+MCQ: The "counter-majoritarian difficulty" was coined by || Dworkin | *Alexander Bickel | Hart | Cardozo || 1962.
+
+# 9 | Statutory interpretation as an aspect of the judicial process
+@topics Rules of interpretation as judge-made; Legalism and literal interpretation; Creativity: mischief and golden rules; Self-discipline: construction of fiscal and criminal statutes; Technical rules on necessary and implied repeal; codifying, consolidating and amending statutes; Values and interpretation
+>> The rules of interpretation are not statutes but judicial practices. They balance legalism and creativity, and reflect the values judges bring to the text.
+
+## 9.1 Judge-made character of the rules
+The canons of construction were developed by courts over centuries; they are aids, not rules of law, and may conflict with one another. The General Clauses Act codifies some, but most remain judicial.
+
+## 9.2 Legalism and literal interpretation
+Legalism values certainty, predictability and separation of powers; the literal rule embodies it. Criticism: words have no fixed meaning; literalism can produce absurd or unjust results.
+
+## 9.3 Creativity: mischief and golden rules
+The mischief and golden rules, and purposive construction, give judges room to adapt the law to its purpose. Lord Denning in **Seaford Court Estates v Asher (1949)** said a judge should "iron out the creases" when a defect appears, asking how the makers would have dealt with it; the House of Lords in **Magor and St Mellons RDC v Newport Corporation (1952)** rejected this as "a naked usurpation of the legislative function", but the purposive approach has since gained acceptance.
+
+## 9.4 Self-discipline: fiscal and criminal statutes
+Strict construction of taxing and penal statutes (Unit 5) is an example of judicial self-discipline: courts do not extend burdens or offences by analogy.
+
+## 9.5 Technical rules
+### Necessary and implied repeal
+- **Express repeal**: s.6 of the General Clauses Act preserves rights, liabilities, penalties and proceedings under a repealed Act unless a different intention appears.
+- **Implied repeal**: not favoured; arises only where two provisions are so inconsistent that both cannot stand together (*leges posteriores priores contrarias abrogant*). A general later law does not repeal a special earlier law (*generalia specialibus non derogant*).
+
+CASE: Municipal Council, Palai v T.J. Joseph (1963) :: There is a presumption against implied repeal; it can be inferred only where the provisions of the later enactment are so inconsistent with or repugnant to the earlier one that the two cannot stand together.
+
+### Codifying, consolidating and amending statutes
+- **Codifying statute**: states the whole law on a subject (statute and case law); interpreted by its own language, without first referring to the earlier law, unless the language is ambiguous: **Bank of England v Vagliano Brothers (1891)**.
+- **Consolidating statute**: brings together existing statutory provisions; presumed not to change the law.
+- **Amending statute**: read with the principal Act as a whole.
+
+## 9.6 Values and interpretation
+Interpretation is guided by constitutional values (equality, liberty, dignity, social justice, secularism, federalism). Courts read statutes to conform to the Constitution (reading down: R.M.D. Chamarbaugwalla; Navtej Johar), and use the Directive Principles and international conventions to give content to vague words.
+
+## 9.7 Recent judgments (2025–26)
+
+CASE: State of UP v Jai Bir Singh (2026) :: A nine-judge bench held that pending disputes under the repealed Industrial Disputes Act remain governed by the Bangalore Water Supply test, while the definition of 'industry' in s.2(p) of the Industrial Relations Code must be read on its own terms. A repealing Code does not carry the old judicial gloss with it.
+
+* New Codes read on their own terms (Jai Bir Singh, 2026).
+* Interpretive rules are judge-made aids.
+* Legalism (literal rule) vs creativity (mischief, golden, purposive).
+* Self-discipline: strict construction of fiscal and penal laws.
+* Presumption against implied repeal (Palai v Joseph); generalia specialibus non derogant; s.6 General Clauses Act.
+* Codifying statutes read on their own terms (Vagliano).
+* Constitutional values shape interpretation.
+
+QL: "The rules of statutory interpretation are judge-made." Discuss.
+QL: Explain the doctrine of implied repeal and the effect of repeal under s.6 of the General Clauses Act.
+QL: Distinguish between codifying, consolidating and amending statutes. How is each interpreted?
+QS: Generalia specialibus non derogant
+QS: Bank of England v Vagliano Brothers
+QS: Reading down
+
+MCQ: There is a presumption against implied repeal, as held in || Vagliano | *Municipal Council, Palai v T.J. Joseph | Seaford Court | Magor and St Mellons || 1963.
+MCQ: A codifying statute is to be interpreted || by first examining the prior law | *by its own language, without first referring to the prior law | only by Hansard | by the mischief rule || Bank of England v Vagliano (1891).
+
+# 10 | Constitutional interpretation
+@topics Difference from statutory interpretation (Queen v Burah); Literal interpretation; Harmonious construction; Reference to Constituent Assembly debates; Pith and substance; Occupied field; Residuary power; Repugnancy; Amending power; Directive Principles as sources
+>> A constitution is a living document meant to endure, so it is interpreted broadly and purposively, with special doctrines to resolve conflicts between legislative lists.
+
+## 10.1 Difference from statutory interpretation
+- A constitution is the supreme law, framed in broad terms, meant to last for ages and to be adapted to various crises (Marshall CJ, McCulloch v Maryland, 1819: "it is a constitution we are expounding").
+- It must be interpreted liberally and generously, not narrowly and pedantically.
+
+CASE: The Queen v Burah (1878) :: The Privy Council held that the Indian legislature, when acting within the limits of its powers, has plenary powers of legislation as large and of the same nature as those of the British Parliament; it is not a mere delegate. Its powers must be ascertained by looking at the terms of the instrument creating it, and if what was done is within the powers expressly conferred, courts cannot enlarge or restrict them by inferences. The case also upheld conditional legislation (leaving the date and area of application to the executive).
+
+## 10.2 Literal interpretation
+Clear words of the Constitution are given effect (A.K. Gopalan, 1950, adopted a literal reading of Art. 21 which was later abandoned in Maneka Gandhi, 1978).
+
+## 10.3 Harmonious construction
+Provisions of the Constitution are read together so that each is given effect.
+
+CASE: Venkataramana Devaru v State of Mysore (1958) :: Art. 25(2)(b) (throwing open Hindu religious institutions to all classes) and Art. 26(b) (right of a religious denomination to manage its own affairs in matters of religion) were harmonised: the temple had to be opened to all Hindus, but the denomination could exclude the public from certain special ceremonies.
+
+## 10.4 Reference to Constituent Assembly debates
+Initially, courts were reluctant (A.K. Gopalan, 1950: debates are not admissible to construe the Constitution, though they show the background). Later, debates were used extensively as aids to understand the purpose of provisions (Kesavananda, 1973; S.R. Bommai, 1994; Puttaswamy, 2017; Supreme Court AoR Association, 2015).
+
+## 10.5 Pith and substance
+To decide whether a law falls within a legislative entry, the court examines its true nature and character (pith and substance); incidental encroachment on another list does not invalidate it.
+
+CASE: Prafulla Kumar Mukherjee v Bank of Commerce, Khulna (1947) :: A Bengal money-lenders law was in pith and substance a law on money-lending (a provincial subject) and valid, although it incidentally affected promissory notes (a federal subject).
+
+## 10.6 Occupied field
+When Parliament has enacted a law on a Concurrent List matter intending to occupy the whole field, a State law on the same field is void to the extent of repugnancy. Even without direct conflict, a State law is invalid if Parliament intended to cover the entire field.
+
+## 10.7 Residuary power
+- Art. 248 and Entry 97 of List I vest residuary power in Parliament.
+
+CASE: Union of India v H.S. Dhillon (1971) :: By majority, the Court held that a wealth tax on the capital value of assets including agricultural land was within Parliament's competence, either under Entry 86 or the residuary Entry 97 of List I, since the tax was not on agricultural land as such; the residuary power should not be read narrowly.
+
+## 10.8 Repugnancy
+Under Art. 254, a Union law on a Concurrent List subject prevails over an inconsistent State law; a State law reserved for and assented to by the President prevails in that State, subject to later Union law (Zaverbhai Amaidas v State of Bombay, 1954; M. Karunanidhi v Union of India, 1979).
+
+## 10.9 Amending power
+Art. 368 is interpreted subject to the basic structure (Kesavananda, 1973; Minerva Mills, 1980). Amendments are interpreted like other constitutional provisions but tested against basic features.
+
+## 10.10 Directive Principles as sources of constitutional interpretation
+Directive Principles guide the interpretation of Fundamental Rights (Art. 21 expansion through Arts. 39, 41, 45, 47, 48A), the reasonableness of restrictions under Art. 19, and the meaning of statutes (Randhir Singh, 1982; Unni Krishnan, 1993; Mirzapur Moti Kureshi, 2005).
+
+TIP: In any constitutional interpretation question, contrast the narrow approach (A.K. Gopalan) with the broad, purposive approach (Maneka Gandhi; Kesavananda), and illustrate the federal doctrines (pith and substance, occupied field, repugnancy, residuary power) with one case each.
+
+* A constitution is interpreted broadly; the Indian legislature has plenary powers (Queen v Burah).
+* Harmonious construction (Venkataramana Devaru).
+* Constituent Assembly debates are now freely used.
+* Pith and substance (Prafulla Kumar Mukherjee); occupied field and repugnancy (Art. 254).
+* Residuary power with Parliament, broadly read (H.S. Dhillon).
+* Amending power subject to basic structure; Directive Principles guide interpretation.
+
+QL: How does constitutional interpretation differ from statutory interpretation? Refer to Queen v Burah.
+QL: Explain the doctrines of pith and substance, occupied field and repugnancy.
+QL: Discuss the use of Constituent Assembly debates and Directive Principles in constitutional interpretation.
+QS: Harmonious construction
+QS: Residuary power
+QS: Queen v Burah
+
+MCQ: The doctrine of pith and substance was applied by the Privy Council in || Queen v Burah | *Prafulla Kumar Mukherjee v Bank of Commerce | H.S. Dhillon | Venkataramana Devaru || 1947.
+MCQ: Harmonious construction of Arts. 25(2)(b) and 26(b) was applied in || Kesavananda | *Venkataramana Devaru v State of Mysore | A.K. Gopalan | Zaverbhai || 1958.
+MCQ: The Indian legislature was held to have plenary powers, not delegated powers, in || Prafulla Kumar | *The Queen v Burah | Bengal Immunity | Golak Nath || 1878.

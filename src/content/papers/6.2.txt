@@ -1,0 +1,239 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Advocate's duty to the court
+Under the Bar Council of India Rules (Part VI, Chapter II, Section I), an advocate must:
+- act in a dignified manner;
+- respect the court;
+- not influence the court by illegal or improper means;
+- not appear in matters where a relative is the judge;
+- wear the prescribed dress;
+- not appear for an organisation of which he is a member of the executive committee;
+- not act or plead in matters in which he is pecuniarily interested; and
+- refuse to stand surety for a client.
+He owes a duty of candour: he must not mislead the court on facts or law. This includes the duty to verify every authority cited, as AI-generated fake citations have been condemned (*Gummadi Usha Rani*, 2026).
+
+Q: Functions of a State Bar Council
+Under s.6 of the Advocates Act, 1961, a State Bar Council:
+- admits persons as advocates on its roll;
+- prepares and maintains the roll;
+- entertains and determines cases of misconduct;
+- safeguards the rights, privileges and interests of advocates;
+- promotes law reform;
+- conducts seminars and organises legal aid;
+- manages its funds; and
+- conducts elections.
+The Supreme Court has directed reservation of seats for women in State Bar Councils (*Yogamaya M.G.*), and, separately, in Bar Associations.
+
+Q: Professional misconduct
+"Misconduct" is not defined in the Advocates Act. It covers conduct that is dishonourable or unbecoming of an advocate (*In re P. An Advocate*, 1963).
+Examples:
+- misappropriating a client's money;
+- touting or advertising;
+- taking instructions from a party other than the client;
+- appearing against a former client using confidential information (*Rehana Khan v Rizwan Siddhiquee*, 2026);
+- making false statements;
+- contempt;
+- gross negligence;
+- forging documents; and
+- assisting in fraud.
+Misconduct may be in professional or personal life (*N.G. Dastane v Shrikant S. Shivde*, 2001).
+
+Q: Contempt of court by advocates
+Advocates are subject to the Contempt of Courts Act, 1971. Examples include scandalising the court, using intemperate language, and obstructing proceedings.
+- *Supreme Court Bar Association v Union of India* (1998): the court may punish for contempt, but cannot suspend an advocate's licence. That power belongs to the Bar Council. However, the court may bar an advocate convicted of contempt from appearing until he purges it (*R.K. Anand v Registrar, Delhi High Court*, 2009).
+- *In re Vinay Chandra Mishra* (1995).
+
+Q: Bar–Bench relations
+Mutual respect and cooperation are essential for the administration of justice. The Bar must:
+- uphold the dignity of courts;
+- avoid strikes; and
+- assist the court.
+The Bench must:
+- be courteous;
+- hear patiently; and
+- avoid humiliating remarks.
+Mechanisms include grievance redressal committees and liaison committees. Strikes and abstention from work are illegal (*Harish Uppal v Union of India*, 2003; *District Bar Association Dehradun v Ishwar Shandilya*, 2020).
+
+Q: Ban on advertising by advocates
+Rule 36 of the BCI Rules prohibits advocates from soliciting work or advertising, directly or indirectly, through circulars, advertisements, touts, personal communications, interviews, or newspaper comments or photographs about their cases.
+- Sign boards and name plates must be of reasonable size.
+- Websites may contain only permitted information: name, address, enrolment, qualifications and areas of practice (amended 2008).
+- *Bar Council of Maharashtra v M.V. Dabholkar* (1976): law is a noble profession, not a trade.
+
+Q: Accounts of client money
+Under the BCI Rules (Part VI, Chapter II), an advocate must:
+- keep accounts of the client's money entrusted to him, showing the amounts received, from whom and for what purpose;
+- not convert the client's money to his own use; and
+- not lend money to a client.
+He may divert funds to fees only with the client's consent. Accounts must be given to the client on demand.
+Misappropriation of client money is grave misconduct (*V.C. Rangadurai v D. Gopalan*, 1979).
+
+Q: Senior advocates
+Under s.16 of the Advocates Act, an advocate may be designated a Senior Advocate by the Supreme Court or a High Court, with consent, by reason of ability, standing at the Bar, or special knowledge or experience in law.
+- *Indira Jaising v Supreme Court of India* (2017, 2023): points-based assessment by a Permanent Committee.
+- *Jitender @ Kalla v State (NCT of Delhi)* (2025): the Supreme Court revised the process, doing away with points-based assessment and interviews, and moving to full court decisions.
+Restrictions: a senior advocate cannot appear without an advocate-on-record or junior, and cannot draft pleadings.
+
+Q: Strikes by lawyers
+- *Ex-Capt. Harish Uppal v Union of India* (2003): lawyers have no right to strike or call for boycotts. Even a token strike is impermissible, except in the rarest cases, such as protests about the dignity of the court, for a day.
+- Lawyers who strike may be liable to their clients.
+- Bar associations and councils can face consequences.
+This was reaffirmed in *Common Cause v Union of India* (2006) and *District Bar Association Dehradun* (2020). Strikes delay justice and violate the client's rights under Art. 21.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the regulation of the legal profession under the Advocates Act, 1961.
+### Background
+The Act implemented the All-India Bar Committee (1953) and Law Commission (14th Report) recommendations. It created a single, unified Bar of advocates and abolished classes such as vakils and pleaders.
+### Bar Councils
+- **The Bar Council of India (s.4):** consists of the Attorney General, the Solicitor General and elected members. Its functions (s.7) include:
+  - laying down standards of professional conduct and etiquette;
+  - safeguarding advocates' rights;
+  - recognising universities;
+  - legal education; and
+  - conducting the All India Bar Examination.
+- **State Bar Councils (s.3):** maintain rolls and handle discipline.
+### Admission and enrolment (ss.24 and 24A)
+- citizenship;
+- age 21;
+- a law degree from a recognised university; and
+- payment of enrolment fees.
+- *Gaurav Kumar v Union of India* (2024): Bar Councils cannot charge enrolment fees beyond the statutory amounts (₹750, or ₹125 for SC/ST candidates).
+- Disqualifications: moral turpitude convictions and dismissal from government service.
+- The AIBE requirement was upheld in *Bar Council of India v Bonnie Foi Law College* (2023).
+### Right to practise (s.30)
+- Advocates may practise in all courts and tribunals, brought into force in 2011.
+- Courts may regulate appearance (s.34).
+- Foreign lawyers: *Bar Council of India v A.K. Balaji* (2018) held that they cannot practise in India, but may advise on foreign law on a "fly in, fly out" basis. The BCI Rules, 2023 permit registration of foreign lawyers for non-litigious practice.
+### Discipline (ss.35 to 38)
+Complaints go to the State Bar Council's disciplinary committee, which may reprimand, suspend or remove the advocate. Appeals lie to the BCI (s.37) and the Supreme Court (s.38).
+### Restrictions on other employment
+An advocate may not take up full-time employment or carry on business (BCI Rules 47 to 52; *Dr Haniraj L. Chulani v Bar Council of Maharashtra*, 1996: a medical practitioner was refused enrolment).
+### Entry to the judiciary
+- 2025: three years' practice restored (*All India Judges Association*).
+- 2026: modified to one year (*Bhumika Trust v Union of India*), with transition.
+### Conclusion
+The Act establishes a self-regulating, unified profession under the Bar Councils. The Supreme Court actively shapes entry, conduct and discipline.
+
+Q: Explain the duties of an advocate towards his client and his opponent under the Bar Council of India Rules.
+### Duties to the client (Part VI, Chapter II, Section II)
+- **Accept briefs (Rule 11):** according to his standing and fee, unless there are special circumstances. This is the "cab-rank" rule.
+- **Not withdraw without sufficient cause,** and return unearned fees.
+- **Not appear where he may be a witness.**
+- **Make full disclosure** of any interest or connection.
+- **Uphold the client's interests fearlessly,** by fair means.
+- **In prosecution,** do not suppress material that could prove the accused innocent.
+- **Not act for the opposite party** in the same matter, and maintain the confidence of former clients (*Rehana Khan v Rizwan Siddhiquee*, 2026).
+- **Not foment litigation.**
+- **Act only on the instructions of the client or his agent.**
+- **No contingency fees or sharing of proceeds (Rule 20).**
+- **Not buy interest in the litigation.**
+- **Not adjust fees against personal liability.**
+- **Accounts of client money.**
+- **Confidentiality and privilege:** s.132 BSA [126 IEA]. Investigating agencies cannot summon advocates merely for advising or representing clients (*In re Summoning Advocates*, 2025).
+### Duties to the opponent (Section III)
+- not to negotiate directly with an opposite party who is represented by an advocate; and
+- to carry out legitimate promises made to the opposite side.
+### Duties to colleagues (Section IV)
+- not to advertise (Rule 36);
+- not to permit the use of his name for unauthorised practice;
+- not to accept a lower fee than prescribed; and
+- not to appear where another advocate has filed a vakalat, without that advocate's consent or the court's permission.
+### Conclusion
+An advocate's duties are owed to the court, the client, the opponent and the profession. In a conflict, the duty to the court prevails.
+
+Q: Explain the procedure for disciplinary proceedings against advocates.
+### Complaint (s.35)
+Where a State Bar Council has reason to believe that an advocate on its roll is guilty of professional or other misconduct, on complaint or suo motu, it refers the case to its disciplinary committee. A complaint may be summarily rejected if no prima facie case exists.
+### Procedure
+- notice to the advocate and the Advocate General;
+- a hearing, including evidence and cross-examination; and
+- the committee has the powers of a civil court (s.42).
+- Disposal must be within one year, failing which the matter is transferred to the BCI (s.36B).
+### Punishments (s.35(3))
+- dismissing the complaint;
+- reprimand;
+- suspension for a period; or
+- removal from the roll.
+Costs may be awarded (s.44 deals with review).
+### Appeals
+- to the BCI's disciplinary committee within 60 days (s.37); and
+- to the Supreme Court within 60 days (s.38).
+- A stay is possible.
+### BCI powers
+- original jurisdiction (s.36);
+- transfer of cases (s.36B); and
+- review (s.44).
+### Standard of proof
+Proceedings are quasi-criminal in nature, so misconduct must be clearly established on reliable evidence.
+### Recent developments
+- *Ajay Vijh v Indian Bar Association* (2026): the Supreme Court directed the BCI to audit its disciplinary mechanisms.
+- The draft Advocates (Amendment) Bill, 2025 was withdrawn for re-examination after protests by the Bar.
+### Conclusion
+The process is designed to protect professional standards while ensuring fairness to the advocate. Delays and lenient outcomes remain concerns.
+
+Q: Discuss the law of contempt of court in relation to the legal profession.
+### Constitutional basis
+Arts. 129 and 215 make the Supreme Court and High Courts courts of record with the power to punish for contempt. Art. 142(2) also applies.
+### Contempt of Courts Act, 1971
+- **Civil contempt (s.2(b)):** wilful disobedience of a judgment or order, or wilful breach of an undertaking given to the court.
+- **Criminal contempt (s.2(c)):** publication or any act that:
+  - scandalises or lowers the authority of a court;
+  - prejudices or interferes with judicial proceedings; or
+  - obstructs the administration of justice.
+- **Defences:**
+  - innocent publication (s.3);
+  - fair and accurate reporting (s.4);
+  - fair criticism of judicial acts (s.5);
+  - complaints to presiding officers (s.6); and
+  - truth in the public interest and bona fide (s.13(b), added in 2006).
+- **Punishment (s.12):** simple imprisonment up to six months, or fine up to ₹2,000, or both. An apology is accepted if bona fide.
+- **No punishment unless substantial interference (s.13(a)).**
+- **Limitation:** one year (s.20).
+### Advocates and contempt
+- An advocate who abuses the court, makes scurrilous allegations against judges, or obstructs proceedings commits contempt (*In re Vinay Chandra Mishra*, 1995).
+- *Supreme Court Bar Association* (1998): only the Bar Council can suspend a licence.
+- *R.K. Anand* (2009): the court can debar a contemnor from appearing.
+- *M.Y. Shareef v Hon'ble Judges of Nagpur High Court* (1955): an advocate who signs a contemptuous application is liable.
+- *In re Prashant Bhushan* (2020): criticism versus contempt; a fine of ₹1 was imposed.
+- A contempt conviction of a senior advocate was suspended in *Yatin Oza* (2026).
+### Balance
+Courts must balance the dignity of the judiciary with free speech under Art. 19(1)(a). Fair criticism is permitted.
+### Conclusion
+Contempt law protects the administration of justice. Advocates, as officers of the court, are held to a high standard, but fair criticism remains legitimate.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: The police issue a notice to an advocate requiring him to appear and disclose the legal advice he gave to his client, who is accused of fraud. Advise the advocate.
+**Issue:** Can investigating agencies summon an advocate about advice given to a client?
+**Law:**
+- Section 132 BSA [126 IEA]: an advocate shall not disclose communications made in the course of professional employment, or advice given, without the client's consent. Exceptions cover communications in furtherance of an illegal purpose, and crimes or frauds observed after employment began.
+- *In re Summoning Advocates who give legal opinion or represent parties* (2025): agencies cannot summon advocates merely for advising or representing clients. Summons may be issued only where an exception applies, with approval of a senior officer and specific reasons, and are subject to judicial review.
+**Application:** The notice seeks the advice itself, without alleging that the advocate participated in the crime.
+**Conclusion:** The advocate may decline to disclose the advice and challenge the summons before the High Court.
+
+Q: Advocate A acted for X in a property dispute and learned confidential details of X's finances. Two years later, Y engages A to sue X over the same property. Can A accept the brief?
+**Issue:** Conflict of interest with a former client.
+**Law:**
+- The BCI Rules: an advocate who has advised a party in connection with a matter shall not act for the opposite party in the same matter.
+- The duty of confidentiality continues after the engagement ends (s.132 BSA).
+- *Rehana Khan v Rizwan Siddhiquee* (2026): an advocate cannot use a former client's confidential information against him.
+**Application:** The matter is the same or closely related, and A holds confidential information.
+**Conclusion:** A must decline the brief. Acting for Y would be professional misconduct, and X can seek an injunction or file a complaint.
+
+Q: An advocate receives ₹10 lakh on behalf of his client in a settlement but does not pass it on for a year, claiming it is for "future fees". The client complains to the Bar Council. Decide.
+**Issue:** Retention of client money as misconduct.
+**Law:**
+- The BCI Rules: client money must be accounted for, and cannot be appropriated to fees without consent.
+- Misappropriation of client money is grave professional misconduct (*V.C. Rangadurai v D. Gopalan*, 1979; *Harish Chander Tiwari v Baiju*, 2002).
+**Application:** Withholding the settlement amount without the client's consent, for an unagreed purpose, is misconduct.
+**Conclusion:** The disciplinary committee may suspend or remove the advocate and order repayment with interest. Criminal proceedings for criminal breach of trust are also possible.
+
+Q: A District Bar Association passes a resolution to boycott the court of a particular judge for a week, alleging rude behaviour. Advise the members.
+**Issue:** The legality of lawyers' strikes and boycotts.
+**Law:**
+- *Ex-Capt. Harish Uppal v Union of India* (2003): lawyers have no right to strike or boycott courts. Grievances must go to the Chief Justice or the grievance committees.
+- *District Bar Association Dehradun v Ishwar Shandilya* (2020): strikes are contempt and misconduct.
+- Grievance redressal committees have been set up in High Courts and district courts.
+**Application:** A week-long boycott is illegal and harms litigants.
+**Conclusion:** The members should withdraw the resolution and raise the complaint before the High Court's grievance redressal committee. Participants risk contempt and disciplinary action.

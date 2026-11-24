@@ -1,0 +1,606 @@
+@title Company Law
+@subtitle The Companies Act, 2013, with corporate personality, governance, capital, remedies, restructuring and winding up
+@paper 3.3
+@sem III
+@color #234a6b
+@dark #1e405c
+@intro Covers the Companies Act, 2013 as amended up to 2025, with references to the Insolvency and Bankruptcy Code, 2016 for insolvency resolution and liquidation, and to FEMA, 1999 for foreign investment.
+@reading Avtar Singh, Company Law
+@reading A. Ramaiya, Guide to the Companies Act
+@reading Gower and Davies, Principles of Modern Company Law
+@reading Palmer's Company Law
+@reading Taxmann, Companies Act, 2013 with Rules
+
+# 1 | Meaning of company and corporate personality
+@topics Meaning of company; Theories of corporate personality; Creation and extinction of a company
+>> A company is an artificial person created by law, separate from its members, with perpetual succession. Courts may lift the corporate veil when the form is used to defeat the law.
+
+## Meaning
+- **s.2(20), Companies Act, 2013**: "company" means a company incorporated under this Act or under any previous company law.
+- **Lord Lindley**: an association of many persons who contribute money or money's worth to a common stock and employ it in some trade or business, and who share the profit or loss.
+- Features: incorporated association; separate legal entity; perpetual succession; common seal (optional since 2015); limited liability (usually); transferability of shares; separate property; capacity to sue and be sued; separation of ownership and management.
+
+CASE: Salomon v A. Salomon and Co Ltd (1897) :: Salomon transferred his boot business to a company in which he held almost all shares and was a secured debenture holder. On liquidation, unsecured creditors argued that the company was a sham. The House of Lords held that the company was a separate person from Salomon; once validly incorporated, its debts are its own, and Salomon as secured creditor ranked ahead of unsecured creditors.
+
+CASE: Bacha F. Guzdar v Commissioner of Income Tax (1955) :: A shareholder is not a part-owner of the company's property; the company is a separate legal entity owning its assets. Dividend income in the hands of shareholders is not agricultural income even if the company earns from tea estates.
+
+## Theories of corporate personality
+| Theory | Proponent | Idea |
+|---|---|---|
+| Fiction theory | Savigny | The corporation is a fictitious person created by law; only humans are real persons |
+| Concession theory | Dicey, Salmond | Legal personality is a concession granted by the State |
+| Realist theory | Gierke, Maitland | The corporation is a real social organism with a will of its own |
+| Bracket (symbolist) theory | Ihering | The corporation is a symbol or bracket for its members; the real holders of rights are the members |
+| Purpose theory | Brinz | Property of a corporation belongs to a purpose, not a person |
+
+## Lifting the corporate veil
+Courts disregard separate personality where:
+| Ground | Case |
+|---|---|
+| Fraud or improper conduct; sham to evade obligations | Gilford Motor Co v Horne (1933): a company formed to evade a restraint covenant was restrained |
+| Determining enemy character | Daimler Co v Continental Tyre and Rubber Co (1916) |
+| Evasion of tax | Re Sir Dinshaw Maneckjee Petit (1927); Vodafone International Holdings v Union of India (2012), where the Court looked at the transaction as a whole but did not lift the veil |
+| Public interest and protection of revenue | Life Insurance Corporation v Escorts Ltd (1986): the veil may be lifted where a statute requires it, fraud is intended, or the company is a sham |
+| Statutory provisions | Misdescription of name, fraudulent conduct of business (s.339), mis-statements in prospectus (s.34, s.35), reduction of members below minimum (s.3A) |
+| Group companies acting as one economic entity | State of UP v Renusagar Power Co (1988); DDA v Skipper Construction (1996) |
+
+CASE: Tata Engineering and Locomotive Co v State of Bihar (1965) :: A company, though composed of citizens, is not itself a citizen for the purpose of Art. 19; the veil cannot be lifted to let a company claim citizens' rights. (Shareholders may sue, as in R.C. Cooper and Bennett Coleman.)
+
+## Creation and extinction
+- **Creation**: incorporation by registration under the Companies Act (s.7), by special statute (LIC, SBI), or by Royal Charter (historic).
+- **Extinction**: by winding up (by the Tribunal or voluntary) or dissolution under the IBC, or striking off the register by the Registrar (s.248), or amalgamation (s.232).
+
+* A company is a separate legal person (Salomon); shareholders do not own its property (Bacha Guzdar).
+* Theories: fiction, concession, realist, bracket, purpose.
+* Veil lifted for fraud, sham, tax evasion, enemy character, statutory grounds (Gilford; Daimler; LIC v Escorts).
+* A company is not a citizen (TELCO v State of Bihar).
+* Created by registration (s.7); ended by winding up, dissolution or striking off.
+
+QL: "A company is a person distinct from its members." Discuss with reference to Salomon's case and the doctrine of lifting the corporate veil.
+QL: Discuss the theories of corporate personality.
+QS: Perpetual succession
+QS: Gilford Motor Co v Horne
+QS: LIC v Escorts
+
+MCQ: Separate legal personality of a company was established in || Gilford v Horne | *Salomon v Salomon | Daimler | Ashbury || House of Lords, 1897.
+MCQ: A company was held not to be a citizen for Art. 19 in || R.C. Cooper | *Tata Engineering and Locomotive Co v State of Bihar | Bacha Guzdar | LIC v Escorts || 1965.
+MCQ: The "realist" theory of corporate personality is associated with || Savigny | *Gierke | Ihering | Brinz || The corporation is a real organism.
+
+# 2 | Forms of corporate and non-corporate organisations
+@topics Corporations, partnerships and other associations; State corporations and government companies; Public sector, small-scale, co-operative, corporate and joint sectors; Foreign collaboration; Companies and the rule of law: civil and criminal liability; essential characteristics
+>> Business can be organised as a sole proprietorship, partnership, LLP, company, co-operative or statutory corporation. Each differs in legal personality, liability and regulation.
+
+## Kinds of companies under the 2013 Act
+| Kind | Section | Key features |
+|---|---|---|
+| Private company | 2(68) | Restricts transfer of shares; up to 200 members; prohibits public invitation to subscribe; minimum two members and two directors |
+| Public company | 2(71) | Not private; minimum seven members and three directors; may raise capital from the public; a subsidiary of a public company is treated as public |
+| One Person Company | 2(62) | Single member (a natural person resident in India); nominee required |
+| Small company | 2(85) | Private company with paid-up capital and turnover below notified limits (₹4 crore and ₹40 crore under the 2022 rules; check for later revision) |
+| Company limited by shares, by guarantee, unlimited | 2(22), 2(21), 2(92) | Liability of members |
+| Holding and subsidiary | 2(46), 2(87) | Control of composition of board or more than half of total voting power |
+| Government company | 2(45) | At least 51% of paid-up share capital held by the Central and/or State governments |
+| Section 8 company | 8 | Not-for-profit (charitable) objects; no dividends |
+| Foreign company | 2(42) | Incorporated outside India with a place of business in India |
+| Producer company | Chapter XXIA (now under the 2013 Act) | Farmers' and producers' companies |
+
+## Partnerships and other associations
+| Point | Company | Partnership firm | LLP |
+|---|---|---|---|
+| Law | Companies Act, 2013 | Indian Partnership Act, 1932 | LLP Act, 2008 |
+| Legal personality | Separate | Not separate | Separate body corporate |
+| Liability | Limited (usually) | Unlimited, joint and several | Limited to contribution, except fraud |
+| Management | Board of directors | Partners | Designated partners |
+| Registration | Compulsory | Optional | Compulsory |
+
+## State corporations and government companies
+- **Statutory corporations** created by special Acts (LIC, FCI, Airports Authority) are distinct from **government companies** registered under the Companies Act (ONGC, SAIL, BHEL).
+- Both are "State" under Art. 12 if they are instrumentalities of government (Ajay Hasia; Pradeep Kumar Biswas), and are subject to CAG audit (s.143(5), (6)) and parliamentary scrutiny.
+
+## Sectors
+- **Public sector**: government-owned enterprises; disinvestment and strategic sale policies since 1991.
+- **Small-scale (MSME)**: regulated by the MSMED Act, 2006; small companies enjoy lighter compliance.
+- **Co-operative sector**: co-operative societies under State and Multi-State Co-operative Societies Act, 2002; Art. 43B and Part IXB (97th Amendment, partly struck down for State co-operatives in Union of India v Rajendra N. Shah, 2021).
+- **Corporate and joint sectors**: joint ventures between government and private enterprise, and between Indian and foreign companies.
+
+## Foreign collaboration
+Joint ventures, technology licensing and foreign direct investment, regulated by FEMA, 1999 and the FDI Policy (automatic and government approval routes), the Companies Act (foreign companies, Chapter XXII) and competition law.
+
+## Companies and the rule of law: civil and criminal liability
+- Companies can be sued in contract and tort, and are vicariously liable for acts of employees.
+- **Criminal liability**: a company can be prosecuted even for offences carrying mandatory imprisonment (fine imposed) (**Standard Chartered Bank v Directorate of Enforcement, 2005**); mens rea can be attributed through its directing mind (**Iridium India Telecom v Motorola, 2011**).
+- **Officers in default** (s.2(60)) are liable for many offences under the Act.
+- The Companies (Amendment) Acts of 2019 and 2020 decriminalised many minor and procedural defaults, moving them to an in-house adjudication framework with penalties (s.454).
+
+* Kinds: private, public, OPC, small, government, Section 8, holding and subsidiary, foreign.
+* Company vs partnership vs LLP: personality, liability, management.
+* Statutory corporations and government companies are usually "State" under Art. 12.
+* Companies are civilly and criminally liable; officers in default; decriminalisation since 2019.
+
+QL: Distinguish between a private company and a public company. What privileges does a private company enjoy?
+QL: Compare a company, a partnership firm and an LLP.
+QL: Discuss the civil and criminal liability of companies.
+QS: One Person Company
+QS: Government company
+QS: Section 8 company
+
+MCQ: A private company may have a maximum of || 50 members | *200 members | 500 members | unlimited members || s.2(68).
+MCQ: A government company is one in which the government holds at least || 26% | *51% | 74% | 100% || s.2(45).
+MCQ: A company can be prosecuted for an offence carrying mandatory imprisonment, as held in || Iridium | *Standard Chartered Bank | Salomon | Ashbury || 2005; fine imposed.
+
+# 3 | Formalities of a company
+@topics Companies Act, 2013: public and private companies; Need and formation; Registration and incorporation; Memorandum of association: clauses, alteration, doctrine of ultra vires; Articles of association: binding force, alteration, relation with memorandum; Constructive notice and indoor management; Prospectus: issue, contents, liability for misstatements; Promoters
+>> Incorporation follows filing the memorandum and articles; the memorandum fixes the company's constitution and objects, and outsiders are protected by the doctrine of indoor management.
+
+## Formation and incorporation
+- **s.3**: a public company may be formed by seven or more persons, a private company by two or more, and an OPC by one person, for any lawful purpose, by subscribing to a memorandum and complying with registration requirements.
+- **s.7**: filing of the memorandum, articles, declarations by professionals and subscribers, particulars of directors and registered office with the Registrar of Companies (through the SPICe+ web form). The Registrar issues a **certificate of incorporation** with a Corporate Identity Number (CIN).
+- **s.7(2)**: the certificate is conclusive evidence that all requirements have been complied with; but if the company was incorporated by furnishing false information or by fraud, the Tribunal may take action (s.7(7)).
+- **s.9**: effect of registration: the subscribers become a body corporate, capable of exercising all functions of an incorporated company, with perpetual succession.
+
+## Memorandum of association: s.4
+Clauses:
+1. **Name clause** (with "Limited" or "Private Limited").
+2. **Registered office clause** (State).
+3. **Objects clause**: objects for which the company is incorporated.
+4. **Liability clause**: limited by shares, guarantee or unlimited.
+5. **Capital clause**: authorised capital and division into shares.
+6. **Subscription (association) clause**: subscribers and shares taken.
+- **Alteration** (s.13): by special resolution; change of registered office between States needs Central Government (Regional Director) approval; change of objects by special resolution with dissenting shareholders' exit option in companies that have raised money from the public and not used it.
+
+### Doctrine of ultra vires
+CASE: Ashbury Railway Carriage and Iron Co v Riche (1875) :: The company's objects were to make and sell railway carriages; it contracted to finance construction of a railway in Belgium. The House of Lords held the contract ultra vires the memorandum and void; it could not be ratified even by all shareholders.
+
+- An ultra vires act is void and cannot be ratified; directors may be personally liable; an injunction can restrain it. The 2013 Act retains the objects clause but permits broad objects; acts ultra vires the articles (but intra vires the memorandum) can be ratified.
+
+## Articles of association: s.5
+- Contain regulations for internal management (meetings, directors, shares, dividends). Tables F to J of Schedule I are model articles.
+- **Binding force** (s.10): the memorandum and articles bind the company and members as if signed by each member; they form a contract between the company and members in their capacity as members, not with outsiders.
+- **Alteration** (s.14): by special resolution, subject to the Act and the memorandum; must be bona fide for the benefit of the company as a whole (Allen v Gold Reefs of West Africa, 1900); conversion from private to public or vice versa needs approval.
+- **Entrenchment** (s.5(3)): articles may provide that certain provisions can be altered only by a procedure more restrictive than a special resolution.
+- **Relation with memorandum**: the memorandum is the charter, the articles are subordinate; in case of conflict, the memorandum prevails.
+
+## Doctrine of constructive notice and indoor management
+- **Constructive notice**: every person dealing with a company is deemed to know the contents of its memorandum and articles, which are public documents (Ernest v Nicholls, 1857).
+- **Indoor management (Turquand rule)**: outsiders dealing in good faith are entitled to assume that internal procedural requirements have been complied with.
+
+CASE: Royal British Bank v Turquand (1856) :: The articles permitted directors to borrow on bonds if authorised by a resolution of the company. The directors issued a bond without such a resolution. The bank, which had no means of knowing about the internal resolution, could enforce the bond.
+
+Exceptions: knowledge of the irregularity; suspicion of irregularity or negligence in not inquiring; forgery (Ruben v Great Fingall Consolidated, 1906); acts outside apparent authority.
+
+## Prospectus
+- **s.2(70)**: any document described or issued as a prospectus, including a red herring and shelf prospectus, inviting offers from the public for subscription or purchase of securities.
+- Contents (s.26): as prescribed and in SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.
+- **Liability for misstatements**:
+  - **Criminal** (s.34): a person who authorises the issue of a prospectus containing an untrue or misleading statement, or omitting material matter, is liable for fraud under s.447 (imprisonment of six months to ten years and fine).
+  - **Civil** (s.35): directors, promoters, experts and persons who authorised the issue are liable to compensate subscribers who suffered loss; defences: withdrawal of consent before issue, issue without knowledge, reasonable grounds to believe true.
+- **Statement in lieu of prospectus**: under the 1956 Act for public companies not issuing a prospectus; not required under the 2013 Act.
+
+## Promoters
+- Persons who conceive, form and establish the company; named in the prospectus or annual return, or who have control over the company's affairs (s.2(69)).
+- **Fiduciary position**: must not make secret profits; must disclose interest.
+
+CASE: Erlanger v New Sombrero Phosphate Co (1878) :: Promoters bought an island and sold it to the company at a large profit without disclosure to an independent board. The House of Lords set aside the sale: promoters stand in a fiduciary position and must make full disclosure.
+
+- **Pre-incorporation contracts**: at common law not binding on the company (Kelner v Baxter, 1866); under the Specific Relief Act, 1963 (ss.15(h), 19(e)), a company may adopt and enforce such contracts after incorporation if warranted by its terms of incorporation.
+
+* Formation by subscribing to the memorandum and filing under s.7; the certificate is conclusive evidence.
+* Memorandum clauses; alteration by special resolution (s.13).
+* Ultra vires acts are void (Ashbury Railway).
+* Articles bind company and members (s.10); alteration bona fide for the company (Allen v Gold Reefs).
+* Constructive notice and indoor management (Turquand) with exceptions (forgery, knowledge).
+* Prospectus liability: criminal (s.34) and civil (s.35); promoters as fiduciaries (Erlanger).
+
+QL: Explain the contents of the memorandum of association and the procedure for altering it.
+QL: Discuss the doctrine of ultra vires with reference to Ashbury Railway Carriage v Riche.
+QL: Explain the doctrines of constructive notice and indoor management. What are the exceptions to the latter?
+QL: Discuss the civil and criminal liability for misstatements in a prospectus.
+QL: Who is a promoter? Discuss his duties and liabilities.
+QS: Certificate of incorporation
+QS: Entrenchment of articles
+QS: Pre-incorporation contracts
+QS: Red herring prospectus
+
+MCQ: The doctrine of indoor management was laid down in || Ashbury Railway | *Royal British Bank v Turquand | Erlanger | Salomon || 1856.
+MCQ: An act ultra vires the memorandum is || voidable | *void and cannot be ratified even by all shareholders | valid if beneficial | valid if ratified by special resolution || Ashbury Railway Carriage (1875).
+MCQ: Promoters were held to stand in a fiduciary position in || Kelner v Baxter | *Erlanger v New Sombrero Phosphate Co | Turquand | Ruben v Great Fingall || 1878.
+
+# 4 | Shares, shareholders, share capital and directors
+@topics Shares: allotment, restrictions, share certificate, transfer, refusal, premium and discount; Shareholders: who can be, modes of becoming, calls, forfeiture, surrender, lien, rights and liabilities; Share capital: kinds, alteration, reduction, further issue, conversion of loans; Directors: position, appointment, qualifications, vacation, removal, resignation, powers and duties, meetings, loans, remuneration, nominee directors, compensation for loss of office, managing directors and managerial personnel
+>> Shares represent ownership and capital; directors manage the company as agents, trustees and fiduciaries, subject to statutory duties.
+
+## Shares
+- **Share** (s.2(84)): a share in the share capital of a company, including stock; shares are movable property (s.44).
+- **Allotment** (s.39): not until minimum subscription is received; money refunded if not received within the prescribed period; return of allotment filed.
+- **Share certificate** (s.46): prima facie evidence of title; issued within two months of allotment; in demat form for listed and many unlisted public companies.
+- **Transfer** (s.56): by a proper instrument of transfer; in a private company, restrictions in the articles apply; in a public company, shares are freely transferable (s.58(2)), though contracts between shareholders on transfer are enforceable.
+- **Refusal to register** (s.58): appeal to the Tribunal.
+- **Issue at premium** (s.52): premium transferred to a securities premium account, usable only for specified purposes (bonus shares, preliminary expenses, buy-back).
+- **Issue at discount** (s.53): prohibited, except sweat equity shares (s.54) and conversion of debt under a statutory restructuring scheme.
+
+## Shareholders
+- **Member** (s.2(55)): subscribers to the memorandum, persons who agree in writing and are entered in the register, and beneficial owners in a depository.
+- **Who can be a member**: individuals, companies, minors (through guardians, fully paid shares only), firms (not in the firm's name, except as permitted), foreign nationals (subject to FEMA). A subsidiary cannot hold shares in its holding company (s.19).
+- **Calls** on partly paid shares; **forfeiture** for non-payment as per the articles; **surrender** where forfeiture would be justified; **lien** of the company on partly paid shares for amounts due.
+- **Rights**: vote, dividend, inspect registers, receive notices and accounts, participate in surplus on winding up, apply for oppression relief.
+- **Liabilities**: to pay calls up to the unpaid amount (limited liability).
+
+## Share capital
+- **Kinds** (s.43): equity share capital (with or without differential voting rights) and preference share capital (preferential right to dividend and repayment of capital).
+- **Alteration** (s.61): increase authorised capital, consolidate, sub-divide, convert into stock, cancel unissued shares, by ordinary resolution if the articles allow.
+- **Reduction** (s.66): by special resolution confirmed by the Tribunal, after notice to creditors and regulators; the Tribunal protects creditors' interests.
+- **Further issue** (s.62): rights issue to existing shareholders; to employees under ESOP by special resolution; to any person by special resolution; on conversion of loans or debentures if so provided at the time of the loan.
+- **Buy-back** (s.68): out of free reserves, securities premium or proceeds of another issue, up to 25% of paid-up capital and free reserves.
+- **Bonus shares** (s.63): out of free reserves, securities premium or capital redemption reserve.
+
+## Directors
+### Position
+Directors are described as agents of the company, trustees of its assets and powers, and fiduciaries (owing loyalty and good faith); they are also officers. They are not servants of the company in their capacity as directors.
+
+### Appointment and composition
+- Minimum three directors for a public company, two for private, one for OPC; maximum fifteen (more by special resolution) (s.149(1)).
+- At least one woman director in prescribed companies; at least one director resident in India for 182 days (s.149(3)).
+- **Independent directors** (s.149(4) to (6)): at least one-third of the board in listed companies; tenure up to two terms of five years; code of conduct in Schedule IV.
+- **Director Identification Number** (s.152, s.153).
+- First directors named in the articles; others appointed at general meetings; additional, alternate and casual vacancy directors by the board (s.161); nominee directors appointed by financial institutions or under agreements.
+
+### Disqualification and vacation
+- **Disqualifications** (s.164): unsound mind, undischarged insolvent, convicted with imprisonment of six months or more, not paid calls, disqualified by court, and directors of companies that have not filed financial statements for three years or failed to repay deposits.
+- **Vacation** (s.167): incurring disqualification, absence from all board meetings for twelve months, acting in contravention of s.184 (interest), conviction, removal.
+
+### Removal and resignation
+- **Removal** (s.169): by ordinary resolution after special notice and a reasonable opportunity of being heard (not applicable to directors appointed by the Tribunal under s.242).
+- **Resignation** (s.168): by notice in writing; effective from the date of notice or a later date specified.
+- **Compensation for loss of office** (s.202): payable to managing or whole-time directors or managers, subject to limits; not payable in cases of resignation in connection with reconstruction, fraud or misconduct.
+
+### Powers and duties
+- **Powers** (s.179): the board may exercise all powers the company is authorised to exercise, except those reserved for general meetings; some powers must be exercised at board meetings by resolution (s.179(3)). Restrictions requiring special resolution (s.180): selling an undertaking, borrowing beyond paid-up capital and free reserves, investing compensation, remitting debts.
+- **Duties** (s.166): act in accordance with the articles; act in good faith to promote the objects for the benefit of members as a whole and in the best interests of the company, employees, shareholders, community and environment; exercise due and reasonable care, skill, diligence and independent judgment; avoid conflicts of interest; not achieve undue gain; not assign office. Contravention: fine.
+- **Disclosure of interest** (s.184); **related party transactions** (s.188) need board or shareholder approval.
+- **Board meetings** (s.173): first within 30 days of incorporation; at least four a year, with not more than 120 days between two meetings; video conferencing allowed.
+- **Loans to directors** (s.185): restricted; **remuneration** (s.197): total managerial remuneration of a public company not to exceed 11% of net profits, unless approved by the members by special resolution.
+
+### Managing director and key managerial personnel
+- Managing director (s.2(54)), whole-time director, manager; appointment under s.196 and Schedule V.
+- Key managerial personnel (s.2(51), s.203): CEO or MD, company secretary, whole-time director, CFO; mandatory in listed and prescribed companies.
+
+CASE: Dale and Carrington Investment v P.K. Prathapan (2005) :: Directors, as fiduciaries, cannot issue additional shares to themselves to gain control without the knowledge of shareholders; such allotment was set aside as a breach of fiduciary duty.
+
+TIP: For directors, structure the answer as: position, appointment, qualifications and disqualifications (s.164), vacation (s.167), removal (s.169), powers (ss.179, 180), duties (s.166). Use Dale and Carrington for fiduciary duty.
+
+* Shares are movable property; transfer free in public companies (s.58(2)); issue at discount prohibited except sweat equity.
+* Members' rights and liabilities; calls, forfeiture, lien.
+* Reduction of capital needs special resolution and Tribunal confirmation (s.66).
+* Board composition (s.149), independent directors, woman director.
+* Disqualification (s.164), vacation (s.167), removal by ordinary resolution with special notice (s.169).
+* Statutory duties (s.166); fiduciary duty (Dale and Carrington).
+
+QL: Explain the law relating to transfer of shares and refusal to register transfer.
+QL: Discuss the procedure for reduction of share capital.
+QL: Discuss the legal position of directors. Explain their duties under s.166 of the Companies Act, 2013.
+QL: How are directors appointed and removed? Discuss the disqualifications of directors.
+QS: Sweat equity shares
+QS: Independent directors
+QS: Buy-back of shares
+QS: Key managerial personnel
+
+MCQ: A director may be removed by || special resolution only | *ordinary resolution after special notice | the board | the Registrar || s.169.
+MCQ: The general duties of directors are codified in || s.149 | *s.166 | s.179 | s.197 || Companies Act, 2013.
+MCQ: Issue of shares at a discount is || freely permitted | *prohibited except sweat equity and statutory debt conversion | permitted with board approval | permitted for private companies || s.53.
+
+# 5 | Meetings, dividends, audit and accounts
+@topics Meetings: kinds, procedure, voting; Dividends: payment, capitalisation, bonus shares; Audit and accounts
+>> Shareholders exercise control through general meetings and resolutions; dividends distribute profits; audit ensures the accounts present a true and fair view.
+
+## Meetings
+| Kind | Section | Feature |
+|---|---|---|
+| Annual general meeting | 96 | Every company (other than OPC) once a year; first within nine months of the end of the first financial year; gap not more than fifteen months |
+| Extraordinary general meeting | 100 | Called by the board, or on requisition of members holding at least one-tenth of paid-up capital with voting rights |
+| Class meetings | 48 | Variation of rights of a class of shareholders |
+| Board and committee meetings | 173, 177, 178 | Audit committee, nomination and remuneration committee, stakeholders relationship committee, CSR committee (s.135) |
+| Meeting ordered by the Tribunal | 98 | Where it is impracticable to call a meeting |
+
+### Procedure
+- **Notice** (s.101): at least 21 clear days, in writing or electronically; shorter notice with consent of members (95% for non-AGMs).
+- **Explanatory statement** (s.102) for special business.
+- **Quorum** (s.103): for public companies, five, fifteen or thirty members depending on membership; for private companies, two.
+- **Chairman** (s.104), **proxies** (s.105), **voting** by show of hands (s.107), electronic voting (s.108), poll (s.109), postal ballot (s.110).
+- **Resolutions** (s.114): ordinary (simple majority) and special (votes in favour at least three times the votes against).
+- **Minutes** (s.118).
+
+## Dividends
+- **s.123**: dividend can be declared only out of profits of the current year (after depreciation), profits of previous years, or money provided by the government; companies may transfer a portion to reserves.
+- Interim dividend by the board; final dividend declared at the AGM on board's recommendation.
+- Payment within thirty days of declaration (s.127, failure is an offence).
+- **Unpaid dividend account** (s.124): transferred within seven days of expiry of thirty days; unclaimed for seven years transferred to the **Investor Education and Protection Fund** (s.125).
+- **Bonus shares (capitalisation of profits)** (s.63): from free reserves, securities premium or capital redemption reserve; not in lieu of dividend.
+
+## Audit and accounts
+- **Books of account** (s.128): at registered office, on accrual basis, double entry, preserved for eight years.
+- **Financial statements** (s.129): true and fair view, comply with accounting standards (Ind AS for prescribed companies); consolidated statements for groups.
+- **Board's report** (s.134): including directors' responsibility statement, CSR, risk management.
+- **Auditor** (s.139): appointed at the AGM for five years; rotation of individual auditors after one term of five years and audit firms after two terms of five years in listed and prescribed companies.
+- **Powers and duties** (s.143): access to books, report to members on true and fair view, report fraud to the Central Government.
+- **Prohibited services** (s.144) to ensure independence; **National Financial Reporting Authority** (s.132) regulates auditors of listed and large companies.
+
+* AGM yearly, gap not more than fifteen months; EGM on requisition of one-tenth.
+* 21 days' notice; quorum; ordinary and special resolutions (s.114).
+* Dividend only out of profits (s.123); unpaid amounts to IEPF after seven years.
+* Bonus shares from free reserves (s.63).
+* Accounts must show a true and fair view; auditor rotation (s.139); NFRA oversight.
+
+QL: Explain the different kinds of meetings and the rules governing their conduct.
+QL: Discuss the law relating to declaration and payment of dividends.
+QL: Explain the appointment, powers and duties of a company auditor.
+QS: Special resolution
+QS: Investor Education and Protection Fund
+QS: Rotation of auditors
+
+MCQ: A special resolution requires votes in favour to be at least || equal to votes against | twice the votes against | *three times the votes against | unanimous || s.114(2).
+MCQ: Unclaimed dividend for seven years is transferred to || the government treasury | *the Investor Education and Protection Fund | the company's reserves | the auditor || s.125.
+
+# 6 | Debentures, borrowing powers and protection of minority
+@topics Debentures: meaning, floating charge, kinds, shareholder and debenture holder, remedies; Protection of minority rights; Prevention of oppression: who may apply, when, powers of the court and Central Government; Borrowing powers; unauthorised borrowing; charges; loans to other companies; investments; contracts by companies
+>> Companies raise loan capital through debentures secured by charges. The majority rules, but the law protects minorities against oppression and mismanagement.
+
+## Debentures
+- **s.2(30)**: debenture includes debenture stock, bonds or any other instrument evidencing a debt, whether constituting a charge on assets or not.
+- **Kinds**: secured and unsecured; redeemable and irredeemable; convertible and non-convertible; registered and bearer.
+- **Floating charge**: an equitable charge on a class of assets, present and future, which changes in the ordinary course of business; the company can deal with the assets until the charge crystallises (on winding up, default or appointment of a receiver).
+- **Debenture trustee** (s.71) for issues to the public; debenture redemption reserve in specified cases.
+
+| Point | Shareholder | Debenture holder |
+|---|---|---|
+| Status | Owner (member) | Creditor |
+| Return | Dividend from profits | Interest, whether or not profits |
+| Voting | Yes | No |
+| Priority on winding up | After creditors | Before shareholders |
+
+- **Remedies of debenture holders**: suit for principal and interest; appointment of a receiver; enforcement of security under the SARFAESI Act (for listed secured debt securities) or debenture trust deed; application under the IBC.
+
+## Borrowing powers and charges
+- A company's power to borrow is implied in trading companies and is limited by the memorandum.
+- Board may borrow, but borrowing beyond the aggregate of paid-up capital, free reserves and securities premium needs a special resolution (s.180(1)(c)).
+- **Unauthorised borrowing**: ultra vires the company is void (lender may trace money); ultra vires the directors but intra vires the company may be ratified; lender protected by indoor management.
+- **Registration of charges** (s.77): within thirty days of creation with the Registrar; unregistered charge is not taken into account by a liquidator or creditor (void against them).
+- **Loans and investments** (s.186): limits of 60% of paid-up capital, free reserves and premium, or 100% of free reserves and premium, whichever is more; beyond that, special resolution.
+- **Contracts by companies** (s.21): authentication by key managerial personnel or authorised officers.
+
+## Protection of minority: rule in Foss v Harbottle and exceptions
+CASE: Foss v Harbottle (1843) :: Two shareholders sued directors for misapplying company property. Held: the proper plaintiff in an action for a wrong done to the company is the company itself; where the wrong can be ratified by the majority, the court will not interfere at the instance of a minority.
+
+Exceptions (where minority can sue): ultra vires or illegal acts; fraud on the minority; acts requiring a special majority passed by a simple majority; infringement of personal rights of members; oppression and mismanagement under statute.
+
+## Prevention of oppression and mismanagement: ss.241 to 246
+- **Grounds** (s.241): affairs of the company conducted in a manner prejudicial to public interest, or prejudicial or oppressive to any member or members, or prejudicial to the interests of the company; or a material change in management or control prejudicial to members or creditors.
+- **Who may apply** (s.244): in a company with share capital, not less than 100 members or one-tenth of the total members, whichever is less, or members holding not less than one-tenth of the issued share capital; in a company without share capital, one-fifth of total members. The Tribunal may waive these requirements.
+- **Powers of the Tribunal** (s.242): regulate the conduct of affairs; purchase of shares of members; restriction on transfer; termination or modification of agreements; removal of directors; appointment of directors; any other order it thinks fit.
+- **Central Government** may also apply (s.241(2)) where affairs are prejudicial to public interest.
+- **Class action** (s.245): members or depositors may sue the company and directors, auditors and experts for damages for fraudulent or wrongful acts.
+
+CASE: Shanti Prasad Jain v Kalinga Tubes Ltd (1965) :: To establish oppression, the conduct must be burdensome, harsh and wrongful, involving a lack of probity and fair dealing to members in the matter of their proprietary rights; mere lack of confidence between majority and minority is not oppression.
+
+CASE: Needle Industries (India) Ltd v Needle Industries Newey (India) Holding Ltd (1981) :: An issue of rights shares by directors with the object of converting a majority into a minority, though technically valid, was held to be oppressive; but the Court ordered the majority to purchase the minority's shares at fair value as a just remedy.
+
+CASE: Tata Consultancy Services Ltd v Cyrus Investments Pvt Ltd (2021) :: The removal of Cyrus Mistry as executive chairman of Tata Sons was not oppressive or prejudicial. Removal of a director is not by itself oppression; the Tribunal must find that the affairs of the company as a whole are being conducted in an oppressive manner, and the remedy must address that, not reinstatement of an individual.
+
+TIP: For oppression, give the grounds (s.241), eligibility (s.244), powers (s.242), and the test from Shanti Prasad Jain (lack of probity and fair dealing). Add TCS v Cyrus Investments as the leading recent case.
+
+## Recent judgments (2025–26)
+
+CASE: Dr Bais Surgical and Medical Institute v State (2026) :: A person whose name is wrongly missing from the register of members may still be treated as a member for an oppression and mismanagement petition.
+
+* Member not on register may still seek oppression relief (2026).
+* Debentures are loan capital; floating charge crystallises on default or winding up.
+* Borrowing beyond limits needs special resolution (s.180(1)(c)); charges registered within thirty days (s.77).
+* Foss v Harbottle: company is the proper plaintiff; exceptions protect minorities.
+* Oppression and mismanagement remedies (ss.241 to 246); eligibility under s.244.
+* Oppression means lack of probity (Shanti Prasad Jain); removal of a director is not per se oppression (TCS v Cyrus).
+
+QL: What is a debenture? Distinguish between a shareholder and a debenture holder. Explain a floating charge.
+QL: Explain the rule in Foss v Harbottle and its exceptions.
+QL: Discuss the remedies for prevention of oppression and mismanagement under the Companies Act, 2013.
+QS: Crystallisation of floating charge
+QS: Registration of charges
+QS: Class action
+QS: Needle Industries case
+
+MCQ: The rule that the company is the proper plaintiff for wrongs done to it comes from || Salomon | *Foss v Harbottle | Turquand | Ashbury || 1843.
+MCQ: A charge must be registered with the Registrar within || 7 days | 15 days | *30 days | 90 days || s.77.
+MCQ: Removal of a director was held not to be oppression by itself in || Shanti Prasad Jain | Needle Industries | *Tata Consultancy Services v Cyrus Investments | Dale and Carrington || 2021.
+
+# 7 | Other allied aspects
+@topics Private companies: nature, advantages, conversion into public; foreign companies; government companies; holding and subsidiary companies; Investigations; Reconstruction and amalgamation; Defunct companies
+>> The Act contains special rules for private, foreign, government and group companies, powers to investigate their affairs, and procedures for mergers and removal of defunct companies.
+
+## Private companies
+- Features: restriction on transfer, up to 200 members, no public invitation (s.2(68)).
+- Advantages (exemptions notified in 2015 and later): fewer directors, no independent directors, relaxed rules on related party transactions, managerial remuneration and loans to directors, less onerous meeting requirements.
+- **Conversion** into public (s.14): alteration of articles by special resolution; the private company becomes public on removal of the restrictions; public to private needs Tribunal (now Regional Director) approval.
+
+## Foreign companies (Chapter XXII, ss.379 to 393)
+- Must file documents with the Registrar within thirty days of establishing a place of business in India, keep accounts, and comply with provisions on prospectus, charges and audit.
+- Government approval under FEMA for branch, liaison or project offices.
+
+## Government companies (s.2(45), ss.394, 395)
+- Annual reports laid before Parliament or State legislature; audit by auditors appointed by the CAG, and supplementary audit by the CAG (s.143(5), (6)).
+- Many exemptions notified by the Central Government.
+
+## Holding and subsidiary companies
+- A company is a subsidiary of another if the other controls the composition of its board or exercises or controls more than one-half of the total voting power (s.2(87)).
+- Restrictions on layers of subsidiaries (two layers for certain companies, subject to exceptions).
+- Consolidated financial statements (s.129(3)).
+
+## Investigations: ss.206 to 229
+- **Inspection and inquiry** by the Registrar (s.206, s.207).
+- **Investigation** by inspectors appointed by the Central Government (s.210) on the Registrar's report, a special resolution, or an order of a court or Tribunal, or in public interest.
+- **Serious Fraud Investigation Office (SFIO)** (s.211, s.212): statutory body to investigate serious corporate frauds; power to arrest for offences under s.447.
+- Inspectors' powers: examine on oath, seize documents (s.217, s.220); consequences include prosecution, winding up petition and recovery.
+
+CASE: Barium Chemicals Ltd v Company Law Board (1966) :: The Board's opinion that there are circumstances suggesting fraud or mismanagement, justifying investigation, must be based on relevant facts; though subjective, it is open to judicial review if based on no material or irrelevant material.
+
+## Reconstruction and amalgamation: ss.230 to 240
+- **Compromise or arrangement** with creditors or members (s.230): Tribunal-convened meetings; approval by a majority in number representing three-fourths in value; sanction by the Tribunal.
+- **Merger and amalgamation** (s.232): similar procedure; scheme filed with the Registrar after sanction.
+- **Fast-track merger** (s.233) for small companies and holding-wholly owned subsidiary mergers, with approval of the Regional Director.
+- **Cross-border mergers** (s.234) with RBI approval.
+- **Squeeze-out of minority** (s.236) by acquirers holding 90%.
+
+CASE: Miheer H. Mafatlal v Mafatlal Industries Ltd (1997) :: The Court's role in sanctioning a scheme is supervisory: it must see that statutory procedure was followed, the majority acted bona fide, the scheme is just and fair and not against public interest; it cannot sit in appeal over the commercial wisdom of the majority.
+
+## Defunct companies: striking off (ss.248 to 252)
+- The Registrar may strike off the name of a company that has failed to commence business within one year of incorporation, or is not carrying on business or operations for two financial years and has not applied for dormant status.
+- A company may itself apply for removal after extinguishing liabilities.
+- Restoration by the Tribunal within twenty years if just (s.252).
+- **Dormant companies** (s.455).
+
+## Recent judgments (2025–26)
+
+CASE: SEBI v Rajeev Vasant Sheth (2026) :: Once possession of unpublished price-sensitive information and trading are proved, the purpose or motive of the trade is irrelevant to insider trading liability.
+
+* Insider trading: motive irrelevant once UPSI and trading proved (2026).
+* Private companies enjoy exemptions; conversion by altering articles (s.14).
+* Foreign companies must register and comply under Chapter XXII.
+* Government companies are subject to CAG audit.
+* Investigations by inspectors and the SFIO; opinion must rest on relevant material (Barium Chemicals).
+* Schemes of arrangement need three-fourths in value and Tribunal sanction; courts do not question commercial wisdom (Miheer Mafatlal).
+* Defunct companies may be struck off and restored within twenty years.
+
+QL: Discuss the procedure for amalgamation of companies and the role of the Tribunal.
+QL: Explain the powers of the Central Government to investigate the affairs of a company.
+QL: What is a defunct company? Explain the procedure for striking off its name.
+QS: Serious Fraud Investigation Office
+QS: Fast-track merger
+QS: Holding company
+
+MCQ: Approval of a scheme of arrangement requires a majority representing || one-half in value | two-thirds in value | *three-fourths in value | 90% in number || s.230(6).
+MCQ: The court's limited role in sanctioning schemes was explained in || Barium Chemicals | *Miheer H. Mafatlal v Mafatlal Industries | Needle Industries | Salomon || 1997.
+
+# 8 | Winding up
+@topics Types: by court (Tribunal), reasons, grounds, who can apply; Procedure; Powers of liquidator; Powers of the court; Consequences of winding-up order; Voluntary winding up by members and creditors; Winding up subject to supervision of court; Liability of past members; Payment of liabilities and preferential payments; Unclaimed dividends; Winding up of unregistered companies
+>> Winding up ends a company's life: its assets are collected, liabilities paid in a prescribed order, and the surplus distributed. Since 2016, insolvency-based winding up and voluntary liquidation are governed by the IBC.
+
+## Modes of winding up today
+| Mode | Law |
+|---|---|
+| Compulsory winding up by the Tribunal on non-insolvency grounds | Companies Act, 2013, ss.271 to 365 |
+| Liquidation after failed corporate insolvency resolution | IBC, 2016, ss.33 to 54 |
+| Voluntary liquidation of solvent companies | IBC, s.59 (replacing members' and creditors' voluntary winding up under the Companies Act) |
+| Winding up subject to supervision of court | Abolished (existed under the 1956 Act) |
+
+## Grounds for winding up by the Tribunal: s.271
+1. The company has, by special resolution, resolved to be wound up by the Tribunal.
+2. The company has acted against the interests of the sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality.
+3. On an application by the Registrar or authorised person, the Tribunal is of the opinion that the affairs have been conducted fraudulently, or the company was formed for fraudulent or unlawful purposes, or persons concerned in its formation or management have been guilty of fraud, misfeasance or misconduct.
+4. The company has made a default in filing financial statements or annual returns for five consecutive financial years.
+5. The Tribunal is of the opinion that it is just and equitable that the company be wound up.
+- Inability to pay debts was removed as a ground in 2016; insolvency is handled under the IBC.
+
+CASE: Hind Overseas Pvt Ltd v Raghunath Prasad Jhunjhunwalla (1976) :: Winding up on the just and equitable ground in a private company may be ordered where there is a deadlock or a complete breakdown of trust between members in a company that is in substance a partnership, but not merely because of disagreement or the majority's lawful exercise of power.
+
+## Who may apply: s.272
+The company; contributories; the Registrar; a person authorised by the Central Government; the Central or State Government (for ground 2); and, for fraud-related grounds, the Registrar with government sanction.
+
+## Procedure and powers of the court (Tribunal)
+- Petition, admission, advertisement, appointment of a provisional liquidator (s.275), hearing, and winding-up order (s.273).
+- The Tribunal may dismiss, make an interim order, appoint a provisional liquidator, or order winding up with costs.
+- **Consequences of winding-up order** (s.278, s.279): operates in favour of all creditors and contributories; suits against the company stayed except with leave; the company's employees are discharged (save where continued); the liquidator takes custody of assets; the company ceases business except as necessary for winding up.
+
+## Powers of the liquidator (s.290)
+Carry on the business so far as necessary; sell property; draw and endorse negotiable instruments; take out letters of administration; institute and defend suits; settle claims; invite and settle claims of creditors and contributories; apply to the Tribunal for directions; and do all acts necessary for winding up. Liquidators are appointed from a panel of insolvency professionals.
+
+## Voluntary winding up
+Under the 1956 Act there were members' voluntary winding up (solvent company, declaration of solvency) and creditors' voluntary winding up (insolvent company, creditors' meeting). These provisions were omitted from the 2013 Act in 2016; voluntary liquidation of solvent corporate persons is now under s.59 of the IBC: declaration of solvency by directors, special resolution, approval by two-thirds in value of creditors, appointment of a liquidator, and dissolution order by the NCLT.
+
+## Liability of past members
+A past member who ceased to be a member within one year before the commencement of winding up is liable to contribute, for debts contracted while he was a member, if present members cannot satisfy the contributions (s.285 read with the 1956 Act principles).
+
+## Payment of liabilities: preferential payments
+- **Overriding preferential payments** (s.326): workmen's dues and debts due to secured creditors (to the extent of security relinquished) rank pari passu, ahead of all other debts; workmen's dues limited to the prescribed period.
+- **Preferential payments** (s.327): government revenues, taxes and cesses due within twelve months, wages and salaries for four months (subject to limits), accrued holiday remuneration, ESI and PF contributions, compensation for death or disablement.
+- **Under the IBC** (s.53, waterfall): insolvency process costs; workmen's dues for 24 months and secured creditors who relinquished security; wages of other employees for 12 months; unsecured financial creditors; government dues for two years and unpaid secured creditors; other debts; preference shareholders; equity shareholders.
+
+CASE: Swiss Ribbons Pvt Ltd v Union of India (2019) :: The Supreme Court upheld the constitutional validity of the IBC, including the distinction between financial and operational creditors, noting that the Code is a beneficial legislation aimed at resolution and revival rather than liquidation.
+
+## Unclaimed dividends
+Unpaid or unclaimed dividends and refunds in a company in liquidation are paid into the Company Liquidation Dividend and Undistributed Assets Account (s.352), and later to the Investor Education and Protection Fund.
+
+## Winding up of unregistered companies (ss.375, 376)
+Any unregistered company (an association of more than seven members not registered under the Act, excluding railway companies incorporated by statute and others) may be wound up by the Tribunal if it is dissolved, has ceased business, is carrying on business only for winding up, or if it is just and equitable.
+
+TIP: In a winding-up answer, first explain that insolvency-based winding up moved to the IBC in 2016, then the s.271 grounds, s.272 applicants, consequences, liquidator's powers and the s.53 IBC waterfall.
+
+## Recent judgments (2025–26)
+
+CASE: Kalyani Transco v Bhushan Power and Steel Ltd (2025) :: A three-judge bench upheld JSW Steel's resolution plan and set aside the earlier direction to liquidate the company, stressing that the IBC aims at revival.
+
+CASE: Torrent Power Ltd v Ashish Rathi (2026) :: The commercial wisdom of the Committee of Creditors is paramount; the NCLT and NCLAT can review a resolution plan only on the grounds in ss.30(2) and 61(3).
+
+CASE: Tejas Shah v Mantri (2026) :: The s.14 moratorium protects only the corporate debtor, not its guarantors or directors.
+
+* IBC favours revival (Bhushan Power, 2025); CoC commercial wisdom (Torrent Power, 2026).
+* Winding up by the Tribunal on non-insolvency grounds (s.271); insolvency under the IBC.
+* Just and equitable ground: deadlock and loss of trust in quasi-partnerships (Hind Overseas).
+* Consequences: stay of suits, liquidator takes custody.
+* Voluntary liquidation of solvent companies under IBC s.59.
+* Overriding and preferential payments (ss.326, 327); IBC waterfall (s.53).
+* IBC upheld (Swiss Ribbons).
+
+QL: Explain the grounds on which a company may be wound up by the Tribunal under the Companies Act, 2013.
+QL: Discuss the powers and duties of a liquidator.
+QL: Explain the order of payment of liabilities in winding up under the Companies Act and the IBC.
+QS: Just and equitable winding up
+QS: Voluntary liquidation under the IBC
+QS: Overriding preferential payments
+
+MCQ: Inability to pay debts as a ground for winding up under the Companies Act was replaced by proceedings under || SARFAESI | *the Insolvency and Bankruptcy Code, 2016 | FEMA | SICA || Since 2016.
+MCQ: Voluntary liquidation of a solvent company is now governed by || s.271 Companies Act | *s.59 IBC | s.230 Companies Act | s.7 IBC || Declaration of solvency.
+MCQ: The constitutional validity of the IBC was upheld in || Hind Overseas | *Swiss Ribbons v Union of India | Miheer Mafatlal | Salomon || 2019.
+
+# 9 | Law and multinational companies; law reforms
+@topics Collaboration agreements for technology transfer; Control and regulation of foreign companies; taxation of foreign companies; share capital in such companies; Law reforms
+>> Foreign investment in Indian companies is regulated by FEMA and the FDI Policy; foreign companies are taxed on Indian-source income; company law has been continuously reformed towards ease of doing business and better governance.
+
+## Unit 9: Multinational companies
+### Collaboration and technology transfer
+- Technology transfer agreements (licensing of patents, know-how, trademarks) are now largely under the automatic route, with royalty payments freely allowed under FEMA current account rules.
+- Joint ventures governed by shareholders' agreements, articles and competition law (merger control under the Competition Act, 2002, including the deal value threshold introduced in 2023).
+
+### Control and regulation of foreign companies and foreign investment
+- **FEMA, 1999** and the **Foreign Exchange Management (Non-Debt Instruments) Rules, 2019** govern foreign investment in Indian companies, with sectoral caps and conditions; automatic and government approval routes.
+- **Press Note 3 (2020)**: investments from entities of countries sharing a land border with India require government approval.
+- **Foreign companies** with a place of business in India comply with Chapter XXII of the Companies Act.
+
+### Taxation of foreign companies
+- Foreign companies are taxed on income received or deemed to accrue or arise in India, including through a business connection or permanent establishment, subject to Double Taxation Avoidance Agreements.
+- **Significant economic presence** test for digital businesses; equalisation levy (the 6% levy on online advertisement was withdrawn from April 2025; the 2% levy on e-commerce operators was withdrawn earlier, in 2024).
+- **Vodafone International Holdings v Union of India (2012)**: indirect transfer of shares of a foreign company holding Indian assets was held not taxable; Parliament then amended the law retrospectively (2012), and later the Taxation Laws (Amendment) Act, 2021 withdrew the retrospective demands.
+- The **Income-tax Act, 2025** replaced the Income-tax Act, 1961 from 1 April 2026 (see Taxation Law, Paper 4.3).
+
+### Share capital in foreign-owned companies
+Issue of shares to non-residents must comply with pricing guidelines (fair value), reporting (Form FC-GPR) and sectoral caps; downstream investment by foreign-owned Indian companies is treated as indirect foreign investment.
+
+## Unit 10: Law reforms
+- **Companies Act, 2013** replaced the 1956 Act, following the J.J. Irani Committee (2005): introduced OPCs, CSR (s.135), independent directors, class actions, NFRA, SFIO, and the NCLT.
+- **Companies (Amendment) Acts, 2015, 2017, 2019 and 2020**: ease of doing business, decriminalisation of compoundable offences, in-house adjudication, producer companies brought into the 2013 Act.
+- **Insolvency and Bankruptcy Code, 2016**: time-bound resolution; replaced SICA and winding up for insolvency.
+- **Jan Vishwas (Amendment of Provisions) Act, 2023** decriminalised minor offences across laws.
+- **Corporate governance**: SEBI (LODR) Regulations, 2015; Kotak Committee (2017); Business Responsibility and Sustainability Reporting.
+- Areas of continuing reform: related party transactions, auditor independence, minority protection, digital filings (MCA21 V3), group insolvency, cross-border insolvency.
+
+TIP: Mention Press Note 3 (2020) and the Vodafone saga for MNC regulation, and the decriminalisation trend for law reforms.
+
+* Technology transfer and joint ventures under FEMA and competition law.
+* Foreign investment under FEMA and the NDI Rules; Press Note 3 for land-border countries.
+* Foreign companies taxed on Indian-source income; Vodafone and the 2021 withdrawal of retrospective tax.
+* Reforms: 2013 Act, amendments, IBC, decriminalisation, governance norms.
+
+QL: Discuss the legal regulation of multinational companies and foreign investment in India.
+QL: Write an essay on recent reforms in Indian company law.
+QS: Press Note 3 (2020)
+QS: Vodafone case
+QS: Corporate social responsibility
+
+MCQ: Corporate social responsibility is mandated by || s.166 | *s.135 | s.149 | s.241 || Companies Act, 2013.
+MCQ: Retrospective tax demands from the Vodafone amendment were withdrawn by the || Finance Act, 2012 | *Taxation Laws (Amendment) Act, 2021 | IBC | Companies (Amendment) Act, 2020 || 2021.

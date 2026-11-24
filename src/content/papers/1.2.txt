@@ -1,0 +1,203 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Is the Preamble a part of the Constitution?
+- In *In re Berubari Union* (1960), the Court said the Preamble is not part of the Constitution.
+- *Kesavananda Bharati v State of Kerala* (1973) held that it is part of the Constitution and can be amended under Art. 368, provided its basic features are not destroyed. *LIC v Consumer Education and Research Centre* (1995) agreed.
+- The Preamble is not a source of power or of limitations, but it is a key to interpretation where the text is ambiguous.
+- The 42nd Amendment (1976) added "socialist", "secular" and "integrity". In *Dr Balram Singh v Union of India* (2024), the Court rejected a challenge to these additions.
+
+Q: Formation of new States under Article 3
+Parliament may by law:
+- form a new State by separating territory from a State or uniting States;
+- increase or diminish the area of a State; and
+- alter its boundaries or name.
+The procedure:
+- The Bill needs the President's recommendation, and the President must refer it to the State legislature for its views within a set period.
+- Those views are not binding.
+- Such a law is not an amendment under Art. 368 (Art. 4(2)).
+Examples: Andhra State (1953); Telangana (2014); J&K reorganisation (2019), upheld in *In re Article 370* (2023).
+
+Q: Overseas Citizenship of India
+- Art. 11 lets Parliament regulate citizenship. Sections 7A to 7D of the Citizenship Act, 1955 provide for registration of persons of Indian origin as Overseas Citizens of India (OCI).
+- OCI is not dual citizenship. Holders get multiple-entry lifelong visas and parity with NRIs in some economic and educational matters.
+- OCI holders have no voting rights, cannot hold constitutional offices, and cannot normally acquire agricultural land.
+- Registration may be cancelled on grounds such as fraud or disaffection (s.7D).
+
+Q: "Other authorities" under Article 12
+Art. 12 defines "State" to include the Government and Parliament of India, State Governments and legislatures, local authorities, and "other authorities".
+- *Rajasthan SEB v Mohan Lal* (1967): ejusdem generis does not apply; any statutory authority is included.
+- *Ajay Hasia v Khalid Mujib* (1981): the tests are deep and pervasive State financial, functional and administrative control.
+- *Pradeep Kumar Biswas v IICB* (2002): the body must be financially, functionally and administratively dominated by the Government.
+- *Zee Telefilms v Union of India* (2005): the BCCI is not "State", though a writ under Art. 226 lies against it for its public functions.
+
+Q: Doctrine of eclipse
+A pre-Constitution law inconsistent with fundamental rights is not void ab initio. It is overshadowed (eclipsed) by the fundamental right and is dormant. If the inconsistency is removed by a constitutional amendment, the law revives (*Bhikaji Narain Dhakras v State of MP*, 1955). Points to remember:
+- The doctrine applies to pre-Constitution laws (Art. 13(1)).
+- A post-Constitution law that violates fundamental rights is void from inception and cannot revive (*Deep Chand v State of UP*, 1959).
+- A post-Constitution law may still be valid against non-citizens where the right is available only to citizens (*State of Gujarat v Ambica Mills*, 1974).
+
+Q: Creamy layer
+The creamy layer is the advanced section of a backward class, excluded from reservation benefits so that benefits reach the truly backward.
+- *Indra Sawhney v Union of India* (1992) required its exclusion for OBCs.
+- *Jarnail Singh v Lachhmi Narain Gupta* (2018) applied the creamy-layer principle to SC/ST promotions.
+- *State of Punjab v Davinder Singh* (2024) permitted sub-classification within SCs.
+- *Union of India v Rohith Nathan* (2026): creamy-layer status cannot be decided on parental income alone; the parents' posts and status must also be considered.
+
+Q: Right to education under Article 21A
+- The 86th Amendment (2002) inserted Art. 21A: the State shall provide free and compulsory education to all children aged 6 to 14 in such manner as the State may by law determine. It also amended Art. 45 (early childhood care) and added Art. 51A(k).
+- The Right of Children to Free and Compulsory Education Act, 2009 implements Art. 21A. It includes the 25% quota for disadvantaged children in private unaided schools, upheld in *Society for Unaided Private Schools v Union of India* (2012).
+- Unaided minority schools are exempt (*Pramati Educational Trust*, 2014). The correctness of that exemption was referred to a larger bench in 2025.
+
+Q: Writ of quo warranto
+"By what authority?" The writ questions a person's right to hold a public office. Conditions:
+1. the office must be public, created by the Constitution or a statute;
+2. it must be substantive, not held at pleasure;
+3. the person must be in actual possession of it; and
+4. the appointment must be contrary to law.
+Any person may apply; there is no need to be personally aggrieved. Example: *University of Mysore v C.D. Govinda Rao* (1964).
+
+Q: Fundamental Duties
+- Part IVA (Art. 51A) was added by the 42nd Amendment (1976) on the Swaran Singh Committee's recommendation. The 86th Amendment (2002) added clause (k). There are eleven duties, among them:
+  - to respect the Constitution, the National Flag and Anthem;
+  - to uphold sovereignty;
+  - to protect the environment;
+  - to develop scientific temper;
+  - for parents, to provide education.
+- The duties are not directly enforceable, but courts use them to interpret laws and test reasonableness (*AIIMS Students' Union v AIIMS*, 2002).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: "Equality is antithetic to arbitrariness." Discuss the scope of Article 14.
+### Text
+The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.
+- Equality before the law is a negative concept taken from Dicey's rule of law: no one is above the law.
+- Equal protection is positive, taken from the American 14th Amendment: like should be treated alike.
+### Reasonable classification
+Art. 14 forbids class legislation but permits reasonable classification. Two tests (*State of WB v Anwar Ali Sarkar*, 1952; *Ram Krishna Dalmia v Justice Tendolkar*, 1958):
+1. an intelligible differentia distinguishing those grouped together from those left out; and
+2. a rational nexus between the differentia and the object of the law.
+A law may apply to a single person if that person forms a class by himself (*Dalmia*).
+### New doctrine: arbitrariness
+- *E.P. Royappa v State of Tamil Nadu* (1974): equality and arbitrariness are sworn enemies.
+- *Maneka Gandhi v Union of India* (1978): Arts. 14, 19 and 21 form a golden triangle; procedure must be fair, just and reasonable.
+- *Ajay Hasia* (1981) applied arbitrariness to State action.
+- *Shayara Bano v Union of India* (2017) and *Joseph Shine v Union of India* (2018) struck down even legislation for manifest arbitrariness: triple talaq and adultery respectively.
+### Equality and protective discrimination
+- Arts. 15(4), 15(5), 16(4) and 16(4A) are facets of equality, not exceptions to it (*State of Kerala v N.M. Thomas*, 1976; *Indra Sawhney*, 1992).
+- The 50% ceiling and creamy-layer exclusion apply.
+- The 10% EWS reservation was upheld in *Janhit Abhiyan v Union of India* (2022).
+### Other applications
+- Equal pay for equal work (*Randhir Singh*, 1982).
+- Transgender persons as a third gender (*NALSA*, 2014).
+- Recent cases on converts and SC status (*Chinthada Anand*, 2026) and on the creamy layer (*Rohith Nathan*, 2026).
+### Conclusion
+Art. 14 has grown from a rule against unreasonable classification into a general guarantee against arbitrariness, and it supports substantive equality.
+
+Q: Discuss the freedom of speech and expression under Article 19(1)(a) and the reasonable restrictions on it.
+### Scope
+Art. 19(1)(a) guarantees to citizens freedom of speech and expression. The courts have read it to include:
+- freedom of the press (*Romesh Thappar v State of Madras*, 1950; *Indian Express Newspapers*, 1985);
+- the right to information and to know (*State of UP v Raj Narain*, 1975);
+- the right to broadcast; airwaves are public property (*Cricket Association of Bengal*, 1995);
+- commercial speech (*Tata Press*, 1995);
+- the right to fly the national flag (*Naveen Jindal*, 2004);
+- expression of gender identity (*NALSA*, 2014);
+- speech and business over the internet (*Anuradha Bhasin v Union of India*, 2020). The Court has since spoken of access to the internet as a fundamental right (*Just Rights for Children Alliance v S. Harish*, 2026).
+### Restrictions under Art. 19(2)
+These are exhaustive. Restrictions must be reasonable and in the interests of:
+- sovereignty and integrity of India;
+- security of the State;
+- friendly relations with foreign States;
+- public order;
+- decency or morality;
+- contempt of court;
+- defamation;
+- incitement to an offence.
+### Tests
+- Proximate nexus: the speech must be like a "spark in a powder keg" (*S. Rangarajan v P. Jagjivan Ram*, 1989).
+- Distinction between discussion, advocacy and incitement (*Shreya Singhal v Union of India*, 2015, which struck down s.66A of the IT Act).
+- Proportionality (*Anuradha Bhasin*, 2020).
+- Criminal defamation was upheld (*Subramanian Swamy*, 2016).
+- *Kaushal Kishor v State of UP* (2023): no additional restrictions beyond Art. 19(2), and the rights operate horizontally in some cases.
+- *Imran Pratapgarhi v State of Gujarat* (2025): speech is judged by the standards of reasonable, strong-minded persons, and police must respect free speech before registering FIRs.
+### Conclusion
+Free speech is the foundation of democracy. Restrictions must fall within the eight heads of Art. 19(2) and must be proportionate.
+
+Q: Trace the expansion of the right to life and personal liberty under Article 21.
+### From Gopalan to Maneka
+- *A.K. Gopalan v State of Madras* (1950) read "procedure established by law" as any procedure enacted by law, and read the rights as separate compartments.
+- *Maneka Gandhi v Union of India* (1978) held that the procedure must be fair, just and reasonable. Arts. 14, 19 and 21 are inter-linked, which in effect brought in due process.
+### Life means more than animal existence
+The Court has read many rights into "life":
+- livelihood (*Olga Tellis*, 1985);
+- a healthy environment (*Subhash Kumar*, 1991; *M.C. Mehta*);
+- free legal aid and speedy trial (*Hussainara Khatoon*, 1979);
+- dignity against custodial violence (*D.K. Basu*, 1997);
+- privacy (*K.S. Puttaswamy*, 2017);
+- dying with dignity and living wills (*Common Cause*, 2018), first actually applied to allow withdrawal of life support in *Harish Rana v Union of India* (2026);
+- sexual autonomy (*Navtej Singh Johar*, 2018);
+- shelter, health and education;
+- menstrual health in schools (*Dr Jaya Thakur*, 2026);
+- safe footpaths (*Maniyar Iliyaz*, 2026);
+- protection against the adverse effects of climate change (*M.K. Ranjitsinh v Union of India*, 2024).
+### Personal liberty and the accused
+- Written grounds of arrest are required (*Pankaj Bansal*, 2023; *Prabir Purkayastha*, 2024). *Mihir Rajesh Shah* (2025) extended this to every offence, at least two hours before production.
+- Bail is the rule (*Satender Kumar Antil*, 2022).
+### Conclusion
+Art. 21 has become the most dynamic of all fundamental rights. It is the source of a wide range of unenumerated rights, interpreted in harmony with the Directive Principles and international law.
+
+Q: Examine the relationship between Fundamental Rights and Directive Principles of State Policy.
+### Nature
+- Fundamental Rights (Part III) are justiciable; Directive Principles (Part IV) are not enforceable in courts but are fundamental in governance (Art. 37).
+- Rights are mainly negative obligations on the State; the Directives are positive goals of social and economic democracy.
+### Phases of the relationship
+1. **Primacy of rights.** *State of Madras v Champakam Dorairajan* (1951): Directives must run subsidiary to rights. This led to the 1st Amendment (Art. 15(4)).
+2. **Harmonious construction.** *In re Kerala Education Bill* (1958): avoid conflict, giving effect to both as far as possible.
+3. **Constitutional amendments.** The 25th Amendment inserted Art. 31C, protecting laws for Arts. 39(b) and (c). *Kesavananda* (1973) upheld its first part. The 42nd Amendment extended it to all Directives, which *Minerva Mills* (1980) struck down as destroying the balance.
+4. **Balance as basic structure.** *Minerva Mills*: harmony and balance between Parts III and IV is a basic feature.
+5. **Directives as content of rights.** Free legal aid (Art. 39A), equal pay (Art. 39(d)), education (Art. 45, later Art. 21A), environment (Art. 48A), and workers' participation were read into Arts. 14 and 21 (*Unni Krishnan*, 1993; *Bandhua Mukti Morcha*, 1984).
+6. **Recent position.** *Property Owners Association v State of Maharashtra* (2024): not all private resources are "material resources of the community" under Art. 39(b).
+### Conclusion
+The two parts are complementary. The Directives give content and direction to the rights, and courts read them together to achieve the Preamble's goals.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: The government of a State suspends all mobile internet services in a district indefinitely to prevent "rumours", without publishing the order. Traders challenge it. Decide.
+**Issue:** Does an indefinite, unpublished internet shutdown violate Arts. 19(1)(a), 19(1)(g) and 21?
+**Law:**
+- Freedom of speech and the freedom to carry on trade through the internet are protected (*Anuradha Bhasin v Union of India*, 2020).
+- Restrictions must:
+  - be published;
+  - be necessary and proportionate;
+  - be temporary and reviewed periodically, under the Telecom Suspension Rules (now framed under the Telecommunications Act, 2023); and
+  - be open to judicial review.
+- Access to the internet has been recognised as part of fundamental rights (*Just Rights for Children Alliance v S. Harish*, 2026).
+**Application:** An indefinite suspension, unpublished and unreviewed, based on a vague fear of rumours, fails the tests of necessity and proportionality. It is not tied to an imminent threat to public order.
+**Conclusion:** The order is unconstitutional. The court will quash it or direct a reasoned, published, time-bound order with review.
+
+Q: X is arrested for cheating. He is told orally why he is arrested but is given no written grounds. He is produced before the Magistrate and remanded. Advise X.
+**Issue:** Is the arrest valid without written grounds?
+**Law:**
+- Art. 22(1) and s.47 BNSS require that the arrested person be informed of the grounds of arrest.
+- *Pankaj Bansal* (2023, PMLA) and *Prabir Purkayastha* (2024, UAPA) required written grounds.
+- *Vihaan Kumar v State of Haryana* (2025): non-compliance renders the arrest illegal.
+- *Mihir Rajesh Shah v State of Maharashtra* (2025): written grounds, in a language the arrested person understands, are mandatory for all offences. If not given at arrest, they must be supplied at least two hours before production for remand; otherwise the arrest and remand are illegal.
+**Application:** Only oral grounds were given, and nothing in writing was supplied before the remand hearing.
+**Conclusion:** The arrest and remand are illegal. X is entitled to be released, though the investigation may continue in accordance with law. X may also seek compensation for illegal detention.
+
+Q: A State law reserves 60% of seats in State medical colleges for backward classes, in addition to the 10% EWS quota. Its validity is challenged. Decide.
+**Issue:** Can reservation exceed the 50% ceiling?
+**Law:**
+- *Indra Sawhney* (1992): reservation under Arts. 15(4) and 16(4) should not ordinarily exceed 50%, except in extraordinary situations, such as far-flung areas, which must be shown by quantifiable data.
+- *Dr Jaishri Laxmanrao Patil v Chief Minister* (2021): the Maratha quota beyond 50% was struck down.
+- *Janhit Abhiyan* (2022): the 10% EWS quota is outside the 50% ceiling, which applies only to backward-class reservation.
+**Application:** A 60% backward-class reservation breaches the 50% ceiling. Unless the State shows exceptional circumstances with quantifiable data, it is invalid. The separate EWS quota is not counted towards the ceiling.
+**Conclusion:** The 60% quota is struck down to the extent it exceeds 50%, unless extraordinary circumstances are established.
+
+Q: A cricket player challenges his ban by a national sports body registered as a society, which receives no State funding but regulates the sport. He files a writ petition under Article 32. Is it maintainable?
+**Issue:** Is the sports body "State" under Art. 12?
+**Law:**
+- Under the *Ajay Hasia* and *Pradeep Kumar Biswas* tests, a body is "State" if it is financially, functionally and administratively dominated by the Government.
+- *Zee Telefilms v Union of India* (2005): the BCCI is not "State" under Art. 12, so an Art. 32 petition does not lie. However, because it performs public functions, a writ under Art. 226 lies against it (also *BCCI v Cricket Association of Bihar*, 2015).
+**Application:** The body receives no State funding and is not under deep and pervasive State control, so it is not "State".
+**Conclusion:** The Art. 32 petition is not maintainable. The player may file a writ under Art. 226 because the body performs public functions, or may sue in a civil court.

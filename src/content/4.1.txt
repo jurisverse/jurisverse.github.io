@@ -1,0 +1,542 @@
+@title Labour Law – II
+@subtitle Wages, bonus, health and safety, social security, retirement benefits, contract labour and the unorganised sector
+@paper 4.1
+@sem IV
+@color #7a2f45
+@dark #6a283c
+@intro Covers the syllabus as written, under the older Acts it names. All four Labour Codes came into force on 21 November 2025, so every unit adds a "Current law" note on where the provision now sits. The Code on Wages, 2019 replaced the Minimum Wages, Payment of Wages, Payment of Bonus and Equal Remuneration Acts. The Code on Social Security, 2020 replaced the Employees' Compensation, ESI, EPF, Maternity Benefit, Gratuity and Unorganised Workers' Social Security Acts. The Occupational Safety, Health and Working Conditions Code, 2020 replaced the Factories, Mines, Plantations Labour, Contract Labour, Inter-State Migrant Workmen and Beedi and Cigar Workers Acts.
+@reading S.N. Mishra, Labour and Industrial Laws
+@reading V.G. Goswami, Labour and Industrial Law
+@reading Khan and Khan, Labour Law
+@reading The Code on Wages, 2019
+@reading The Code on Social Security, 2020
+@reading The Occupational Safety, Health and Working Conditions Code, 2020
+
+# 1 | Remuneration for labour
+@topics Theories of wages; Concepts of wages; Components of wages; Disparity in wages; Wage determining process; Concept of bonus; Protection of wages
+>> Wage law sets a floor below which pay may not fall, protects wages once earned, and shares surplus through bonus. Three ideas run through it: the minimum wage, the fair wage and the living wage.
+
+## 1.1 Theories of wages
+| Theory | Main idea | Proponent |
+|---|---|---|
+| Subsistence theory | Wages tend to settle at the level that just keeps the worker and family alive | Ricardo; Lassalle's "iron law of wages" |
+| Wages fund theory | A fixed fund of capital is set aside for wages; average wage = fund ÷ number of workers | J.S. Mill (later recanted) |
+| Residual claimant theory | Workers get what remains after rent, interest and profit are paid | Francis A. Walker |
+| Marginal productivity theory | Wages equal the value of the marginal worker's output | J.B. Clark |
+| Supply and demand | Wages are fixed where the supply of and demand for labour meet | Marshall |
+| Standard of living theory | Wages depend on the standard of living workers are used to and insist on | |
+
+## 1.2 Concepts of wages
+The Committee on Fair Wages (1948) described three levels:
+- **Minimum wage**: enough for the bare sustenance of life and to preserve the worker's efficiency, with some education, medical care and amenities.
+- **Fair wage**: lies between the minimum and the living wage, set by productivity, prevailing rates, national income and the industry's capacity to pay.
+- **Living wage**: enough for a comfortable life, including education, health, insurance and protection against misfortune. This is the goal in Art. 43.
+
+The **need-based minimum wage** was set by the 15th Indian Labour Conference (1957). It assumes a family of three consumption units, 2,700 calories per unit, 72 yards of cloth per family per year, rent for minimum housing, and 20% extra for fuel, lighting and other items.
+
+CASE: Express Newspapers (Private) Ltd v Union of India (1958) :: The Supreme Court explained the three concepts of minimum, fair and living wage. It held that the capacity of an industry to pay is relevant to fair wages but not to the minimum wage, which every employer must pay.
+
+CASE: Workmen v Reptakos Brett and Co Ltd (1992) :: The Court added a sixth component to the 1957 norms. A further 25% of the minimum wage covers children's education, medical needs, recreation, festivals, old-age provision and marriage.
+
+## 1.3 Components of wages
+- Basic wage, dearness allowance (DA), house rent allowance, other allowances, and overtime.
+- **DA** neutralises the rise in the cost of living. It may be linked to the Consumer Price Index (a variable DA) or fixed.
+- Principles for fixing DA: full neutralisation only at the lowest levels, a graded scale above that, and regard to the industry's capacity and the region.
+
+## 1.4 Disparity in wages
+Wages differ widely across sectors: organised and unorganised, public and private, urban and rural, and between men and women. This is why a national approach is needed. The **national floor wage** (s.9, Code on Wages) is meant to stop State minimum wages from falling too low.
+
+## 1.5 Wage-determining process
+- **Unilateral fixation** by the employer, subject to the statutory minimum.
+- **Bilateral fixation** through collective bargaining and settlements.
+- **Conciliation, arbitration and adjudication** under industrial dispute law.
+- **Wage Boards** (tripartite bodies for particular industries, for example the Majithia Wage Board for working journalists, upheld in *ABP Pvt Ltd v Union of India*, 2014) and **Pay Commissions** for government employees. The Eighth Central Pay Commission was approved in January 2025.
+- **Principles of wage fixation**: industry-cum-region, capacity to pay, comparison with similar work, cost of living, productivity, and social justice.
+
+## 1.6 Bonus
+- Bonus was first a gratuitous payment. It became a claim under industrial adjudication: the **Full Bench Formula** of the Labour Appellate Tribunal (1950), approved in *Associated Cement Companies Ltd v Workmen* (1959), treated bonus as a share in available surplus.
+- Computation: allocable surplus is worked out from gross profit after "prior charges"; bonus is paid between a minimum and a maximum percentage (Unit 5).
+
+## 1.7 Protection of wages
+Wages must be paid within fixed time limits, only authorised deductions may be made, and there are remedies for non-payment, late payment and unauthorised deductions (Unit 5).
+
+NOTE: Current law. The Code on Wages, 2019 now governs minimum wages, payment of wages, bonus and equal remuneration in one statute. It has a single definition of "wages": if excluded allowances exceed 50% of total pay, the excess is added back into wages. It also has a national floor wage.
+
+* Theories: subsistence, wages fund, residual claimant, marginal productivity, supply and demand, standard of living.
+* Minimum, fair and living wages (Express Newspapers); the need-based minimum (1957) plus 25% (Reptakos Brett).
+* Wages are fixed unilaterally, by agreement, by adjudication, by Wage Boards and by Pay Commissions.
+* Bonus moved from gratuity to a statutory right; the Code on Wages is now the governing law.
+
+QL: Explain the concepts of minimum wage, fair wage, living wage and need-based minimum wage with reference to decided cases.
+QL: Discuss the various theories of wages.
+QL: Describe the modes of wage fixation in India.
+QS: Dearness allowance
+QS: Wage Board
+QS: National floor wage
+
+MCQ: The need-based minimum wage norms were laid down by || the Royal Commission on Labour | *the 15th Indian Labour Conference (1957) | the Fair Wages Committee | the Second Pay Commission || 1957.
+MCQ: The sixth component (25% for education, medical needs and so on) was added in || Express Newspapers | *Workmen v Reptakos Brett | Unichoyi | Bijay Cotton Mills || 1992.
+MCQ: The wages fund theory is associated with || Ricardo | *J.S. Mill | J.B. Clark | Walker || Later recanted by Mill.
+
+# 2 | Health and safety
+@topics Obligations for health and safety: factories, mines and plantations; Employer's liability: workmen's compensation, ESI; Liability for hazardous industries and environmental protection
+>> The State requires employers to keep workplaces safe and healthy, pay compensation when workers are injured, and accept absolute liability for hazardous activities.
+
+## 2.1 Legislative controls
+### Factories Act, 1948
+- **Health** (Chapter III, ss.11 to 20): cleanliness, disposal of waste, ventilation and temperature, dust and fumes, artificial humidification, overcrowding, lighting, drinking water, latrines and spittoons.
+- **Safety** (Chapter IV, ss.21 to 41): fencing of machinery, work on or near machinery in motion, employment of young persons on dangerous machines, hoists and lifts, pressure plant, floors and stairs, excessive weights, eye protection, dangerous fumes, explosive or inflammable dust, and precautions against fire.
+- **Hazardous processes** (Chapter IVA, ss.41A to 41H, added after Bhopal): site appraisal committees, compulsory disclosure, the occupier's specific responsibility, permissible limits of exposure, and workers' right to warn.
+- **Welfare** (Chapter V): washing facilities, first aid, canteens (250 or more workers), crèches (30 or more women workers), and welfare officers (500 or more workers).
+
+### Mines Act, 1952 and Plantations Labour Act, 1951
+- Mines: health and safety, hours, prohibition of women working below ground (relaxed by notification), and inspection by the Directorate General of Mines Safety.
+- Plantations: housing, medical facilities, drinking water, crèches, and education for workers' children.
+
+NOTE: Current law. The OSH Code, 2020 now governs health, safety and welfare in factories, mines, plantations, docks and construction. Factory thresholds rose to 20 workers with power and 40 without. It provides for safety committees, free annual health check-ups for workers over a prescribed age, and appointment letters for every worker.
+
+## 2.2 Employer's liability
+- **Workmen's (Employees') Compensation**: no-fault compensation for personal injury by accident arising out of and in the course of employment (Unit 6).
+- **Employees' State Insurance**: social insurance for sickness, maternity, disablement and death, funded by contributions (Unit 6).
+
+## 2.3 Hazardous and inherently dangerous industries
+CASE: M.C. Mehta v Union of India (Oleum Gas Leak) (1987) :: An enterprise engaged in a hazardous or inherently dangerous activity is under an absolute and non-delegable duty to ensure no harm results. It is absolutely liable for any harm, with none of the exceptions allowed under Rylands v Fletcher. Compensation must be related to the magnitude and capacity of the enterprise.
+
+CASE: Consumer Education and Research Centre v Union of India (1995) :: Asbestos industry workers were held to have a fundamental right to health and medical care under Art. 21, read with Arts. 39(e), 41 and 43. The Court directed periodic medical check-ups, maintenance of health records for 40 years and compensation for occupational disease.
+
+- Environmental protection laws apply alongside these: the Environment (Protection) Act 1986, the Public Liability Insurance Act 1991 and the National Green Tribunal Act 2010.
+
+* Factories Act: health, safety, hazardous processes and welfare; mines and plantations have their own laws, all now in the OSH Code.
+* Employer liability through compensation (no fault) and ESI (insurance).
+* Absolute liability for hazardous industries (Oleum); right to health of workers (CERC).
+
+QL: Discuss the provisions for health and safety of workers under the Factories Act, 1948 and the changes made by the OSH Code, 2020.
+QL: Explain the principle of absolute liability for hazardous industries with reference to the Oleum Gas Leak case.
+QS: Hazardous processes under the Factories Act
+QS: CERC v Union of India
+
+MCQ: The principle of absolute liability was laid down in || Rylands v Fletcher | *M.C. Mehta v Union of India (Oleum Gas, 1987) | CERC v Union of India | Bhopal settlement || No exceptions apply.
+MCQ: Workers' right to health under Art. 21 was recognised for asbestos workers in || Oleum | *CERC v Union of India (1995) | Bandhua Mukti Morcha | Reptakos Brett || 1995.
+
+# 3 | Labour welfare
+@topics Welfare by employers, agreements and statute; Provident fund and family pension; Gratuity; Inter-state migrant workmen; Working hours; Women and labour; Employment of young persons
+>> Welfare law goes beyond wages: it provides for old age, regulates hours, protects women and migrants, and keeps children out of work.
+
+## 3.1 Sources of welfare
+Welfare comes from three sources:
+- **Employers** voluntarily: housing, transport, schools and recreation.
+- **Bipartite agreements**: settlements under collective bargaining.
+- **Statute**: canteens, crèches, rest rooms, first aid, welfare officers, and welfare funds such as those for mines, beedi workers and building workers.
+
+## 3.2 and 3.3 Provident fund, pension and gratuity
+These are covered in detail in Unit 7.
+
+## 3.4 Inter-State migrant workmen
+- The Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979 required registration of establishments, licensing of contractors, a displacement allowance, journey allowance, equal wages and suitable residential accommodation.
+- The migrant crisis during the COVID-19 lockdown led to suo motu proceedings (*In re Problems and Miseries of Migrant Labourers*, 2020 and 2021). The Supreme Court directed registration of unorganised workers on a national database, "One Nation One Ration Card", and community kitchens.
+
+NOTE: Current law. The OSH Code (Chapter XI) now covers inter-State migrant workers. It defines them by wage level rather than only by recruitment through a contractor, and it provides an annual journey allowance and portability of benefits.
+
+## 3.5 Regulation of working hours
+- Factories Act: 48 hours a week (s.51), 9 hours a day (s.54), a rest interval after 5 hours (s.55), a spread-over of 10.5 hours (s.56), a weekly holiday (s.52), and overtime at twice the ordinary rate (s.59).
+- OSH Code: an 8-hour daily limit, with weekly hours and spread-over as prescribed; overtime at twice the rate of wages; overtime only with the worker's consent.
+
+## 3.6 Women and the labour force
+### Equal remuneration
+- Equal pay for equal work is a constitutional goal (Arts. 14, 16, 39(d)).
+
+CASE: Randhir Singh v Union of India (1982) :: Equal pay for equal work was held to be a constitutional goal capable of enforcement through Arts. 14 and 16, read with Art. 39(d). Drivers in the Delhi Police doing the same work as other drivers were entitled to the same pay.
+
+CASE: Mackinnon Mackenzie and Co Ltd v Audrey D'Costa (1987) :: Lady stenographers paid less than male stenographers doing the same work were held entitled to equal remuneration under the Equal Remuneration Act, 1976. A settlement could not override the statute, and paying less to an all-women category was itself discrimination.
+
+### Maternity benefit
+- Maternity Benefit Act, 1961: 26 weeks of paid leave (since the 2017 amendment) for the first two children, 12 weeks for the third child onwards, 12 weeks for adopting and commissioning mothers, a crèche where there are 50 or more employees, work from home by agreement, and protection against dismissal during leave.
+
+CASE: B. Shah v Presiding Officer, Labour Court, Coimbatore (1977) :: Maternity benefit for "the period of her actual absence" was to be computed for all days, including Sundays, so that the woman received full wages for the whole period, consistent with the beneficial purpose of the Act.
+
+- **Protective provisions** in factories, plantations and mines covered restrictions on night work, on lifting weights and on dangerous operations.
+
+NOTE: Current law. The Code on Wages (s.3) prohibits discrimination on the ground of gender, including transgender identity, in wages and recruitment for the same work or work of a similar nature. The Code on Social Security (Chapter VI) carries over the maternity benefit. The OSH Code allows women to work in all establishments and at night (between 7 pm and 6 am) with their consent and with safety measures.
+
+## 3.7 Employment of young persons
+- The Child Labour (Prohibition and Regulation) Act, 1986, amended in 2016, prohibits employing children below 14 in any occupation. The exceptions are helping the family in a family enterprise outside school hours, and child artists. Adolescents aged 14 to 18 may not be employed in hazardous occupations and processes. Art. 24 prohibits child labour in factories, mines and hazardous employment; Art. 21A guarantees education.
+
+CASE: M.C. Mehta v State of Tamil Nadu (Child Labour) (1996) :: Concerning children in the Sivakasi match and fireworks industry, the Court directed that offending employers pay ₹20,000 per child into a Child Labour Rehabilitation-cum-Welfare Fund. The State was to provide employment to an adult family member or contribute ₹5,000, and the children were to be given education.
+
+* Welfare comes from employers, agreements and statute.
+* Inter-State migrant workers are now covered by the OSH Code; there were Supreme Court directions during COVID.
+* Hours: 48 a week and 9 a day under the Factories Act; 8 a day under the OSH Code; overtime at twice the rate.
+* Equal pay (Randhir Singh; Audrey D'Costa); maternity benefit of 26 weeks (B. Shah).
+* Child labour is prohibited below 14, and in hazardous work below 18 (M.C. Mehta 1996).
+
+QL: Discuss the law relating to equal remuneration for men and women with reference to decided cases.
+QL: Explain the provisions of the Maternity Benefit Act, 1961 as amended, and their place in the Code on Social Security.
+QL: Critically examine the law relating to child labour in India.
+QS: Inter-State migrant workmen
+QS: Regulation of working hours
+QS: M.C. Mehta v State of Tamil Nadu (1996)
+
+MCQ: Maternity leave was raised to 26 weeks by the amendment of || 2008 | *2017 | 1995 | 2020 || For the first two children.
+MCQ: Equal remuneration for lady stenographers was upheld in || Randhir Singh | *Mackinnon Mackenzie v Audrey D'Costa | B. Shah | Reptakos Brett || 1987.
+MCQ: The Child Labour Rehabilitation-cum-Welfare Fund contribution fixed per child was || ₹5,000 | *₹20,000 | ₹50,000 | ₹1,000 || M.C. Mehta (1996).
+
+# 4 | Protection of the weaker sectors of labour
+@topics Tribal labour; Beedi workers; Unorganised labour like domestic servants; Bonded labour and rehabilitation; Contract labour regulation; Constitutional dimensions of labour standards
+>> The most vulnerable workers (tribal, home-based, domestic, bonded and contract labour) fall outside the ordinary employer-employee model, so the law protects them through special statutes and the Constitution.
+
+## 4.1 Tribal labour
+Tribal workers face land alienation, forced migration, debt bondage and exploitation by contractors in forestry, mining and construction. Protective laws include the Fifth Schedule, PESA 1996, the Forest Rights Act 2006 and State land transfer regulations. The need is for regulation of recruitment, minimum wages and protection of traditional livelihoods.
+
+## 4.2 Beedi workers
+- Beedi rolling is largely home-based and done by women, through contractors ("gharkhata" system), which makes the employer-employee relationship hard to prove.
+- The Beedi and Cigar Workers (Conditions of Employment) Act, 1966 regulated industrial premises, contract labour and home-based work, and deemed contractors' workers to be employees of the principal employer.
+
+CASE: Mangalore Ganesh Beedi Works v Union of India (1974) :: The Supreme Court upheld the Beedi and Cigar Workers Act, 1966, including provisions treating the principal employer as liable for home workers, as reasonable restrictions in the interest of the general public.
+
+NOTE: Current law. The Beedi and Cigar Workers Act is now subsumed in the OSH Code. The beedi welfare cess was subsumed into GST in 2017.
+
+## 4.3 Unorganised labour: domestic workers
+- Domestic workers have no comprehensive central law. Some States (Kerala, Tamil Nadu, Maharashtra and others) have included them in minimum wage notifications or welfare boards.
+- India has not ratified ILO Convention 189 (Domestic Workers, 2011).
+- Domestic workers can register on the e-Shram portal (2021) and are covered by social security schemes for unorganised workers (Unit 9).
+
+## 4.4 Bonded labour
+- Art. 23 prohibits begar and forced labour. The Bonded Labour System (Abolition) Act, 1976 extinguishes bonded debts, frees bonded labourers, and requires Vigilance Committees and rehabilitation.
+
+CASE: People's Union for Democratic Rights v Union of India (Asiad workers) (1982) :: Paying less than the minimum wage is "forced labour" under Art. 23, because economic compulsion forces the worker to accept it. Art. 23 is enforceable against private persons as well.
+
+CASE: Bandhua Mukti Morcha v Union of India (1984) :: In a PIL on bonded labourers in stone quarries near Delhi, the Court held that the State must identify, release and rehabilitate bonded labourers. It appointed commissioners and gave directions on rehabilitation, minimum wages and welfare.
+
+CASE: Neerja Chaudhary v State of Madhya Pradesh (1984) :: Release of bonded labourers without rehabilitation was held to violate Art. 21. The State must rehabilitate freed bonded labourers so they do not slip back into bondage.
+
+- The Central Sector Scheme for Rehabilitation of Bonded Labourers (2016, revised 2021) provides cash assistance to released labourers.
+
+## 4.5 Contract labour
+Contract labour is regulated and, in some cases, abolished (Unit 8).
+
+## 4.6 Constitutional dimensions of labour standards
+- Fundamental Rights: Arts. 14 and 16 (equal pay), 19(1)(c) (association), 21 (livelihood, health), 23 (forced labour), 24 (child labour).
+- Directive Principles: Arts. 38, 39(a), (d), (e), (f), 41, 42 (humane conditions, maternity relief), 43 (living wage), 43A (worker participation in management), 47.
+- Olga Tellis v Bombay Municipal Corporation (1985): the right to livelihood is part of the right to life.
+
+* Tribal and home-based beedi workers need special regulation (Mangalore Ganesh Beedi Works).
+* Domestic workers have no central law; e-Shram registration and welfare schemes apply.
+* Bonded labour is abolished; below-minimum wages are forced labour (PUDR); identification and rehabilitation are required (Bandhua Mukti Morcha; Neerja Chaudhary).
+* Labour standards rest on Arts. 14, 21, 23, 24 and the Directive Principles.
+
+QL: Discuss the constitutional and statutory measures for abolition of bonded labour and rehabilitation of bonded labourers.
+QL: "Payment of less than the minimum wage amounts to forced labour." Discuss with reference to the Asiad workers' case.
+QL: Discuss the constitutional dimensions of labour standards in India.
+QS: Beedi workers
+QS: Domestic workers
+QS: Neerja Chaudhary v State of MP
+
+MCQ: Payment of less than minimum wages was held to be forced labour under Art. 23 in || Bandhua Mukti Morcha | *PUDR v Union of India (Asiad, 1982) | Olga Tellis | Neerja Chaudhary || Economic compulsion.
+MCQ: The Beedi and Cigar Workers Act, 1966 was upheld in || Express Newspapers | *Mangalore Ganesh Beedi Works v Union of India | Randhir Singh | Royal Talkies || 1974.
+
+# 5 | Law relating to wages and bonus
+@topics Minimum Wages Act, 1948: objectives, validity, fixation and revision, exemptions; Payment of Wages Act, 1936: payment, authorised deductions; Payment of Bonus Act, 1965: background, present position, exemptions, 2007 amendment
+>> The three Acts set a floor for wages, ensure prompt and full payment, and give workers a statutory share in profits. All three are now consolidated in the Code on Wages, 2019.
+
+## 5.1 Minimum Wages Act, 1948
+- Objective: to prevent sweated labour and exploitation by fixing minimum wages in scheduled employments.
+- Fixation and revision (ss.3 to 5): by the appropriate government, using the **committee method** (committees hold inquiries and advise) or the **notification method** (proposals are published for objections). Rates are revised at intervals not exceeding five years. Rates may be time-rate, piece-rate, guaranteed time-rate or overtime rate, and may include a cost-of-living allowance.
+- Advisory Boards and a Central Advisory Board coordinate.
+- Claims (s.20): an authority hears claims for less than minimum wages and may award compensation up to ten times the shortfall.
+
+CASE: Bijay Cotton Mills Ltd v State of Ajmer (1955) :: The Minimum Wages Act was upheld as a reasonable restriction on the freedom of trade under Art. 19(6). Employers who cannot pay a minimum wage have no right to carry on business, because the Act is meant to prevent exploitation.
+
+CASE: U. Unichoyi v State of Kerala (1962) :: A minimum wage notification was upheld. The Court held that the minimum wage is the lowest wage to be paid regardless of the employer's capacity, and that the Act's procedure for fixation was not arbitrary.
+
+CASE: Sanjit Roy v State of Rajasthan (1983) :: Workers on famine relief works could not be paid less than the minimum wage. An exemption law permitting this violated Art. 23.
+
+## 5.2 Payment of Wages Act, 1936
+- Responsibility for payment (s.3), wage periods not exceeding one month (s.4), and time of payment (s.5): by the 7th or 10th day of the following month, depending on the size of the establishment; on termination, within two working days.
+- **Authorised deductions only** (s.7): fines (s.8), deductions for absence from duty (s.9), damage to or loss of goods (s.10), house accommodation and amenities, recovery of advances and loans, income tax, provident fund, cooperative societies, and insurance. The total may not exceed 50% of wages, or 75% where cooperative society payments are included.
+- Claims (s.15): for delayed payment or unauthorised deduction, before the authority, with compensation.
+
+## 5.3 Payment of Bonus Act, 1965
+- **Background**: bonus moved from gratuity (paid at festivals) to an industrial claim (the Full Bench Formula, 1950) and then, after the Bonus Commission (1964), to a statute.
+- **Coverage**: factories and establishments with 20 or more persons. Employees drawing up to ₹21,000 a month (raised from ₹10,000 by the 2015 amendment) who have worked at least 30 days in the year are eligible. Bonus is computed on a wage of ₹7,000 or the minimum wage, whichever is higher.
+- **Minimum bonus** is 8.33% of wages (s.10), paid even without profits. **Maximum bonus** is 20% (s.11). Allocable surplus is 60% of available surplus (67% for foreign companies). Set-on and set-off carry surplus and deficit forward over four years (s.15).
+- **Disqualification** (s.9): dismissal for fraud, riotous or violent behaviour on the premises, theft, misappropriation or sabotage.
+- **Exemptions** (s.32): LIC, the Reserve Bank, departmental undertakings, hospitals, educational and non-profit institutions, among others.
+- **2007 amendment**: raised the eligibility ceiling to ₹10,000 and the calculation ceiling to ₹3,500. The 2015 amendment raised these to ₹21,000 and ₹7,000 respectively.
+
+CASE: Jalan Trading Co (P) Ltd v Mill Mazdoor Sabha (1967) :: The Supreme Court upheld most of the Payment of Bonus Act, including the minimum bonus, but struck down s.33 (application to pending disputes in certain cases) and parts of ss.34 and 37 as discriminatory or as excessive delegation.
+
+CASE: Muir Mills Co Ltd v Suti Mills Mazdoor Union (1955) :: Bonus was held to be neither a gift nor deferred wages. It is a claim to share in profits to bridge the gap between actual wages and a living wage, where the industry has made sufficient profits.
+
+NOTE: Current law. The Code on Wages, 2019 replaces all three Acts. It covers all employees, with no scheduled-employment limit. It sets a national floor wage (s.9), fixation and revision of minimum wages at intervals normally not exceeding five years (s.8), timely payment (s.17), deductions capped at 50% (s.18), bonus at 8.33% to 20% with eligibility as notified (ss.26 to 30), and gender equality in wages (s.3). Claims go to authorities under s.45, and inspector-cum-facilitators replace inspectors.
+
+## 5.4 Recent judgments (2025–26)
+
+CASE: State of West Bengal v Confederation of State Government Employees (2026) :: Dearness allowance is an enforceable legal right of employees once the rules provide for it.
+
+* DA is an enforceable right (2026).
+* Minimum Wages Act: committee and notification methods; valid regardless of capacity (Bijay Cotton Mills; Unichoyi; Sanjit Roy).
+* Payment of Wages Act: time limits; only authorised deductions, up to 50% (75% with cooperatives).
+* Bonus Act: minimum 8.33%, maximum 20%, set-on and set-off, disqualification and exemptions (Jalan Trading; Muir Mills).
+* All three are now in the Code on Wages.
+
+QL: Discuss the procedure for fixation and revision of minimum wages. Is the Act constitutionally valid?
+QL: What deductions may be made from wages under the Payment of Wages Act, 1936?
+QL: Explain the concept of bonus and the main provisions of the Payment of Bonus Act, 1965.
+QS: Set-on and set-off of allocable surplus
+QS: Committee method of fixing minimum wages
+QS: Sanjit Roy v State of Rajasthan
+
+MCQ: The minimum bonus under the Payment of Bonus Act is || 5% | *8.33% | 10% | 20% || The maximum is 20%.
+MCQ: Under the Payment of Wages Act, total deductions (excluding cooperative society payments) may not exceed || 25% | *50% | 75% | 60% || 75% with cooperatives.
+MCQ: The Minimum Wages Act was upheld as a reasonable restriction in || Unichoyi | *Bijay Cotton Mills v State of Ajmer | Jalan Trading | Muir Mills || 1955.
+
+# 6 | Social security against employment injury and other contingencies
+@topics Concept of social security; Employer's liability for employment injury: Workmen's Compensation Act, 1923; Arising out of and in the course of employment; Notional extension and added peril; Total and partial disablement; Quantum and distribution of compensation; ESI Act, 1948: benefits, fund and contributions, machinery, ESI Court and appeal
+>> Employment injury is compensated without proof of fault under the Employees' Compensation Act. For covered workers, the ESI scheme replaces individual employer liability with social insurance.
+
+## 6.1 Concept of social security
+ILO Convention 102 (1952) lists nine branches: medical care, sickness, unemployment, old age, employment injury, family, maternity, invalidity and survivors' benefit. Social security may be **social insurance** (contributory, such as ESI and EPF) or **social assistance** (non-contributory, such as old-age pensions). The Constitution links this to Arts. 38, 39, 41 and 42.
+
+## 6.2 Employees' (Workmen's) Compensation Act, 1923
+- Renamed the Employees' Compensation Act in 2009.
+- **Liability** (s.3): the employer is liable for personal injury caused by accident arising out of and in the course of employment, and for listed occupational diseases (Schedule III).
+- **No liability** for: injury not causing disablement for more than three days; injury (other than death or permanent total disablement) caused by drink or drugs, wilful disobedience of safety rules, or wilful removal of safety devices.
+
+### 6.2.1 "Arising out of" and "in the course of" employment
+- **In the course of**: time, place and activity; the worker was doing something incidental to the employment.
+- **Arising out of**: a causal connection between the employment and the injury.
+- **Doctrine of notional extension**: the course of employment extends beyond the actual work to a reasonable period and area before and after work, such as entering and leaving the premises or using the employer's transport.
+- **Added peril**: if the worker adds a risk not reasonably incidental to the employment, the injury does not arise out of the employment.
+
+CASE: Saurashtra Salt Manufacturing Co v Bai Valu Raja (1958) :: Workers crossing a creek by public ferry to reach the salt works drowned when the boat capsized. The Court held this was not in the course of employment: the ferry was a public route open to all, and the notional extension did not cover the journey on a public road or ferry.
+
+CASE: General Manager, B.E.S.T. Undertaking v Agnes (1964) :: A bus driver was killed while travelling in a BEST bus to go home after duty. Since drivers were permitted to travel free and the bus was the employer's vehicle, the notional extension covered the journey and the death arose out of and in the course of employment.
+
+CASE: Mackinnon Mackenzie and Co (P) Ltd v Ibrahim Mahommed Issak (1969) :: A seaman disappeared from a ship at sea and was presumed drowned. Compensation was refused because the claimants had not shown that the accident arose out of employment. There must be a causal connection, which may be proved by reasonable inference, not by conjecture.
+
+CASE: Regional Director, ESI Corporation v Francis De Costa (1993) :: An employee injured on a public road about a kilometre from the factory while going to work was held not to have suffered an employment injury, because the injury occurred before he reached the premises. (Note that the Code on Social Security now deems accidents while commuting between residence and workplace to arise out of and in the course of employment, subject to conditions.)
+
+### 6.2.3 Total and partial disablement
+- **Permanent total disablement**: incapacity for all work the worker was capable of at the time of the accident; Part I of Schedule I lists injuries deemed to cause it.
+- **Permanent partial disablement**: reduces earning capacity in every employment; Part II of Schedule I gives percentages of loss.
+- **Temporary disablement**: total or partial; half-monthly payments.
+
+CASE: Pratap Narain Singh Deo v Srinivas Sabata (1976) :: A carpenter whose left arm was amputated above the elbow was held to have suffered permanent total disablement, because he could no longer do the work of a carpenter that he was capable of at the time of the accident. The employer's failure to pay promptly also attracted a penalty and interest under s.4A.
+
+### 6.2.4 Quantum and distribution
+- **Death**: 50% of monthly wages × the relevant age factor (Schedule IV), subject to the statutory minimum, plus funeral expenses.
+- **Permanent total disablement**: 60% of monthly wages × the relevant factor, subject to the minimum.
+- **Permanent partial disablement**: a percentage of the PTD amount, according to the loss of earning capacity.
+- **Temporary disablement**: 25% of monthly wages, half-monthly.
+- Compensation must be paid as soon as it falls due; interest and up to 50% penalty apply for default (s.4A). Compensation for death must be deposited with the Commissioner, who distributes it to dependants (s.8).
+
+## 6.3 Employees' State Insurance Act, 1948
+### Benefits
+- **Sickness benefit** (about 70% of wages for up to 91 days a year), **maternity benefit**, **disablement benefit** (temporary and permanent), **dependants' benefit** (on death from employment injury), **medical benefit** to the insured person and family, and funeral expenses.
+- Later additions include the unemployment allowance (Rajiv Gandhi Shramik Kalyan Yojana) and the Atal Bimit Vyakti Kalyan Yojana.
+- **Bar on double benefits** (s.53): an insured person cannot claim compensation under the Employees' Compensation Act for an employment injury.
+
+### Fund and contributions
+- Employer contribution 3.25% and employee contribution 0.75% of wages (since July 2019). Employees earning a low daily average wage are exempt from their share. The ESI Fund is administered by the ESI Corporation.
+
+### Machinery
+- The ESI Corporation, the Standing Committee and the Medical Benefit Council; inspectors; the recovery of contributions as arrears of land revenue.
+
+### ESI Court and appeal
+- The ESI Court (s.74) decides disputes about coverage, contributions, benefits and recovery. An appeal lies to the High Court on a **substantial question of law** (s.82).
+
+CASE: Royal Talkies, Hyderabad v Employees' State Insurance Corporation (1978) :: Workers employed by contractors in a cinema canteen and cycle stand were held to be "employees" of the cinema under the ESI Act. The work was incidental or preliminary to, or connected with, the principal employer's work, and the definition of employee is wide.
+
+NOTE: Current law. The Code on Social Security, 2020 now contains employees' compensation (Chapter VII) and ESI (Chapter IV). ESI can be extended to establishments with fewer than ten employees voluntarily and to hazardous occupations compulsorily. Accidents while commuting between home and workplace are deemed to arise out of and in the course of employment (s.74, subject to conditions).
+
+## 6.4 Recent judgments (2025–26)
+
+CASE: Hamsaanandini Nanduri v Union of India (2026) :: Limiting maternity benefit for adoptive mothers to children below three months (s.60(4), Code on Social Security) violates Arts. 14 and 21. The Court also urged the Union to provide paternity leave.
+
+CASE: Kamal Dev Prasad v Mahesh Forge (2025) :: Compensation under the Employees' Compensation Act may depart from the Schedule to reflect functional disability.
+
+CASE: Daivshala v Oriental Insurance Co (2025) :: Accidents while commuting to work can be employment injuries under the Employees' Compensation Act.
+
+* Adoptive maternity age limit struck down (Hamsaanandini, 2026); commuting accidents covered (2025).
+* Social security covers social insurance and social assistance (ILO Convention 102).
+* Employees' compensation is no-fault liability for injury by accident arising out of and in the course of employment.
+* Notional extension (BEST v Agnes) and its limits (Saurashtra Salt); causal connection required (Mackinnon Mackenzie); added peril.
+* Total disablement depends on the work the worker was doing (Pratap Narain Singh Deo).
+* ESI: benefits, 3.25% plus 0.75% contributions, ESI Court, appeal on a substantial question of law; wide definition of employee (Royal Talkies).
+
+QL: Explain the meaning of "accident arising out of and in the course of employment" with reference to the doctrine of notional extension.
+QL: Discuss the benefits provided under the ESI Act, 1948 and the machinery for its implementation.
+QL: Distinguish between permanent total and permanent partial disablement. How is compensation calculated?
+QS: Doctrine of added peril
+QS: ESI Court
+QS: Royal Talkies v ESIC
+
+MCQ: Workers drowned while crossing a creek by public ferry were held not to be in the course of employment in || BEST v Agnes | *Saurashtra Salt Mfg Co v Bai Valu Raja | Mackinnon Mackenzie | Francis De Costa || 1958.
+MCQ: An appeal from the ESI Court lies to the High Court on || facts | *a substantial question of law | any question | quantum only || s.82 ESI Act.
+MCQ: A carpenter who lost his arm was held to suffer permanent total disablement in || Mackinnon Mackenzie | *Pratap Narain Singh Deo v Srinivas Sabata | Royal Talkies | BEST v Agnes || 1976.
+
+# 7 | Law relating to retirement benefits
+@topics EPF and Miscellaneous Provisions Act, 1952; Family Pension Scheme 1971 and Employees' Pension Scheme 1995; Changing rules on EPF and pension; Payment of Gratuity Act, 1972: concept, eligibility, determination, forfeiture
+>> Provident fund, pension and gratuity provide for old age. The EPF scheme is contributory; gratuity is a reward for long service paid by the employer alone.
+
+## 7.1 Employees' Provident Funds and Miscellaneous Provisions Act, 1952
+- Applies to establishments with 20 or more employees in scheduled industries and notified classes. Employees on wages up to ₹15,000 a month are mandatorily covered.
+- Three schemes:
+  - **EPF Scheme 1952**: employer and employee each contribute 12% of basic wages, DA and retaining allowance (10% for certain establishments).
+  - **Employees' Pension Scheme 1995** (replacing the Family Pension Scheme 1971): 8.33% of the employer's share goes into the pension fund, with a central government contribution.
+  - **EDLI Scheme 1976**: deposit-linked insurance.
+- Damages for delay (s.14B), interest (s.7Q), and inquiry into amounts due (s.7A).
+
+CASE: Regional Provident Fund Commissioner (II), West Bengal v Vivekananda Vidyamandir (2019) :: Allowances paid uniformly to all employees, not linked to any incentive for extra work, were held to be part of "basic wages" for computing PF contributions. Splitting wages into allowances to reduce PF liability was not allowed.
+
+### 7.1.1 Changing rules on EPF and pension
+- In 2014 the wage ceiling was raised to ₹15,000 and pension was capped on that ceiling, with a window for existing members to opt for higher pension.
+
+CASE: Employees' Provident Fund Organisation v Sunil Kumar B (2022) :: A three-judge bench upheld the 2014 amendment to the Employees' Pension Scheme. It struck down the requirement that members contribute 1.16% of salary above ₹15,000, and gave eligible members who had not exercised the option a further window to opt for pension on actual salary.
+
+- Recent changes include higher pension implementation, auto-settlement of claims, UAN-based portability and partial withdrawal relaxations.
+
+## 7.2 Payment of Gratuity Act, 1972
+- **Concept**: a reward for long and meritorious service, paid by the employer on termination after at least five years of continuous service. Death or disablement removes the five-year condition.
+- **Eligibility**: superannuation, retirement, resignation, or death or disablement due to accident or disease.
+- **Determination** (s.4(2)): 15 days' wages for every completed year of service (or part over six months), with a month counted as 26 days. Seasonal establishments pay 7 days per season. The ceiling is ₹20 lakh (raised in 2018).
+- **Forfeiture** (s.4(6)): to the extent of damage, for wilful omission or negligence causing loss to the employer's property; wholly or partly for riotous or disorderly conduct, violence, or an offence involving moral turpitude in the course of employment.
+
+CASE: Union Bank of India v C.G. Ajay Babu (2018) :: Forfeiture of gratuity on the ground of an "offence involving moral turpitude" requires that the conduct constitute an offence under law. Dismissal for misconduct alone does not justify forfeiture; it is not for the employer to decide whether an offence was committed.
+
+CASE: Ahmedabad Private Primary Teachers' Association v Administrative Officer (2004) :: Teachers were held not to be "employees" under the Act as it then stood. Parliament then amended the definition in 2009 with retrospective effect from 3 April 1997 to include teachers, and the amendment was later upheld by the Supreme Court (*Independent Schools' Federation of India v Union of India*, 2022).
+
+NOTE: Current law. The Code on Social Security, 2020 now contains EPF (Chapter III) and gratuity (Chapter V). Gratuity is payable to **fixed-term employees** on a pro rata basis after one year of service, and to working journalists after three years. The definition of "wages" follows the 50% rule of the Code on Wages, which may raise PF and gratuity liability where allowances were inflated.
+
+## 7.3 Recent judgments (2025–26)
+
+CASE: N. Manoharan v Union of India (2026) :: The Payment of Gratuity Act does not apply to holders of civil posts governed by the CCS (Pension) Rules.
+
+* Gratuity Act does not cover civil posts under CCS (Pension) Rules (2026).
+* EPF: 12% plus 12%; EPS 1995 (8.33% of the employer share); EDLI; uniform allowances count as basic wages (Vivekananda Vidyamandir).
+* 2014 pension amendment upheld with modifications (Sunil Kumar B, 2022).
+* Gratuity: 5 years, 15/26 of a month's wages per year, ₹20 lakh ceiling; forfeiture requires an offence (Ajay Babu).
+* Code on Social Security: gratuity for fixed-term employees after one year.
+
+QL: Discuss the schemes framed under the EPF and MP Act, 1952 and recent changes to the pension scheme.
+QL: Explain the eligibility, computation and forfeiture of gratuity under the Payment of Gratuity Act, 1972.
+QS: Basic wages under EPF law
+QS: Forfeiture of gratuity
+QS: EPFO v Sunil Kumar B
+
+MCQ: Gratuity is computed at || 30 days' wages per year | *15 days' wages per completed year | 7 days per year | one month's wages per year || Month counted as 26 days.
+MCQ: Under the Code on Social Security, fixed-term employees are eligible for gratuity after || 5 years | *1 year | 3 years | 6 months || Pro rata.
+MCQ: Forfeiture of gratuity requires conduct constituting an offence, as held in || Sunil Kumar B | *Union Bank of India v C.G. Ajay Babu | Vivekananda Vidyamandir | Royal Talkies || 2018.
+
+# 8 | Contract labour
+@topics Problems of contract labour and contractualisation; Contract Labour (Regulation and Abolition) Act, 1970; Abolition and absorption controversy; Air India Statutory Corporation and SAIL cases; Proposed amendment and impact
+>> Contract labour lets employers avoid permanent liabilities, often at the cost of wages and security. The 1970 Act regulates it and allows abolition, but the Supreme Court has held that abolition does not mean automatic absorption.
+
+## 8.1 Problems of contract labour
+Contract workers face lower wages for the same work, no job security, denial of social security, sham contracts used to avoid labour laws, and difficulty in unionising. The process of contractualisation intensified after 1991 with outsourcing and flexible labour practices.
+
+## 8.2 Contract Labour (Regulation and Abolition) Act, 1970
+- Applies to establishments and contractors employing 20 or more contract workers.
+- **Registration** of principal employers (s.7) and **licensing** of contractors (s.12).
+- **Welfare** (ss.16 to 19): canteens, rest rooms, drinking water, latrines and first aid. If the contractor fails to provide these or to pay wages, the **principal employer is liable** (ss.20 and 21).
+- **Abolition** (s.10): the appropriate government may prohibit contract labour in any process, operation or work, after consulting the Advisory Board and considering whether the work is incidental to or necessary for the industry, perennial, ordinarily done by regular workers, and sufficient to employ a considerable number of whole-time workers.
+
+CASE: Standard Vacuum Refining Co of India Ltd v Workmen (1960) :: Before the Act, the Supreme Court upheld an industrial tribunal's direction to abolish contract labour for cleaning and maintenance in a refinery, because the work was perennial, necessary and ordinarily done by regular workmen elsewhere. These criteria were later incorporated into s.10.
+
+### The abolition and absorption controversy
+CASE: Air India Statutory Corporation v United Labour Union (1997) :: A three-judge bench held that once contract labour is abolished under s.10, the contract workers automatically become employees of the principal employer and are entitled to absorption, reading the Act with Arts. 38, 39 and 43.
+
+CASE: Steel Authority of India Ltd v National Union Waterfront Workers (2001) :: A Constitution Bench overruled Air India prospectively. Neither s.10 nor any other provision provides for automatic absorption on abolition. Where the contract is found to be sham or camouflage, the workers are in fact employees of the principal employer, which an industrial adjudicator can determine. On abolition, the principal employer should give preference to the former contract workers in regular employment.
+
+## 8.3 Proposed amendments and their impact
+NOTE: Current law. The OSH Code (Chapter XI) now regulates contract labour. A single licence is issued for a contractor operating in several States, and the threshold is 50 contract workers. Contract labour is prohibited in **core activities** (s.57), except where the work is normally done through contractors, is not full-time, or arises from a sudden increase in work. The principal employer remains liable for wages and welfare. Critics say the higher threshold and the exceptions dilute protection; supporters say it brings clarity and ease of compliance.
+
+* Contract labour lowers costs but weakens security.
+* The 1970 Act: registration, licensing, welfare, principal employer's liability, abolition under s.10 (Standard Vacuum criteria).
+* Air India (1997): automatic absorption; overruled by SAIL (2001): no automatic absorption, but sham contracts can be exposed.
+* OSH Code: 50-worker threshold, single licence, prohibition in core activities with exceptions.
+
+QL: Discuss the provisions of the Contract Labour (Regulation and Abolition) Act, 1970. Does abolition of contract labour lead to automatic absorption? Discuss the Air India and SAIL cases.
+QL: Examine the changes made in contract labour law by the OSH Code, 2020.
+QS: Principal employer's liability
+QS: Core activities under the OSH Code
+
+MCQ: Automatic absorption of contract labour on abolition was rejected in || Air India Statutory Corporation | *SAIL v National Union Waterfront Workers (2001) | Standard Vacuum | Gujarat Electricity Board || Overruled Air India prospectively.
+MCQ: The threshold for contract labour under the OSH Code is || 20 | *50 | 10 | 100 || It was 20 under the 1970 Act.
+
+# 9 | Unorganised sector
+@topics Problem of definition and identification; Unionisation problems; Proposed bills on social security for the unorganised sector (2004, 2005, 2007); Unorganised Workers' Social Security Act, 2008
+>> More than 90% of India's workforce is in the unorganised sector, without written contracts, regular employers or social security. Law has moved from identifying these workers to giving them portable benefits.
+
+## 9.1 Definition, identification and unionisation
+- The National Commission for Enterprises in the Unorganised Sector (NCEUS, Arjun Sengupta, 2004 to 2009) defined the unorganised sector as unincorporated private enterprises with fewer than ten workers. Unorganised workers include those in the unorganised sector and those in the organised sector without social security.
+- Identification is hard because of scattered, seasonal and home-based work, multiple employers, self-employment and migration.
+- Unionisation is difficult because there is no stable employer, fear of losing work, illiteracy and dispersal. Organisations such as SEWA (founded 1972 by Ela Bhatt) show alternative models.
+
+## 9.2 Proposed bills (2004, 2005, 2007)
+- The Unorganised Sector Workers' Social Security Bill 2004 (draft), the NCEUS draft bills of 2005 and 2007 (one on conditions of work, one on social security), and the Government Bill of 2007, which led to the 2008 Act.
+- The NCEUS wanted a comprehensive law with enforceable entitlements; the 2008 Act was criticised as only an enabling framework for schemes.
+
+## 9.3 Unorganised Workers' Social Security Act, 2008
+- Defines unorganised workers (home-based, self-employed, wage workers in the unorganised sector, and organised-sector workers not covered by listed Acts).
+- The Central Government formulates schemes for life and disability cover, health and maternity benefits, and old-age protection. State Governments formulate schemes for provident fund, employment injury, housing, children's education, skill upgradation and funeral assistance.
+- The National Social Security Board and State Boards recommend schemes. Workers aged 14 and above are registered and receive identity cards.
+- Schemes linked to the Act: PM Jeevan Jyoti Bima Yojana, PM Suraksha Bima Yojana, Atal Pension Yojana, PM-SYM (pension for unorganised workers), and Ayushman Bharat PM-JAY.
+
+NOTE: Current law. The Code on Social Security, 2020 (Chapter IX) subsumes the 2008 Act. It recognises **gig workers** and **platform workers** for the first time and lets schemes be funded by a contribution from aggregators of 1% to 2% of annual turnover, capped at 5% of the amount paid to such workers. Unorganised workers register on the **e-Shram** portal (2021), which was used after the Supreme Court's 2021 directions in the migrant workers' case. Some States, including Rajasthan (2023) and Karnataka (2025), have enacted their own platform-worker laws.
+
+## 9.4 Recent judgments (2025–26)
+
+CASE: R. Iyyappan v Union of India (2026) :: Long-serving daily-wage workers of ISRO were directed to be regularised; indefinite temporary engagement for permanent work is unfair.
+
+* Long-serving daily wagers regularised (R. Iyyappan, 2026).
+* The unorganised sector is defined by NCEUS; identification and unionisation are difficult; SEWA offers a model.
+* Draft bills of 2004 to 2007 led to the 2008 Act, an enabling law for schemes.
+* The Code on Social Security covers gig and platform workers, funded by aggregator contributions; workers register on e-Shram.
+
+QL: Discuss the problems of definition, identification and unionisation of unorganised workers.
+QL: Critically examine the Unorganised Workers' Social Security Act, 2008 and the changes made by the Code on Social Security, 2020.
+QS: Gig and platform workers
+QS: e-Shram portal
+QS: NCEUS
+
+MCQ: Aggregators' contribution for gig and platform workers under the Code on Social Security is || 5% of turnover | *1% to 2% of annual turnover, capped at 5% of payments to such workers | 12% of wages | nil || Chapter IX.
+MCQ: The NCEUS was chaired by || Ela Bhatt | *Arjun Sengupta | V.V. Giri | Ravindra Varma || 2004 to 2009.
+
+# 10 | Law reforms
+@topics Labour law reforms
+>> The four Labour Codes, in force from 21 November 2025, are the largest reform of Indian labour law since independence. They consolidate 29 central laws and change definitions, thresholds and enforcement.
+
+## 10.1 Background
+- The Second National Commission on Labour (2002) recommended grouping labour laws into a few codes.
+- Parliament passed the Code on Wages (2019) and three Codes in 2020: the Industrial Relations Code, the Code on Social Security and the OSH Code. Rules were framed by the Centre and the States, and the Codes came into force on 21 November 2025.
+
+## 10.2 Main features
+| Area | Change |
+|---|---|
+| Wages | Universal minimum wage and national floor wage; uniform definition of wages (50% rule); timely payment for all employees |
+| Gender | Non-discrimination including transgender persons; women may work night shifts with consent |
+| Social security | Coverage for gig, platform and unorganised workers; gratuity for fixed-term employees after one year; ESI extended to more establishments |
+| Safety | Single registration and licence; appointment letters; free annual health check-ups; national OSH Board |
+| Contract labour | 50-worker threshold; prohibition in core activities |
+| Enforcement | Inspector-cum-facilitators; web-based randomised inspections; compounding of first offences; higher fines but fewer imprisonment provisions |
+| Industrial relations | Fixed-term employment; 300-worker threshold for standing orders, lay-off and closure permission; negotiating union or council (studied in Labour Law – I) |
+
+## 10.3 Assessment
+- Arguments for: simplification, wider coverage, ease of doing business and digital compliance.
+- Arguments against: weaker job security from higher thresholds, a dilution of penal deterrence, limits on the right to strike, and heavy reliance on rules and schemes rather than enforceable rights.
+- Laws outside the Codes still apply, such as the Child Labour Act 1986, the Bonded Labour System (Abolition) Act 1976 and State shops and establishments Acts.
+
+TIP: In any answer on the Codes, give the old law, the new provision and one argument on each side. Examiners look for awareness that the Codes are now in force, not merely proposed.
+
+* The Second National Commission on Labour (2002) recommended codification.
+* Four Codes (2019, 2020) in force from 21 November 2025, consolidating 29 laws.
+* Main changes in wages, gender, social security, safety, contract labour and enforcement.
+* Debate between simplification and coverage on one side and job security and enforcement on the other.
+
+QL: Critically evaluate the labour law reforms introduced by the four Labour Codes.
+QS: Second National Commission on Labour
+QS: Inspector-cum-facilitator
+
+MCQ: The four Labour Codes came into force on || 1 April 2021 | *21 November 2025 | 1 July 2024 | 26 January 2026 || Notified by the Ministry of Labour.
+MCQ: Codification of labour laws was recommended by || the Royal Commission on Labour | *the Second National Commission on Labour (2002) | the First Pay Commission | NCEUS || 2002.

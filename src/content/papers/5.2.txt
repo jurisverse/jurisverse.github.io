@@ -1,0 +1,211 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Zero FIR and e-FIR
+Under s.173(1) BNSS, information about a cognizable offence may be given orally or by electronic communication, irrespective of the area where the offence was committed. This is the "zero FIR". The FIR is then transferred to the police station with jurisdiction.
+- An e-FIR must be signed within three days for it to be taken on record.
+- For offences punishable with three to seven years, a preliminary enquiry may be held within 14 days, with permission (s.173(3)).
+- Registration is otherwise mandatory (*Lalita Kumari v Govt of UP*, 2014).
+- An FIR is mandatory for every missing-person report (*G. Ganesh v State of TN*, 2026).
+
+Q: Default bail
+Under s.187(3) BNSS [167(2) CrPC], if the investigation is not completed within:
+- 90 days, for offences punishable with death, life imprisonment or imprisonment of ten years or more; or
+- 60 days, for other offences,
+the accused is entitled to be released on bail, if he applies and furnishes bail. This is an indefeasible right that accrues on default (*Rakesh Kumar Paul v State of Assam*, 2017; *M. Ravindran v DRI*, 2020). It is part of Art. 21. Under the BNSS, police custody may be sought in parts within the first 40 or 60 days.
+
+Q: Anticipatory bail
+Under s.482 BNSS [438 CrPC], a person apprehending arrest for a non-bailable offence may apply to the High Court or Court of Session for a direction that he be released on bail if arrested.
+- *Gurbaksh Singh Sibbia* (1980) and *Sushila Aggarwal v State (NCT of Delhi)* (2020, five judges): there is no fixed time limit, and the protection may continue till the end of the trial, unless restricted.
+- Anticipatory bail ordinarily continues without a fixed expiry (*Sumit v State of UP*, 2026).
+- Criminal antecedents may justify refusal (*Sharad Sehgal*, 2026).
+- A High Court rejecting anticipatory bail cannot direct the applicant to surrender (*Om Prakash Chhawnika*, 2026).
+
+Q: Trial in absentia
+Section 356 BNSS (new): a proclaimed offender who absconds to evade trial, with no immediate prospect of arrest, may be tried and judged in his absence. Conditions:
+- 90 days have passed since the charges were framed;
+- notice has been given; and
+- an advocate is provided for the defence.
+This is the equivalent of the deemed waiver of the right to be present. It is used for fugitives. Without an order under s.299 CrPC (now s.335 BNSS), testimony recorded in a co-accused's trial cannot be used against an absconder (*Mahendra Singh*, 2026).
+
+Q: Plea bargaining
+Under ss.289 to 300 BNSS [265A to 265L CrPC], plea bargaining is available for offences punishable with up to seven years. It is not available for offences affecting the socio-economic condition of the country, offences against women, or offences against children below 14. The application must be filed within 30 days of the framing of the charge.
+- The court examines the accused in camera to ensure voluntariness.
+- A mutually satisfactory disposition is worked out, with compensation to the victim.
+- Sentence: half the minimum sentence (one-quarter for a first offender), or, where no minimum is prescribed, one-quarter of the maximum (one-sixth for a first offender).
+- There is no appeal, except by writ or special leave.
+
+Q: Victim's right of appeal
+The proviso to s.413 BNSS [372 CrPC], inserted in CrPC in 2009, allows the victim to appeal against:
+- an acquittal;
+- a conviction for a lesser offence; or
+- inadequate compensation.
+The appeal lies to the court to which an appeal ordinarily lies against conviction. The victim need not obtain leave (*Mallikarjun Kodagali v State of Karnataka*, 2018). "Victim" is defined in s.2(1)(y) BNSS, and includes the guardian or legal heir.
+
+Q: Summons case and warrant case
+- **Warrant case (s.2(1)(z)):** an offence punishable with death, life imprisonment or imprisonment above two years.
+- **Summons case:** any other case.
+Procedure:
+- **Summons cases (ss.274 to 282):** no formal charge; the particulars are stated.
+- **Warrant cases on a police report (ss.261 to 266):** discharge or charge, then trial.
+- **Warrant cases on a complaint (ss.267 to 273):** evidence is taken before the charge.
+- The court may convert a summons case into a warrant case (s.282).
+- Summary trials are dealt with separately (ss.283 to 288).
+
+Q: Release of undertrial prisoners
+Under s.479 BNSS [436A CrPC], an undertrial who has been detained for half of the maximum punishment for the offence must be released on bond. A first-time offender must be released after one-third. This does not apply to offences punishable with death or life imprisonment, or where multiple cases are pending.
+The jail superintendent must apply to the court. The provision has been applied retrospectively to undertrials (*In re Inhuman Conditions in 1382 Prisons*, 2024).
+
+Q: Forensic investigation
+Under s.176(3) BNSS (new), for offences punishable with seven years or more, a forensic expert must visit the crime scene, collect evidence, and videograph the process on a mobile phone or other electronic device. This applies from a date notified by each State, which may defer it for up to five years. Videography of search and seizure is required under s.105.
+The aim is scientific investigation and less reliance on oral testimony.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the rights of an arrested person under the BNSS and the Constitution.
+### Constitutional rights
+- **Art. 22(1):** to be informed of the grounds of arrest, and to consult and be defended by a legal practitioner of choice.
+- **Art. 22(2):** production before a Magistrate within 24 hours.
+- **Art. 20(3):** protection against self-incrimination.
+- **Art. 21:** a fair procedure, dignity and protection against torture.
+### Rights under the BNSS
+1. **Arrest only when necessary (s.35 [41]):** for offences punishable up to seven years, a police officer may arrest only if the conditions in s.35(1)(b) are met, recording reasons. Otherwise, a notice of appearance is issued (s.35(3) [41A]) (*Arnesh Kumar v State of Bihar*, 2014; *Satender Kumar Antil v CBI*, 2026). Arresting persons who are infirm or above 60, for offences under three years, requires permission (s.35(7)).
+2. **Grounds of arrest (s.47 [50]):**
+   - *Pankaj Bansal* (2023) and *Prabir Purkayastha* (2024): written grounds are required.
+   - *Vihaan Kumar* (2025): non-compliance makes the arrest illegal.
+   - *Mihir Rajesh Shah v State of Maharashtra* (2025): written grounds in a language the person understands are required for every offence, and must be supplied at least two hours before production for remand. Otherwise, the arrest and remand are illegal.
+3. **Informing a relative or friend (s.48 [50A]),** and display of arrest information in every district control room (s.37).
+4. **Right to meet an advocate (s.38 [41D]):** during interrogation, though not throughout it (*State of AP v Suda Suresh*, 2026).
+5. **Medical examination (ss.51 to 53).**
+6. **Production within 24 hours (s.58 [57]).**
+7. **Bail in bailable offences (s.478).**
+8. **Search of women only by women (s.49).**
+9. **Arrest memo and D.K. Basu guidelines** (*D.K. Basu v State of WB*, 1997), now partly codified (s.36).
+10. **Protection from handcuffing,** except in specified cases (s.43(3)) (*Prem Shankar Shukla*, 1980).
+11. **Legal aid (Art. 39A; s.341 BNSS):** *Khatri v State of Bihar* (1981); *Suk Das* (1986).
+### Remedies
+- release;
+- compensation for illegal detention (*Rudul Sah*; *Nilabati Behera*);
+- contempt; and
+- departmental action.
+### Conclusion
+The BNSS codifies many judicial safeguards. The Supreme Court continues to strengthen them, most recently by requiring written grounds of arrest in every case.
+
+Q: "Bail is the rule and jail is the exception." Discuss.
+### The principle
+- *State of Rajasthan v Balchand* (1977), per Krishna Iyer J.
+- Liberty under Art. 21 and the presumption of innocence.
+- Pre-trial detention is not punishment.
+### Bailable offences (s.478 BNSS)
+Bail is a right. Indigent accused may be released on a personal bond.
+### Non-bailable offences (s.480 BNSS [437]; s.483 [439])
+Bail is at the court's discretion. The factors are:
+- the nature and gravity of the accusation;
+- the severity of the punishment;
+- the character of the evidence;
+- the risk of absconding;
+- the risk of tampering with evidence or witnesses; and
+- antecedents (*Prasanta Kumar Sarkar v Ashis Chatterjee*, 2010).
+- Magistrates cannot grant bail in offences punishable with death or life imprisonment, with exceptions for women, children and sick or infirm persons.
+### Special statutes
+- **UAPA s.43D(5)** requires a prima facie view (*NIA v Zahoor Ahmad Shah Watali*, 2019).
+- **PMLA s.45** has twin conditions (upheld in *Vijay Madanlal Choudhary*, 2022; *Union of India v Kanhaiya Prasad*, 2025).
+- **Long incarceration and delay** justify bail even under these statutes (*Union of India v K.A. Najeeb*, 2021; *Syed Iftikhar Andrabi v NIA*, 2026; *Sahil Manoj Machare*, 2026).
+- Bail was refused on facts in *Gulfisha Fatima* (2026).
+### Judicial guidelines
+- *Satender Kumar Antil v CBI* (2022): categories of offences, a timeline for bail decisions, and a special law on bail suggested.
+- *In re Policy Strategy for Grant of Bail* (2023).
+- s.479 BNSS for undertrials.
+### Conditions
+They must be reasonable and connected to the purpose. Onerous or humiliating conditions, such as cleaning police stations, are void (*In re Bail Conditions (Odisha)*, 2026).
+### Anticipatory bail
+*Sushila Aggarwal* (2020); *Sumit* (2026).
+### Conclusion
+The rule protects liberty and dignity. Courts must avoid mechanical refusals, particularly given overcrowded prisons where about three-quarters of inmates are undertrials.
+
+Q: Explain the procedure from information to investigation, including the powers of a Magistrate under section 175(3) BNSS.
+### Information in cognizable cases (s.173 BNSS)
+- Registration of the FIR is mandatory (*Lalita Kumari*, 2014), with a preliminary enquiry for offences of three to seven years.
+- Zero FIR and e-FIR are available.
+- A copy is given free to the informant.
+- If the officer refuses, the informant may approach the Superintendent of Police (s.173(4)).
+### Non-cognizable cases (s.174)
+The information is entered in the station diary. Investigation needs a Magistrate's order.
+### Investigation (ss.176 to 196)
+- **Procedure (s.176):** the officer proceeds to the spot, with forensics for serious offences.
+- **Examining witnesses (s.180 [161]):** statements may be audio-video recorded, and are not signed (s.181).
+- **Statements before a Magistrate (s.183 [164]):** confessions and statements, with safeguards. Statements of rape victims are recorded by a woman Magistrate.
+- **Remand (s.187 [167]).**
+- **Police report (s.193 [173]):** within the time limits, with progress reported to the victim within 90 days. Further investigation is allowed (s.193(9)).
+### Section 175(3) BNSS [156(3) CrPC]
+A Magistrate empowered to take cognizance may order an investigation.
+- Under the BNSS, the application must be supported by an affidavit, and the Magistrate must consider the complainant's application to the SP and may make inquiries (*Priyanka Srivastava v State of UP*, 2015, now codified).
+- **Section 175(4):** for complaints against public servants arising in the course of official duty, a report from the superior officer and the public servant's version must be obtained. Sections 175(3) and (4) are read together, giving two-tier protection to public servants (*X2 v State of Kerala*, 2026).
+### Cognizance
+- **On a complaint (s.223 [200]):** the complainant is examined, and the accused must be heard before cognizance. This applies to complaints filed after 1 July 2024, including PMLA complaints (*Kushal Kumar Agarwal v ED*, 2025).
+- **Sanction for public servants (s.218).**
+### Conclusion
+The BNSS adds technology, victim participation and safeguards against frivolous proceedings, while keeping the basic structure of investigation.
+
+Q: Explain the law relating to framing of charges and the effect of errors in charges.
+### Purpose
+A charge gives the accused precise notice of the accusation so that he can prepare his defence (Art. 21; fair trial).
+### Contents (ss.234 to 236 BNSS [211 to 213 CrPC])
+- the offence, with the section of law;
+- particulars of time, place and person;
+- the manner of committing the offence, where necessary; and
+- previous convictions, if enhanced punishment is sought.
+### Basic rule: separate charges for distinct offences (s.241 [218])
+Exceptions:
+- three offences of the same kind within 12 months (s.242);
+- the same transaction (s.243);
+- alternative charges where it is doubtful which offence was committed (s.244); and
+- joinder of accused (s.246).
+### Framing
+- Sessions cases (s.251): after considering the record. Discharge is under s.250.
+- Warrant cases (s.263).
+- The test is a strong suspicion or prima facie case, not proof (*Union of India v Prafulla Kumar Samal*, 1979; *State of Tamil Nadu v N. Suresh Rajan*, 2014).
+- Under the BNSS, charges must be framed within 60 days of the first hearing.
+- In dowry and cruelty trials, courts have directed charges within 60 to 90 days (*State of UP v Ajmal Beg*, 2026).
+### Alteration (s.239 [216])
+The court may alter or add to a charge before judgment, with the right to recall witnesses.
+### Effect of errors (s.238 [215]; s.510 [464])
+- No error or omission in a charge is material unless the accused was misled and a failure of justice occasioned.
+- A finding is not invalid merely because no charge was framed, or because of an error, unless there was a failure of justice (*Willie (William) Slaney v State of MP*, 1956).
+- An unsigned charge is a curable irregularity (*Sandeep Yadav*, 2026).
+- Conviction for a minor offence included in the offence charged is permitted (s.245 [222]).
+### Conclusion
+The law treats charges functionally. Defects vitiate the trial only when they prejudice the accused.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: X is arrested for an offence punishable with ten years. The police inform him orally of the grounds. The written grounds are handed to his lawyer during the remand hearing. Advise X.
+**Issue:** Was the arrest and remand lawful?
+**Law:**
+- Art. 22(1); s.47 BNSS.
+- *Mihir Rajesh Shah v State of Maharashtra* (2025): written grounds, in a language the person understands, are mandatory for every offence. If not given at the time of arrest, they must be supplied at least two hours before production for remand. Otherwise, the arrest and remand are illegal and the person is entitled to release.
+- *Vihaan Kumar* (2025).
+**Application:** The grounds were supplied only during the remand hearing, not two hours before.
+**Conclusion:** The arrest and remand are vitiated. X is entitled to be released. The investigation may continue, and a fresh lawful arrest is possible.
+
+Q: P reports a theft of ₹5 lakh, a cognizable offence. The SHO refuses to register an FIR, calling it a "civil dispute". Advise P.
+**Issue:** P's remedies when the police refuse to register an FIR.
+**Law:**
+- *Lalita Kumari* (2014): registration is mandatory if the information discloses a cognizable offence. A preliminary enquiry is allowed only in certain categories, and under s.173(3) BNSS for offences of three to seven years.
+- Section 173(4): approach the Superintendent of Police.
+- Section 175(3): apply to the Magistrate on affidavit, after approaching the SP.
+**Application:** Theft is cognizable. If the facts disclose dishonest taking, the SHO cannot refuse.
+**Conclusion:** P should send the information to the SP. If no action follows, P should apply to the Magistrate under s.175(3) BNSS for a direction to investigate.
+
+Q: An accused arrested for an offence punishable with ten years remains in custody for 95 days. No chargesheet is filed. On day 95, the police file the chargesheet in the morning, and the accused files a default bail application the same afternoon. Decide.
+**Issue:** Did the right to default bail accrue and survive?
+**Law:**
+- Section 187(3) BNSS: 90 days for offences punishable with ten years or more.
+- The right accrues on day 91, if the accused applies. If the chargesheet is filed before the application, the right is extinguished (*Uday Mohanlal Acharya v State of Maharashtra*, 2001; *M. Ravindran*, 2020).
+**Application:** The right accrued on day 91, but the accused applied only after the chargesheet was filed on day 95.
+**Conclusion:** The default bail right is lost. The accused must now seek regular bail on merits. If he had applied on days 91 to 94, he would have been entitled to release.
+
+Q: The ED files a PMLA complaint in August 2024. The Special Court takes cognizance without hearing the accused. The accused challenges the order. Decide.
+**Issue:** Is a pre-cognizance hearing required?
+**Law:** Under s.223(1) BNSS, the Magistrate must give the accused an opportunity of being heard before taking cognizance on a complaint. *Kushal Kumar Agarwal v ED* (2025): this applies to PMLA complaints filed after 1 July 2024, when the BNSS came into force.
+**Application:** The complaint was filed in August 2024, after the BNSS came into force, and no hearing was given.
+**Conclusion:** The cognizance order is set aside. The court must hear the accused and pass a fresh order.

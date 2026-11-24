@@ -1,0 +1,185 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Literal rule
+Words are given their plain, ordinary and grammatical meaning. If the language is clear, it must be applied even if the result is harsh, because the remedy lies with the legislature (*Sussex Peerage case*, 1844; *Nokes v Doncaster Amalgamated Collieries*, 1940).
+- In India: *Nelson Motis v Union of India* (1992).
+- Limits: words take colour from context, and absurdity may justify departure (the golden rule).
+
+Q: Mischief rule
+The rule in *Heydon's case* (1584) asks four questions:
+1. what was the common law before the Act;
+2. what was the mischief or defect;
+3. what remedy did Parliament provide; and
+4. what was the true reason for the remedy?
+The court then suppresses the mischief and advances the remedy.
+- *Bengal Immunity Co v State of Bihar* (1955) applied it to Art. 286.
+- *Smith v Hughes* (1960): soliciting from balconies was treated as soliciting "in a street".
+
+Q: Golden rule
+The literal meaning is followed unless it leads to absurdity, repugnancy or inconsistency. In that case, the meaning may be modified to the extent needed to avoid the absurdity (*Grey v Pearson*, 1857; *Adler v George*, 1964, where "in the vicinity of" was read to include "in").
+In India: *Lee Kun Hee v State of UP* (2012), and *State of Punjab v Quiser Jehan Begum* (1963) on "knowledge" of an award.
+
+Q: Ejusdem generis
+Where general words follow specific words of the same class (genus), the general words are limited to things of the same kind. Conditions:
+- the specific words must form a distinct genus; and
+- there must be no contrary intention.
+Examples:
+- *Powell v Kempton Park Racecourse* (1899).
+- *Kavalappara Kottarathil Kochuni v State of Madras* (1960).
+- *Rajasthan SEB v Mohan Lal* (1967) refused to apply the rule to "other authorities" in Art. 12, because the preceding words formed no single genus.
+
+Q: Noscitur a sociis
+A word is known by the company it keeps. A doubtful word takes its meaning from the words around it, which is wider than ejusdem generis. Examples:
+- *Foster v Diphwys Casson* (1887).
+- *Pengelly v Bell Brick* (1964).
+- *State of Bombay v Hospital Mazdoor Sabha* (1960) declined to narrow "industry" by applying this rule.
+
+Q: Reading down
+Where a provision is capable of two interpretations, one of which would make it unconstitutional, the court adopts the narrower interpretation that keeps it valid. This rests on the presumption of constitutionality.
+- *Kedar Nath Singh v State of Bihar* (1962) read sedition down to incitement to violence.
+- *Independent Thought v Union of India* (2017) read down the marital rape exception for minors.
+The court cannot rewrite the statute.
+
+Q: Harmonious construction
+Where two provisions appear to conflict, they are to be construed so as to give effect to both, avoiding a head-on clash.
+- *Venkataramana Devaru v State of Mysore* (1958): Art. 25(2)(b), temple entry, was harmonised with Art. 26(b), denominational rights.
+- *Calcutta Gas Co v State of WB* (1962).
+- *In re Kerala Education Bill* (1958): Fundamental Rights and Directive Principles.
+The rule is based on the presumption that the legislature does not intend contradiction.
+
+Q: Casus omissus
+A case omitted by the legislature cannot be supplied by the court. Judges interpret; they do not legislate (*Hansraj Gupta v Dehra Dun-Mussoorie Electric Tramway*, 1933; *Padmasundara Rao v State of TN*, 2002).
+- An omission may be supplied only in rare cases of clear necessity, apparent from the statute itself.
+- Lord Denning's "ironing out the creases" (*Seaford Court Estates v Asher*, 1949) is the liberal exception.
+
+Q: Beneficial construction
+Welfare and social legislation is construed liberally, in favour of the class it seeks to protect, where two views are possible. Examples:
+- labour laws: *Kamal Dev Prasad v Mahesh Forge* (2025), functional disability under the Employees' Compensation Act;
+- *Daivshala v Oriental Insurance* (2025), commuting accidents;
+- maternity benefit: *Hamsaanandini Nanduri* (2026); and
+- senior citizens: *Urmila Dixit* (2025).
+Beneficial construction cannot override clear language.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Compare the literal, golden and mischief rules of interpretation. Which approach do Indian courts prefer?
+### Literal rule
+- **Content:** plain meaning; the court gives effect to the words even if the result is harsh (*Sussex Peerage*, 1844).
+- **Merits:** certainty, and respect for legislative supremacy.
+- **Demerits:** absurdity and injustice. Examples: *Whiteley v Chappell* (1868), where impersonating "a person entitled to vote" did not cover a dead voter; and *Fisher v Bell* (1961), where a display was held an invitation to treat.
+### Golden rule
+- **Content:** a modification of the literal rule to avoid absurdity (*Grey v Pearson*, 1857; *R v Sigsworth*, 1935, where a murderer could not inherit from his victim).
+- **Merits:** avoids absurd results.
+- **Demerits:** "absurdity" is subjective.
+### Mischief rule
+- **Content:** *Heydon's case* (1584): identify the mischief and the remedy, and interpret to suppress the mischief.
+- **Merits:** gives effect to purpose.
+- **Demerits:** reliance on historical context, with uncertainty about the intent.
+### Purposive approach
+The modern development of the mischief rule: *Pepper v Hart* (1993), which allows reference to Hansard, and the purposive approach in the EU and the UK.
+### Indian approach
+- The literal rule is primary when the language is clear (*Nelson Motis*, 1992; *Union of India v Hansoli Devi*, 2002).
+- Purposive interpretation applies to remedial, welfare and constitutional provisions:
+  - *Bengal Immunity* (1955);
+  - *Reserve Bank of India v Peerless* (1987), "text and context";
+  - *Abhiram Singh v C.D. Commachen* (2017), purposive reading of "his religion".
+- Taxing and penal statutes are construed strictly (*Commissioner of Customs v Dilip Kumar*, 2018, five judges: ambiguity in an exemption notification goes to the Revenue).
+- New labour Codes are read on their own terms, not through old judicial glosses (*Jai Bir Singh*, 2026).
+### Conclusion
+Indian courts start from the text but read it in context and with purpose. Text and context together give meaning. The choice of rule depends on the nature of the statute.
+
+Q: Discuss the internal and external aids to interpretation.
+### Internal aids (within the statute)
+1. **Long title:** shows the scope and purpose of the Act (*Manohar Lal v State of Punjab*, 1961).
+2. **Preamble:** a key to the mind of the legislature where the language is ambiguous (*Kesavananda* for the Constitution's Preamble; *Burrakur Coal Co v Union of India*, 1961).
+3. **Headings:** may be referred to when ambiguous (*Bhinka v Charan Singh*, 1959).
+4. **Marginal notes:** generally not used, though used for the Constitution (*Bengal Immunity*, 1955).
+5. **Definitions:** "means" is exhaustive; "includes" is extensive.
+6. **Illustrations:** help in interpretation but cannot curtail the section (*Shambhu Nath Mehra v State of Ajmer*, 1956).
+7. **Provisos:** carve out exceptions (*CIT v Indo Mercantile Bank*, 1959).
+8. **Explanations:** clarify, and may widen the provision.
+9. **Schedules, punctuation** (a minor role) and **non-obstante clauses.**
+### External aids
+1. **Parliamentary history:** Statement of Objects and Reasons, debates, Constituent Assembly debates and committee reports, used to understand the context and mischief, not to control clear words (*R.S. Nayak v A.R. Antulay*, 1984; *Kalpana Mehta v Union of India*, 2018).
+2. **Historical facts and surrounding circumstances.**
+3. **Social, political and economic developments, and science:** updating construction (*State v S.J. Choudhary*, 1996).
+4. **Reference to other statutes:** in pari materia statutes (*Daivshala*, 2025, reading the EC Act with the ESI Act).
+5. **Dictionaries.**
+6. **Judicial decisions, including foreign decisions:** persuasive.
+7. **International conventions:** to read domestic law consistently (*Vishaka*, 1997).
+8. **Textbooks and the General Clauses Act, 1897.**
+9. **Executive construction and usage:** contemporanea expositio.
+### Conclusion
+Aids help ascertain legislative intent. They are used to resolve ambiguity, and never to override clear statutory language.
+
+Q: "Penal statutes are to be strictly construed, while taxing statutes are to be construed in favour of the subject." Discuss.
+### Penal statutes
+- **Rule of strict construction:** no one can be punished unless the case falls clearly within the words. If two reasonable constructions are possible, the one favouring the accused is adopted (the rule of lenity) (*Tolaram Relumal v State of Bombay*, 1954).
+- **Mens rea presumption:** *Nathulal v State of MP* (1966).
+- **Art. 20(1):** no ex post facto criminal laws.
+- **Limits:** strict construction does not mean ignoring the purpose. Social welfare penal statutes, such as food adulteration and dowry laws, are interpreted to suppress the mischief (*Kisan Trimbak Kothula v State of Maharashtra*, 1977).
+- **Courts do not create offences:** creating offences is legislative (*Ashwini Kumar Upadhyay*, 2026).
+### Taxing statutes
+- **"In a taxing Act, one has to look merely at what is clearly said. There is no room for any intendment"** (*Cape Brandy Syndicate v IRC*, 1921). Tax is not imposed by implication.
+- **Ambiguity in a charging provision** goes in favour of the subject (*CIT v Vegetable Products*, 1973).
+- **Exemption notifications** are strictly construed against the assessee; the burden is on the assessee (*Commissioner of Customs v Dilip Kumar*, 2018, five judges, overruling *Sun Export*).
+- **Machinery provisions** are construed to make the charge effective.
+- **Substance over form and anti-avoidance:** *McDowell* (1985); *Azadi Bachao Andolan* (2003); *Vodafone* (2012). Under the GAAR, the Court has denied treaty benefits to structures lacking commercial substance (*Tiger Global*, 2026).
+### Common rationale
+Both kinds of statute impose burdens on the subject, so the legislature must speak clearly.
+### Conclusion
+The maxims hold good, subject to purposive reading in welfare penal laws, strict construction of tax exemptions, and anti-avoidance principles.
+
+Q: Explain the principles of constitutional interpretation followed by the Supreme Court.
+### The Constitution as a living document
+It must be interpreted broadly and liberally, not in a narrow, pedantic way (*A.K. Gopalan* versus *Maneka Gandhi*; the "living tree" approach).
+### Principles
+1. **Harmonious construction:** Parts III and IV (*Minerva Mills*, 1980); Arts. 25 and 26.
+2. **Pith and substance, and colourable legislation:** for federal entries.
+3. **Doctrine of eclipse and severability** (*R.M.D.C. v Union of India*, 1957).
+4. **Presumption of constitutionality and reading down.**
+5. **Progressive and purposive interpretation:** reading in unenumerated rights under Art. 21, such as privacy (*Puttaswamy*, 2017).
+6. **Basic structure:** a limit on amendment (*Kesavananda*, 1973).
+7. **Transformative constitutionalism:** *Navtej Singh Johar* (2018); *Joseph Shine* (2018).
+8. **Constitutional morality** (*Manoj Narula*, 2014; *Government of NCT of Delhi v Union of India*, 2018).
+9. **Prospective overruling** (*Golak Nath*, 1967).
+10. **Use of foreign and international law.**
+11. **Constituent Assembly debates:** an aid (*Kalpana Mehta*, 2018).
+12. **Silences and gaps:** when the Constitution is silent, the Court will not supply rigid timelines in the guise of interpretation. Example: the Presidential Reference on assent to Bills (2025), which held that courts cannot fix timelines for the Governor or President, overruling the April 2025 two-judge view.
+### Advisory opinions under Art. 143
+Whether they bind as precedent under Art. 141 is debated, but they carry high authority and are generally followed (*In re Cauvery Water Disputes Tribunal*, 1991).
+### Conclusion
+Constitutional interpretation balances text, structure, history and evolving values. The Court treats the Constitution as an organic document to be read to secure its goals.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A statute defines "vehicle" as including "cars, buses, lorries and other conveyances". The question is whether a bicycle is covered by a ban on "vehicles" in a park. Apply the rules of interpretation.
+**Issue:** The scope of the general words "other conveyances".
+**Law:**
+- **Ejusdem generis:** general words following a list of specific items of one genus are limited to that genus (*Powell v Kempton Park*, 1899).
+- **The purposive approach:** what was the mischief, for example safety and noise in the park?
+**Application:** Cars, buses and lorries form a genus of motor vehicles. Under ejusdem generis, "other conveyances" would mean motorised conveyances, which excludes a bicycle. If the purpose is pedestrian safety generally, a court might read the provision more widely. Hart's "vehicles in the park" example illustrates the penumbra of uncertainty.
+**Conclusion:** On the usual rule, a bicycle is not covered, unless the statute's purpose clearly shows an intention to ban all conveyances.
+
+Q: A penal statute punishes "any person who sells adulterated food". X stores adulterated food for sale but has not yet sold any. Is he guilty?
+**Issue:** Can "sells" be extended to "stores for sale" in a penal statute?
+**Law:**
+- Penal statutes are strictly construed; ambiguity goes to the accused (*Tolaram Relumal*, 1954).
+- Courts cannot supply a casus omissus.
+- Where the legislature intended to cover storage, it says so; the Food Safety and Standards Act, 2006 covers storage and distribution expressly.
+**Application:** "Sells" does not plainly cover storage. Extending it would create an offence by interpretation.
+**Conclusion:** X is not guilty under this provision as framed, unless another provision covers storage or attempt.
+
+Q: A worker is injured in a road accident while travelling from home to his factory. The employer's insurer denies compensation under the Employees' Compensation Act, arguing that the accident did not arise "out of and in the course of employment". Apply the rules of interpretation.
+**Issue:** Should the phrase be read narrowly or beneficially?
+**Law:**
+- Welfare legislation is construed beneficially (*Kamal Dev Prasad v Mahesh Forge*, 2025).
+- *Daivshala v Oriental Insurance* (2025): an accident while commuting to or from work can arise out of and in the course of employment. The EC Act was read consistently with s.51E of the ESI Act (statutes in pari materia), treated as clarificatory.
+**Application:** The worker was commuting to his place of work, and the causal connection with employment can be established.
+**Conclusion:** Applying beneficial and in pari materia construction, the worker is entitled to compensation.
+
+Q: Article 25(2)(b) empowers the State to throw open Hindu religious institutions of a public character to all classes of Hindus. Article 26(b) gives every religious denomination the right to manage its own affairs in matters of religion. A denominational temple bars non-members. How should the conflict be resolved?
+**Issue:** The conflict between Arts. 25(2)(b) and 26(b).
+**Law:** *Sri Venkataramana Devaru v State of Mysore* (1958): by harmonious construction, Art. 26(b) is subject to Art. 25(2)(b). A denominational temple must be thrown open to all Hindus. However, the denomination may exclude the public from certain special religious services where only members may participate, so long as the temple is not closed to the public as a whole. The *Sabarimala* reference (nine judges, reserved May 2026) is re-examining related questions.
+**Application:** A total ban on non-member Hindus violates Art. 25(2)(b). Limited, religiously necessary restrictions on special rituals may be valid.
+**Conclusion:** Using harmonious construction, the temple must admit all Hindus to general worship, while retaining denominational control over special rites.

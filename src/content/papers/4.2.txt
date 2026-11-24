@@ -1,0 +1,214 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Coparcenary
+A coparcenary is a narrower body within the joint Hindu family. It consists of persons who acquire an interest in coparcenary property by birth. Under Mitakshara law, it covers the common ancestor and three generations of lineal descendants.
+- Since the 2005 amendment (s.6, Hindu Succession Act), daughters are coparceners by birth, with the same rights and liabilities as sons.
+- Features:
+  - unity of ownership and community of interest;
+  - the interest of a coparcener fluctuates with births and deaths;
+  - the right to demand partition; and
+  - management by the karta.
+
+Q: Powers of the karta
+The karta is the senior-most coparcener. A female coparcener can also be karta after 2005, as recognised by some High Courts. He manages the joint family property, with wide powers:
+- to receive income;
+- to spend for family purposes;
+- to represent the family; and
+- to compromise disputes.
+He may alienate joint family property only for:
+- legal necessity (*Hunoomanpersaud Panday v Mussumat Babooee Munraj Koonweree*, 1856);
+- benefit of the estate; or
+- indispensable religious duties.
+He is not liable to account, except on partition or fraud.
+
+Q: Daughter as coparcener
+The Hindu Succession (Amendment) Act, 2005 substituted s.6: a daughter becomes a coparcener by birth in her own right, in the same manner as a son.
+- *Vineeta Sharma v Rakesh Sharma* (2020, three judges): the right is by birth. It does not depend on the father being alive on 9 September 2005, and applies even to daughters born before 2005.
+- Partitions effected before 20 December 2004 by a registered deed or decree are saved.
+- *Prakash v Phulavati* (2016) and *Danamma v Amar* (2018) were overruled to that extent.
+
+Q: Doctrine of pious obligation
+Under Mitakshara law, sons (now also daughters, under the 2005 amendment) are under a pious obligation to pay their father's debts, if not tainted by illegality or immorality (avyavaharika). The obligation extends to the son's interest in joint family property.
+The 2005 amendment (s.6(4)) abolished this obligation for debts contracted after the amendment. Pre-2005 debts remain enforceable.
+
+Q: Stridhana
+Stridhana is property received by a woman before, during or after marriage by way of gifts from relatives and others, including gifts at the wedding. She is its absolute owner.
+- Section 14 HSA: any property possessed by a female Hindu becomes her absolute property.
+- Withholding stridhana is criminal breach of trust (*Pratibha Rani v Suraj Kumar*, 1985).
+- It is recoverable under the Domestic Violence Act (s.19(8)).
+
+Q: Section 14 of the Hindu Succession Act
+Section 14(1): any property possessed by a female Hindu, whether acquired before or after the Act, is held by her as full owner and not as a limited owner. This includes property acquired in lieu of maintenance (*V. Tulasamma v Sesha Reddy*, 1977).
+Section 14(2): property acquired under a gift, will, decree or award that prescribes a restricted estate remains restricted, if the right did not pre-exist.
+The section abolished the "woman's estate" (limited estate) of Shastric law.
+
+Q: Hiba (gift under Muslim law)
+Hiba is a transfer of property, made immediately and without consideration, by one person to another, and accepted by the donee. Essentials:
+- declaration of the gift;
+- acceptance; and
+- delivery of possession, actual or constructive.
+- Writing and registration are not necessary under Muslim law (s.129 TPA exempts it).
+- Doctrine of musha: a gift of an undivided share in property capable of division is irregular but valid on delivery.
+- Hiba-bil-iwaz and hiba-ba-shart-ul-iwaz are gifts for exchange.
+- Revocation is possible before delivery, and in some cases after.
+
+Q: Will under Muslim law
+A Muslim cannot bequeath more than one-third of his net estate (after funeral expenses and debts) without the consent of the heirs. The consent must be given after his death.
+- A bequest to an heir is invalid without the other heirs' consent (Hanafi law); Shias allow it within one-third.
+- A will may be oral or written; no formalities are needed.
+- Muslims are generally governed by personal law, except under the Special Marriage Act.
+
+Q: Probate
+Probate is a copy of a will certified under the seal of a competent court, with a grant of administration of the estate to the executor (s.2(f), Indian Succession Act).
+- It is conclusive as to the validity and due execution of the will.
+- It is compulsory in the Presidency towns (Kolkata, Chennai, Mumbai) for wills of Hindus, Buddhists, Sikhs and Jains (s.213), but not elsewhere.
+- Applications to revoke probate are governed by Art. 137 of the Limitation Act, three years (*Dhiraj Dutta v Anirban Sen*, 2026).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Explain the Mitakshara coparcenary and the effect of the Hindu Succession (Amendment) Act, 2005.
+### Mitakshara coparcenary
+- Property acquired by birth.
+- Survivorship: on a coparcener's death, his interest passed to the surviving coparceners.
+- Joint ownership and possession.
+- Fluctuating interest.
+- The karta manages the property.
+- Alienation is allowed only for legal necessity or benefit of the estate.
+- Partition can be demanded by any adult coparcener.
+### Under the HSA, 1956 (original s.6)
+- Survivorship was retained.
+- If a male coparcener died leaving a female Class I heir, his interest devolved by succession, determined by a notional partition (*Gurupad Khandappa Magdum v Hirabai*, 1978).
+- Daughters were excluded from the coparcenary.
+- State amendments made daughters coparceners: Andhra Pradesh (1986), Tamil Nadu (1989), Karnataka and Maharashtra (1994), and Kerala abolished the joint family (1975).
+### Amended s.6 (2005)
+1. A daughter becomes a coparcener by birth, with the same rights and liabilities as a son.
+2. She holds the property with incidents of coparcenary ownership, can be karta, and can demand partition.
+3. On a Hindu's death after 2005, his interest devolves by testamentary or intestate succession, not by survivorship (s.6(3)). Daughters receive an equal share.
+4. The pious obligation is abolished for future debts (s.6(4)).
+5. Partitions before 20 December 2004 are saved.
+6. Section 23 was deleted, so female heirs can seek partition of the dwelling house. Section 24 was also deleted.
+### Vineeta Sharma v Rakesh Sharma (2020)
+- The right is by birth, so the father need not be living on 9 September 2005.
+- Pending proceedings must be decided on that basis.
+- An oral partition can be accepted only if supported by public documents.
+### Children of void marriages
+They take their parent's share on notional partition, but are not coparceners (*Revanasiddappa v Mallikarjun*, 2023).
+### Conclusion
+The 2005 amendment removed gender discrimination in the coparcenary. *Vineeta Sharma* confirmed that daughters' rights are rights by birth, transforming the joint family.
+
+Q: Explain the rules of succession to the property of a Hindu male dying intestate.
+### Section 8 HSA
+The property of a male Hindu dying intestate devolves in the following order:
+1. **Class I heirs**, who take simultaneously and to the exclusion of others: son; daughter; widow; mother; son and daughter of a predeceased son or daughter; widow of a predeceased son; and the further generations added by the 2005 amendment. There are 16 heirs in all.
+2. **Class II heirs** (in nine entries, with an earlier entry excluding later ones): father; then son's daughter's son, brother, sister and others.
+3. **Agnates.**
+4. **Cognates.**
+5. **Escheat** to the government (s.29).
+### Distribution among Class I heirs (s.10)
+- The widow, or all widows together, takes one share.
+- Each son and each daughter takes one share each.
+- The mother takes one share.
+- The heirs in the branch of each predeceased son or daughter together take one share (per stirpes).
+### Other rules
+- **Section 6:** interest in coparcenary property.
+- **Section 14:** female heirs take absolutely.
+- **Section 19:** heirs take as tenants in common.
+- **Disqualifications:** murderers (s.25), and descendants of converts (s.26). Remarriage of a widow is no longer a bar (s.24 was deleted).
+- **Section 22:** the preferential right of heirs to acquire a share when another heir transfers. It applies to inherited agricultural land (*Mahinder v Puran Singh*, 2026).
+- **Nature of inherited property:** property inherited under s.8 is the heir's individual property, not coparcenary property, in the hands of his own heirs (*Commissioner of Wealth Tax v Chander Sen*, 1986; *Darubai v Kamalabai*, 2026).
+### Conclusion
+Section 8 lays down a statutory scheme that gives daughters, widows and mothers equal shares with sons in a male's separate property.
+
+Q: Explain the rules of inheritance under Hanafi law: sharers and residuaries.
+### Principles
+- Inheritance opens only on death.
+- There is no birthright and no joint family.
+- Male and female heirs inherit, a male generally taking double the share of a female in the same category.
+- There is no distinction between movable and immovable property.
+- Debts and funeral expenses, and wills up to one-third, are paid first.
+- Murder and difference in religion are traditional bars. The Caste Disabilities Removal Act, 1850 removes the bar for apostates in India.
+### Classes of heirs (Hanafi)
+1. **Quranic sharers (zul-furuz):** 12 sharers:
+   - husband: 1/4, or 1/2 if there is no child;
+   - wife: 1/8, or 1/4 if there is no child;
+   - father: 1/6 (and as a residuary in some cases);
+   - mother: 1/6 or 1/3;
+   - true grandfather;
+   - true grandmother;
+   - daughter: 1/2; two or more daughters together 2/3;
+   - son's daughter;
+   - full sister;
+   - consanguine sister;
+   - uterine brother and sister: 1/6 each, 1/3 together.
+2. **Residuaries (asabat):** agnates such as the son, son's son, father, brother and paternal uncle, who take the residue after the sharers. A daughter becomes a residuary with a son, taking half the son's share.
+3. **Distant kindred (zul-arham):** take only in the absence of sharers and residuaries.
+### Doctrines
+- **Aul (increase):** when shares exceed unity, they are reduced proportionately.
+- **Radd (return):** surplus returns to the sharers other than the spouse, except where no other heir exists.
+- **Exclusion:** the nearer excludes the more remote, and a son excludes the son's son.
+### Shia differences
+- The heirs are in three classes by proximity.
+- There is no distinction between agnates and cognates in the same way.
+- Radd applies to the spouse in some cases.
+### Conclusion
+Muslim inheritance is a fixed-share system based on the Quran. It gives women definite shares, though usually half that of male counterparts.
+
+Q: What are the essentials of a valid will under the Indian Succession Act? How is a will proved?
+### Will (s.2(h))
+A will is the legal declaration of the intention of a testator with respect to his property, which he desires to be carried into effect after his death.
+### Capacity (s.59)
+A person of sound mind, not a minor, may dispose of property by will. A will procured by fraud, coercion or undue influence is void (s.61).
+### Execution of an unprivileged will (s.63)
+1. It must be signed or marked by the testator, or by another person in his presence and by his direction.
+2. The signature must be placed so as to show that it was intended to give effect to the writing as a will.
+3. It must be attested by two or more witnesses, each of whom has seen the testator sign, or has received his personal acknowledgment of the signature, and each signs in the testator's presence.
+Registration is optional (s.18, Registration Act).
+### Proof
+- **Evidence Act s.68 (carried into the BSA):** at least one attesting witness must be examined, if alive and capable.
+- **The propounder's burden:** to prove due execution and the testator's sound disposing mind (*H. Venkatachala Iyengar v B.N. Thimmajamma*, 1959).
+- **Suspicious circumstances** must be removed by the propounder:
+  - shaky signature;
+  - feeble mind;
+  - unnatural or unfair disposition;
+  - exclusion of natural heirs without reason;
+  - the propounder taking a leading part in execution (*Shashi Kumar Banerjee*, 1964; *Ramesh Chand v Suresh Chand*, 2025).
+- **Exclusion of natural heirs** is not by itself fatal if the will is proved and the circumstances are explained (*Parvathi Nairthi*, 2026).
+### Revocation (s.70) and codicils
+A will may be revoked by a later will or codicil, by writing, or by burning or tearing. A will is revoked by the testator's marriage, except for Hindus, Buddhists, Sikhs and Jains (s.69, s.57).
+### Probate
+Probate is required in the Presidency towns. Revocation of probate is subject to the limitation under Art. 137 (*Dhiraj Dutta*, 2026).
+### Conclusion
+A will must comply with s.63 and be proved by an attesting witness. Courts are vigilant about suspicious circumstances because the testator is not alive to explain.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: F, a Hindu governed by Mitakshara law, died in 1999. His daughter D, born in 1975, files a suit for partition in 2010, claiming a share equal to her brother's in the ancestral property. The brother argues that the father was not alive on 9 September 2005. Decide.
+**Issue:** Can D claim coparcenary rights when her father died before the 2005 amendment?
+**Law:**
+- Amended s.6 HSA.
+- *Vineeta Sharma v Rakesh Sharma* (2020): the daughter's right is by birth. The coparcener father need not be alive on 9 September 2005. Only partitions effected before 20 December 2004 by a registered deed or court decree are saved.
+**Application:** D was born before 2005, and there is no registered or decreed partition before 20 December 2004. However, F died in 1999, before the amendment, and his interest would then have devolved under the old s.6 on a notional partition.
+**Conclusion:** D is a coparcener and can claim a share in the remaining coparcenary property equal to her brother's, along with her share from her father's notionally partitioned interest under s.8.
+
+Q: A Sunni Muslim bequeaths his entire property to a charitable trust, leaving a wife and two sons. The sons challenge the will. Decide.
+**Issue:** The limit on testamentary disposition under Muslim law.
+**Law:** A Muslim may bequeath only up to one-third of his net estate. A bequest beyond one-third is valid only if the heirs consent after the testator's death.
+**Application:** The bequest of the entire estate exceeds one-third, and the heirs have not consented.
+**Conclusion:**
+- The will is valid only to the extent of one-third, which goes to the trust.
+- The remaining two-thirds devolves on the heirs: the wife takes 1/8 of it as a sharer (the sons being present), and the two sons share the residue equally as residuaries.
+
+Q: W, a Hindu woman, inherited a house from her father. She dies intestate, leaving no son, daughter or husband. Her husband's brother and her own brother both claim the house. Decide.
+**Issue:** Succession to a Hindu female's property inherited from her father.
+**Law:** Under s.15(2)(a) HSA, property inherited by a female Hindu from her father or mother devolves, in the absence of any son, daughter (including children of a predeceased child), on the heirs of her father, not on the heirs of her husband. This keeps the property in the natal family.
+**Application:** The house came from her father, and she left no children.
+**Conclusion:** The house devolves on her father's heirs, in this case her brother, as a Class II heir of the father. The husband's brother takes nothing.
+
+Q: T executes a will leaving all his property to one son, S, excluding his other two children. S was present throughout and arranged the attesting witnesses. T was 90 and seriously ill. The other children challenge the will. Advise them.
+**Issue:** Is the will proved, given these suspicious circumstances?
+**Law:**
+- The propounder must prove due execution (s.63, Indian Succession Act; s.68, Evidence Act) and remove all suspicious circumstances (*H. Venkatachala Iyengar*, 1959).
+- An active role of the beneficiary, unexplained exclusion of natural heirs, and the testator's weak health are suspicious (*Ramesh Chand v Suresh Chand*, 2025).
+- Exclusion alone is not fatal if explained (*Parvathi Nairthi*, 2026).
+**Application:** Several suspicious circumstances exist together: illness and age, S's active role, and the unexplained exclusion of the other children. S must produce convincing evidence, such as medical certificates and independent witnesses.
+**Conclusion:** Unless S dispels these suspicions, the will is not proved, and the property devolves by intestate succession among all three children.

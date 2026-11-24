@@ -1,0 +1,390 @@
+@title Taxation Law
+@subtitle Constitutional tax powers, income tax, wealth tax, sales tax and GST
+@paper 4.3
+@sem IV
+@color #2d5a4a
+@dark #264e40
+@intro The syllabus is framed around the Income-tax Act, 1961, the Wealth Tax Act, the Central Sales Tax Act and the A.P. General Sales Tax Act. The law has moved on, and each unit says where things now stand. The Income-tax Act, 2025 replaced the 1961 Act from 1 April 2026, introducing a single "tax year" in place of "previous year" and "assessment year". Wealth tax was abolished from 2015-16. The A.P. General Sales Tax Act gave way to APVAT (2005) and then GST (2017). The CST Act survives only for petroleum products and alcoholic liquor. Section numbers in this book are those of the 1961 Act, which the syllabus uses and which still governs income up to 31 March 2026.
+@reading Vinod K. Singhania, Students' Guide to Income Tax
+@reading Kailash Rai, Taxation Laws
+@reading V.S. Datey, Indirect Taxes: Law and Practice
+@reading The Income-tax Act, 2025
+@reading The Central Goods and Services Tax Act, 2017
+
+# 1 | Constitutional provisions
+@topics Arts. 265 to 289; Scope of tax laws; Tax and fee; Capital receipt and revenue receipt
+>> No tax can be levied without the authority of law. The Constitution divides taxing powers between the Union and the States through the legislative lists, and since 2016 shares GST power concurrently.
+
+## 1.1 Arts. 265 to 289
+| Article | Content |
+|---|---|
+| 265 | No tax shall be levied or collected except by authority of law |
+| 266 | Consolidated Funds and Public Accounts of India and the States |
+| 268 to 269A | Duties levied by the Union but collected and appropriated by the States; taxes on inter-State trade (269); GST on inter-State supplies (269A, IGST) |
+| 270 | Taxes levied and distributed between the Union and the States (on the Finance Commission's recommendation) |
+| 271 | Surcharge for Union purposes |
+| 275 | Grants-in-aid to States |
+| 276 | Taxes on professions, trades, callings and employments (capped at ₹2,500 a year) |
+| 279A | GST Council (inserted 2016) |
+| 280 | Finance Commission |
+| 285 | Exemption of Union property from State taxation |
+| 286 | Restrictions on States taxing sale or purchase outside the State or in the course of import or export; now also supply |
+| 287 to 289 | Exemptions from taxes on electricity and on State property and income |
+
+- **Art. 246A** (2016): Parliament and State legislatures have concurrent power to make laws on GST; Parliament has exclusive power over inter-State supplies.
+
+CASE: Union of India v Mohit Minerals Pvt Ltd (2022) :: The recommendations of the GST Council under Art. 279A have only persuasive value. They are the product of collaborative federalism, and Parliament and the States are not bound by them. Integrated GST on ocean freight under reverse charge on importers was struck down.
+
+CASE: Mineral Area Development Authority v Steel Authority of India (2024) :: A nine-judge bench (8:1) held that royalty on minerals is not a tax. States have legislative competence under Entry 49 of List II to tax mineral-bearing lands, and Parliament's law under Entry 54 of List I (MMDR Act) does not limit that power. It overruled India Cement v State of Tamil Nadu (1989) to the extent it held royalty to be a tax.
+
+## 1.2 Tax and fee
+- **Tax**: a compulsory exaction for public purposes, without any reference to special benefit to the payer.
+- **Fee**: a charge for a special service rendered to individuals, with an element of quid pro quo (correspondence between the levy and the service), though not mathematical equivalence.
+
+CASE: Commissioner, Hindu Religious Endowments, Madras v Sri Lakshmindra Thirtha Swamiar of Sri Shirur Mutt (1954) :: The Court distinguished tax and fee: a tax is imposed for public purposes without reference to special benefit; a fee is a charge for special services rendered to a class, and its proceeds must go towards those services. A levy on religious institutions to meet general administration was held to be a tax in the guise of a fee, beyond the State's power as framed.
+
+## 1.3 Capital receipt and revenue receipt
+- **Revenue receipts** are taxable unless exempt; **capital receipts** are generally not taxable unless specifically made taxable (for example, capital gains).
+- Tests: whether the receipt is for the loss of a source of income (capital) or in the course of business (revenue); fixed versus circulating capital; the nature of the asset in the recipient's hands.
+
+CASE: Kettlewell Bullen and Co Ltd v Commissioner of Income Tax (1964) :: Compensation received for termination of a managing agency was held to be a capital receipt, because it was paid for the loss of an enduring source of income, the structure of the assessee's profit-making apparatus, and not in the ordinary course of business.
+
+* Art. 265: no tax without authority of law; distribution of taxing powers through the Lists and Arts. 268 to 289.
+* GST: Art. 246A (concurrent), Art. 269A (IGST), Art. 279A (GST Council, recommendations persuasive: Mohit Minerals).
+* Royalty is not a tax (Mineral Area Development Authority, 2024).
+* Tax versus fee (Shirur Mutt); capital versus revenue receipt (Kettlewell Bullen).
+
+QL: Explain the distinction between tax and fee with reference to decided cases.
+QL: Discuss the constitutional scheme of distribution of taxing powers, including the changes introduced by the 101st Amendment.
+QL: Distinguish between capital receipt and revenue receipt.
+QS: Article 265
+QS: GST Council
+QS: Mineral Area Development Authority v SAIL
+
+MCQ: "No tax shall be levied or collected except by authority of law" is || Art. 246A | *Art. 265 | Art. 279A | Art. 286 || Fundamental principle.
+MCQ: GST Council recommendations were held to be persuasive, not binding, in || Shirur Mutt | *Union of India v Mohit Minerals | Kesoram | Jindal Stainless || 2022.
+MCQ: The tax/fee distinction was laid down in || Kettlewell Bullen | *Commissioner HRE v Shirur Mutt | Mohit Minerals | Gannon Dunkerley || 1954.
+
+# 2 | Income tax: basic concepts, heads of income, assessment and recovery
+@topics Historical outline; Definitions: income, agricultural income, previous year, assessee; Incidence of tax and residential status; Statutory exemptions; Heads of income; Assessment; Collection and recovery; Double taxation relief; Clubbing of incomes
+>> Income tax is charged on the total income of every person for a year, at rates fixed by the annual Finance Act. Residence decides what income is taxed; heads of income decide how it is computed.
+
+## 2.1 Historical outline
+- Introduced in 1860 by James Wilson after the 1857 revolt; the Income Tax Act 1886; the Act of 1922; the **Income-tax Act, 1961** (on the Law Commission and Tyagi Committee's work).
+- The Direct Taxes Code Bills of 2009 and 2010 lapsed.
+- The **Income-tax Act, 2025** was passed in August 2025 and came into force on 1 April 2026. It is revenue-neutral (no change in rates) and restructured, with the single "tax year" concept.
+
+## 2.2 Definitions
+- **Income** (s.2(24)): an inclusive definition covering profits, dividends, voluntary contributions to trusts, perquisites, capital gains, winnings from lotteries and so on. The courts have held "income" is to be given its widest meaning.
+- **Agricultural income** (s.2(1A)): rent or revenue from land in India used for agricultural purposes, income from agriculture or from processes to make produce marketable, and income from farm buildings. It is exempt from Union income tax (s.10(1)), because taxation of agricultural income is a State subject (Entry 46, List II).
+
+CASE: Commissioner of Income Tax v Raja Benoy Kumar Sahas Roy (1957) :: "Agriculture" requires basic operations on the land, such as tilling, sowing and planting, involving human skill and labour, followed by subsequent operations. Income from forest trees of spontaneous growth, where no basic operations were performed, was held not to be agricultural income.
+
+- **Previous year** (s.3): the financial year immediately preceding the assessment year. Income of the previous year is assessed in the assessment year.
+- **Assessee** (s.2(7)): a person by whom tax or any other sum is payable, including deemed assessees and assessees in default.
+- **Person** (s.2(31)): individual, HUF, company, firm, association of persons or body of individuals, local authority, and every artificial juridical person.
+
+NOTE: Current law. Under the Income-tax Act, 2025, "previous year" and "assessment year" are replaced by a single **tax year** (1 April to 31 March). Income earned up to 31 March 2026 is still assessed under the 1961 Act.
+
+## 2.3 Incidence of tax and residential status (ss.5 and 6)
+- An individual is **resident** if in India for 182 days or more in the year, or for 60 days or more in the year and 365 days or more in the four preceding years. The 60-day rule is replaced by 120 days for certain citizens and persons of Indian origin with Indian income over ₹15 lakh, and a citizen with such income who is not liable to tax elsewhere is deemed resident.
+- **Resident but not ordinarily resident** (RNOR): a resident who was non-resident in nine of the ten preceding years, or was in India for 729 days or less in the seven preceding years, plus the special categories above.
+- **Scope of total income** (s.5): a resident is taxed on worldwide income; an RNOR on income received or accruing in India and income from a business controlled or profession set up in India; a non-resident only on income received, accruing or deemed to accrue in India (s.9).
+- A company is resident if it is Indian or its **place of effective management** is in India.
+
+CASE: Vodafone International Holdings BV v Union of India (2012) :: The transfer of shares of a Cayman Islands company between two non-residents, which indirectly transferred control of an Indian company, was held not taxable in India under s.9 as it then stood. Parliament then amended s.9 retrospectively in 2012 (Explanation 5, indirect transfers). The Taxation Laws (Amendment) Act, 2021 withdrew the retrospective demands for transfers before 28 May 2012.
+
+## 2.4 Statutory exemptions (ss.10 to 13A)
+- Agricultural income; share of profit from a firm; certain allowances; gratuity and leave encashment within limits; scholarships; income of local authorities, educational and medical institutions, and charitable trusts (ss.11 to 13, subject to conditions); income of political parties (s.13A, subject to accounts and audit).
+
+## 2.5 Heads of income (s.14)
+| Head | Sections (1961 Act) | Key ideas |
+|---|---|---|
+| Salaries | 15 to 17 | Employer-employee relationship; perquisites; standard deduction |
+| Income from house property | 22 to 27 | Annual value; 30% standard deduction; interest on borrowed capital |
+| Profits and gains of business or profession | 28 to 44 | Allowable expenses, depreciation, disallowances, presumptive taxation (44AD etc.) |
+| Capital gains | 45 to 55A | Transfer of a capital asset; short-term and long-term; indexation (now restricted) |
+| Income from other sources | 56 to 59 | Residuary head; gifts above ₹50,000 |
+
+## 2.6 Clubbing of income (ss.60 to 64)
+- Income of another person is included in the assessee's income to prevent avoidance: transfer of income without transfer of the asset (s.60); revocable transfers (s.61); income of a spouse from the assessee's concern, from assets transferred without adequate consideration, and income of a minor child (s.64).
+
+## 2.7 Assessment
+- **Return of income** (s.139): due dates; belated and revised returns; updated return (s.139(8A)).
+- **Kinds of assessment**: summary processing (s.143(1)); scrutiny assessment (s.143(3)); **faceless assessment** (s.144B, since 2020); best judgment assessment (s.144); income escaping assessment and reassessment (ss.147 to 151, overhauled in 2021); search assessment (s.153A, later replaced by block assessment provisions).
+
+CASE: Union of India v Ashish Agarwal (2022) :: Around 90,000 reassessment notices issued under the old s.148 after 1 April 2021 (when the new regime took effect) were treated as show-cause notices under the new s.148A, to be dealt with under the new procedure. The Court used Art. 142 to balance the revenue's interest with the taxpayers' rights.
+
+## 2.8 Collection and recovery
+- Tax is collected by deduction at source (TDS, ss.192 to 206), collection at source (TCS, s.206C), advance tax (ss.207 to 219), and self-assessment tax (s.140A).
+- Recovery: an assessee who does not pay is treated as an assessee in default (s.220); the Tax Recovery Officer recovers by attachment and sale of property (ss.222 to 232); interest is charged under ss.234A, 234B and 234C.
+
+## 2.9 Double taxation relief (ss.90 and 91)
+- **Bilateral relief** (s.90) under a Double Taxation Avoidance Agreement (DTAA): the assessee may choose the treaty or the Act, whichever is more beneficial.
+- **Unilateral relief** (s.91) where there is no treaty.
+
+CASE: Union of India v Azadi Bachao Andolan (2003) :: The CBDT circular accepting Mauritius tax residency certificates as sufficient proof of residence under the India-Mauritius DTAA was upheld. Treaty shopping was not illegal in itself, and legitimate tax planning within the law is permissible. (The treaty was amended in 2016 to give India source-based taxation of capital gains on shares, and a principal purpose test was proposed later.)
+
+## 2.10 Recent judgments (2025–26)
+
+CASE: Authority for Advance Rulings v Tiger Global International II Holdings (2026) :: Gains of Mauritius entities from selling shares of Flipkart Singapore, which derived its value from India, were held taxable in India. A Tax Residency Certificate is not conclusive; treaty benefits can be denied where the structure lacks commercial substance, and GAAR may apply.
+
+CASE: MEPCO Industries Ltd v CIT (2026) :: Whether a subsidy is capital or revenue depends on its purpose. An electricity tariff subsidy to support running operations is a revenue receipt.
+
+* TRC not conclusive; treaty shopping denied (Tiger Global, 2026); purpose test for subsidies (MEPCO, 2026).
+* The Income-tax Act 2025, in force from 1 April 2026, introduced the tax year.
+* Income is defined widely; agricultural income is exempt (Benoy Kumar Sahas Roy).
+* Residential status: 182 days, or 60 plus 365; RNOR; scope of income (Vodafone).
+* Five heads of income; clubbing (ss.60 to 64).
+* Assessment: summary, scrutiny, faceless, best judgment, reassessment (Ashish Agarwal).
+* Collection: TDS, TCS, advance tax; recovery; DTAA relief (Azadi Bachao).
+
+QL: Explain how the residential status of an individual is determined and how it affects the incidence of tax.
+QL: Define "agricultural income". Is it taxable under the Income-tax Act?
+QL: Discuss the different kinds of assessment under the Income-tax Act.
+QL: What are the provisions for relief from double taxation?
+QS: Clubbing of income
+QS: Tax year under the Income-tax Act, 2025
+QS: Vodafone case
+
+MCQ: The Income-tax Act, 2025 came into force on || 1 April 2025 | *1 April 2026 | 1 July 2026 | 1 October 2025 || Replaces the 1961 Act.
+MCQ: Basic operations on land are essential for agricultural income, as held in || Kettlewell Bullen | *CIT v Raja Benoy Kumar Sahas Roy | Azadi Bachao | Ashish Agarwal || 1957.
+MCQ: Relief under a DTAA is provided by || s.91 | *s.90 | s.10 | s.143 || s.91 is unilateral relief.
+MCQ: In Tiger Global (2026), the Supreme Court held that a Tax Residency Certificate || is conclusive proof of treaty entitlement | *does not by itself secure treaty benefits where the structure lacks substance | is irrelevant to residence | overrides GAAR || Overturning the Delhi High Court.
+
+# 3 | Income tax authorities, settlement, appeals and penalties
+@topics Income tax authorities; Settlement of cases; Appeals and revisions; Penalties, offences and prosecution
+>> Tax disputes pass through a hierarchy of authorities and appeals ending in the Supreme Court. Penalties and prosecution enforce compliance; settlement was offered as an alternative route.
+
+## 3.1 Income tax authorities (s.116)
+- The Central Board of Direct Taxes (CBDT, under the Central Boards of Revenue Act 1963), Principal Chief Commissioners and Chief Commissioners, Principal Commissioners and Commissioners, Commissioners (Appeals), Joint and Additional Commissioners, Deputy and Assistant Commissioners, Income Tax Officers, Tax Recovery Officers and Inspectors.
+- Powers include discovery, production of evidence, search and seizure (s.132), requisition (s.132A), survey (s.133A), and calling for information (s.133).
+
+## 3.2 Settlement of cases (s.245A onwards)
+- The **Income Tax Settlement Commission** allowed an assessee to make full and true disclosure of undisclosed income and settle the case once in a lifetime, with immunity from penalty and prosecution.
+- It was wound up from 1 February 2021 by the Finance Act, 2021, and pending cases were transferred to **Interim Boards for Settlement**. The **Dispute Resolution Committee** (s.245MA) for small taxpayers and the **Vivad se Vishwas** schemes (2020 and 2024) are alternative routes.
+
+## 3.3 Appeals and revisions (ss.246 to 269)
+- **First appeal** to the Commissioner (Appeals), or to the Joint Commissioner (Appeals) for smaller cases, under s.246A; faceless appeals since 2020.
+- **Second appeal** to the **Income Tax Appellate Tribunal** (s.253), the final fact-finding authority.
+- **Appeal to the High Court** (s.260A) on a substantial question of law; **appeal to the Supreme Court** (s.261).
+- **Revision** by the Commissioner: s.263 (orders erroneous and prejudicial to the revenue) and s.264 (on the assessee's application or suo motu, in favour of the assessee).
+
+CASE: Malabar Industrial Co Ltd v Commissioner of Income Tax (2000) :: Under s.263, the Commissioner may revise an order only if it is both erroneous and prejudicial to the interests of the revenue. Where the officer adopts one of two possible views and the Commissioner disagrees, the order cannot be treated as erroneous unless the view taken is unsustainable in law.
+
+## 3.4 Penalties, offences and prosecution (ss.270 to 280)
+- **Penalty for under-reporting and misreporting income** (s.270A, from 2017): 50% of the tax on under-reported income, and 200% for misreporting (such as misrepresentation or suppression of facts). Immunity is possible under s.270AA if tax is paid and no appeal is filed.
+- Other penalties: failure to keep books (s.271A), failure to get accounts audited (s.271B), and failure to deduct tax (s.271C).
+- **Prosecution** (ss.275A to 280): wilful attempt to evade tax (s.276C), failure to file returns (s.276CC), false statements in verification (s.277), and abetment (s.278). There is a presumption of culpable mental state (s.278E). Offences may be compounded (s.279(2)); special courts are provided (s.280A).
+
+* The CBDT heads a hierarchy of authorities with wide investigative powers.
+* The Settlement Commission was wound up in 2021; Interim Boards, DRC and Vivad se Vishwas replaced it.
+* Appeals: CIT(A), ITAT, High Court (substantial question of law), Supreme Court; revisions under ss.263 and 264 (Malabar Industrial).
+* Penalties: s.270A (50% and 200%); prosecution for wilful evasion, with a presumption of mens rea.
+
+QL: Discuss the appellate structure under the Income-tax Act, including revision powers of the Commissioner.
+QL: Explain the provisions relating to penalties and prosecution for tax evasion.
+QS: Settlement Commission
+QS: Section 263
+QS: Faceless assessment
+
+MCQ: The Income Tax Settlement Commission was wound up with effect from || 1 April 2020 | *1 February 2021 | 1 April 2026 | 1 July 2017 || Finance Act, 2021.
+MCQ: The penalty for misreporting of income under s.270A is || 50% | *200% | 100% | 300% || Of tax on misreported income.
+MCQ: An order is revisable under s.263 only if it is both erroneous and prejudicial to the revenue, as held in || Ashish Agarwal | *Malabar Industrial Co v CIT | Vodafone | Azadi Bachao || 2000.
+
+# 4 | Wealth Tax Act
+@topics Definitions: asset, net wealth; Valuation date; Deemed assets; Exempted assets
+>> Wealth tax was an annual levy on net wealth of individuals, HUFs and companies. It was abolished from assessment year 2016-17 and replaced by a higher surcharge on the very rich.
+
+## 4.1 The Wealth Tax Act, 1957
+- Charged on the **net wealth** of an individual, HUF or company on the **valuation date**, at 1% on net wealth above ₹30 lakh (the final position before abolition).
+
+## 4.2 Definitions
+- **Assets** (s.2(ea), after 1993): a closed list of unproductive assets: residential and commercial buildings (with exceptions such as one house and property used for business), motor cars (other than those used in hiring business or stock-in-trade), jewellery, bullion and furniture of gold, silver and platinum, yachts, boats and aircraft (other than for commercial purposes), urban land, and cash in hand above ₹50,000 (for individuals and HUFs).
+- **Net wealth** (s.2(m)): the aggregate value of assets on the valuation date, minus debts owed that were incurred in relation to those assets.
+- **Valuation date** (s.2(q)): the last day of the previous year, i.e. 31 March.
+
+## 4.3 Deemed assets (s.4)
+- Assets transferred to a spouse or minor child (other than a married daughter) without adequate consideration, assets held by an AOP or firm (the partner's interest), and assets transferred under revocable transfers are included in the transferor's net wealth. This prevents avoidance by splitting.
+
+## 4.4 Exempted assets (s.5)
+- Property held under trust for public charitable or religious purposes; the interest in coparcenary property of an HUF member; one house or part of a house (or a plot of land up to 500 square metres); jewellery of a former ruler declared as heirloom; assets of a non-resident outside India; and some others.
+
+## 4.5 Abolition
+NOTE: Current law. The Finance Act, 2015 abolished wealth tax from assessment year 2016-17. The reasons given were that its collection was small compared to the cost of administration. It was replaced by an additional surcharge on individuals and companies with very high incomes. Information on high-value assets is now collected through income-tax returns (Schedule AL) instead.
+
+* The Wealth Tax Act 1957 taxed net wealth on the valuation date (31 March).
+* Assets: a closed list of unproductive assets after 1993.
+* Deemed assets (s.4) prevent avoidance; exemptions in s.5.
+* Abolished from assessment year 2016-17, replaced by surcharge.
+
+QL: Explain the concepts of "assets", "net wealth" and "deemed assets" under the Wealth Tax Act, 1957. Why was wealth tax abolished?
+QS: Valuation date
+QS: Exempted assets under the Wealth Tax Act
+
+MCQ: Wealth tax was abolished with effect from assessment year || 2010-11 | *2016-17 | 2020-21 | 2026-27 || Finance Act, 2015.
+
+# 5 | Indirect tax laws
+@topics Indirect taxes: an overview
+>> Indirect taxes are levied on goods and services and passed on to the consumer. India moved from a cascade of Central and State levies to a unified GST in 2017.
+
+## 5.1 Direct and indirect taxes
+- A **direct tax** falls on the person who pays it and cannot be shifted (income tax).
+- An **indirect tax** is collected from one person but passed on to another, ultimately the consumer (customs, excise, sales tax, service tax, GST).
+
+## 5.2 The pre-GST structure
+- **Union**: customs duty (Entry 83, List I), central excise (Entry 84), service tax (Entry 92C, 2003), and Central Sales Tax on inter-State sales (Entry 92A).
+- **States**: sales tax or VAT (Entry 54, List II), entry tax, entertainment tax, luxury tax, taxes on advertisements, and electricity duty.
+- Problems: cascading (tax on tax), multiple rates and laws, no input credit across Centre and State taxes, inter-State barriers.
+
+## 5.3 Key cases on sale
+CASE: State of Madras v Gannon Dunkerley and Co (Madras) Ltd (1958) :: A building contract was held to be an indivisible works contract, not a "sale of goods" within Entry 48 of List II (now Entry 54), so the State could not tax the value of materials used. This led to the **46th Amendment (1982)**, which inserted Art. 366(29A) defining "tax on the sale or purchase of goods" to include works contracts, hire purchase, delivery of goods on hire, and supply of food in restaurants (deemed sales).
+
+CASE: Bharat Sanchar Nigam Ltd v Union of India (2006) :: Mobile phone service was held to be a service, not a sale of goods; the electromagnetic waves were not goods. The Court applied the dominant nature test to composite transactions other than those covered by Art. 366(29A).
+
+* Direct taxes are not shifted; indirect taxes are passed on.
+* The pre-GST structure split indirect taxes between Union and States, causing cascading.
+* Works contracts were not sales (Gannon Dunkerley), until the 46th Amendment created deemed sales; mobile service is not a sale (BSNL).
+
+QL: Distinguish between direct and indirect taxes and describe the pre-GST structure of indirect taxation in India.
+QS: Deemed sales under Art. 366(29A)
+QS: Gannon Dunkerley's case
+
+MCQ: The 46th Amendment, which created deemed sales, followed || BSNL | *State of Madras v Gannon Dunkerley | Mohit Minerals | Shirur Mutt || Art. 366(29A).
+
+# 6 | Central Sales Tax Act, 1956
+@topics Historical outline; Definitions; Sections 4 to 6A; Registration of dealers; Liability in special cases
+>> The CST Act defines when a sale takes place in the course of inter-State trade, outside a State, or in the course of import or export, and levies tax on inter-State sales. After GST, it applies only to a few goods kept outside GST.
+
+## 6.1 Historical outline
+- Before 1956, States taxed sales with an outside element, leading to multiple taxation. Art. 286 (1950) restricted this, and the **Bengal Immunity Co v State of Bihar** (1955) decision held that no State could tax inter-State sales until Parliament provided otherwise.
+- The **Sixth Amendment (1956)** inserted Entry 92A in List I and Art. 269(1)(g), and the CST Act was enacted.
+
+## 6.2 Definitions (s.2)
+- "Dealer" (any person carrying on the business of buying, selling, supplying or distributing goods), "declared goods" (goods of special importance in inter-State trade under s.14), "goods", "sale" (any transfer of property in goods for cash or deferred payment or other valuable consideration, including deemed sales), "turnover", and "place of business".
+
+## 6.3 Sections 3 to 6A
+- **Section 3: inter-State sale**: a sale is in the course of inter-State trade if it (a) occasions the movement of goods from one State to another, or (b) is effected by transfer of documents of title during their movement.
+- **Section 4: sale outside a State**: a sale is inside the State where the goods are at the time of the contract (specific or ascertained goods) or at the time of appropriation (unascertained goods). A sale inside one State is outside all other States.
+- **Section 5: sale in the course of import or export**: a sale occasions export (or is by transfer of documents after goods cross the customs frontier), or occasions import (or is by transfer of documents before goods cross the frontier). Penultimate sales to fulfil an export order are also deemed to be in the course of export (s.5(3)).
+- **Section 6: liability to tax**: every dealer is liable to pay tax on all inter-State sales. Section 6(2) exempts subsequent sales by transfer of documents during movement, with prescribed certificates (E-I and E-II).
+- **Section 6A: burden of proof in stock transfers**: a dealer claiming that a movement of goods was a stock transfer to his own branch or agent, not a sale, must prove it by furnishing Form F.
+
+CASE: Tata Iron and Steel Co Ltd v S.R. Sarkar (1960) :: Clauses (a) and (b) of s.3 were held to be mutually exclusive. A sale that occasions the movement of goods falls under clause (a); a later sale effected by transfer of documents of title during the movement falls under clause (b). Under s.9, the tax is collected by the State from which the movement of goods commences.
+
+## 6.4 Registration of dealers (s.7)
+- A dealer liable to tax must register; a dealer may also voluntarily register. The certificate of registration specifies the classes of goods that may be purchased at the concessional rate against Form C.
+- Rates: 2% against Form C for sales to registered dealers (reduced from 4% by 2008); otherwise the local VAT rate.
+
+## 6.5 Liability in special cases
+The Act makes special provision for liability on transfer of business, of companies in liquidation, of directors of private companies in liquidation, of partners of firms, and of guardians, trustees and agents. These make the relevant persons jointly and severally liable for unpaid tax.
+
+NOTE: Current law. After GST (1 July 2017), the CST Act applies only to the six goods outside GST: petroleum crude, high-speed diesel, motor spirit (petrol), natural gas, aviation turbine fuel, and alcoholic liquor for human consumption. Inter-State supply of all other goods and services is subject to **IGST**.
+
+* The CST Act followed Bengal Immunity and the Sixth Amendment.
+* Sections 3, 4 and 5 define inter-State sales, sales outside a State, and import and export sales.
+* Section 6 imposes liability; s.6A puts the burden of proving stock transfer on the dealer (Form F).
+* Registration and Form C; liability in special cases.
+* After GST, the CST Act applies only to six goods.
+
+QL: Explain when a sale is said to take place in the course of inter-State trade, outside a State, and in the course of import or export under the CST Act.
+QL: Discuss the burden of proof in stock transfers under s.6A.
+QS: Penultimate sale for export
+QS: Form C
+QS: Present scope of the CST Act
+
+MCQ: The burden of proving a stock transfer under the CST Act is governed by || s.3 | *s.6A | s.4 | s.14 || Form F.
+MCQ: After GST, the CST Act applies to || all goods | *six petroleum products and alcoholic liquor for human consumption | services only | none || Petroleum crude, HSD, petrol, natural gas, ATF and alcohol.
+
+# 7 | A.P. General Sales Tax Act, 1957
+@topics Definitions: business, dealer, casual dealer, total turnover; Registration of dealers
+>> The APGST Act taxed the sale of goods within Andhra Pradesh. It was replaced by the AP Value Added Tax Act, 2005 and then, for most goods, by the AP GST Act, 2017.
+
+## 7.1 Definitions
+- **Business**: any trade, commerce or manufacture, or any adventure or concern in the nature of trade, commerce or manufacture, whether or not carried on with a profit motive and whether or not profit accrues. It includes transactions incidental to or ancillary to such trade.
+- **Dealer**: any person who carries on the business of buying, selling, supplying or distributing goods, directly or otherwise, whether for cash, deferred payment, commission, remuneration or other valuable consideration. It includes local authorities, companies, firms, societies, clubs, commission agents, brokers, auctioneers and government departments that carry on such business.
+- **Casual dealer**: a person who, whether as principal, agent or in any other capacity, carries on occasional transactions of a business nature involving buying, selling, supplying or distributing goods in the State, whether for cash, deferred payment or other valuable consideration.
+- **Total turnover**: the aggregate turnover of all goods bought or sold by a dealer, whether liable to tax or not, including sales in the course of inter-State trade and in the course of export.
+
+## 7.2 Registration of dealers
+- Every dealer whose total turnover exceeded the prescribed limit in a year, and every casual dealer, had to register with the assessing authority. Registration certificates had to be displayed at the place of business. Carrying on business without registration was an offence.
+
+NOTE: Current law. The APGST Act, 1957 was repealed by the **AP Value Added Tax Act, 2005** (from 1 April 2005). APVAT now applies only to goods outside GST (petroleum products and liquor); all other intra-State supplies are governed by the **AP Goods and Services Tax Act, 2017**. Concepts like "business", "dealer" and "turnover" survive in modified form in the GST laws ("business", "taxable person", "aggregate turnover").
+
+* APGST definitions of business (profit motive irrelevant), dealer, casual dealer and total turnover.
+* Registration above the turnover limit, and of all casual dealers.
+* APGST was replaced by APVAT (2005), and then APGST 2017 for most goods.
+
+QL: Define "business", "dealer", "casual dealer" and "total turnover" under the A.P. General Sales Tax Act, 1957.
+QS: Casual dealer
+QS: Registration of dealers under the APGST Act
+
+MCQ: The APGST Act, 1957 was replaced by || the AP GST Act, 2017 | *the AP VAT Act, 2005 | the CST Act | the AP Excise Act || With effect from 1 April 2005.
+
+# 8 | Reforms in law: VAT and GST
+@topics GST; VAT; GST and VAT problems and prospects in application
+>> VAT taxed only the value added at each stage within a State. GST extends the same principle across goods and services and across Centre and States, with input tax credit throughout the supply chain.
+
+## 8.1 Value Added Tax
+- VAT is a multi-stage tax on the value added at each stage, collected by allowing credit for tax paid on inputs. It avoids cascading.
+- States introduced VAT from 1 April 2005 (Andhra Pradesh among the first), following the Empowered Committee of State Finance Ministers' White Paper (2005).
+- Limits: it did not cover services or Central taxes; there was no credit for CST on inter-State purchases; and rates varied among States.
+
+## 8.2 Goods and Services Tax
+- **101st Constitutional Amendment (2016)**: Arts. 246A, 269A, 279A; subsumed Central excise, service tax, additional customs duties, CST, State VAT, entry tax, entertainment tax (except by local bodies), luxury tax and others.
+- In force from **1 July 2017**.
+- **Statutes**: CGST Act 2017, SGST Acts (including the AP GST Act 2017), IGST Act 2017 for inter-State supplies, UTGST Act, and the GST (Compensation to States) Act 2017.
+- **Key concepts**: "supply" (s.7 CGST), which includes sale, transfer, barter, exchange, licence, rental, lease or disposal for consideration in the course of business; levy (s.9); time, place and value of supply; **input tax credit** (s.16 to s.21); reverse charge (s.9(3) and (4)); composition levy (s.10); registration above the threshold (s.22, ₹40 lakh for goods in most States, ₹20 lakh for services).
+- **GST 2.0 (from 22 September 2025)**: rates were rationalised from four slabs (5%, 12%, 18%, 28%) into two main slabs of 5% and 18%, with a special 40% rate on select luxury and sin goods.
+- **Goods and Services Tax Appellate Tribunal (GSTAT)** began functioning from late 2025, providing a long-awaited second appellate forum.
+
+CASE: Chief Commissioner of Central Goods and Services Tax v Safari Retreats Pvt Ltd (2024) :: The Court held that the expression "plant or machinery" in s.17(5)(d) of the CGST Act (which blocks input tax credit for construction of immovable property on one's own account) must be read with a functionality test. A building, such as a shopping mall let out on rent, may qualify as a "plant" depending on its function in the business, allowing input tax credit. Parliament then amended s.17(5)(d) retrospectively in 2025 to replace "plant or machinery" with "plant and machinery", which overrides the ruling.
+
+## 8.3 Problems and prospects
+- **Problems**: complexity of compliance, especially for small businesses; frequent changes in rates and rules; disputes on classification; delays in refunds; litigation over input tax credit; and fiscal federalism concerns about loss of State autonomy and the end of compensation (which ran until 2022, with the cess continued to repay borrowings).
+- **Prospects**: a unified national market, an end to cascading, better compliance through e-invoicing and e-way bills, and a broader tax base. Future questions include bringing petroleum, electricity and alcohol under GST.
+
+## 8.4 Recent judgments (2025–26)
+
+CASE: Radhika Agarwal v Union of India (2025) :: Safeguards of criminal procedure on arrest apply to arrests under the GST and Customs laws; officers must have reasons to believe and must follow arrest safeguards.
+
+CASE: Union of India v Sunil Biyani (2026) :: The grounds of arrest under s.69 of the CGST Act must be communicated to the person arrested.
+
+* Arrest safeguards apply under GST (Radhika Agarwal, 2025; Sunil Biyani, 2026).
+* VAT: multi-stage tax with input credit, introduced by States in 2005.
+* GST: 101st Amendment, in force 1 July 2017; CGST, SGST, IGST; supply, ITC, reverse charge.
+* GST 2.0 from 22 September 2025: 5% and 18%, plus 40%; GSTAT functioning.
+* Safari Retreats (2024) and the 2025 retrospective amendment.
+* Problems: compliance, refunds, federalism; prospects: national market.
+
+QL: Explain the concept of VAT and the reasons for its replacement by GST.
+QL: Discuss the constitutional and statutory framework of GST in India and its problems and prospects.
+QS: Input tax credit
+QS: GST 2.0 (2025)
+QS: GSTAT
+
+MCQ: GST came into force on || 1 April 2017 | *1 July 2017 | 1 April 2005 | 22 September 2025 || 101st Amendment, 2016.
+MCQ: Under the GST rate rationalisation of 22 September 2025, the two main slabs are || 12% and 28% | *5% and 18% | 5% and 12% | 18% and 28% || Plus a special 40% rate.
+MCQ: The functionality test for "plant" under s.17(5)(d) CGST was applied in || Mohit Minerals | *Safari Retreats | BSNL | Gannon Dunkerley || 2024.
+
+# 9 | Sales tax authorities
+@topics Sales tax authorities (ss.3 and 4)
+>> Each sales tax law sets up a hierarchy of authorities to register dealers, assess and collect tax, and hear appeals.
+
+## 9.1 Authorities under the APGST Act
+- Section 3 provided for the appointment of the Commissioner of Commercial Taxes and other officers (Joint, Deputy and Assistant Commissioners, Commercial Tax Officers and Deputy Commercial Tax Officers) to carry out the Act.
+- Section 4 dealt with the delegation of powers and the jurisdiction of these authorities.
+- Appeals lay to the Appellate Deputy Commissioner, then to the Sales Tax Appellate Tribunal, and then to the High Court on a question of law (revision).
+
+## 9.2 Authorities under GST
+- Central tax officers under the CGST Act (s.3: Principal Chief Commissioners, Chief Commissioners, Commissioners and others) and State tax officers under the SGST Acts. Cross-empowerment allows both to act, but a taxpayer is assigned to one administration.
+- **Appellate structure**: Appellate Authority (s.107), GSTAT (s.109 and s.112), High Court (s.117) and Supreme Court (s.118).
+- **Advance Ruling Authorities** (s.95 onwards) give binding rulings on questions referred by applicants.
+
+* APGST: Commissioner and subordinate officers (ss.3 and 4); appeals to the Deputy Commissioner, Tribunal and High Court.
+* GST: Central and State officers; Appellate Authority, GSTAT, High Court, Supreme Court; Advance Rulings.
+
+QL: Describe the hierarchy of sales tax authorities and the appellate structure under the APGST Act and under GST.
+QS: Advance ruling under GST
+
+MCQ: The second appellate forum under GST is || the Appellate Authority | *GSTAT | the High Court | the GST Council || ss.109 and 112 CGST Act.

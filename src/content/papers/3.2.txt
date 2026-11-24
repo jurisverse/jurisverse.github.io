@@ -1,0 +1,222 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Registration of trade unions
+- Under the Trade Unions Act, 1926 (s.4), any seven or more members may apply for registration. Since 2001, a union must have at least 10% or 100 workmen, whichever is less, of the establishment.
+- The Registrar registers the union if the rules and particulars comply (ss.5 to 8).
+- A registered union becomes a body corporate (s.13), with immunities.
+- Under the Industrial Relations Code, 2020, the same thresholds apply, and the Code adds recognition of a "negotiating union" or a negotiating council (s.14).
+
+Q: Immunities of registered trade unions
+- **Criminal conspiracy (s.17):** no liability for an agreement among members to further the union's lawful objects, unless it is an agreement to commit an offence.
+- **Civil immunity (s.18):** no suit lies in respect of acts in contemplation or furtherance of a trade dispute, merely because they induce breach of contract or interfere with trade, business or employment.
+- **Enforceability of agreements (s.19).**
+The immunities do not cover violence, criminal acts or damage to property (*Rohtas Industries v Rohtas Industries Staff Union*, 1976). The IR Code continues them.
+
+Q: Collective bargaining
+Collective bargaining is negotiation between an employer and organised workers, through their union, on wages and working conditions, leading to a settlement.
+- It is recognised under ILO Conventions 87 and 98.
+- In India, settlements under s.18 of the ID Act bind the parties. Those reached in conciliation bind all workmen.
+- The IR Code introduces a negotiating union (51% membership) or a negotiating council.
+- The right to collective bargaining is not a fundamental right (*All India Bank Employees' Association v NITB*, 1962), but it is promoted by statute.
+
+Q: Standing orders
+Standing orders are rules governing service conditions, such as classification, hours, leave, misconduct and termination. They are made under the Industrial Employment (Standing Orders) Act, 1946 for establishments with 100 or more workmen, and are certified by the certifying officer.
+- Certified standing orders have statutory force and bind the parties (*Bagalkot Cement v R.K. Pathan*, 1963).
+- Under the IR Code (Chapter IV), the threshold is 300 or more workers, and the model standing orders apply unless the employer adopts its own.
+
+Q: Definition of "workman"
+Under s.2(s) of the ID Act, a "workman" is any person employed to do manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward. It excludes:
+- persons in managerial or administrative capacity;
+- supervisory staff drawing over ₹10,000 per month; and
+- persons under the Army, Air Force or Navy Acts, and the police.
+- *H.R. Adyanthaya v Sandoz* (1994): medical representatives are not workmen.
+- The IR Code (s.2(zr)) includes working journalists and sales promotion employees. Its supervisory salary ceiling is ₹18,000.
+
+Q: Lay-off
+Lay-off is the failure, refusal or inability of an employer, owing to shortage of coal, power or raw materials, accumulation of stock, breakdown of machinery or natural calamity, to give employment to a workman on the muster rolls who has not been retrenched (s.2(kkk), ID Act).
+- Compensation is 50% of basic wages plus dearness allowance (s.25C).
+- Prior permission is needed in large establishments: 100 or more workmen under Chapter VB of the ID Act, and 300 or more under Chapter X of the IR Code.
+
+Q: Conditions precedent to retrenchment
+Section 25F of the ID Act requires, for a workman with one year's continuous service:
+- one month's notice in writing with reasons, or wages in lieu;
+- retrenchment compensation of 15 days' average pay for every completed year; and
+- notice to the appropriate government.
+- Non-compliance makes the retrenchment void ab initio (*State Bank of India v N. Sundara Money*, 1976).
+- "Last come, first go" applies (s.25G).
+- Retrenched workmen must be preferred for re-employment (s.25H).
+- The IR Code adds contributions to a Worker Re-skilling Fund.
+
+Q: Strikes in public utility services
+Under s.22 of the ID Act, no person employed in a public utility service may go on strike:
+- without giving the employer six weeks' notice;
+- within 14 days of giving the notice;
+- before the expiry of the date specified in the notice; or
+- during conciliation proceedings, and for seven days after they conclude.
+- An illegal strike is punishable (s.26).
+- Under the IR Code (s.62), these conditions apply to all industrial establishments: 60 days' notice, and no strike within 14 days or during conciliation or tribunal proceedings.
+
+Q: Unfair labour practices
+Section 25T read with the Fifth Schedule of the ID Act (now the Second Schedule of the IR Code) prohibits unfair labour practices. On the employer's side, these include:
+- interfering with union rights;
+- discharging workers for union activity;
+- victimisation;
+- recruiting strike-breakers; and
+- refusing to bargain.
+On the union's side, they include coercion and violence. The penalty is under s.25U.
+In Maharashtra, the MRTU and PULP Act, 1971 provides a separate code.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the meaning of "industry" under the Industrial Disputes Act and the Industrial Relations Code, with reference to Jai Bir Singh.
+### Section 2(j), ID Act
+"Industry" means any business, trade, undertaking, manufacture or calling of employers, and includes any calling, service, employment, handicraft, or industrial occupation or avocation of workmen.
+### Early cases
+- *D.N. Banerji* (1953): municipal activities.
+- *Hospital Mazdoor Sabha* (1960): hospitals.
+- *Safdarjung Hospital* (1970): restrictive, holding that non-profit hospitals were not industries.
+### Bangalore Water Supply and Sewerage Board v A. Rajappa (1978, seven judges)
+The triple test: where there is:
+1. systematic activity;
+2. organised by co-operation between employer and employee; and
+3. for the production and/or distribution of goods and services calculated to satisfy human wants and wishes,
+then prima facie there is an industry.
+The dominant nature test applies:
+- profit motive and capital are irrelevant;
+- hospitals, educational institutions, clubs and professions are covered;
+- only sovereign functions, strictly understood, and charitable activities run by volunteers are excluded.
+### Response
+- The 1982 amendment to s.2(j) sought to exclude hospitals, educational institutions, charitable bodies and sovereign functions, but was never brought into force.
+- *State of UP v Jai Bir Singh* (2005): correctness was referred to a larger bench.
+### Industrial Relations Code, 2020 (s.2(p))
+It codifies the test (systematic activity, co-operation and satisfaction of human wants), but excludes:
+- institutions owned or managed by organisations wholly or substantially engaged in charitable, social or philanthropic service;
+- sovereign functions, including defence, atomic energy and space;
+- domestic service; and
+- other notified activities.
+### Jai Bir Singh decided (2026, nine judges)
+- Disputes pending under the repealed ID Act remain governed by the *Bangalore Water Supply* test.
+- The IR Code definition must be applied on its own terms.
+- A lead opinion reformulated the test for the future, without overruling *Bangalore Water*. Other judges saw no need to reformulate.
+### Conclusion
+For past and pending cases, *Bangalore Water* governs. New disputes turn on s.2(p) of the IR Code and its express exclusions, which significantly narrow the old position.
+
+Q: Explain the machinery for settlement of industrial disputes under the Industrial Disputes Act and the IR Code.
+### Bipartite machinery
+- **Works committees (s.3, ID Act):** in establishments with 100 or more workmen, to promote amity.
+- **Grievance redressal committees (s.9C):** for 20 or more workmen. The IR Code keeps works committees (s.3) and grievance redressal committees (s.4).
+### Conciliation
+- Conciliation officers (s.4) and Boards of Conciliation (s.5).
+- Conciliation is mandatory in public utility disputes.
+- The report goes to the government, and a settlement in conciliation binds all.
+### Courts of inquiry (s.6)
+These investigate matters (omitted in the IR Code).
+### Adjudication
+- **Labour Courts (s.7, Second Schedule):** dismissal, standing orders and similar matters.
+- **Industrial Tribunals (s.7A, Third Schedule):** wages, hours, retrenchment and closure.
+- **National Tribunals (s.7B):** national importance.
+- **Reference by the appropriate government (s.10):** the government may refer an existing or apprehended dispute. Its refusal is reviewable (*Telco Convoy Drivers Mazdoor Sangh*, 1989). A prior written demand is not a precondition (*Premium Transmission*, 2026).
+- **Individual disputes (s.2A):** may be raised directly before the Labour Court after 45 days.
+- **Section 11A:** the power to modify punishment.
+- **Awards (s.17A):** enforceable 30 days after publication.
+### Voluntary arbitration (s.10A)
+### IR Code changes
+- Industrial Tribunals with judicial and administrative members, and National Industrial Tribunals (ss.44 to 46).
+- Labour Courts are abolished.
+- Conciliation is time-bound, and parties may approach the Tribunal directly after it fails. The government's reference role is reduced.
+### Conclusion
+The machinery moves from conciliation to adjudication. The IR Code streamlines it by allowing direct access to tribunals and reducing government gatekeeping.
+
+Q: Discuss the statutory regulation of strikes and lock-outs in India.
+### Definitions
+- **Strike (s.2(q)):** cessation of work by a body of persons acting in combination, or a concerted refusal to work. It includes "go-slow" by judicial interpretation. The IR Code adds "mass casual leave" by 50% or more of workers.
+- **Lock-out (s.2(l)):** temporary closing of a place of employment, or suspension or refusal of work by the employer.
+### Right to strike
+It is not a fundamental right (*All India Bank Employees' Association*, 1962; *T.K. Rangarajan v Government of TN*, 2003). It is a statutory right subject to restrictions.
+### Restrictions
+- **Public utility services (s.22):** six weeks' notice, a 14-day gap, and no strike during conciliation.
+- **All industries (s.23):** no strike during conciliation before a Board, or during adjudication or arbitration proceedings, or during the operation of a settlement or award on matters it covers.
+- **Prohibition orders (s.10(3)):** on reference.
+- **IR Code (s.62):** 60 days' notice for all establishments, and no strike during proceedings.
+### Illegal strikes and lock-outs (s.24)
+These are strikes in contravention of ss.22 and 23 or prohibitory orders. Penalties apply (ss.26 to 28), and financial aid to illegal strikes is penalised.
+### Wages for the strike period
+- **Illegal and unjustified strike:** no wages.
+- **Legal and justified strike:** wages may be awarded (*Crompton Greaves v Workmen*, 1978; *Syndicate Bank v K. Umesh Nayak*, 1994).
+- "No work, no pay" applies to an unjustified strike.
+- Participation in an illegal strike can be misconduct, but punishment must be proportionate.
+### Government employees
+Their strikes are regulated by conduct rules and essential services laws.
+### Conclusion
+Indian law recognises the strike as a weapon of collective bargaining but regulates it heavily to protect public interest and industrial peace. The IR Code extends notice requirements to all establishments.
+
+Q: What are the requirements of a valid domestic inquiry for misconduct? Explain the power of the Labour Court under section 11A.
+### Misconduct
+Misconduct is defined in standing orders. It includes wilful insubordination, theft, fraud, habitual absence, riotous behaviour and striking illegally.
+### Stages of a domestic inquiry
+1. **Charge-sheet:** specific charges, with particulars and an opportunity to reply.
+2. **Inquiry officer:** an impartial person.
+3. **Notice of hearing:** to the workman, with the right to a co-worker's assistance (representation by a lawyer only if the employer is represented by one, or under the rules).
+4. **Evidence:** the employer's witnesses are examined in the workman's presence, cross-examination is allowed, and the workman may lead defence evidence.
+5. **Findings:** reasoned, based on evidence, and supported by material. The standard is preponderance of probability.
+6. **Show-cause notice on punishment:** under the rules, with a copy of the findings (*ECIL v B. Karunakar*, 1993).
+7. **Order of punishment:** by the competent authority, proportionate to the misconduct.
+### Defects
+Non-supply of documents, bias, denial of cross-examination and perverse findings vitiate the inquiry. The employer may then justify the action by leading evidence before the tribunal (*Workmen of Firestone Tyre v Management*, 1973).
+### Section 11A
+Introduced in 1971 after *Firestone*. Where an order of discharge or dismissal is referred, the Labour Court or Tribunal may:
+- re-appreciate the evidence;
+- decide whether the misconduct is proved; and
+- if satisfied that the discharge or dismissal is not justified, set it aside and direct reinstatement on terms, or award a lesser punishment.
+The tribunal must rely only on the material on record. The IR Code continues this power (s.57).
+### Criminal acquittal
+A criminal acquittal does not automatically bar departmental action, but dismissal on identical facts after a discharge on merits may be impermissible (*Ex Sqn Ldr R. Sood*, 2026). Termination for suppression of antecedents is not automatic (*Shatrughn Yadav*, 2026).
+### Conclusion
+A fair domestic inquiry is the core of industrial discipline. Section 11A gives tribunals appellate-like powers to correct disproportionate punishment.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A hospital run by a charitable trust, which charges fees and employs 200 staff, dismisses a nurse. The trust argues that it is not an "industry". Decide under (a) the ID Act, for a dispute raised in 2024 and pending, and (b) the IR Code, for a new dispute.
+**Issue:** Is a charitable hospital an "industry"?
+**Law:**
+- *Bangalore Water Supply* (1978): hospitals are industries if they satisfy the triple test. Only charities run by volunteers, where services are given free, may be excluded.
+- *Jai Bir Singh* (2026, nine judges): *Bangalore Water* governs disputes pending under the repealed ID Act. The IR Code definition is applied on its own terms.
+- Section 2(p) of the IR Code excludes institutions owned or managed by organisations wholly or substantially engaged in charitable, social or philanthropic service.
+**Application:**
+- (a) The hospital is a systematic, organised activity serving human wants, with paid staff and fees, so it is an industry, and the pending reference is maintainable.
+- (b) Under the IR Code, if the trust is wholly or substantially charitable, it falls within the exclusion. Charging fees and employing paid staff may suggest it is not substantially charitable, which is a question of fact.
+**Conclusion:**
+- (a) Under the ID Act, the dispute is maintainable.
+- (b) Under the IR Code, maintainability depends on proof of the trust's substantially charitable character.
+
+Q: A workman is dismissed for alleged theft without any domestic inquiry. The Labour Court finds the charge proved on evidence led before it, but feels that dismissal is too harsh for a first lapse involving ₹500. What can it do?
+**Issue:** The effect of the absence of an inquiry, and the power to modify punishment.
+**Law:**
+- If no inquiry is held, or it is defective, the employer may justify the action by leading evidence before the tribunal (*Firestone Tyre*, 1973).
+- Under s.11A ID Act (s.57, IR Code), the tribunal may substitute a lesser punishment if dismissal is not justified.
+- Theft is serious misconduct, but proportionality and the employee's past record are relevant.
+**Application:** The misconduct is proved before the court. Considering the small amount and the clean record, the court may find dismissal disproportionate.
+**Conclusion:** The Labour Court may set aside the dismissal and impose a lesser penalty, such as withholding increments or reinstatement without back wages. Courts are cautious, however, where loss of confidence in a cashier or in a position of trust is involved.
+
+Q: A factory with 150 workmen retrenches 20 workmen without notice or compensation, citing losses. Advise the workmen.
+**Issue:** Is retrenchment without complying with s.25F valid?
+**Law:**
+- Under s.25F of the ID Act (s.70 of the IR Code), conditions precedent apply: one month's notice or pay in lieu, 15 days' average pay per completed year, and notice to the government.
+- Non-compliance makes the retrenchment void ab initio (*State Bank of India v N. Sundara Money*, 1976; *Anoop Sharma v Executive Engineer*, 2010).
+- Prior permission (Chapter VB of the ID Act) is required only for 100 or more workmen. Under the IR Code (Chapter X), it applies only for 300 or more, so it is not needed here under the IR Code.
+- "Last come, first go" applies (s.25G).
+**Application:** No notice was given and no compensation paid.
+**Conclusion:** The retrenchment is void. The workmen may raise a dispute and seek reinstatement with continuity of service. Back wages are at the tribunal's discretion.
+
+Q: Workers in a power-generating company go on strike without giving notice, demanding a bonus. The company deducts eight days' wages and charge-sheets the union leaders. Advise the union.
+**Issue:** Is the strike legal, and are wages payable?
+**Law:**
+- Electricity supply is a public utility service. Section 22 of the ID Act requires six weeks' notice; s.62 of the IR Code requires 60 days' notice for all establishments.
+- A strike in breach is illegal (s.24), and participants may be penalised (s.26).
+- Wages are not payable for an illegal strike (*Crompton Greaves*, 1978; *Syndicate Bank v Umesh Nayak*, 1994).
+- Leaders who instigate an illegal strike may face disciplinary action, after a fair inquiry and with proportionate punishment.
+**Application:** The workers struck without notice, so the strike is illegal.
+**Conclusion:**
+- The deduction of wages is valid.
+- Disciplinary action may proceed after a fair inquiry.
+- The union should raise the bonus demand as an industrial dispute through conciliation.

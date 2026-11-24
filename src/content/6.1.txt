@@ -1,0 +1,963 @@
+@title Drafting, Pleading and Conveyancing
+@subtitle Practical Training I: principles of drafting, legislative drafting, civil and criminal pleadings, and conveyancing, with model drafts
+@paper 6.1
+@sem VI
+@marks1 Record work :: 90 marks
+@marks2 Viva-voce :: 10 marks
+@color #3a3a3a
+@dark #2e2e2e
+@intro A practical paper, assessed by record work and viva-voce. For each pleading and deed in the syllabus, this book gives the governing rules, a checklist of contents, and a model draft you can adapt for your record. Drafts use Andhra Pradesh courts and placeholders in square brackets. Criminal drafts follow the BNSS, 2023 (in force 1 July 2024). Always check current court fees, stamp duty and the rules of the court before filing.
+@reading Mogha, Law of Pleadings in India
+@reading Mogha, Indian Conveyancer
+@reading G.C. Thornton, Legislative Drafting
+@reading R.N. Chaturvedi, Pleadings and Conveyancing
+@reading The Code of Civil Procedure, 1908 (Orders VI to VIII)
+@reading The Registration Act, 1908 and the Indian Stamp Act, 1899
+
+# 1 | General principles of drafting
+@topics General principles of drafting; Relevant substantive rules
+>> Good drafting says exactly what is intended, once, in plain words, so that it cannot be misunderstood. Every legal document should be accurate, complete, consistent and readable.
+
+## 1.1 What drafting is
+- Drafting is the art of putting legal transactions, claims and rules into writing so that they have the intended legal effect. It covers **pleadings** (documents filed in court), **conveyancing** (deeds transferring or creating interests in property), and **legislative drafting** (statutes and rules).
+
+## 1.2 Core principles
+1. **Know the facts and the law first.** Interview the client, collect documents, identify the cause of action and the relief, and check limitation, jurisdiction, stamp duty and registration requirements.
+2. **Clarity**: use plain words and short sentences. Prefer "before" to "prior to", "if" to "in the event that".
+3. **Precision**: state names, dates, amounts, survey numbers and boundaries exactly. Write amounts in figures and words.
+4. **Consistency**: use the same word for the same thing throughout. If you define "the Property", always say "the Property".
+5. **Brevity without omission**: include every material fact, nothing more.
+6. **Logical order**: chronological for facts; general to particular for terms.
+7. **Avoid ambiguity**: avoid "and/or", "etc.", double negatives and vague pronouns. Watch the placement of qualifying words.
+8. **Use definitions** for repeated or technical terms, and numbered paragraphs for easy reference.
+9. **Comply with formalities**: signatures, verification, affidavits, stamp, attestation and registration.
+
+## 1.3 Substantive rules to keep in mind
+- **Pleadings**: Order VI (material facts, not evidence or law), Order VII (plaint), Order VIII (written statement), and s.26 CPC (affidavit with plaint).
+- **Conveyancing**: the Transfer of Property Act, 1882 (sale, mortgage, lease, gift), the Indian Stamp Act, 1899 (as amended in Andhra Pradesh), and the Registration Act, 1908 (s.17: compulsory registration; s.49: effect of non-registration).
+- **Wills**: s.63 of the Indian Succession Act, 1925 (execution and attestation).
+
+TIP: In the viva, examiners often ask why a particular paragraph is in a draft. For every paragraph you write, be able to name the rule that requires it.
+
+## 1.4 Recent judgments (2025–26)
+
+CASE: Pooja Ramesh Singh v J&K Bank (2026) :: The Supreme Court set aside orders that relied on non-existent, AI-generated precedents. Every citation in a pleading must be checked against the original report.
+
+* Verify every citation; AI-fabricated precedents are rejected (2026).
+* Drafting covers pleadings, conveyancing and legislation.
+* Principles: facts and law first; clarity; precision; consistency; brevity; logical order; no ambiguity; definitions; formalities.
+* Know the governing provisions of the CPC, TPA, Stamp Act, Registration Act and Succession Act.
+
+QL: Explain the general principles of drafting legal documents.
+QS: Ambiguity in drafting
+QS: Use of definitions in drafting
+
+MCQ: Compulsory registration of documents is governed by || s.49 Registration Act | *s.17 Registration Act | s.63 ISA | Order VI CPC || s.49 deals with the effect of non-registration.
+
+# 2 | Legislative drafting and plain language
+@topics Basic principles of legislative drafting; Translating policy objectives into legislative provisions; Drafting primary and subordinate legislation; Plain language techniques for clarity, precision and accessibility
+>> Legislative drafting turns a policy decision into enforceable rules. Plain language makes those rules understandable to the citizens and institutions who must follow them.
+
+## 2.1 Stages of legislative drafting (Thornton)
+1. **Understanding the proposal**: what problem the policy is meant to solve, and what the existing law is.
+2. **Analysis**: consistency with the Constitution (legislative competence, fundamental rights), existing laws, international obligations and practical enforcement.
+3. **Design**: choose the structure, the legal mechanisms (prohibitions, licences, duties, rights, offences, institutions) and the enforcement machinery.
+4. **Composition**: write the text.
+5. **Scrutiny and testing**: check the draft against the policy, test it on hypothetical cases, and revise.
+
+## 2.2 Structure of a Bill
+| Part | Content |
+|---|---|
+| Long title and preamble | Purpose of the Act |
+| Short title, extent and commencement | Name, territory, date of coming into force (often by notification) |
+| Definitions | Key terms ("means" for exhaustive; "includes" for extensive) |
+| Substantive provisions | Rights, duties, prohibitions |
+| Administrative provisions | Authorities, powers, procedure |
+| Offences and penalties | With mens rea and proportionate punishment |
+| Miscellaneous | Protection of action in good faith, power to make rules, power to remove difficulties |
+| Repeal and savings | Effect on earlier laws (read with s.6 General Clauses Act) |
+| Schedules | Lists, forms, details |
+
+## 2.3 Primary and subordinate legislation
+- **Primary legislation**: Acts of Parliament or the State legislature.
+- **Subordinate legislation**: rules, regulations, bye-laws and notifications made under an Act. They must stay within the parent Act (not ultra vires), must not delegate essential legislative functions, and are laid before the legislature for scrutiny.
+- Drafting rules: cite the enabling section, follow the Act's definitions, and do not create offences or taxes unless authorised.
+
+## 2.4 Plain language techniques
+- Write for the reader: identify who must act, and address them directly where possible.
+- Use the **active voice** ("The Collector must issue a notice", not "A notice shall be issued").
+- Use "must" for duties, "may" for discretions and "must not" for prohibitions. The traditional "shall" is ambiguous and is avoided in modern plain-language drafting (as in the UK, Australia and New Zealand).
+- Prefer short sections and sentences (one idea per sentence), lists, examples and explanatory notes; avoid "provided that" chains, Latin, and archaic words ("hereinafter", "aforesaid", "the said").
+- Use the same term consistently, put definitions where they are needed, and use tables and formulas for complex calculations.
+- Test the draft with users where possible.
+
+DRAFT: Plain-language redraft of a clause
+Traditional:
+"Provided that where any person who is the owner of a vehicle
+fails to produce the said certificate within the period aforesaid,
+he shall be liable to a penalty which may extend to five thousand rupees."
+
+Plain language:
+"(1) The owner of a vehicle must produce the certificate within 15 days.
+(2) An owner who does not do so is liable to a penalty of up to ₹5,000."
+END
+
+* Stages: understand, analyse, design, compose, test.
+* Structure of a Bill: titles, commencement, definitions, substantive, administrative, offences, miscellaneous, repeal and savings, schedules.
+* Subordinate legislation must stay within the parent Act.
+* Plain language: active voice, "must" and "may", short sentences, consistent terms, no archaic words.
+
+QL: Explain the stages of legislative drafting and the structure of a Bill.
+QL: What is plain language drafting? Illustrate with examples how a legal provision can be redrafted in plain language.
+QS: Subordinate legislation
+QS: "Shall" versus "must"
+
+MCQ: The word "includes" in a definition is generally || exhaustive | *extensive | restrictive | void || "Means" is exhaustive.
+
+# 3 | Civil pleadings I: the plaint
+@topics Plaint
+>> The plaint is the first pleading in a civil suit. It must show the court has jurisdiction, state the material facts constituting the cause of action, value the suit, and ask for specific relief.
+
+## 3.1 Contents of a plaint (Order VII rules 1 to 8)
+1. Name of the court.
+2. Names, descriptions and addresses of the plaintiff and defendant.
+3. Where the plaintiff or defendant is a minor or of unsound mind, a statement to that effect.
+4. Facts constituting the cause of action and when it arose.
+5. Facts showing that the court has jurisdiction (pecuniary and territorial).
+6. The relief claimed.
+7. Any set-off or relinquishment of part of the claim.
+8. A statement of the value of the subject matter for jurisdiction and court fees.
+9. Grounds of exemption from limitation, if the suit is filed late.
+- Followed by the **verification** (Order VI rule 15), an **affidavit** in support, and a **list of documents** (Order VII rule 14).
+- Court fee is paid under the **Andhra Pradesh Court Fees and Suits Valuation Act, 1956**.
+
+## 3.2 Drafting tips
+- Paragraph 1 describes the plaintiff; paragraph 2 the defendant(s), with the address for service.
+- State facts in chronological order, in separate numbered paragraphs.
+- Plead fraud, misrepresentation and undue influence with full particulars (Order VI rule 4).
+- The prayer must list each relief separately; add "costs" and "such other relief as the Court deems fit".
+
+DRAFT: Plaint in a suit for recovery of money on a promissory note
+IN THE COURT OF THE PRINCIPAL SENIOR CIVIL JUDGE, NELLORE
+
+O.S. No. ____ of 2026
+
+**Between:**
+[A], son of [B], aged about 45 years, business, residing at
+[address], Nellore.                                    ... Plaintiff
+
+**And**
+[C], son of [D], aged about 40 years, residing at [address], Nellore.
+                                                       ... Defendant
+
+**PLAINT FILED UNDER ORDER VII RULE 1 OF THE CODE OF CIVIL PROCEDURE, 1908**
+
+1. The plaintiff is as described above. The address of the plaintiff for
+   service of all notices and processes is that of his counsel,
+   [name], Advocate, [address].
+
+2. The defendant is as described above. Summons may be served on him at
+   the address given above.
+
+3. On [date], the defendant borrowed ₹5,00,000 (Rupees Five Lakhs only)
+   from the plaintiff for his business, agreeing to repay it with
+   interest at 12% per annum, and executed a promissory note in favour
+   of the plaintiff on the same day at Nellore.
+
+4. Despite repeated demands, the defendant has not paid any amount. The
+   plaintiff issued a legal notice dated [date], which the defendant
+   received on [date] but did not reply to.
+
+5. The cause of action for the suit arose at Nellore on [date] when the
+   promissory note was executed, on [date] when the notice was issued,
+   and on all subsequent dates of demand. The suit is within the
+   period of limitation of three years from the date of the
+   promissory note (Article 35, Limitation Act, 1963).
+
+6. The defendant resides and the cause of action arose within the
+   jurisdiction of this Court, which has pecuniary jurisdiction.
+
+7. The suit is valued at ₹[principal + interest to date of suit] for
+   the purposes of court fee and jurisdiction, and court fee of
+   ₹[amount] is paid under section [ ] of the A.P. Court Fees and Suits
+   Valuation Act, 1956.
+
+**PRAYER**
+The plaintiff therefore prays that this Court may be pleased to pass a
+decree against the defendant:
+(a) for ₹[amount], being the principal of ₹5,00,000 with interest at
+    12% per annum from [date] to the date of suit;
+(b) for future interest at 12% per annum on the principal from the date
+    of suit until realisation;
+(c) for costs of the suit; and
+(d) for such other relief as this Court deems fit in the circumstances.
+
+Nellore,                                              Plaintiff
+Date:                                                 Counsel for Plaintiff
+
+**VERIFICATION**
+I, [A], the plaintiff above named, state that the facts in paragraphs
+1 to 7 are true to my knowledge and belief, and that the contents are
+based on the records maintained by me. Verified at Nellore on [date].
+                                                      Plaintiff
+END
+
+DRAFT: Plaint in a suit for permanent injunction (short form)
+IN THE COURT OF THE PRINCIPAL JUNIOR CIVIL JUDGE, KAVALI
+
+O.S. No. ____ of 2026
+
+[Plaintiff] ... Plaintiff
+Versus
+[Defendant] ... Defendant
+
+1. The plaintiff is the absolute owner and in peaceful possession of
+   agricultural land of Ac. 2.00 cents in Survey No. 123/A of [village],
+   more fully described in the Schedule below (the "Schedule Property"),
+   having purchased it under registered sale deed No. [ ] dated [ ].
+2. The plaintiff's name is entered in the revenue records (Adangal and
+   1-B), and he pays land revenue.
+3. The defendant, who owns adjacent land, has no right in the Schedule
+   Property. On [date], he tried to trespass into it and remove the
+   boundary stones, which the plaintiff resisted with the help of
+   villagers. The defendant threatened to come again.
+4. The cause of action arose on [date] at [village], within the
+   jurisdiction of this Court.
+5. The suit is valued at ₹[ ] under section [ ] of the A.P. Court Fees
+   and Suits Valuation Act, 1956, and the court fee is paid.
+
+PRAYER: A permanent injunction restraining the defendant, his men and
+agents from interfering with the plaintiff's peaceful possession and
+enjoyment of the Schedule Property; costs; and other relief.
+
+SCHEDULE PROPERTY: [District, Mandal, Village, Survey No., extent,
+boundaries: East, West, North, South.]
+[Verification]
+END
+
+* Contents of a plaint under Order VII rules 1 to 8.
+* Verification, affidavit, list of documents and court fee.
+* Facts chronologically; full particulars of fraud; a specific prayer.
+
+QL: What are the essential contents of a plaint? Draft a plaint for recovery of money due on a promissory note.
+QS: Verification of pleadings
+QS: Valuation of suits
+
+MCQ: The contents of a plaint are prescribed by || Order VI | *Order VII rules 1 to 8 | Order VIII | Order XXXIX || CPC.
+
+# 4 | Civil pleadings II: written statement, interlocutory application and affidavit
+@topics Written statement; Interlocutory application; Affidavit
+>> The written statement answers the plaint paragraph by paragraph. Interlocutory applications seek orders during the suit, such as temporary injunctions. Affidavits are sworn statements of fact used as evidence.
+
+## 4.1 Written statement (Order VIII)
+- Filed within 30 days of service of summons, extendable up to 90 days (120 days, mandatory, in commercial suits).
+- **Specific denial** (rules 3 to 5): deny each allegation specifically; an evasive denial is treated as an admission.
+- Plead **new facts** (rule 2): limitation, fraud, payment, release, or that the suit is not maintainable.
+- **Preliminary objections** first (jurisdiction, limitation, non-joinder, bar under Order II rule 2, res judicata); then the reply on merits; then **additional pleas**; then any **set-off** (rule 6) or **counter-claim** (rule 6A).
+
+DRAFT: Written statement (outline)
+IN THE COURT OF THE PRINCIPAL SENIOR CIVIL JUDGE, NELLORE
+O.S. No. 123 of 2026
+[A] ... Plaintiff    Versus    [C] ... Defendant
+
+**WRITTEN STATEMENT FILED BY THE DEFENDANT UNDER ORDER VIII RULE 1 CPC**
+
+1. The defendant denies all the allegations in the plaint except those
+   specifically admitted below. The plaintiff is put to strict proof
+   of every allegation not admitted.
+
+**Preliminary objections**
+2. The suit is barred by limitation. The alleged promissory note is
+   dated [date], more than three years before the suit was filed.
+3. This Court lacks territorial jurisdiction: the defendant resides at
+   [place] and no part of the cause of action arose at Nellore.
+
+**Reply on merits**
+4. Paragraphs 1 and 2 of the plaint are admitted.
+5. The allegations in paragraph 3 are denied. The defendant never
+   borrowed ₹5,00,000. The signature on the alleged promissory note is
+   not his. Without prejudice to this, if any amount was borrowed, it
+   was ₹50,000, which was repaid on [date] in the presence of [witness].
+6. The defendant did not receive any notice as alleged in paragraph 4.
+
+**Additional pleas**
+7. The suit is filed to harass the defendant because of a dispute over
+   [matter].
+
+The defendant prays that the suit be dismissed with exemplary costs.
+[Verification and signature]
+END
+
+## 4.2 Interlocutory application
+- An interlocutory application (I.A.) is filed in a pending suit for an interim order: temporary injunction (Order XXXIX rules 1 and 2), appointment of a commissioner (Order XXVI rule 9), receiver (Order XL), attachment before judgment (Order XXXVIII), amendment of pleadings (Order VI rule 17), or condonation of delay (s.5 Limitation Act).
+- It is supported by an affidavit stating the facts; the petition must show the three tests for injunctions: a prima facie case, balance of convenience and irreparable injury.
+
+DRAFT: Interlocutory application for temporary injunction
+IN THE COURT OF THE PRINCIPAL JUNIOR CIVIL JUDGE, KAVALI
+I.A. No. ____ of 2026
+in
+O.S. No. ____ of 2026
+[Plaintiff] ... Petitioner/Plaintiff
+Versus
+[Defendant] ... Respondent/Defendant
+
+**PETITION FILED UNDER ORDER XXXIX RULES 1 AND 2 READ WITH SECTION 151 CPC**
+
+For the reasons stated in the accompanying affidavit, the petitioner
+prays that this Court may be pleased to grant a temporary injunction
+restraining the respondent, his men and agents from interfering with
+the petitioner's peaceful possession and enjoyment of the petition
+schedule property, pending disposal of the suit, and to pass such
+other orders as the Court deems fit.
+
+Kavali,                                       Counsel for Petitioner
+Date:
+END
+
+## 4.3 Affidavit
+- A sworn written statement of facts within the deponent's knowledge (Order XIX). In interlocutory matters, statements of belief may be included if the grounds are stated (rule 3).
+- Format: title of the case; "I, [name], son of [ ], aged [ ], residing at [ ], solemnly affirm and state as follows"; numbered paragraphs of facts; the deponent's signature; verification; and the attestation by an Oath Commissioner or Notary.
+- Since 2002, pleadings must be accompanied by an affidavit (Order VI rule 15(4)); examination-in-chief is given by affidavit (Order XVIII rule 4).
+
+DRAFT: Affidavit in support of an interlocutory application
+IN THE COURT OF THE PRINCIPAL JUNIOR CIVIL JUDGE, KAVALI
+I.A. No. ____ of 2026 in O.S. No. ____ of 2026
+
+**AFFIDAVIT OF THE PETITIONER**
+I, [name], son of [ ], aged about 50 years, agriculturist, residing at
+[village], solemnly affirm and sincerely state as follows:
+
+1. I am the petitioner and the plaintiff in the suit. I know the facts
+   of the case.
+2. I am the owner in possession of the petition schedule property,
+   having purchased it under registered sale deed No. [ ] dated [ ].
+3. On [date], the respondent tried to trespass into the property and
+   remove the boundary stones, and he threatened to dispossess me.
+4. I have a prima facie case, as shown by my title deed and revenue
+   records. The balance of convenience is in my favour. If the
+   injunction is not granted, I will suffer irreparable loss, as my
+   standing crop will be destroyed.
+5. I therefore pray that the Court grant a temporary injunction as
+   prayed for.
+
+Solemnly affirmed and signed before me
+at Kavali on [date].                                   Deponent
+
+Advocate / Notary
+END
+
+## 4.4 Recent judgments (2025–26)
+
+CASE: Mondira Ghosh v Chaitali Ghosh (2026) :: Admissions made in a written statement cannot be withdrawn through an additional written statement, so draft the original carefully.
+
+* Admissions in a written statement cannot be withdrawn later (2026).
+* Written statement: specific denial, preliminary objections, reply on merits, additional pleas, set-off or counter-claim.
+* Interlocutory applications for interim relief, with supporting affidavits.
+* Affidavits: facts within knowledge; attestation; required with pleadings since 2002.
+
+QL: What are the rules for drafting a written statement? Draft a written statement in a suit for recovery of money.
+QL: Draft an interlocutory application for temporary injunction with a supporting affidavit.
+QS: Specific denial
+QS: Contents of an affidavit
+
+MCQ: A pleading must be accompanied by an affidavit under || Order VII rule 14 | *Order VI rule 15(4) | Order XIX rule 3 | Order VIII rule 6A || Added in 2002.
+
+# 5 | Civil pleadings III: original petition, execution petition, memorandum of appeal, and writ petition
+@topics Original petition; Execution petition; Memorandum petition (memorandum of appeal); Petitions under Arts. 226 and 32
+>> Not every civil proceeding begins with a plaint. Statutes provide for original petitions (for example, divorce or guardianship); decrees are enforced by execution petitions; appeals are filed by memorandum; and fundamental and legal rights are enforced by writ petitions.
+
+## 5.1 Original petition
+- An original petition (O.P.) is filed where a statute provides for proceedings by petition rather than suit, such as petitions for divorce under the Hindu Marriage Act (s.13, before the Family Court), guardianship under the Guardians and Wards Act, succession certificates under the Indian Succession Act, and motor accident claims (M.V.O.P.) under the Motor Vehicles Act, 1988 (s.166).
+
+DRAFT: Original petition for divorce (outline)
+IN THE COURT OF THE JUDGE, FAMILY COURT, NELLORE
+F.C.O.P. No. ____ of 2026
+[Wife] ... Petitioner
+Versus
+[Husband] ... Respondent
+
+**PETITION FILED UNDER SECTION 13(1)(i-a) OF THE HINDU MARRIAGE ACT, 1955**
+
+1. The petitioner and the respondent are Hindus. Their marriage was
+   solemnised on [date] at [place] according to Hindu rites and customs.
+2. They lived together at [place]. A child, [name], was born on [date].
+3. Since [date], the respondent has treated the petitioner with cruelty:
+   [specific incidents with dates].
+4. The petitioner has been living separately at [place] since [date].
+5. There is no collusion between the parties. The petition is not
+   presented with unnecessary delay. No other proceedings are pending
+   between the parties regarding the marriage, except [details].
+6. This Court has jurisdiction because the petitioner resides at
+   Nellore (s.19(iii-a) HMA) and the parties last resided together at
+   [place].
+
+PRAYER: Dissolve the marriage by a decree of divorce; grant custody of
+the child to the petitioner; award permanent alimony of ₹[ ]; costs.
+[Verification and affidavit]
+END
+
+## 5.2 Execution petition (Order XXI rule 11)
+- Filed by the decree-holder in the court that passed the decree (or the transferee court). It must be in the tabular form required by Order XXI rule 11(2): number of the suit, names of parties, date of decree, whether any appeal was filed, payments or adjustments, previous applications, amount with interest, costs, against whom execution is sought, and the mode of execution.
+
+DRAFT: Execution petition (tabular form)
+IN THE COURT OF THE PRINCIPAL SENIOR CIVIL JUDGE, NELLORE
+E.P. No. ____ of 2026
+in
+O.S. No. 123 of 2026
+[A] ... Decree-holder
+Versus
+[C] ... Judgment-debtor
+
+**EXECUTION PETITION UNDER ORDER XXI RULE 11 CPC**
+
+1. Number of suit:                       O.S. No. 123 of 2026
+2. Names of parties:                     [A] versus [C]
+3. Date of decree:                       [date]
+4. Whether any appeal was preferred:     No
+5. Payment or adjustment, if any:        None
+6. Previous applications for execution:  None
+7. Amount with interest due:             ₹[ ] as per decree, with
+                                         interest to date ₹[ ]
+8. Amount of costs awarded:              ₹[ ]
+9. Against whom execution is sought:     The judgment-debtor
+10. Mode of execution:                   Attachment and sale of the
+                                         immovable property in the
+                                         schedule below, and arrest of
+                                         the judgment-debtor if he fails
+                                         to pay.
+
+The decree-holder prays that the decree be executed in the above mode.
+SCHEDULE: [description of property]
+[Verification]
+END
+
+## 5.3 Memorandum of appeal (Order XLI)
+- The memorandum sets out, concisely and under distinct heads, the **grounds of objection** to the decree, without argument or narrative (Order XLI rule 1). It is accompanied by a certified copy of the judgment and decree (or as permitted, the judgment), and filed within limitation (90 days to the High Court; 30 days to a District Court, Articles 116 and 117).
+
+DRAFT: Memorandum of first appeal (grounds)
+IN THE COURT OF THE PRINCIPAL DISTRICT JUDGE, NELLORE
+A.S. No. ____ of 2026
+(Against the judgment and decree dated [ ] in O.S. No. 123 of 2026 on
+the file of the Principal Senior Civil Judge, Nellore)
+[C] ... Appellant/Defendant
+Versus
+[A] ... Respondent/Plaintiff
+
+**MEMORANDUM OF APPEAL UNDER SECTION 96 AND ORDER XLI RULE 1 CPC**
+
+The appellant prefers this appeal on the following, among other, grounds:
+
+1. The judgment and decree of the trial court are contrary to law,
+   weight of evidence and probabilities of the case.
+2. The trial court erred in holding that the suit was within
+   limitation, when the promissory note was dated more than three
+   years before the suit.
+3. The trial court failed to consider the evidence of DW-2 about the
+   repayment on [date].
+4. The trial court erred in placing the burden of proving the
+   signature on the appellant, when he had denied execution.
+5. The appellant craves leave to raise further grounds at the hearing.
+
+PRAYER: Set aside the judgment and decree of the trial court and
+dismiss the suit with costs throughout.
+Valuation and court fee: ₹[ ] / ₹[ ]
+END
+
+## 5.4 Writ petitions under Arts. 226 and 32
+- **Art. 32**: in the Supreme Court, for enforcement of fundamental rights only. **Art. 226**: in the High Court (the High Court of Andhra Pradesh at Amaravati, since 1 January 2019), for fundamental rights and "for any other purpose".
+- Writs: habeas corpus, mandamus, certiorari, prohibition, quo warranto.
+- Format: cause title (with the State represented by its Principal Secretary or the authority); synopsis and list of dates (in the Supreme Court); facts; grounds; interim relief; and prayer. Supported by an affidavit. The petitioner must disclose any earlier proceedings, and should have exhausted alternative remedies (or show why the writ is still appropriate).
+
+DRAFT: Writ petition under Article 226 (outline)
+IN THE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI
+(Special Original Jurisdiction)
+W.P. No. ____ of 2026
+
+[Petitioner], son of [ ], aged [ ], residing at [ ].   ... Petitioner
+Versus
+1. The State of Andhra Pradesh, represented by its Principal Secretary,
+   Revenue Department, Secretariat, Velagapudi, Amaravati.
+2. The District Collector, Nellore.
+3. The Tahsildar, [Mandal], Nellore District.            ... Respondents
+
+**WRIT PETITION UNDER ARTICLE 226 OF THE CONSTITUTION OF INDIA**
+
+For the reasons stated in the accompanying affidavit, the petitioner
+prays that this Court may be pleased to issue a Writ of Mandamus or
+any other appropriate writ, order or direction, declaring the action
+of the 3rd respondent in refusing to mutate the petitioner's name in
+the revenue records for land in Survey No. [ ] of [village], by
+proceedings dated [ ], as illegal, arbitrary and violative of
+Articles 14 and 300A of the Constitution, and consequently directing
+the 3rd respondent to mutate the petitioner's name, and to pass such
+other orders as this Court deems fit.
+
+**Interim relief**: Pending disposal of the writ petition, direct the
+respondents not to alienate or interfere with the petitioner's
+possession of the said land.
+[Affidavit with facts and grounds]
+END
+
+* Original petitions where statutes require petitions (HMA, GWA, MV Act).
+* Execution petitions in the tabular form of Order XXI rule 11.
+* Memorandum of appeal: concise grounds, no argument; limitation of 30 or 90 days.
+* Writ petitions under Arts. 32 and 226; cause title, facts, grounds, interim relief, prayer, affidavit.
+
+QL: Draft a petition for divorce on the ground of cruelty under the Hindu Marriage Act.
+QL: Draft a writ petition under Art. 226 seeking a writ of mandamus.
+QL: What are the requirements of a memorandum of appeal? Draft one.
+QS: Execution petition
+QS: Original petition
+
+MCQ: The tabular form of an execution petition is prescribed by || Order XLI rule 1 | *Order XXI rule 11 | Order XXXIX | Order VII rule 1 || CPC.
+MCQ: The High Court of Andhra Pradesh at Amaravati began functioning on || 2 June 2014 | *1 January 2019 | 26 January 2020 | 1 July 2024 || After bifurcation.
+
+# 6 | Criminal pleadings
+@topics Complaints; Criminal miscellaneous petition; Bail application; Memorandum of appeal and revision
+>> Criminal pleadings set the criminal process in motion, seek release, or challenge orders. They follow the BNSS, 2023 and must state the facts constituting the offence precisely.
+
+## 6.1 Complaint (s.2(1)(h) and s.223 BNSS [s.200 CrPC])
+- A complaint is an allegation made orally or in writing to a Magistrate that some person has committed an offence, with a view to action under the BNSS. It does not include a police report.
+- Contents: the court, the complainant's details, the accused's details, the facts constituting the offence with date and place, the provisions violated, the list of witnesses and documents, and the prayer to take cognizance and summon the accused.
+- **Section 138 NI Act complaint**: filed within one month of the cause of action (expiry of 15 days from receipt of notice), before the court where the payee's bank branch is situated (s.142).
+
+DRAFT: Complaint under section 138 of the Negotiable Instruments Act
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF THE FIRST CLASS, NELLORE
+C.C. No. ____ of 2026
+
+[Complainant], son of [ ], aged [ ], residing at [ ].   ... Complainant
+Versus
+[Accused], son of [ ], aged [ ], residing at [ ].        ... Accused
+
+**COMPLAINT UNDER SECTION 138 READ WITH SECTION 142 OF THE NEGOTIABLE
+INSTRUMENTS ACT, 1881 AND SECTION 223 OF THE BHARATIYA NAGARIK
+SURAKSHA SANHITA, 2023**
+
+1. The accused borrowed ₹3,00,000 from the complainant on [date] and,
+   towards repayment, issued cheque No. [ ] dated [ ] for ₹3,00,000
+   drawn on [bank, branch].
+2. The complainant presented the cheque through his bank, [bank,
+   Nellore branch], on [date]. It was returned unpaid on [date] with
+   the endorsement "Funds Insufficient".
+3. The complainant issued a statutory notice dated [date] by registered
+   post, received by the accused on [date], demanding payment within
+   15 days. The accused has not paid.
+4. The accused has therefore committed an offence punishable under
+   section 138 of the Act. The cause of action arose on [date], on
+   expiry of 15 days from receipt of the notice. This complaint is
+   filed within one month of that date.
+5. This Court has jurisdiction under section 142(2)(a), as the
+   complainant's bank branch where the cheque was presented is at
+   Nellore.
+
+PRAYER: Take cognizance of the offence under section 138 of the Act,
+summon the accused, try and punish him according to law, and direct
+payment of compensation under section 395 BNSS.
+
+List of documents: cheque, return memo, notice, postal receipt and
+acknowledgment.
+List of witnesses: complainant; bank official.
+[Signature; verification]
+END
+
+## 6.2 Criminal miscellaneous petition
+- Used for various applications: quashing of proceedings under the High Court's inherent powers (**s.528 BNSS** [s.482 CrPC]), exemption from personal appearance (s.228), return of property (s.497), discharge, and others.
+CASE: State of Haryana v Bhajan Lal (1992) :: The Supreme Court listed seven categories in which the High Court may quash an FIR or proceedings under its inherent powers: where the allegations, taken at face value, do not disclose an offence; do not disclose a cognizable offence justifying investigation; are uncontroverted but do not make out a case; disclose only a non-cognizable offence investigated without a Magistrate's order; are absurd and inherently improbable; are barred by law; or are manifestly mala fide. A petition to quash should plead the category relied on.
+
+DRAFT: Criminal petition to quash proceedings under section 528 BNSS (prayer)
+IN THE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI
+Criminal Petition No. ____ of 2026
+[Accused] ... Petitioner/Accused
+Versus
+The State of Andhra Pradesh, represented by the Public Prosecutor,
+High Court of A.P., and another          ... Respondents
+
+**CRIMINAL PETITION UNDER SECTION 528 OF THE BHARATIYA NAGARIK SURAKSHA
+SANHITA, 2023**
+
+For the reasons stated in the grounds, the petitioner prays that this
+Court may be pleased to quash the proceedings in C.C. No. [ ] of 2026
+on the file of the Judicial Magistrate of the First Class, [place],
+arising out of Crime No. [ ] of [Police Station], as the allegations,
+even if taken at face value, do not disclose any offence against the
+petitioner, and the proceedings are an abuse of the process of the
+court; and to pass such other orders as this Court deems fit.
+[Grounds; affidavit]
+END
+
+## 6.3 Bail application
+- In a bailable offence, bail is a right (s.478). In a non-bailable offence, apply to the Magistrate (s.480) or to the Sessions Court or High Court (s.483). For anticipatory bail, apply under s.482 to the Sessions Court or High Court.
+- Grounds: the nature of the offence, the stage of investigation, the period in custody, the absence of criminal antecedents, roots in society, no risk of absconding or tampering, health, age, the principle that bail is the rule (*Satender Kumar Antil v CBI*, 2022), and willingness to abide by conditions.
+
+DRAFT: Bail application under section 480 BNSS
+IN THE COURT OF THE JUDICIAL MAGISTRATE OF THE FIRST CLASS, NELLORE
+Crl. M.P. No. ____ of 2026
+in
+Crime No. [ ] of [ ] Police Station
+
+[Accused] ... Petitioner/Accused No. 1
+Versus
+State of Andhra Pradesh, through the Station House Officer,
+[ ] Police Station                        ... Respondent
+
+**PETITION UNDER SECTION 480 OF THE BHARATIYA NAGARIK SURAKSHA SANHITA,
+2023 FOR GRANT OF BAIL**
+
+1. The petitioner was arrested on [date] in the above crime, registered
+   for offences under sections [ ] of the Bharatiya Nyaya Sanhita, 2023,
+   and remanded to judicial custody on [date].
+2. The petitioner is innocent and has been falsely implicated.
+3. The investigation is substantially complete; the alleged recovery
+   has been made; no further custody is required.
+4. The petitioner is a permanent resident of [place], with a family and
+   a job. There is no possibility of his absconding or tampering with
+   evidence. He has no criminal antecedents.
+5. The petitioner is willing to furnish sureties and abide by any
+   conditions imposed by this Court.
+
+PRAYER: Enlarge the petitioner on bail on such conditions as this Court
+deems fit.
+[Counsel's signature]
+END
+
+## 6.4 Memorandum of appeal and revision
+- **Criminal appeal**: against conviction (s.415) to the Sessions Court or High Court; within 60 days (to the High Court) or 30 days (to any other court) under the Limitation Act (Article 115). Accompanied by a copy of the judgment; may include an application for suspension of sentence and bail (s.430).
+- **Criminal revision** (s.438 and s.442): to the Sessions Court or High Court, against final orders, on grounds of illegality, impropriety or irregularity; not against interlocutory orders. Limitation: 90 days (Article 131).
+- Grounds are stated concisely: misappreciation of evidence, contradictions in witness testimony, non-compliance with mandatory procedure, failure to consider defence evidence, and the sentence being excessive.
+
+* Complaints under s.223 BNSS; s.138 NI Act complaint (timelines and jurisdiction).
+* Criminal miscellaneous petitions, including quashing under s.528 (Bhajan Lal categories).
+* Bail applications under ss.478, 480, 482 and 483 (Satender Kumar Antil).
+* Criminal appeals (s.415) and revisions (ss.438 and 442), with concise grounds.
+
+QL: Draft a complaint for an offence under s.138 of the NI Act.
+QL: Draft a bail application in a non-bailable offence under the BNSS.
+QL: Draft a criminal petition to quash proceedings under s.528 BNSS.
+QS: Memorandum of criminal appeal
+QS: Criminal revision
+
+MCQ: The High Court's inherent power to quash proceedings is now in || s.482 BNSS | *s.528 BNSS | s.480 BNSS | s.438 BNSS || Formerly s.482 CrPC.
+MCQ: A complaint under s.138 NI Act must be filed within || 15 days | *one month of the cause of action | 3 months | 1 year || s.142(1)(b).
+
+# 7 | Conveyancing: principles and the sale deed
+@topics Conveyancing; Sale deed
+>> Conveyancing is drafting deeds that transfer or create interests in property. A sale deed transfers ownership for a price and, for immovable property of ₹100 or more, must be registered.
+
+## 7.1 Parts of a deed
+| Part | Purpose |
+|---|---|
+| Title (description) | "Sale Deed", "Deed of Mortgage" |
+| Date and place of execution | |
+| Parties | Full names, parentage, age, occupation, address, and identity details |
+| Recitals | Background: how the vendor acquired title; the agreement to sell |
+| Testatum (operative words) | "Now this deed witnesses that..." and the consideration |
+| Operative part | Words of transfer ("hereby conveys, transfers and sells") |
+| Parcels | Description of the property (the Schedule) |
+| Exceptions and reservations | Rights retained by the transferor |
+| Habendum | The estate taken ("to have and to hold absolutely") |
+| Covenants | Title, quiet enjoyment, indemnity, further assurance |
+| Testimonium | "In witness whereof the parties have signed..." |
+| Signatures and attestation | Parties and witnesses |
+
+## 7.2 Stamp duty and registration
+- **Stamp duty** under the Indian Stamp Act, 1899 (as applicable in Andhra Pradesh), based on the market value or consideration, whichever is higher. An unstamped or insufficiently stamped instrument is not admissible in evidence until the duty and penalty are paid (s.35), but it is not void (*In re Interplay between Arbitration Agreements under the Arbitration and Conciliation Act 1996 and the Indian Stamp Act 1899*, 2023).
+- **Registration** under the Registration Act, 1908: sale of immovable property worth ₹100 or more must be registered (s.54 TPA; s.17 Registration Act). Present the document within four months of execution (s.23). Unregistered documents do not affect the property (s.49), but may be used as evidence of a contract in a suit for specific performance or for collateral purposes.
+- Since 2001, an agreement for sale used for part performance under s.53A TPA must be registered (s.17(1A)).
+
+## 7.3 Sale deed (s.54 TPA)
+- Sale is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised.
+CASE: Suraj Lamp and Industries Pvt Ltd v State of Haryana (2011) :: The Supreme Court held that immovable property can be legally and lawfully transferred only by a registered deed of conveyance. Transactions by "GPA sales" (a sale agreement, a general power of attorney and a will) do not convey title, and cannot be recognised as completed transfers, though they may be used for specific performance or to show possession under s.53A TPA.
+
+DRAFT: Sale deed of immovable property
+**SALE DEED**
+
+This Deed of Sale is executed at Nellore on this [ ] day of [month], 2026,
+
+**BY**
+[Vendor], son of [ ], aged about [ ] years, occupation [ ], residing at
+[address], Aadhaar No. [xxxx xxxx 1234] (hereinafter called the "Vendor",
+which expression includes his heirs, legal representatives and assigns),
+
+**IN FAVOUR OF**
+[Purchaser], son of [ ], aged about [ ] years, occupation [ ], residing
+at [address] (hereinafter called the "Purchaser", which expression
+includes his heirs, legal representatives and assigns).
+
+**WHEREAS**
+1. The Vendor is the absolute owner in possession of the house property
+   described in the Schedule below (the "Schedule Property"), having
+   purchased it under registered sale deed No. [ ] of [year] at the
+   office of the Sub-Registrar, [place].
+2. The Vendor has agreed to sell the Schedule Property to the Purchaser
+   for a consideration of ₹40,00,000 (Rupees Forty Lakhs only), free
+   from all encumbrances.
+
+**NOW THIS DEED WITNESSES** as follows:
+1. In consideration of ₹40,00,000 paid by the Purchaser to the Vendor
+   [by bank transfer/demand draft No. ___ dated ___], the receipt of
+   which the Vendor acknowledges, the Vendor hereby conveys, transfers
+   and sells the Schedule Property to the Purchaser, to have and to hold
+   it absolutely, with all rights, easements and appurtenances.
+2. The Vendor has this day delivered vacant possession of the Schedule
+   Property to the Purchaser.
+3. The Vendor covenants that he has a clear and marketable title, that
+   the Schedule Property is free from all encumbrances, charges,
+   mortgages, attachments and litigation, and that he will indemnify
+   the Purchaser against any loss arising from a defect in title.
+4. The Vendor will execute any further documents needed to perfect the
+   Purchaser's title and to mutate the property records in the
+   Purchaser's name.
+5. The market value of the Schedule Property as per the Registration
+   Department is ₹[ ], and stamp duty is paid accordingly.
+
+**SCHEDULE OF PROPERTY**
+Nellore District, Nellore Sub-Registration District, Nellore Municipal
+Corporation, Ward No. [ ], Door No. [ ], house property with RCC roof
+in a site of [ ] square yards, bounded by:
+East: [ ]   West: [ ]   North: [ ]   South: [ ]
+
+**IN WITNESS WHEREOF** the Vendor has signed this deed on the day,
+month and year first written above, in the presence of the witnesses.
+
+VENDOR
+Witnesses:
+1. [name and address]
+2. [name and address]
+END
+
+## 7.4 Recent judgments (2025–26)
+
+CASE: Ramesh Chand v Suresh Chand (2025) :: Title passes only by a registered sale deed. An agreement to sell, GPA, affidavit and receipt (the 'GPA sale') convey no title.
+
+* Only a registered sale deed conveys title (Ramesh Chand, 2025).
+* Parts of a deed: description, date, parties, recitals, testatum, operative words, parcels, habendum, covenants, testimonium, attestation.
+* Stamp duty (unstamped documents inadmissible until duty is paid, not void); registration (ss.17, 23 and 49).
+* Sale (s.54 TPA) by registered deed only (Suraj Lamp).
+
+QL: Explain the component parts of a deed of conveyance. Draft a sale deed of a house.
+QS: Habendum
+QS: Effect of non-registration
+QS: Suraj Lamp and Industries v State of Haryana
+
+MCQ: A sale of immovable property worth ₹100 or more can be made only by || an agreement to sell | *a registered instrument | an oral transfer with delivery | a GPA || s.54 TPA.
+MCQ: A document must be presented for registration within || one month | *four months of execution | one year | six months || s.23 Registration Act.
+
+# 8 | Mortgage, lease and gift deeds
+@topics Mortgage deeds; Lease deed; Gift deed
+>> A mortgage transfers an interest in property as security for a loan; a lease transfers a right to enjoy property for a period for rent; and a gift transfers ownership without consideration and must be accepted during the donor's lifetime.
+
+## 8.1 Mortgage deeds (ss.58 and 59 TPA)
+- Kinds (s.58): simple mortgage, mortgage by conditional sale, usufructuary mortgage, English mortgage, mortgage by deposit of title deeds (equitable mortgage, only in notified towns), and anomalous mortgage.
+- A mortgage securing ₹100 or more (other than by deposit of title deeds) must be by a registered instrument signed by the mortgagor and attested by at least two witnesses (s.59).
+- Key terms: principal, interest, the date of repayment, the mortgaged property, the right of redemption (which cannot be clogged), the mortgagee's power of sale (if any, s.69), covenants on insurance and payment of taxes, and an attestation clause.
+
+DRAFT: Simple mortgage deed (operative clauses)
+**DEED OF SIMPLE MORTGAGE**
+Executed at Nellore on [date] by [Mortgagor] (the "Mortgagor") in
+favour of [Mortgagee] (the "Mortgagee").
+
+WHEREAS the Mortgagor has borrowed ₹10,00,000 (Rupees Ten Lakhs only)
+from the Mortgagee on this date for [purpose];
+
+NOW THIS DEED WITNESSES:
+1. The Mortgagor shall repay the principal of ₹10,00,000 with interest
+   at 12% per annum, payable every quarter, on or before [date].
+2. As security for repayment, the Mortgagor hereby mortgages to the
+   Mortgagee the property described in the Schedule (without delivering
+   possession), and agrees that, in default of payment, the Mortgagee
+   may have the Schedule Property sold through court and the sale
+   proceeds applied towards the amount due.
+3. The Mortgagor shall be personally liable for any balance remaining
+   after the sale.
+4. The Mortgagor shall pay all taxes on the Schedule Property and shall
+   not sell, mortgage or lease it without the Mortgagee's written
+   consent while the debt remains unpaid.
+5. On payment of all amounts due, the Mortgagee shall execute a
+   registered deed of reconveyance (or receipt) at the Mortgagor's cost.
+SCHEDULE: [property description and boundaries]
+Signed by the Mortgagor in the presence of: 1. [ ]  2. [ ]
+END
+
+## 8.2 Lease deed (ss.105 to 117 TPA)
+- A lease of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent, can be made only by a registered instrument (s.107). Other leases may be by registered instrument or oral agreement with delivery of possession.
+- Contents: parties, the premises, the term and its commencement, rent and due date, security deposit, the purpose of use, maintenance and repairs, payment of taxes and charges, sub-letting, the lock-in period, termination and notice, renewal, and the return of the deposit.
+
+DRAFT: Lease deed of residential premises (key clauses)
+**LEASE DEED**
+This Lease Deed is made at Nellore on [date] between [Lessor] (the
+"Lessor") and [Lessee] (the "Lessee").
+
+1. **Premises**: The Lessor leases to the Lessee the residential flat
+   No. [ ], [building], Nellore, described in the Schedule (the
+   "Premises").
+2. **Term**: 3 years, from [date] to [date].
+3. **Rent**: ₹20,000 per month, payable in advance on or before the 5th
+   of each month by bank transfer. Rent will increase by 5% after every
+   12 months.
+4. **Security deposit**: ₹40,000 (two months' rent), refundable without
+   interest on handing over vacant possession, after deducting any
+   unpaid dues or cost of repairing damage beyond normal wear and tear.
+5. **Use**: The Lessee will use the Premises only for residence and
+   will not sub-let or part with possession without written consent.
+6. **Charges**: The Lessee will pay electricity, water and maintenance
+   charges. The Lessor will pay property tax.
+7. **Repairs**: The Lessor will carry out structural repairs; the Lessee
+   will carry out minor day-to-day repairs.
+8. **Termination**: Either party may end the lease by giving three
+   months' written notice.
+9. **Possession**: On expiry or termination, the Lessee will hand over
+   vacant possession in good condition.
+SCHEDULE: [description]
+[Signatures of Lessor and Lessee; two witnesses]
+END
+
+## 8.3 Gift deed (ss.122 to 129 TPA)
+- A gift is a transfer of existing movable or immovable property, made voluntarily and without consideration by the donor, and **accepted** by or on behalf of the donee during the donor's lifetime and while he is still capable of giving (s.122).
+- A gift of immovable property must be by a registered instrument signed by the donor and attested by at least two witnesses (s.123). A gift of movables may be made by registered instrument or by delivery.
+- A gift may be revoked only in the cases in s.126 (by agreement on a specified contingency not depending on the donor's will, or where it would be rescinded as a contract).
+- Concessional stamp duty applies in Andhra Pradesh for gifts to close family members (check the current rate).
+
+DRAFT: Gift deed of immovable property (operative clauses)
+**GIFT DEED**
+This Gift Deed is executed at Nellore on [date] by [Donor], aged [ ],
+residing at [ ] (the "Donor"), in favour of [Donee], his daughter,
+aged [ ], residing at [ ] (the "Donee").
+
+WHEREAS the Donor is the absolute owner of the property described in the
+Schedule, having acquired it under [document], and out of natural love
+and affection for the Donee desires to gift it to her;
+
+NOW THIS DEED WITNESSES:
+1. The Donor, out of natural love and affection and without any
+   consideration, hereby gifts and transfers the Schedule Property to
+   the Donee, to hold and enjoy it absolutely.
+2. The Donee hereby accepts the gift, in token of which she has signed
+   this deed and taken possession of the Schedule Property today.
+3. The Donor declares that the Schedule Property is free from all
+   encumbrances, and that this gift is made of his own free will.
+4. The market value of the Schedule Property is ₹[ ].
+SCHEDULE: [description]
+DONOR                    DONEE (accepting the gift)
+Witnesses: 1. [ ]  2. [ ]
+END
+
+* Mortgage: kinds (s.58); registered instrument attested by two witnesses (s.59); no clog on redemption.
+* Lease: registration for leases over one year or with yearly rent (s.107); key clauses.
+* Gift: acceptance in donor's lifetime (s.122); registered and attested (s.123); limited revocation (s.126).
+
+QL: Draft a deed of simple mortgage. What are the formalities for a valid mortgage?
+QL: Draft a lease deed for residential premises.
+QL: What are the essentials of a valid gift? Draft a gift deed.
+QS: Acceptance of gift
+QS: Registration of leases
+
+MCQ: A gift of immovable property must be || oral with delivery | *by a registered instrument attested by at least two witnesses | by an unregistered deed | by a will || s.123 TPA.
+MCQ: A lease from year to year must be made by || oral agreement | *a registered instrument | an unregistered deed | a notarised agreement || s.107 TPA.
+
+# 9 | Promissory note, power of attorney and will
+@topics Promissory note; Power of attorney; Will
+>> A promissory note is a written promise to pay; a power of attorney authorises an agent; and a will disposes of property on death. Each has its own formalities.
+
+## 9.1 Promissory note (s.4 NI Act)
+- An unconditional written undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer.
+- Requirements: in writing; an express promise (a mere acknowledgment is not enough); unconditional; signed; a certain sum; a certain payee; and stamped as required by the Stamp Act (an unstamped note cannot be admitted in evidence or validated by penalty, s.35 proviso (a)). It need not be registered.
+
+DRAFT: Promissory note payable on demand
+                                        Nellore, [date]
+                                        ₹1,00,000
+
+On demand, I, [Maker], son of [ ], residing at [ ], promise to pay
+[Payee], son of [ ], residing at [ ], or order, the sum of
+₹1,00,000 (Rupees One Lakh only), with interest at 12% per annum from
+this date, for value received in cash this day.
+
+                                        [Revenue stamp, signed across]
+                                        [Signature of Maker]
+Witnesses:
+1. [name, address]
+2. [name, address]
+END
+
+## 9.2 Power of attorney (Powers of Attorney Act, 1882)
+- An instrument by which the principal authorises the agent (attorney) to act on his behalf. **General** power of attorney: for a range of acts. **Special** power of attorney: for a specific act.
+- It is usually executed before and authenticated by a Notary, which raises a presumption of due execution (s.85 IEA, carried into the BSA), or registered. A power of attorney authorising sale of immovable property should be registered, and it is often required to be registered before the attorney can present documents for registration (s.32A and s.33 Registration Act).
+- It ends on revocation, the principal's death, insanity or insolvency, or completion of the purpose (s.201 Contract Act), unless the agent has an interest in the subject matter (s.202).
+- A power of attorney does not transfer title (Suraj Lamp).
+
+DRAFT: Special power of attorney (operative part)
+**SPECIAL POWER OF ATTORNEY**
+I, [Principal], son of [ ], aged [ ], residing at [ ], presently at
+[foreign address], appoint [Attorney], son of [ ], residing at
+[ ], Nellore, as my attorney to do the following acts in my name and on
+my behalf in respect of my land in Survey No. [ ], [village], Nellore
+District (the "Property"):
+
+1. To appear before the Tahsildar and other revenue authorities and
+   apply for mutation and correction of revenue records.
+2. To pay land revenue and taxes, and obtain receipts.
+3. To file, sign and verify pleadings, affidavits and applications in
+   any court relating to the Property, and to engage advocates.
+
+I agree to ratify all acts done lawfully by my attorney under this power.
+This power does not authorise the attorney to sell, mortgage or lease
+the Property.
+
+Signed at [place] on [date].                             PRINCIPAL
+[Attestation by Notary/Indian Embassy, and witnesses]
+END
+
+## 9.3 Will (Indian Succession Act, 1925)
+- A will is a legal declaration of the testator's intention about his property, to take effect after death (s.2(h)). Any person of sound mind who is not a minor may make a will (s.59).
+CASE: H. Venkatachala Iyengar v B.N. Thimmajamma (1959) :: The propounder of a will must prove that the testator signed it, was of sound mind and understood its contents, and must remove any suspicious circumstances. Good drafting (a clear declaration of sound mind, a natural disposition, independent witnesses) helps meet these requirements.
+- **Execution** (s.63): signed by the testator (or by another in his presence and by his direction), placed so as to show it is meant to give effect to the writing as a will, and **attested by two or more witnesses**, each of whom has seen the testator sign or received his acknowledgment, and has signed in the testator's presence.
+- No stamp duty is payable; registration is optional (s.18 Registration Act), but it helps prove the will. Since the omission of s.213 ISA in December 2025, probate is no longer compulsory anywhere in India, but it is still advisable where the will may be disputed.
+- Drafting points: a revocation clause, the appointment of an executor, a clear description of the beneficiaries and property, a residuary clause (to cover property not specifically mentioned), a declaration of sound mind and free will, and the attestation clause. A witness who is a beneficiary does not invalidate the will, but the bequest to that witness is void (s.67), so do not use beneficiaries as witnesses.
+
+DRAFT: Will
+**WILL**
+I, [Testator], son of [ ], aged about 70 years, retired teacher,
+residing at [address], Nellore, being of sound mind and making this will
+of my own free will, without any coercion or undue influence, revoke
+all my earlier wills and codicils and declare this to be my last will.
+
+1. **Family**: My wife is [name]. I have one son, [name], and one
+   daughter, [name].
+2. **Executor**: I appoint my son, [name], as the executor of this will.
+3. **Bequests**:
+   (a) My house at Door No. [ ], [ ], Nellore, described in Schedule A,
+       to my wife absolutely; after her death, if she has not disposed
+       of it, to my son and daughter in equal shares.
+   (b) My agricultural land in Survey No. [ ], [village], described in
+       Schedule B, to my daughter absolutely.
+   (c) My fixed deposits in [bank] to my son absolutely.
+4. **Residue**: All my other property, movable and immovable, which I
+   own at my death, I give to my wife, son and daughter in equal shares.
+5. **Debts**: My executor will pay my debts and funeral expenses out of
+   my estate before distributing it.
+
+Signed by me at Nellore on [date].
+                                                   TESTATOR
+
+We, the undersigned, declare that the testator signed this will in our
+presence, and we have signed as attesting witnesses in his presence and
+in the presence of each other.
+1. [name, address, signature]
+2. [name, address, signature]
+SCHEDULES A and B: [descriptions]
+END
+
+TIP: For your record, write each draft by hand in the prescribed format, with a short note above it listing the provisions that govern it (for example, "Will: ss.59, 63 and 67 ISA; s.18 Registration Act"). In the viva, be ready to explain each clause.
+
+* Promissory note: unconditional written promise, signed, stamped; not registrable (s.4 NI Act).
+* Power of attorney: general or special; notarised or registered; ends on revocation, death or completion; does not transfer title.
+* Will: capacity (s.59), execution with two attesting witnesses (s.63), beneficiary-witness bequest void (s.67); no stamp; registration optional; probate no longer compulsory.
+
+QL: Draft a will of a person who wishes to divide his property among his wife and children. What are the formalities of a valid will?
+QL: Draft a special power of attorney. When does a power of attorney terminate?
+QL: Draft a promissory note payable on demand. What are its essentials?
+QS: Attestation of a will
+QS: General and special power of attorney
+
+MCQ: A will must be attested by at least || one witness | *two witnesses | three witnesses | a Notary || s.63 ISA.
+MCQ: A bequest to a person who attests the will is || valid | *void, but the will remains valid | voidable | valid only with probate || s.67 ISA.
+MCQ: A power of attorney becomes irrevocable where || it is notarised | *the agent has an interest in the subject matter | it is registered | the principal is abroad || s.202 Contract Act.

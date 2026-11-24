@@ -1,0 +1,223 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Who is a customer?
+There is no statutory definition. A customer is a person who has an account with a bank, or for whom the bank agrees to open one (*Commissioners of Taxation v English, Scottish and Australian Bank*, 1920). The duration of the dealings is not essential.
+- The relationship begins when the account is opened.
+- Status as a customer matters for the protection of a collecting banker (s.131, NI Act), the duty of secrecy, and the banker's lien.
+- Persons using bank services occasionally, without an account, are generally not customers.
+
+Q: Garnishee order
+A garnishee order is a court order attaching money due from a third person (the garnishee, such as a bank) to the judgment-debtor (the customer), for the benefit of the decree-holder (Order XXI Rule 46A CPC).
+- The bank must stop payment of the attached amount and pay it into court, or show cause.
+- The order attaches balances existing at the time of service, not future credits, unless the order says so.
+- Joint accounts and trust accounts require care.
+
+Q: Banker's lien
+A banker's lien is a general lien under s.171 of the Contract Act. The bank may retain securities and valuables of a customer, which came into its hands as a banker, for a general balance of account, unless there is an agreement to the contrary.
+- It is an implied pledge, so the bank can sell after reasonable notice.
+- It does not apply to articles in safe custody, money deposited for a specific purpose, or trust property known to the bank.
+- The right of set-off is separate.
+
+Q: Duty of secrecy
+The bank's duty not to disclose information about a customer's account is a qualified duty (*Tournier v National Provincial and Union Bank of England*, 1924). Disclosure is permitted:
+- under compulsion of law (income tax, PMLA, court orders);
+- where there is a duty to the public;
+- where the bank's interest requires it; or
+- with the customer's express or implied consent.
+In India, see also s.13 of the Banking Companies (Acquisition) Act, the Credit Information Companies Act, the Digital Personal Data Protection Act, 2023, and RBI directions. Right to Information cases have held that RBI inspection reports are disclosable (*RBI v Jayantilal N. Mistry*, 2015).
+
+Q: Protection of the paying banker
+Under s.85 of the NI Act:
+- a banker who pays an order cheque in due course is discharged, even if an endorsement is forged; and
+- a banker who pays a bearer cheque to the bearer is discharged.
+Payment in due course (s.10) means payment in good faith, without negligence, according to the apparent tenor of the instrument, to a person in possession.
+- There is no protection for a forged drawer's signature. The bank must bear the loss unless the customer was negligent (*Canara Bank v Canara Sales Corporation*, 1987).
+- Crossed cheques are dealt with under s.128.
+
+Q: Functions of the Reserve Bank of India
+The RBI was established by the RBI Act, 1934. Its functions are:
+- **monetary authority:** formulating monetary policy, with the Monetary Policy Committee targeting inflation of 4% ± 2% (s.45ZA);
+- **currency issue** (s.22);
+- **banker to the government** and manager of public debt;
+- **banker's bank** and lender of last resort;
+- **regulator and supervisor of banks and NBFCs** (Banking Regulation Act; Chapter IIIB);
+- **foreign exchange management** (FEMA);
+- **payment systems** (Payment and Settlement Systems Act, 2007); and
+- **developmental and consumer protection functions**, including the Integrated Ombudsman Scheme, 2021.
+
+Q: Non-performing asset
+A non-performing asset is a loan or advance where interest or principal remains overdue for more than 90 days (RBI prudential norms). NPAs are classified as:
+- substandard (up to 12 months);
+- doubtful; and
+- loss.
+Provisioning is required. NPA classification triggers recovery under SARFAESI (secured debts) and is a requirement for proceeding under s.13(2). *Dharani Sugars v Union of India* (2019) quashed the RBI's 12 February 2018 circular.
+
+Q: Demand notice under section 13(2) of SARFAESI
+When a borrower defaults and the account is classified as an NPA, the secured creditor may, by written notice, require the borrower to discharge the liabilities within 60 days, failing which it may exercise its powers under s.13(4):
+- take possession;
+- take over management;
+- appoint a manager; and
+- require the borrower's debtors to pay.
+The borrower may make a representation, and the creditor must reply within 15 days with reasons (s.13(3A); *Mardia Chemicals v Union of India*, 2004). An appeal lies to the DRT under s.17. SARFAESI does not apply to agricultural land (s.31(i)).
+
+Q: Bank nationalisation
+- The Banking Companies (Acquisition and Transfer of Undertakings) Act, 1969 nationalised 14 major banks, and six more were nationalised in 1980.
+- *R.C. Cooper v Union of India* (1970, the Bank Nationalisation case): the 1969 Act was struck down for discriminatory exclusion and non-payment of fair compensation. It was re-enacted.
+- Objectives: social control, priority sector lending and branch expansion.
+- Later trends: bank mergers, which reduced the number of public sector banks to 12 by 2020, and the recapitalisation of public sector banks.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Explain the nature of the relationship between banker and customer.
+### General relationship: debtor and creditor
+- When a customer deposits money, the bank becomes a debtor and the customer a creditor (*Foley v Hill*, 1848). The money belongs to the bank.
+- The bank must repay on demand at the branch where the account is kept, and a demand is needed before repayment is due.
+- Limitation runs from the date of demand (Art. 22, Limitation Act, for deposits).
+### Special relationships
+1. **Creditor and debtor:** when a customer borrows.
+2. **Trustee and beneficiary:** for safe-custody articles and money given for a specific purpose.
+3. **Bailor and bailee:** in safe deposit lockers, although banks argue that the relationship is a lease. The Supreme Court has directed the RBI to lay down guidelines (*Amitabha Dasgupta v United Bank of India*, 2021).
+4. **Principal and agent:** in collecting cheques, paying bills, and buying and selling securities.
+5. **Lessor and lessee:** for lockers.
+6. **Pledgor and pledgee; mortgagor and mortgagee.**
+### Obligations of the banker
+- to honour cheques within the available balance;
+- not to dishonour wrongfully;
+- to maintain secrecy (*Tournier*);
+- to maintain accounts accurately;
+- to give notice before closing an account; and
+- to give reasonable care and service.
+- Delay in presenting a cheque for collection is a deficiency in service (*Canara Bank v Kavita Chowdhary*, 2026).
+- Banks are liable under consumer law.
+### Rights of the banker
+- general lien;
+- set-off;
+- appropriation of payments (Contract Act ss.59 to 61, and *Clayton's case*); and
+- charging interest and fees.
+### Duties of the customer
+- to draw cheques carefully, avoiding facilitation of fraud (*London Joint Stock Bank v Macmillan*, 1918); and
+- to inform the bank of forgery.
+### Termination
+By notice, death, insolvency, insanity, garnishee order, or closure.
+### Conclusion
+The basic relationship is debtor and creditor, with layers of fiduciary and agency duties. Consumer law and RBI directions increasingly shape it.
+
+Q: Explain the regulation of banking companies under the Banking Regulation Act, 1949.
+### Purpose
+The Act consolidates the law relating to banking companies and gives the RBI wide regulatory powers.
+### Key provisions
+- **Business (ss.5(b) and 6):** banking is accepting deposits for lending or investment, repayable on demand. Permitted businesses are listed, and trading is prohibited (s.8).
+- **Licence (s.22):** compulsory from the RBI. It may be cancelled.
+- **Capital and reserves (ss.11 to 17):** minimum capital, reserve funds, and CRR and SLR (ss.18 and 24).
+- **Management (ss.10 and 10A to 10B):** restrictions on directors and appointment of directors and chairmen. The RBI may remove managerial personnel and supersede boards (ss.36AA and 36ACA).
+- **Loans and advances (s.20):** restrictions on loans to directors. The RBI may direct lending policies (s.21).
+- **Control over branches (s.23)** and **inspection (s.35).**
+- **Directions (s.35A).**
+- **Resolution of stressed assets (ss.35AA and 35AB, 2017):** the RBI may direct banks to initiate insolvency proceedings.
+- **Moratorium and amalgamation (s.45):** the RBI may apply for a moratorium and prepare a scheme. Examples are Yes Bank (2020) and Lakshmi Vilas Bank (2020).
+- **Winding up (ss.38 to 45):** through the High Court, with the RBI as official liquidator.
+- **Cooperative banks:** brought under fuller RBI regulation by the 2020 amendment.
+- **Penalties (ss.46 and 47A).**
+### Banking Laws (Amendment) Act, 2025
+- up to four nominees for accounts;
+- a redefined "substantial interest";
+- changes in reporting dates; and
+- longer tenures for cooperative bank directors.
+### Conclusion
+The Act gives the RBI comprehensive control over the entry, operation, governance and exit of banks, which has been strengthened after recent bank failures.
+
+Q: Discuss the mechanisms for recovery of bank loans in India.
+### Civil suits
+These are slow, which led to special laws.
+### Recovery of Debts and Bankruptcy Act, 1993 (RDB Act)
+- Debts Recovery Tribunals hear claims of ₹20 lakh and above, with appeals to the DRAT, on a 25% to 50% deposit.
+- Recovery certificates are executed by recovery officers.
+- Banks can recover dues summarily. Civil court jurisdiction is barred (s.18).
+- A DRT certificate is not a "decree" for the purpose of initiating insolvency (*HDFC Bank v Kishore Mehta*, 2026).
+### SARFAESI Act, 2002
+- Secured creditors may enforce security without court intervention:
+  - a 60-day notice under s.13(2);
+  - a reply to objections under s.13(3A);
+  - possession under s.13(4); and
+  - sale.
+- The District Magistrate assists in taking possession (s.14).
+- Appeals lie to the DRT (s.17).
+- Upheld in *Mardia Chemicals* (2004).
+- It is inapplicable to agricultural land and to debts below ₹1 lakh.
+- Asset reconstruction companies are regulated under it.
+### Insolvency and Bankruptcy Code, 2016
+- Financial creditors may initiate CIRP against corporate debtors (s.7).
+- Personal guarantors can be pursued (Part III; *Lalit Kumar Jain*, 2021; *Dilip B. Jiwrajka*, 2023).
+- The IBC is not a mere recovery tool (*Dhanlaxmi Bank*, 2026).
+### Lok Adalats
+These handle small loans and settlements.
+### Criminal remedies
+- s.138 of the NI Act for dishonoured cheques; and
+- cheating, for fraudulent borrowers.
+- Wilful defaulter rules and RBI master directions apply. Fraud classification requires a hearing (*State Bank of India v Rajesh Agarwal*, 2023).
+### Conclusion
+A layered system of DRTs, SARFAESI and the IBC has improved recovery. Courts insist on due process and fair hearing for borrowers.
+
+Q: Discuss the role of the Reserve Bank of India in regulating foreign exchange and banking for non-residents.
+### Evolution
+FERA 1973 was a criminal, control-oriented law. FEMA 1999 is a civil law that facilitates external trade and payments, under which violations attract penalties.
+### FEMA framework
+- **Current account transactions (s.5):** freely permitted, subject to reasonable restrictions (the Liberalised Remittance Scheme, currently USD 250,000 per year).
+- **Capital account transactions (s.6):** regulated by the RBI and the government, including FDI, external commercial borrowings and overseas investment.
+- **Authorised persons (s.10):** banks and money changers.
+- **Adjudication (ss.13 to 16)** and appeals to the Appellate Tribunal.
+- **Enforcement** by the Enforcement Directorate.
+- **Penalties:** up to three times the sum involved.
+### Non-resident banking
+- **NRE accounts:** repatriable, tax-free interest, in rupees.
+- **NRO accounts:** for income earned in India; repatriation is limited.
+- **FCNR(B) accounts:** term deposits in foreign currency, free of exchange risk for the depositor.
+- **Special Non-Resident Rupee accounts.**
+- **Investment** by NRIs and OCIs under portfolio schemes and FDI rules.
+- **Remittance facilities.**
+### Anti-money laundering
+- PMLA 2002 and KYC norms;
+- FATF standards; and
+- reporting of suspicious transactions to the Financial Intelligence Unit (FIU-IND).
+### Related law
+The Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015.
+### Conclusion
+The RBI manages foreign exchange through a liberal but regulated FEMA regime, and offers non-residents a range of account facilities, balancing capital flows with stability.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A customer deposits a local cheque for ₹2 lakh for collection. The bank fails to present it for 45 days, by which time the drawer's account has insufficient funds and the cheque is dishonoured. The customer sues the bank. Decide.
+**Issue:** Is the collecting bank liable for delay?
+**Law:**
+- A collecting banker acts as the customer's agent and must present the cheque within a reasonable time.
+- Under s.131 of the NI Act, protection applies only to good-faith collection without negligence.
+- *Canara Bank v Kavita Chowdhary* (2026): delay by a collecting bank in presenting a cheque is a deficiency in service under the Consumer Protection Act.
+**Application:** A 45-day delay is unreasonable and caused the loss.
+**Conclusion:** The bank is liable to compensate the customer. A consumer complaint is maintainable.
+
+Q: A bank pays a cheque for ₹5 lakh on which the customer's signature has been skilfully forged. The customer discovers it a month later and demands a refund. The bank claims the customer's negligence in keeping the cheque book. Decide.
+**Issue:** Who bears the loss on a forged drawer's signature?
+**Law:**
+- A forged signature is a nullity. A bank paying on it has no mandate and cannot debit the customer (*Canara Bank v Canara Sales Corporation*, 1987).
+- Section 85 of the NI Act protects only against forged endorsements, not forged drawer signatures.
+- The customer's negligence must be proximate and directly cause the forgery to defeat the claim (*London Joint Stock Bank v Macmillan*, 1918). Mere carelessness in keeping a cheque book is not enough.
+**Application:** No proximate negligence by the customer is shown.
+**Conclusion:** The bank must re-credit ₹5 lakh, with interest.
+
+Q: A bank issues a notice under section 13(2) of SARFAESI to a farmer for default on a loan secured by mortgage of his agricultural land, and later takes possession of the land. Advise the farmer.
+**Issue:** Does SARFAESI apply to agricultural land?
+**Law:**
+- Section 31(i) of SARFAESI: the Act does not apply to security interests created in agricultural land.
+- Whether land is agricultural is determined by its nature and use at the time of the security (*ITC Ltd v Blue Coast Hotels*, 2018; *Indian Bank v K. Pappireddiyar*, 2018).
+- The remedy is an application under s.17 to the DRT, or a writ.
+**Application:** If the land was agricultural and used for agriculture, SARFAESI proceedings are void.
+**Conclusion:** The farmer can apply to the DRT under s.17 to set aside the possession. The bank must use a civil suit or the RDB Act instead.
+
+Q: A bank wrongfully dishonours a trader's cheque for ₹50,000, though there were sufficient funds. The payee's business is harmed, and the trader's reputation suffers. Advise the trader.
+**Issue:** The liability of a bank for wrongful dishonour.
+**Law:**
+- A banker must honour cheques drawn within the funds available (s.31, NI Act). The bank is liable to the drawer for loss or damage caused by wrongful dishonour.
+- For traders, substantial damages may be awarded without proof of actual loss, because of injury to credit (*Rolin v Steward*, 1854; *Gibbons v Westminster Bank*, 1939, where nominal damages were awarded to non-traders).
+- Consumer protection remedies are also available.
+**Application:** Sufficient funds existed, so the dishonour was wrongful.
+**Conclusion:** The trader can claim substantial damages for loss of reputation and credit, before a civil court or the consumer commission.

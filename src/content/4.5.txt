@@ -1,0 +1,395 @@
+@title Land Law including Tenure and Tenancy System
+@subtitle Eminent domain, escheat, land reforms, acquisition, ceiling, tenancy, scheduled areas, land grabbing and forests, with Andhra Pradesh laws
+@paper 4.5
+@sem IV
+@color #5a4a1e
+@dark #4e401a
+@intro Land is a State subject (Entry 18, List II), so this book uses Andhra Pradesh statutes alongside central law and Supreme Court cases. Acquisition is concurrent (Entry 42, List III), and forests are concurrent (Entry 17A, List III). The Right to Fair Compensation Act, 2013 now governs acquisition. The Forest (Conservation) Act, 1980 was renamed the Van (Sanrakshan Evam Samvardhan) Adhiniyam by its 2023 amendment. A new Andhra Pradesh land grabbing law was passed by the Assembly in November 2024 to replace the 1982 Act.
+@reading Ahmad Siddique, Land Laws
+@reading G.B. Reddy, Land Laws in Andhra Pradesh
+@reading The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013
+@reading A.P. Land Reforms (Ceiling on Agricultural Holdings) Act, 1973
+@reading A.P. Scheduled Areas Land Transfer Regulation, 1959
+
+# 1 | Ownership of land and eminent domain
+@topics Ownership of land; Doctrine of eminent domain
+>> The State has the sovereign power to take private property for public use. The Constitution limits that power: no one may be deprived of property except by authority of law (Art. 300A), and the law must be fair.
+
+## 1.1 Ownership of land
+- Traditional Indian theories differ: some texts treat the king as owner of all land, while others treat the cultivator as owner and the king as entitled only to a share of produce (revenue).
+- Under British rule, the State asserted ultimate ownership and collected land revenue through settlements (Unit 3).
+- Today, land is held by private owners, the State (government land, porambokes and assigned lands) and communities (commons, forests). Title is recorded in revenue records (pattas, adangals, 1-B registers in AP), which are evidence of possession but are not conclusive title.
+
+## 1.2 Eminent domain
+- **Meaning**: the power of the sovereign to take private property for public use, without the owner's consent, on payment of compensation. The term comes from Grotius (dominium eminens).
+- Two conditions: **public purpose** and **compensation**.
+
+## 1.3 Constitutional history
+- **Original Constitution**: Art. 19(1)(f) (right to acquire, hold and dispose of property) and Art. 31 (no deprivation except by authority of law; compulsory acquisition only for a public purpose and with compensation).
+- Amendments to protect land reform: 1st (1951: Arts. 31A, 31B, Ninth Schedule), 4th (1955: adequacy of compensation not justiciable), 17th (1964), 25th (1971: "amount" instead of "compensation"; Art. 31C).
+- **44th Amendment (1978)**: deleted Art. 19(1)(f) and Art. 31, and inserted **Art. 300A**: "No person shall be deprived of his property save by authority of law." Property became a constitutional right, not a fundamental right. Arts. 30(1A) and 31A (second proviso) still require compensation in specific cases.
+
+CASE: State of Bihar v Maharajadhiraja Sir Kameshwar Singh (1952) :: The Supreme Court upheld most of the Bihar Land Reforms Act, 1950 (abolishing zamindaris), holding that abolition of zamindari was a public purpose. It struck down provisions on arrears of rent and compensation computation that amounted to confiscation without a public purpose.
+
+CASE: Jilubhai Nanbhai Khachar v State of Gujarat (1995) :: After the 44th Amendment, the right to property under Art. 300A is not a basic feature of the Constitution. A law depriving a person of property need not provide compensation equal to market value, but should not be illusory.
+
+CASE: K.T. Plantation Pvt Ltd v State of Karnataka (2011) :: A Constitution Bench held that Art. 300A requires a law that is just, fair and reasonable, and that a public purpose is a precondition for deprivation. A claim for compensation is inbuilt in Art. 300A, though the amount is a matter for the legislature and can be tested under Art. 14.
+
+CASE: Kolkata Municipal Corporation v Bimal Kumar Shah (2024) :: The Court identified seven sub-rights inherent in Art. 300A: the right to notice, to be heard, to a reasoned decision, the duty to acquire only for public purpose, the right of restitution or fair compensation, the right to an efficient and expeditious process, and the right to conclusion of proceedings. Acquisition without following these steps is invalid even if compensation is provided.
+
+CASE: Vidya Devi v State of Himachal Pradesh (2020) :: The State had taken a widow's land for a road in 1967 without acquisition or compensation. The Court held that the State cannot claim adverse possession against its own citizens; the right to property is a human right and a constitutional right under Art. 300A. It directed compensation with interest.
+
+CASE: Property Owners Association v State of Maharashtra (2024) :: A nine-judge bench (by majority) held that not every privately owned resource is a "material resource of the community" under Art. 39(b). Whether it is depends on factors such as its nature, scarcity, impact on community well-being and concentration in private hands. It rejected the wider view expressed by Justice Krishna Iyer in *State of Karnataka v Ranganatha Reddy* (1977) and followed in *Sanjeev Coke* (1983).
+
+## 1.4 Recent judgments (2025–26)
+
+CASE: Mehnoor Fatima v Vishveshka Infrastructure (2025) :: Registration of a sale deed does not confer title where the land had vested in the State and the seller had no title.
+
+CASE: Pawan Garg v State (2026) :: Entries in municipal records are for tax purposes and do not confer title.
+
+* Revenue or municipal entries and registration do not create title (2025-26).
+* Ownership: State, private and community; revenue records are not conclusive title.
+* Eminent domain needs public purpose and compensation.
+* Constitutional history: Art. 31 to Art. 300A (44th Amendment); property is a constitutional right, not basic structure (Jilubhai).
+* Art. 300A requires a just law and public purpose; compensation is inbuilt (K.T. Plantation); seven sub-rights (Bimal Kumar Shah); no adverse possession by the State (Vidya Devi).
+* Not every private resource is a material resource of the community (Property Owners Association, 2024).
+
+QL: Explain the doctrine of eminent domain. Trace the constitutional history of the right to property in India.
+QL: "Article 300A is not merely procedural." Discuss with reference to K.T. Plantation and Kolkata Municipal Corporation v Bimal Kumar Shah.
+QS: Article 300A
+QS: Vidya Devi v State of HP
+QS: Property Owners Association v State of Maharashtra
+
+MCQ: The right to property became a constitutional right under Art. 300A by the || 1st Amendment | *44th Amendment | 25th Amendment | 4th Amendment || 1978.
+MCQ: The seven sub-rights under Art. 300A were laid down in || K.T. Plantation | *Kolkata Municipal Corporation v Bimal Kumar Shah | Jilubhai | Vidya Devi || 2024.
+MCQ: The State cannot claim adverse possession against its citizen, as held in || Jilubhai | *Vidya Devi v State of HP | Kameshwar Singh | Bimal Kumar Shah || 2020.
+
+# 2 | Doctrine of escheat
+@topics Doctrine of escheat
+>> Property without an owner goes to the State. Escheat (where a person dies without heirs) and bona vacantia (ownerless goods) are the two forms; they ensure property is never without an owner.
+
+## 2.1 Meaning
+- **Escheat**: the reversion of property to the State when an owner dies intestate without heirs, or (historically) when the tenure ended for felony.
+- **Bona vacantia**: ownerless goods, such as property of a dissolved company or unclaimed property.
+- **Art. 296**: property in India that would accrue to the Crown or a Ruler by escheat, lapse or bona vacantia vests in the State if the property is in a State, and in the Union otherwise.
+
+## 2.2 Statutory provisions
+- **Section 29 HSA**: if an intestate leaves no qualified heir, the property devolves on the government, subject to all the obligations and liabilities to which an heir would be subject.
+- Under Muslim law, the property of a person without any heir also escheats to the State.
+- Companies Act, 2013: unclaimed dividends go to the Investor Education and Protection Fund; property of a dissolved company vests in the government as bona vacantia.
+- Andhra Pradesh has a State law on escheats and bona vacantia that sets out procedure: notice by the Collector, inquiry, publication inviting claims, and taking possession.
+
+CASE: Pierce Leslie and Co Ltd v Miss Violet Ouchterlony Wapshare (1969) :: The Supreme Court held that the government takes property by escheat or as bona vacantia only where there is no other owner. The government is not a successor by escheat when the property is effectively disposed of by will or vests in another person, and the State cannot take property under Art. 296 while there is a rightful claimant.
+
+* Escheat (no heirs) and bona vacantia (no owner); Art. 296.
+* Section 29 HSA: escheat subject to liabilities; Companies Act provisions; State procedure.
+* The State takes only when there is no rightful claimant (Pierce Leslie).
+
+QL: Explain the doctrine of escheat and bona vacantia under Indian law.
+QS: Article 296
+QS: Section 29 of the Hindu Succession Act
+
+MCQ: Property accruing by escheat, lapse or bona vacantia vests in the State under || Art. 300A | *Art. 296 | Art. 31A | Art. 39(b) || If situated in a State.
+
+# 3 | Movement of land reforms
+@topics Pre-independence: zamindari, ryotwari and mahalwari settlements, intermediaries, absentee landlordism, large holdings; Post-independence reforms: abolition of zamindaris and intermediaries
+>> British revenue settlements created landlords and intermediaries between the State and the cultivator. Land reform after 1947 aimed to abolish intermediaries, protect tenants, fix ceilings and give land to the tiller.
+
+## 3.1 Pre-independence position
+| System | Introduced | Area | Features |
+|---|---|---|---|
+| Zamindari (Permanent Settlement) | 1793, Lord Cornwallis | Bengal, Bihar, Orissa, parts of Madras (including coastal Andhra estates) | Zamindars made proprietors; fixed revenue in perpetuity; cultivators became tenants at will |
+| Ryotwari | Thomas Munro and Alexander Read, Madras (around 1820) | Madras and Bombay presidencies, including most of Andhra | Direct settlement with the cultivator (ryot); revenue periodically revised; ryot recognised as owner subject to payment |
+| Mahalwari | Holt Mackenzie (1822), later extended | North-Western Provinces, Punjab, Central Provinces | Settlement with the village community (mahal) as a whole; joint responsibility |
+
+- **Intermediaries**: zamindars, inamdars, jagirdars, and sub-proprietors between the State and the cultivator.
+- **Absentee landlordism**: owners lived in towns and let land through layers of tenants.
+- **Large holdings** concentrated land, with tenants paying high rents and lacking security.
+- In the Telangana region (Nizam's Hyderabad), jagirs, samsthanams and the deshmukh system led to the Telangana armed struggle (1946 to 1951).
+
+## 3.2 Post-independence reforms
+### 3.2.1 and 3.2.2 Abolition of zamindaris and intermediaries
+- Every State enacted laws abolishing intermediaries, which vested estates in the State and converted them into ryotwari tenure, with compensation to the intermediaries.
+- **Andhra Pradesh**:
+  - the **Madras Estates (Abolition and Conversion into Ryotwari) Act, 1948** (applied to Andhra estates);
+  - the **Andhra Pradesh (Andhra Area) Inams (Abolition and Conversion into Ryotwari) Act, 1956**;
+  - in Telangana, the **Jagirs (Abolition) Regulation, 1358 Fasli** (1949) and the Atiyat Enquiries Act.
+- Constitutional protection: Art. 31A (1st Amendment) saved laws for acquisition of estates from challenge under Arts. 14 and 19; Art. 31B and the Ninth Schedule shielded listed laws.
+
+CASE: I.R. Coelho v State of Tamil Nadu (2007) :: A nine-judge bench held that laws added to the Ninth Schedule after 24 April 1973 (the date of Kesavananda) are open to challenge if they abrogate or abridge rights forming part of the basic structure. Ninth Schedule protection is not a blanket immunity.
+
+### Results
+- Intermediaries were largely abolished by the mid-1950s. However, many zamindars retained large "home farms" (khud-kasht or sir land); tenancy and ceiling reforms were less successful because of poor land records, benami transfers and weak enforcement.
+
+* Zamindari (1793), ryotwari (Munro and Read) and mahalwari (Holt Mackenzie) settlements.
+* Intermediaries, absentee landlords and large holdings.
+* Abolition laws, including AP's 1948 Estates Act and 1956 Inams Act; Telangana's Jagirs Regulation.
+* Arts. 31A and 31B and the Ninth Schedule; review on basic structure after 1973 (I.R. Coelho).
+
+QL: Describe the land tenure systems prevailing in India before independence.
+QL: Discuss the post-independence measures for abolition of intermediaries, with special reference to Andhra Pradesh.
+QS: Ryotwari settlement
+QS: I.R. Coelho v State of Tamil Nadu
+
+MCQ: The Permanent Settlement was introduced in 1793 by || Munro | *Lord Cornwallis | Holt Mackenzie | Dalhousie || Zamindari system.
+MCQ: Ninth Schedule laws added after 24 April 1973 are subject to basic structure review, as held in || Kameshwar Singh | *I.R. Coelho v State of Tamil Nadu | Shankari Prasad | Jilubhai || 2007.
+
+# 4 | Acquisition of land: the Right to Fair Compensation Act, 2013
+@topics Laws relating to acquisition of property and government control and use of land; Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013
+>> The 2013 Act replaced the Land Acquisition Act, 1894. It adds social impact assessment, consent for private projects, higher compensation and mandatory rehabilitation and resettlement.
+
+## 4.1 From 1894 to 2013
+- The **Land Acquisition Act, 1894** allowed acquisition for a "public purpose" with compensation at market value plus 30% solatium. It was criticised for vague public purpose, urgency clauses, low compensation and no rehabilitation.
+- Movements in Singur and Nandigram (2006 to 2007) and others led to the 2013 Act (in force from 1 January 2014).
+
+## 4.2 Main features of the 2013 Act
+- **Public purpose** (s.2(1)): strategic purposes (defence), infrastructure, projects for project-affected families, housing, planned development, and others. It applies to acquisition for government, PPP projects and private companies for public purpose.
+- **Consent** (s.2(2)): consent of 80% of affected families for private companies, and 70% for PPP projects.
+- **Social Impact Assessment** (SIA, ss.4 to 9): studied by an independent body, with public hearings, appraisal by an expert group and a decision by the government. Exemption for urgency (s.9).
+- **Food security** (s.10): multi-crop irrigated land is acquired only as a last resort, with equivalent wasteland developed.
+- **Procedure**: preliminary notification (s.11), objections and hearing (s.15), declaration (s.19), award by the Collector (s.23) within 12 months of the declaration, and possession after payment.
+- **Compensation** (First Schedule): market value (s.26: highest of the circle rate, average of the top 50% of sale deeds, or consented amount for private projects) multiplied by a factor of 1 to 2 in rural areas (as notified by the State) and 1 in urban areas, plus the value of assets attached, plus **100% solatium** (s.30), plus 12% interest from notification.
+- **Rehabilitation and Resettlement** (Second Schedule): housing, an employment or annuity option, a subsistence allowance, transportation, and special provisions for Scheduled Castes and Scheduled Tribes.
+- **Return of unutilised land** (s.101): land unused for five years is returned to the owner or the land bank.
+- **Section 24** (lapse): an 1894 Act acquisition lapsed if the award was made five years or more before 2014, and possession had not been taken or compensation not paid.
+
+CASE: Indore Development Authority v Manoharlal (2020) :: A Constitution Bench overruled *Pune Municipal Corporation v Harakchand Misirimal Solanki* (2014). Under s.24(2), proceedings lapse only if both possession has not been taken and compensation has not been paid; "or" is to be read as "nor". Compensation is "paid" if it has been tendered, even if not deposited in court. The period of interim stay orders is excluded.
+
+## 4.3 State variations
+- Several States, including Andhra Pradesh, have amended the Act in its application to them to exempt specified categories of projects (such as infrastructure, industrial corridors and housing for the poor) from SIA and the consent requirements, or have adopted direct purchase and land pooling.
+- The **Andhra Pradesh Capital Region Development Authority Act, 2014** used **land pooling** for Amaravati: owners voluntarily surrendered land in return for developed plots and annuities, instead of acquisition.
+- **Exempt central laws** (Fourth Schedule, s.105), such as the National Highways Act and Railways Act: the compensation and R&R provisions of the 2013 Act were extended to them from 1 January 2015.
+
+## 4.4 Recent judgments (2025–26)
+
+CASE: NHAI v Tarsem Singh (review, 2026) :: Solatium and interest are payable for National Highways acquisitions where claims were pending on or after 28 March 2008; amounts already paid are not to be recovered.
+
+* Solatium and interest for NH acquisitions (Tarsem Singh review, 2026).
+* The 1894 Act was replaced by the 2013 Act (from 1 January 2014).
+* Public purpose; consent of 80% (private) or 70% (PPP); SIA; food security.
+* Compensation: market value × factor + assets + 100% solatium; R&R; return of unused land.
+* Lapse under s.24 needs both non-payment and no possession (Indore Development Authority).
+* State amendments, AP land pooling (Amaravati), and Fourth Schedule laws.
+
+QL: Discuss the main features of the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013. How does it differ from the 1894 Act?
+QL: Explain the controversy over s.24(2) and the decision in Indore Development Authority v Manoharlal.
+QS: Social impact assessment
+QS: Land pooling
+QS: Solatium
+
+MCQ: The solatium under the 2013 Act is || 30% | *100% | 50% | 12% || s.30.
+MCQ: Consent required for acquisition for private companies under the 2013 Act is || 70% | *80% | 51% | 100% || 70% for PPP.
+MCQ: Pune Municipal Corporation (2014) was overruled in || K.T. Plantation | *Indore Development Authority v Manoharlal | Vidya Devi | Bimal Kumar Shah || 2020.
+
+# 5 | Ceiling on land holdings
+@topics Laws relating to ceiling on land holdings
+>> Ceiling laws limit how much agricultural land a family may hold. Surplus land vests in the State and is distributed to the landless.
+
+## 5.1 Background
+- The Planning Commission and the national guidelines of 1972 recommended lower ceilings (10 to 18 acres of irrigated land, 54 acres of dry land) with the family as the unit, and few exemptions.
+
+## 5.2 Andhra Pradesh Land Reforms (Ceiling on Agricultural Holdings) Act, 1973
+- Replaced the 1961 Act. In force from 1 January 1975 (the "notified date").
+- **Unit**: the family unit (a person, spouse and minor sons and unmarried minor daughters), up to five members. An additional amount applies for each member above five, subject to a maximum of twice the ceiling; major sons are separate units.
+- **Standard holding**: defined according to class of land, ranging roughly from 10 to 27 acres of wet land and 35 to 54 acres of dry land.
+- **Declaration**: every person holding land above the ceiling had to file a declaration. Tribunals determined surplus, which vested in the State on surrender. Compensation was paid at prescribed rates.
+- **Transfers to defeat ceiling** after a cut-off date were disregarded; benami transfers were void.
+- **Exemptions**: lands held by government, local bodies, cooperative societies, and certain plantations and religious and charitable institutions (subject to conditions).
+- Surplus lands were assigned to landless poor persons, with a bar on further transfer under the **AP Assigned Lands (Prohibition of Transfers) Act, 1977**.
+
+## 5.3 Constitutional validity
+- Ceiling laws are protected by Art. 31A (second proviso requires market-value compensation for land within the ceiling under personal cultivation) and the Ninth Schedule.
+
+* National guidelines (1972); the family as the unit.
+* AP Ceiling Act 1973: notified date 1 January 1975, family unit of five, standard holding, declarations and tribunals.
+* Surplus vests in the State and is assigned to the landless; assigned lands may not be transferred (1977 Act).
+* Protection under Art. 31A and the Ninth Schedule.
+
+QL: Explain the main provisions of the AP Land Reforms (Ceiling on Agricultural Holdings) Act, 1973.
+QS: Family unit under the ceiling law
+QS: AP Assigned Lands (Prohibition of Transfers) Act, 1977
+
+MCQ: The notified date under the AP Ceiling Act, 1973 is || 1 January 1973 | *1 January 1975 | 26 January 1950 | 1 April 1976 || Holdings are computed as on this date.
+
+# 6 | Urban land ceiling and agricultural land ceiling
+@topics Urban land ceiling; Agricultural land ceiling
+>> The Urban Land (Ceiling and Regulation) Act, 1976 tried to prevent concentration of urban land. It was repealed in 1999 because it had failed; agricultural ceiling laws continue.
+
+## 6.1 Urban Land (Ceiling and Regulation) Act, 1976
+- Enacted by Parliament under Art. 252 (on resolution of States). It fixed ceilings on vacant land in urban agglomerations (500 to 2,000 square metres depending on the category of city). Excess vacant land vested in the State on payment of nominal compensation, for distribution for housing of the poor.
+- Exemptions (s.20) for hardship or public interest, which became a source of discretion and corruption.
+
+CASE: Bhim Singhji v Union of India (1981) :: A Constitution Bench upheld the validity of the Act, except s.27(1) (which restricted transfer of any urban property within the ceiling, including buildings), which was struck down as unreasonable.
+
+## 6.2 Repeal
+- The **Urban Land (Ceiling and Regulation) Repeal Act, 1999**: in States that adopted it (Andhra Pradesh adopted it in 2008), proceedings pending were abated, and land vested in the State but not taken into actual possession reverts to the owner.
+
+CASE: State of Uttar Pradesh v Hari Ram (2013) :: The "deemed vesting" of surplus land under s.10(3) of the 1976 Act does not mean actual possession. Unless the State had taken de facto possession (peaceful surrender or forcible dispossession after notice under s.10(5) and s.10(6)), the owner benefits from the Repeal Act and the land does not stay with the State.
+
+## 6.3 Agricultural land ceiling
+- Continues under State laws (Unit 5). Issues include weak implementation, large areas declared surplus but not distributed, litigation, and calls to relax ceilings to allow consolidation and corporate farming.
+
+* ULCRA 1976: ceilings on vacant urban land; upheld except s.27(1) (Bhim Singhji).
+* Repealed in 1999 (adopted by AP in 2008); land not actually possessed reverts (Hari Ram).
+* Agricultural ceilings continue under State laws.
+
+QL: Discuss the objects and working of the Urban Land (Ceiling and Regulation) Act, 1976 and the effect of its repeal.
+QS: Bhim Singhji v Union of India
+QS: State of UP v Hari Ram
+
+MCQ: Section 27(1) of the Urban Land Ceiling Act was struck down in || Hari Ram | *Bhim Singhji v Union of India | Kameshwar Singh | Jilubhai || 1981.
+
+# 7 | Tenancy reforms
+@topics Laws relating to tenancy reforms; Land to the tiller; Rent control and protection against eviction
+>> Tenancy reform aims to give the tiller security of tenure, fair rent and, ultimately, ownership. Urban rent control protects tenants of buildings against arbitrary eviction and rent increases.
+
+## 7.1 Agricultural tenancy
+- Objectives of the Five Year Plans: regulation of rent (one-fourth to one-fifth of the produce), security of tenure, and conferment of ownership on tenants.
+- **Andhra Pradesh**:
+  - the **AP (Andhra Area) Tenancy Act, 1956**: fixed fair rent, a minimum lease period, and restrictions on eviction;
+  - the **AP (Telangana Area) Tenancy and Agricultural Lands Act, 1950**: protected tenants, gave them a right to purchase, and restricted alienation of agricultural land to non-agriculturists (s.47);
+  - the **AP Land Licensed Cultivators Act, 2011**: issued Loan Eligibility Cards to tenant farmers so they could get crop loans without recording tenancy;
+  - the **AP Crop Cultivators Rights Act, 2019**: issues Crop Cultivator Rights Cards (CCRC) to tenants for 11 months without affecting the owner's rights.
+- **Concealed tenancy**: oral leases are widespread because owners fear losing land, so tenants cannot get credit, insurance or compensation.
+- The **NITI Aayog Model Agricultural Land Leasing Act, 2016** proposes legalising leases with full security of the owner's title, so that leasing can be open.
+
+## 7.2 Land to the tiller
+- The principle that the person who cultivates the land should own it.
+- **Kerala Land Reforms Act, 1963** (as amended in 1969): abolished landlordism and vested ownership in cultivating tenants from 1 January 1970.
+- **West Bengal Operation Barga (1978)**: recorded sharecroppers (bargadars), giving them heritable tenancy and a share of the crop.
+- In AP, the conferment of ownership on tenants was limited; protected tenants in Telangana could purchase land.
+
+## 7.3 Rent control and protection against eviction
+- **AP Buildings (Lease, Rent and Eviction) Control Act, 1960**: fair rent fixed by the Rent Controller; eviction only on specified grounds (s.10): wilful default in paying rent, sub-letting without consent, conduct causing nuisance or damage, use for other purposes, bona fide requirement of the landlord, and demolition and reconstruction.
+- Rent Controller, Appellate Authority and revision to the High Court.
+
+CASE: Satyawati Sharma v Union of India (2008) :: The Supreme Court struck down the distinction in s.14(1)(e) of the Delhi Rent Control Act, which allowed eviction for the landlord's bona fide requirement only of residential premises. It held the classification between residential and non-residential premises for this ground arbitrary and violative of Art. 14 in present conditions, extending the ground to non-residential premises.
+
+- **Model Tenancy Act, 2021** (circulated by the Centre for adoption by States): written agreements, a Rent Authority, a Rent Court and Rent Tribunal, a security deposit capped at two months' rent for residential premises, market-driven rent, and quick eviction for holding over.
+
+* Agricultural tenancy: fair rent, security, ownership; AP Andhra and Telangana tenancy Acts.
+* AP Licensed Cultivators Act 2011 and Crop Cultivators Rights Act 2019; concealed tenancy; Model Leasing Act 2016.
+* Land to the tiller: Kerala (1969) and Operation Barga.
+* Rent control: AP 1960 Act, grounds of eviction; Satyawati Sharma; Model Tenancy Act 2021.
+
+QL: Discuss the measures for tenancy reform in Andhra Pradesh, including the recent laws on tenant cultivators.
+QL: Explain the grounds of eviction of a tenant under the AP Buildings (Lease, Rent and Eviction) Control Act, 1960.
+QS: Land to the tiller
+QS: Model Tenancy Act, 2021
+QS: Crop Cultivator Rights Card
+
+MCQ: Crop Cultivator Rights Cards are issued under || the AP Tenancy Act 1956 | *the AP Crop Cultivators Rights Act, 2019 | the Model Tenancy Act | the Kerala Land Reforms Act || Valid for 11 months.
+MCQ: The residential/non-residential distinction for bona fide requirement was struck down in || Hari Ram | *Satyawati Sharma v Union of India | Bhim Singhji | Samatha || 2008.
+
+# 8 | Alienation and assignment in scheduled areas
+@topics Laws relating to alienation and assignment in scheduled areas
+>> In Scheduled Areas, the law bars transfer of land from tribals to non-tribals, to stop the alienation of tribal land. In Andhra Pradesh, the 1959 Regulation (as amended in 1970) presumes that land held by non-tribals in these areas was acquired from tribals.
+
+## 8.1 Constitutional framework
+- **Fifth Schedule** (paragraph 5(2)): the Governor may make regulations for peace and good government of Scheduled Areas, including prohibiting or restricting transfer of land by or among Scheduled Tribes, and regulating allotment of land and money-lending.
+- **PESA, 1996** (Panchayats (Extension to Scheduled Areas) Act): Gram Sabhas must be consulted before acquisition and have power to prevent alienation and restore unlawfully alienated land.
+- **Forest Rights Act, 2006**: recognises individual and community forest rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers.
+
+## 8.2 AP Scheduled Areas Land Transfer Regulation, 1959 (Regulation 1 of 1959)
+- Any transfer of immovable property in Scheduled Areas by a member of a Scheduled Tribe to a non-tribal is void, unless made in favour of another tribal or a registered cooperative society of tribals.
+- The **1970 amendment** (Regulation 1 of 1970): prohibited transfers by **non-tribals** to non-tribals as well, and created a **presumption** that land held by a non-tribal was acquired from a tribal unless proved otherwise.
+- Special Deputy Collectors and Agent to the Government decide cases and may restore land to the transferor or his heirs, or assign it to other tribals.
+- The **AP Scheduled Areas Ryotwari Settlement Regulation, 1970** dealt with settlement of lands in the agency areas.
+
+CASE: Samatha v State of Andhra Pradesh (1997) :: The State had leased tribal lands in the Scheduled Area of Visakhapatnam to private mining companies. A three-judge bench held that "person" in the 1959 Regulation includes the government, so transfer by lease of government land in Scheduled Areas to non-tribals (including private companies) is void. Mining in such areas could be done only by the State or tribal cooperatives, and 20% of profits should go to tribal development.
+
+- Subsequent cases have read Samatha narrowly in parts; the Supreme Court in *Orissa Mining Corporation v Ministry of Environment and Forests* (2013, Niyamgiri) required the consent of Gram Sabhas under PESA and the Forest Rights Act for mining in tribal areas.
+
+## 8.3 Assigned lands
+- Government land assigned to landless poor persons (including SC and ST families) cannot be transferred (AP Assigned Lands (Prohibition of Transfers) Act, 1977). Transfers are void and the land may be resumed. In late 2025, the Act was amended to permit specified uses of assigned lands for renewable energy projects under the AP Integrated Clean Energy Policy.
+
+## 8.4 Recent judgments (2025–26)
+
+CASE: State of Andhra Pradesh v D. Venugopal (AP HC Full Bench, 2026) :: Interpreting s.3(5) of the AP Assigned Lands (Prohibition of Transfers) Act, 1977, the majority held that a landless poor person who bought assigned land in good faith and for value before the Act acquires full title, including the right to sell. Ravi Cheemalapati J agreed that the purchase is protected, but held that the land does not lose its character as assigned land.
+
+CASE: M. Appa Rao v State of Andhra Pradesh (AP HC, 2026) :: The High Court criticised revenue officials for delaying relief to an elderly ex-serviceman and ordered removal of his assigned land from the prohibited properties list, noting that genuine ex-servicemen assignees may alienate after ten years.
+
+* Pre-1977 bona fide purchasers of assigned land get full title (AP HC Full Bench, 2026).
+* Fifth Schedule para 5(2), PESA 1996 and Forest Rights Act 2006.
+* AP Regulation 1 of 1959, amended in 1970: transfers to non-tribals void; presumption against non-tribals.
+* Samatha (1997): leases by government to private mining companies void; Niyamgiri (2013): Gram Sabha consent.
+* Assigned lands are inalienable (1977 Act), with a 2025 amendment for clean energy projects; pre-1977 bona fide purchasers by landless poor persons are protected (s.3(5); D. Venugopal, AP HC Full Bench, 2026).
+
+QL: Discuss the law relating to prohibition of transfer of land in Scheduled Areas of Andhra Pradesh. What was decided in Samatha?
+QL: Explain the role of the Gram Sabha under PESA and the Forest Rights Act in protecting tribal land.
+QS: Fifth Schedule paragraph 5(2)
+QS: Regulation 1 of 1970
+QS: Niyamgiri case
+
+MCQ: "Person" in the AP Scheduled Areas Land Transfer Regulation includes the government, as held in || Niyamgiri | *Samatha v State of AP | Hari Ram | Chebrolu Leela Prasad Rao || 1997.
+MCQ: The presumption that land held by a non-tribal was acquired from a tribal was introduced by || Regulation 1 of 1959 | *Regulation 1 of 1970 | PESA 1996 | the Forest Rights Act 2006 || In AP Scheduled Areas.
+MCQ: Under the AP HC Full Bench ruling in D. Venugopal (2026), a landless poor person who bought assigned land in good faith before the 1977 Act || must return it | *acquires title, including the right to sell (majority) | holds only a licence | needs Collector's sanction to retain it || s.3(5), 1977 Act.
+
+# 9 | Laws relating to land grabbing
+@topics Laws relating to land grabbing
+>> Andhra Pradesh was among the first States to make land grabbing a special offence with a special court. A new law was passed in 2024 to replace the 1982 Act with stronger penalties and wider coverage.
+
+## 9.1 AP Land Grabbing (Prohibition) Act, 1982
+- **Land grabbing** (s.2(e)): every activity of grabbing land (government, a local authority's, a religious or charitable institution's, or private land) by a person or group without lawful entitlement, with a view to illegally taking possession, or to construct unauthorised structures for sale or hire, or to give land under lease, licence or agreement.
+- **Land grabber** (s.2(d)): a person who commits land grabbing, or provides financial aid, collects rent, or abets.
+- Land grabbing is **unlawful** (s.3) and an **offence** (s.4), with imprisonment of six months to five years and fine.
+- **Special Courts** (s.7) with powers of civil and criminal courts, and **Special Tribunals** (s.7A). The burden of proof is on the alleged land grabber (s.10).
+- Applied to urban agglomerations and municipalities, later extended.
+
+CASE: Konda Lakshmana Bapuji v Government of Andhra Pradesh (2002) :: The Supreme Court held that to be a "land grabber", the person must have occupied the land without lawful entitlement with the requisite intention (mens rea) of illegally taking possession. Mere occupation by a person who claims title bona fide is not land grabbing. The Special Court can decide title as part of determining whether land grabbing has occurred.
+
+## 9.2 New law
+NOTE: Current law. The **AP Land Grabbing (Prohibition) Bill, 2024** was introduced in the Assembly on 14 November 2024 and passed later that month, to repeal and replace the 1982 Act. It was modelled on the Gujarat Land Grabbing (Prohibition) Act, 2020. It extends to the whole State (rural areas included), provides special courts with civil court powers, much higher punishment (the Bill proposed imprisonment up to 14 years and a fine up to the market value of the land), and aims at disposal within six months. Check the notified Act's final section numbers before citing them in an exam. Telangana repealed the 1982 Act in 2016.
+
+* The 1982 Act made land grabbing an offence; Special Courts; burden on the accused.
+* Mens rea is needed to be a land grabber (Konda Lakshmana Bapuji).
+* A new AP law (2024) extends to the whole State with harsher penalties.
+
+QL: Discuss the provisions of the AP Land Grabbing (Prohibition) Act, 1982 and the changes proposed by the 2024 law.
+QS: Land grabber
+QS: Special Court under the land grabbing law
+
+MCQ: Mens rea was held necessary for being a "land grabber" in || Samatha | *Konda Lakshmana Bapuji v Government of AP | Hari Ram | Vidya Devi || 2002.
+
+# 10 | Forest laws
+@topics Forest laws: Forest Conservation Act
+>> Forest law has moved from colonial control of timber to conservation and, with the Forest Rights Act, recognition of forest dwellers' rights. The 1980 Act requires central approval before forest land is diverted to non-forest use.
+
+## 10.1 Indian Forest Act, 1927 and State laws
+- Classifies forests as **reserved**, **protected** and **village** forests. Reservation is done by notification, inquiry into rights by a Forest Settlement Officer, and final notification. Transit of forest produce is regulated, and forest offences are listed.
+- Andhra Pradesh has its own **AP Forest Act, 1967**.
+
+## 10.2 Forest (Conservation) Act, 1980
+- **Section 2**: no State Government or authority shall, without the prior approval of the Central Government, (i) de-reserve a reserved forest, (ii) use forest land for non-forest purposes, (iii) assign forest land by lease to a private person or corporation, or (iv) clear naturally grown trees for reafforestation.
+- **Compensatory afforestation** is required (the CAMPA Act, 2016 manages the fund) together with payment of the net present value.
+
+CASE: T.N. Godavarman Thirumulpad v Union of India (1996) :: In a continuing mandamus, the Supreme Court held that "forest" in the 1980 Act must be understood in its dictionary sense, covering all statutorily recognised forests and any area recorded as forest in government records, irrespective of ownership. Non-forest activities in such areas need central approval.
+
+## 10.3 The 2023 amendment
+- The **Forest (Conservation) Amendment Act, 2023** renamed the Act the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980**. It applies to land notified as forest under the Indian Forest Act or other law, or recorded as forest in government records on or after 25 October 1980. It exempts land within 100 km of international borders for strategic linear projects, security infrastructure, roadside amenities and some others, and allows zoos, safaris and eco-tourism in forests.
+- In *Ashok Kumar Sharma v Union of India* (interim orders, February 2024), the Supreme Court directed that the wide definition of forest in Godavarman continue to apply until States identify and record forest lands as required by the amended rules.
+
+## 10.4 Forest rights
+- The **Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006**: individual rights to land under occupation (up to 4 hectares), community rights (minor forest produce, grazing), community forest resource rights, and Gram Sabha powers. No eviction until rights are recognised.
+- In *Wildlife First v Ministry of Environment and Forests* (2019), the Supreme Court ordered eviction of those whose claims had been rejected, but stayed its own order within days and asked States to review the rejection process.
+
+## 10.5 Recent judgments (2025–26)
+
+CASE: T.N. Godavarman Thirumulpad v Union of India (2025) :: Land shown as forest in government records is forest land.
+
+CASE: State of Karnataka v Gandhi Jeevan Collective Farming Society (2026) :: Forest land given for farming must be restored; it cannot be used for agriculture.
+
+* Recorded forest land is forest; no agricultural use (2025-26).
+* The Indian Forest Act 1927 (reserved, protected, village forests); the AP Forest Act 1967.
+* The 1980 Act requires central approval for diversion; compensatory afforestation (CAMPA).
+* "Forest" in the dictionary sense (Godavarman); the 2023 amendment and Ashok Kumar Sharma (2024).
+* The Forest Rights Act 2006 and Wildlife First (2019).
+
+QL: Discuss the main provisions of the Forest (Conservation) Act, 1980 and the changes made by the 2023 amendment.
+QL: How has the Supreme Court interpreted "forest" in T.N. Godavarman? What is the effect of the 2023 amendment on this?
+QS: Compensatory afforestation
+QS: Forest Rights Act, 2006
+QS: Van (Sanrakshan Evam Samvardhan) Adhiniyam
+
+MCQ: The dictionary meaning of "forest" was adopted in || Samatha | *T.N. Godavarman Thirumulpad v Union of India | Niyamgiri | Wildlife First || 1996.
+MCQ: The 2023 amendment renamed the Forest (Conservation) Act as || the Indian Forest Act | *the Van (Sanrakshan Evam Samvardhan) Adhiniyam | the Forest Rights Act | the CAMPA Act || 2023.

@@ -1,0 +1,222 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Theories of recognition of States
+- **Constitutive theory (Hegel, Oppenheim, Lauterpacht):** recognition creates statehood and international personality. Lauterpacht added a duty to recognise entities that meet the criteria.
+- **Declaratory theory (Brierly, Montevideo Convention, 1933, Art. 3):** statehood exists as a fact once the criteria are met:
+  - population;
+  - territory;
+  - government; and
+  - capacity to enter into relations.
+  Recognition merely acknowledges it.
+- **Practice:** mostly declaratory, but recognition has political and legal consequences, such as standing in courts and immunity.
+- **De facto and de jure recognition** are distinguished.
+
+Q: Jus cogens
+Jus cogens (peremptory norms) are norms accepted and recognised by the international community of States as a whole, from which no derogation is permitted. They can be modified only by a later peremptory norm (Art. 53, Vienna Convention on the Law of Treaties, 1969). A treaty conflicting with jus cogens is void (Arts. 53 and 64).
+Examples:
+- prohibition of aggression;
+- genocide;
+- slavery;
+- torture;
+- racial discrimination; and
+- the right of self-determination.
+The International Law Commission adopted draft conclusions on jus cogens in 2022.
+
+Q: Pacta sunt servanda
+"Agreements must be kept." Every treaty in force binds the parties and must be performed in good faith (Art. 26, VCLT). A party may not invoke its internal law to justify failure to perform (Art. 27).
+Exceptions and limits:
+- rebus sic stantibus, a fundamental change of circumstances (Art. 62; *Gabčíkovo-Nagymaros*, 1997, applied narrowly);
+- impossibility (Art. 61);
+- material breach (Art. 60); and
+- conflict with jus cogens.
+
+Q: Advisory jurisdiction of the ICJ
+Under Art. 96 of the UN Charter and Art. 65 of the ICJ Statute, the General Assembly and Security Council may request an advisory opinion on any legal question. Other authorised UN organs and specialised agencies may do so on questions within their activities. Advisory opinions are not binding but carry great authority.
+Examples:
+- *Reparation for Injuries* (1949);
+- *Legality of Nuclear Weapons* (1996);
+- *Wall* (2004);
+- *Chagos* (2019); and
+- *Obligations of States in respect of Climate Change* (23 July 2025, unanimous).
+
+Q: Continental shelf
+Under UNCLOS Art. 76, the continental shelf comprises the seabed and subsoil of the submarine areas beyond the territorial sea, throughout the natural prolongation of land territory to the outer edge of the continental margin, or to 200 nautical miles where the margin falls short. It may extend up to 350 nm, or 100 nm from the 2,500-metre isobath, on the recommendation of the Commission on the Limits of the Continental Shelf.
+- The coastal State has sovereign rights to explore and exploit natural resources (Art. 77).
+- Classic case: *North Sea Continental Shelf* (1969).
+
+Q: Exclusive Economic Zone
+The EEZ extends up to 200 nm from the baselines (UNCLOS Arts. 55 to 57). In it, the coastal State has:
+- sovereign rights for exploring, exploiting, conserving and managing living and non-living natural resources; and
+- jurisdiction over artificial islands, marine scientific research and protection of the marine environment.
+Other States enjoy freedoms of navigation, overflight and the laying of cables (Art. 58). India's Maritime Zones Act, 1976 provides for the EEZ.
+
+Q: Diplomatic and territorial asylum
+- **Territorial asylum:** a State's sovereign right to grant refuge within its territory (UN Declaration on Territorial Asylum, 1967). It is linked to non-refoulement (Art. 33, Refugee Convention, 1951). India is not a party to that Convention, but courts apply Art. 21 to protect refugees.
+- **Diplomatic asylum** in embassies is not generally recognised in international law, except under regional custom such as in Latin America (*Asylum case*, Colombia v Peru, 1950).
+- An example of extended refuge in an embassy is Julian Assange in the Ecuadorian embassy in London.
+
+Q: Extradition
+Extradition is the surrender of an accused or convicted person by one State to another. It is usually based on a treaty. Principles:
+- double criminality;
+- speciality (trial only for the offence for which the person was extradited);
+- the political offence exception (excluding terrorism under modern treaties); and
+- non-extradition of nationals in some States.
+India's Extradition Act, 1962 applies to treaty and non-treaty States. Example: the extradition of Abu Salem from Portugal, and the speciality issue in *Abu Salem v State of Maharashtra* (2011).
+
+Q: The veto in the Security Council
+Under Art. 27(3) of the UN Charter, decisions of the Security Council on non-procedural matters require nine affirmative votes, including the concurring votes of the five permanent members (China, France, Russia, the UK and the USA).
+- Abstention is not treated as a veto (*Namibia* advisory opinion, 1971).
+- The veto has paralysed action, as in Syria and Ukraine.
+- General Assembly resolution 76/262 (2022) requires a debate after every veto.
+- Uniting for Peace (1950) allows the Assembly to act.
+- Reform proposals include India's bid for permanent membership.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the sources of international law under Article 38 of the Statute of the ICJ.
+### Article 38(1)
+The Court applies:
+- (a) international conventions;
+- (b) international custom;
+- (c) general principles of law recognised by civilised nations; and
+- (d), as subsidiary means, judicial decisions and the teachings of the most highly qualified publicists.
+Under Art. 38(2), the Court may decide ex aequo et bono if the parties agree.
+### Treaties
+- Express consent, governed by the VCLT 1969.
+- Law-making treaties, such as the UN Charter, UNCLOS and the Geneva Conventions, and contract treaties.
+- They bind only the parties (pacta tertiis, Art. 34), unless they reflect custom.
+### Custom
+Two elements:
+1. **State practice:** general, consistent and uniform (*Asylum case*, 1950).
+2. **Opinio juris:** a belief that the practice is legally obligatory (*North Sea Continental Shelf*, 1969; *Nicaragua v USA*, 1986).
+- Instant custom is debated.
+- A persistent objector is not bound (*Anglo-Norwegian Fisheries*, 1951).
+- Local custom (*Right of Passage over Indian Territory*, Portugal v India, 1960).
+- ILC conclusions on identifying customary law (2018).
+### General principles
+Good faith, estoppel, res judicata, reparation (*Chorzów Factory*, 1928), equity, and the principle that no one may profit from their own wrong. They fill gaps and prevent non liquet.
+### Subsidiary means
+- ICJ decisions are binding only between the parties (Art. 59), but are highly persuasive.
+- The writings of jurists and the work of the ILC.
+### Other sources
+- resolutions of international organisations, such as UNGA declarations, which are evidence of custom;
+- soft law; and
+- unilateral acts (*Nuclear Tests*, 1974).
+- Hierarchy: jus cogens and Art. 103 of the Charter, under which Charter obligations prevail.
+### Conclusion
+Art. 38 is the classic but incomplete list. Modern international law also draws on soft law, institutional practice and peremptory norms.
+
+Q: Discuss the relationship between international law and municipal law, with reference to Indian practice.
+### Theories
+- **Monism (Kelsen, Lauterpacht):** a single legal order, with international law supreme.
+- **Dualism (Triepel, Anzilotti):** separate systems; international law applies domestically only when transformed into domestic law.
+- **Coordination theory (Fitzmaurice):** the two systems operate in different fields.
+- **Doctrines:** incorporation (custom is part of the law of the land, as in Blackstone and *Trendtex*, 1977) and transformation (treaties need legislation in the UK).
+### International plane
+A State cannot plead its internal law to escape international obligations (Art. 27, VCLT; *Alabama Claims*, 1872).
+### Indian practice
+- **Art. 51(c):** foster respect for international law and treaty obligations.
+- **Art. 253:** Parliament may legislate to implement treaties, even on State subjects. Examples: the Environment Protection Act, the Air Act, and the Protection of Human Rights Act.
+- **Treaty-making:** an executive act (Art. 73). Treaties need legislation if they affect rights or require changes to law (*Maganbhai Ishwarbhai Patel v Union of India*, 1969).
+- **Custom:** customary international law is part of Indian law unless contrary to statute (*Gramophone Co v Birendra Bahadur Pandey*, 1984; *Vellore Citizens*, 1996).
+- **Courts read international law into fundamental rights where there is no conflict:**
+  - *Vishaka v State of Rajasthan* (1997, CEDAW);
+  - *NALSA* (2014);
+  - *Puttaswamy* (2017);
+  - *M.K. Ranjitsinh* (2024, climate).
+- **Statute prevails in conflict** (*Jolly George Varghese v Bank of Cochin*, 1980, ICCPR Art. 11).
+- **Tax treaties and anti-avoidance:** *Union of India v Azadi Bachao Andolan* (2003) upheld treaty benefits. *Tiger Global* (2026) held that domestic GAAR and treaty amendments can deny benefits to structures lacking substance.
+### Conclusion
+India follows a modified dualism. Treaties need legislation to change domestic law, but custom and treaty norms are widely used by courts in interpreting rights.
+
+Q: Explain the maritime zones under UNCLOS 1982.
+### Baselines
+The normal baseline is the low-water line (Art. 5). Straight baselines may be drawn on indented coasts (*Anglo-Norwegian Fisheries*, 1951; Art. 7). Archipelagic baselines apply under Art. 47.
+### Internal waters
+Waters landward of the baseline, where the State has full sovereignty and there is no innocent passage.
+### Territorial sea (up to 12 nm; Arts. 2 to 32)
+- Sovereignty extends to the airspace, seabed and subsoil.
+- Foreign ships have the right of innocent passage, that is, passage not prejudicial to peace, good order or security (Art. 19; *Corfu Channel*, 1949).
+- Submarines must navigate on the surface.
+### Contiguous zone (up to 24 nm; Art. 33)
+The coastal State may exercise control to prevent and punish infringements of customs, fiscal, immigration and sanitary laws.
+### Exclusive Economic Zone (up to 200 nm; Arts. 55 to 75)
+- sovereign rights over resources;
+- jurisdiction over installations, research and the environment;
+- freedom of navigation for others; and
+- delimitation by agreement to achieve an equitable solution (Arts. 74 and 83).
+### Continental shelf (Arts. 76 to 85)
+Natural prolongation up to 200 nm, extendable to 350 nm. The State has sovereign rights over natural resources, and payments are due for exploitation beyond 200 nm.
+### High seas (Art. 86 onwards)
+- Freedoms of navigation, overflight, fishing, cables, research and construction.
+- Flag State jurisdiction (Art. 92), with exceptions for piracy (Art. 105, universal jurisdiction), slave trade, unauthorised broadcasting and hot pursuit (Art. 111).
+- Collisions: penal jurisdiction lies with the flag State or the State of nationality of the person responsible (Art. 97, reversing *Lotus*, 1927).
+### The Area (Part XI)
+The seabed beyond national jurisdiction is the common heritage of mankind, administered by the International Seabed Authority. The BBNJ Agreement (2023) covers biodiversity.
+### Dispute settlement
+ITLOS, the ICJ and arbitration (Part XV). Example: the *South China Sea Arbitration* (2016).
+### India
+The Territorial Waters, Continental Shelf, EEZ and Other Maritime Zones Act, 1976. The Bay of Bengal arbitration with Bangladesh was decided in 2014.
+### Conclusion
+UNCLOS is the "constitution for the oceans", balancing coastal State control with freedoms of the international community.
+
+Q: Explain the jurisdiction of the International Court of Justice.
+### Composition
+The ICJ has 15 judges, elected by the General Assembly and the Security Council for nine years. Only States may be parties in contentious cases (Art. 34).
+### Contentious jurisdiction (Art. 36)
+Based on consent, given by:
+1. **special agreement** (compromis);
+2. **compromissory clauses** in treaties (Art. 36(1)), for example the Genocide Convention, Art. IX, in *Ukraine v Russia* and *South Africa v Israel*;
+3. **the optional clause** (Art. 36(2)): declarations accepting compulsory jurisdiction on the basis of reciprocity, often with reservations. India's declaration excludes disputes with Commonwealth States (*Aerial Incident of 10 August 1999*, Pakistan v India, 2000, where jurisdiction was declined);
+4. **forum prorogatum:** consent inferred from conduct (*Corfu Channel*, 1948).
+- The Court decides its own jurisdiction (Art. 36(6)).
+- Provisional measures (Art. 41) are binding (*LaGrand*, 2001; *Jadhav*, India v Pakistan, 2019).
+- Judgments are binding between the parties (Art. 59), final with no appeal (Art. 60), and enforceable through the Security Council (Art. 94).
+- Revision and interpretation are available.
+### Advisory jurisdiction (Art. 65; Charter Art. 96)
+- Opinions are requested by UN organs and agencies. Examples: *Chagos* (2019), *Occupied Palestinian Territory* (2024), and *Climate Change* (2025, unanimous).
+- They are not binding, but highly authoritative.
+### Limits
+- dependence on consent;
+- non-appearance and non-compliance; and
+- the veto over enforcement.
+### Conclusion
+The ICJ is the principal judicial organ of the UN. Its jurisdiction is consensual, but its decisions and opinions shape international law.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: State A builds a large dam that diverts most of the waters of a river flowing into State B, causing drought and crop failure in B. No treaty governs the river. B wants to bring a claim. Advise B.
+**Issue:** Is State A responsible for significant transboundary harm?
+**Law:**
+- The no-harm principle: a State must not allow its territory to be used to cause significant harm to other States (*Trail Smelter*, 1941; *Corfu Channel*, 1949; Stockholm Principle 21; Rio Principle 2).
+- Equitable and reasonable utilisation of shared watercourses, with a duty to notify and consult (UN Watercourses Convention, 1997; *Gabčíkovo-Nagymaros*, 1997; *Pulp Mills*, 2010, on prior EIA).
+- Due diligence and cooperation, reaffirmed in the ICJ's climate advisory opinion (2025).
+**Application:** Diverting most of the flow without consultation causes significant harm and breaches equitable utilisation and procedural duties.
+**Conclusion:** State A is responsible. B may seek cessation, consultation and reparation, through negotiation, arbitration, or the ICJ if a jurisdictional basis exists.
+
+Q: A ship flying State X's flag collides on the high seas with a ship of State Y, causing deaths. When the X ship reaches Y's port, Y arrests its officer of the watch for criminal negligence. X protests. Decide.
+**Issue:** Which State has penal jurisdiction over a collision on the high seas?
+**Law:**
+- *The Lotus case* (1927, PCIJ): Turkey could exercise jurisdiction (the effects principle).
+- UNCLOS Art. 97 (following the 1952 Brussels Convention): in a collision on the high seas, penal or disciplinary proceedings against the master or crew may be instituted only before the authorities of the flag State, or of the State of which the person is a national. No arrest may be ordered by any other State.
+**Application:** The officer serves on an X-flagged ship. Y is neither the flag State nor, presumably, his State of nationality.
+**Conclusion:** Y cannot prosecute him. X has exclusive jurisdiction, unless the officer is a Y national. The arrest violates Art. 97.
+
+Q: After a failed coup in State P, its leader takes refuge in State Q's embassy in P and asks for asylum. P demands his surrender, and Q wants to grant him safe passage. Advise.
+**Issue:** Is diplomatic asylum recognised in international law?
+**Law:**
+- *Asylum case* (Colombia v Peru, 1950): diplomatic asylum is a derogation from territorial sovereignty and is not recognised in general international law. Colombia had not proved a regional custom binding Peru, and Peru was not obliged to give safe conduct.
+- *Haya de la Torre case* (1951): Colombia was not obliged to surrender him either.
+- Embassy premises are inviolable (Art. 22, Vienna Convention on Diplomatic Relations, 1961), so P cannot enter without consent.
+**Application:** Unless a treaty or regional custom binds P, Q has no right to demand safe passage, but P cannot forcibly enter the embassy.
+**Conclusion:** There is a stalemate, to be resolved diplomatically. Q's grant of asylum is not opposable to P without a legal basis.
+
+Q: After a military coup in State R, the new regime controls the territory, but the ousted government continues in exile. State S wants to deal with the new regime. Advise S on recognition.
+**Issue:** The recognition of governments.
+**Law:**
+- **Recognition of governments versus States:** effective control is the main test (the Tinoco arbitration, 1923). Some States apply legitimacy tests.
+- **De facto and de jure recognition.**
+- **The Estrada doctrine:** many States, including the UK since 1980, no longer formally recognise governments; they simply decide whether to maintain relations.
+- **Consequences:** in domestic courts, recognition affects standing, immunity and acts of State (*Luther v Sagor*, 1921).
+**Application:** If the new regime exercises effective and stable control with a reasonable prospect of permanence, S may extend de facto recognition, or simply deal with it, without endorsing its legitimacy.
+**Conclusion:** S may extend de facto recognition, or follow the Estrada approach, while watching UN and regional positions.

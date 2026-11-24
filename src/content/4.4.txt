@@ -1,0 +1,551 @@
+@title Intellectual Property Rights Law
+@subtitle Copyright, trade marks, patents, international instruments, remedies and artificial intelligence
+@paper 4.4
+@sem IV
+@color #3a4a7a
+@dark #33416b
+@intro Covers the Copyright Act, 1957, the Trade Marks Act, 1999 and the Patents Act, 1970, with the international treaties behind them. The syllabus includes units on artificial intelligence and copyright and patents. There is now Indian material on both: the Delhi High Court's interim ruling in ANI v OpenAI (24 July 2026), and the DPIIT working paper on generative AI and copyright (December 2025).
+@reading P. Narayanan, Intellectual Property Law
+@reading V.K. Ahuja, Law Relating to Intellectual Property Rights
+@reading W.R. Cornish, Intellectual Property
+@reading The Copyright Act, 1957; The Trade Marks Act, 1999; The Patents Act, 1970
+
+# 1 | Introduction
+@topics Meaning of intellectual property; Competing rationales for protection; Main forms: copyright, trade marks, patents, designs, geographical indications, merchandise, franchise, unfair competition
+>> Intellectual property is a legal right over creations of the mind, granted for a limited time or for as long as it is used, to encourage creation and protect consumers, balanced against public access.
+
+## 1.1 Meaning
+- IP is intangible property: a bundle of exclusive rights over information, expression, inventions and signs, enforceable against the world. It is territorial (granted by each country) and, for most forms, limited in time.
+- Art. 2(viii) of the WIPO Convention (1967) lists rights relating to literary, artistic and scientific works, performances, inventions, scientific discoveries, industrial designs, trade marks and trade names, protection against unfair competition, and "all other rights resulting from intellectual activity".
+
+## 1.2 Competing rationales
+| Theory | Argument | Source |
+|---|---|---|
+| Labour (natural rights) | A person who mixes labour with materials from the common earns property in the result | Locke |
+| Personality | Creations express the creator's personality and deserve protection, especially moral rights | Hegel, Kant |
+| Utilitarian (incentive) | Exclusive rights encourage investment in creation; the benefit to society outweighs the cost of temporary monopoly | Bentham, Mill; modern law and economics |
+| Social planning | IP should be shaped to foster a just and attractive culture | Fisher, Netanel |
+| Critiques | Monopolies raise prices, restrict access to medicines and knowledge, and favour developed countries | Development and access-to-knowledge movements |
+
+## 1.3 Main forms
+| Right | Subject | Indian statute | Term |
+|---|---|---|---|
+| Copyright | Literary, dramatic, musical, artistic works, films, sound recordings | Copyright Act 1957 | Life of author plus 60 years (most works) |
+| Trade mark | Marks distinguishing goods or services | Trade Marks Act 1999 | 10 years, renewable indefinitely |
+| Patent | Inventions: new, inventive, industrially applicable | Patents Act 1970 | 20 years from filing |
+| Design | Shape, configuration, pattern, ornament applied to an article | Designs Act 2000 | 10 years plus 5 |
+| Geographical indication | Goods originating in a territory with qualities due to that origin (Darjeeling tea, Tirupati laddu) | GI of Goods Act 1999 | 10 years, renewable |
+| Plant varieties | New, extant and farmers' varieties | PPVFR Act 2001 | 15 to 18 years |
+| Semiconductor layout designs | Integrated circuit layouts | SICLD Act 2000 | 10 years |
+| Trade secrets and confidential information | Protected by contract and equity; no statute | | As long as secret |
+
+- **Merchandising** and **franchising** are licensing arrangements built on trade marks, copyright and know-how.
+- **Unfair competition** (Art. 10bis, Paris Convention): acts contrary to honest commercial practice, such as confusion, false allegations and misleading indications; in India, this is protected mainly through passing off.
+
+* IP is intangible, exclusive, territorial and usually limited in time.
+* Rationales: labour, personality, utilitarian incentive, social planning; critiques on access.
+* Main forms and their statutes and terms (see the table).
+
+QL: What is intellectual property? Discuss the competing rationales for its protection.
+QL: Describe the main forms of intellectual property recognised in India.
+QS: Geographical indications
+QS: Labour theory of property
+
+MCQ: The term of a patent in India is || 10 years | *20 years from filing | life plus 60 years | 15 years || s.53 Patents Act.
+MCQ: The incentive theory of IP is associated with || Locke | *utilitarian thinkers such as Bentham | Hegel | Kant || Benefits outweigh monopoly costs.
+
+# 2 | International instruments
+@topics Leading international instruments; Berne Convention; Universal Copyright Convention; Paris Union; WIPO; UNESCO; TRIPS; TRIMS; WTO
+>> International IP law rests on three principles: national treatment, minimum standards and priority. TRIPS made these enforceable through the WTO.
+
+## 2.1 Paris Convention for the Protection of Industrial Property (1883)
+- Covers patents, trade marks, industrial designs, utility models, trade names, GIs and unfair competition.
+- **National treatment** (Art. 2): nationals of member countries get the same protection as nationals.
+- **Right of priority** (Art. 4): an applicant who files in one member country has 12 months (patents) or 6 months (marks and designs) to file elsewhere with the same priority date.
+- **Independence of patents** (Art. 4bis), well-known marks (Art. 6bis), unfair competition (Art. 10bis).
+- India acceded in 1998.
+
+## 2.2 Berne Convention for the Protection of Literary and Artistic Works (1886)
+- **National treatment**; **automatic protection** (no formalities); **independence of protection** from protection in the country of origin.
+- Minimum term: life plus 50 years; moral rights (Art. 6bis); the three-step test for exceptions (Art. 9(2)).
+- India has been a member since 1928.
+
+## 2.3 Universal Copyright Convention (1952)
+- Administered by **UNESCO**, as an alternative for countries (notably the USA) unwilling to accept Berne's lack of formalities. It allowed the © symbol to satisfy formalities and a shorter minimum term (life plus 25). It became less important after the USA joined Berne (1989) and TRIPS.
+
+## 2.4 WIPO
+- The World Intellectual Property Organization (Convention 1967, Geneva), a UN specialised agency since 1974. It administers Paris, Berne, the PCT (Patent Cooperation Treaty, 1970), the Madrid System for marks, and the WIPO Internet Treaties (WCT and WPPT, 1996), which India joined in 2018.
+- The **WIPO Treaty on IP, Genetic Resources and Associated Traditional Knowledge** (May 2024) requires patent applicants to disclose the origin of genetic resources and traditional knowledge used in their inventions.
+
+## 2.5 TRIPS (1994)
+- Annex 1C of the WTO Agreement. It incorporates Paris and Berne (except moral rights) and adds minimum standards for all fields of IP, enforcement obligations (civil, border and criminal measures), and WTO dispute settlement.
+- Key features: patents for all inventions, products and processes, in all fields of technology (Art. 27), for 20 years; protection of undisclosed information (Art. 39); flexibilities including compulsory licences (Art. 31), exceptions (Art. 30), and exclusions for public order, plants and animals (Art. 27(2) and (3)).
+- **Doha Declaration on TRIPS and Public Health** (2001) affirmed members' right to protect public health and promote access to medicines; Art. 31bis allows compulsory licences for export to countries without manufacturing capacity.
+- India had a transition period until 2005 and amended its patent law in 1999, 2002 and 2005 to comply.
+
+## 2.6 TRIMS and the WTO
+- **TRIMS** (Agreement on Trade-Related Investment Measures) prohibits investment measures inconsistent with national treatment and quantitative restrictions under GATT, such as local content requirements.
+- **WTO** (1995): the institutional framework, with the Dispute Settlement Understanding. India–Patent Protection (1997) was an early case against India over the "mailbox" for pharmaceutical patent applications.
+
+* Paris: national treatment, priority, unfair competition; Berne: automatic protection, moral rights; UCC administered by UNESCO.
+* WIPO administers most treaties; the 2024 treaty on genetic resources and traditional knowledge.
+* TRIPS: minimum standards and enforcement, with flexibilities (Doha, Art. 31bis); TRIMS; WTO dispute settlement.
+
+QL: Discuss the main features of the TRIPS Agreement and its impact on Indian IP law.
+QL: Compare the Berne Convention and the Universal Copyright Convention.
+QL: Explain the principles of national treatment and right of priority under the Paris Convention.
+QS: WIPO
+QS: Doha Declaration
+QS: TRIMS
+
+MCQ: The right of priority for patents under the Paris Convention is || 6 months | *12 months | 18 months | 24 months || Art. 4.
+MCQ: The Universal Copyright Convention is administered by || WIPO | *UNESCO | WTO | ILO || 1952.
+MCQ: Compulsory licences under TRIPS are governed by || Art. 27 | *Art. 31 | Art. 39 | Art. 9 || Art. 31bis for export.
+
+# 3 | Copyright law in India
+@topics Historical evolution; Meaning of copyright; Literary, dramatic, musical works and films; Ownership; Assignment; Author's special rights; Infringement and its criteria; Films of literary and dramatic works; Importation; Fair use; Video piracy; Copyright justice; Artificial intelligence and copyright
+>> Copyright protects original expression, not ideas. It gives authors exclusive economic rights for a limited term and moral rights that cannot be assigned, subject to fair dealing in the public interest.
+
+## 3.1 Historical evolution
+- The Statute of Anne (1710) in England; the Indian Copyright Act 1847; the UK Copyright Act 1911 extended to India, with the Indian Copyright Act 1914; the **Copyright Act, 1957**.
+- Major amendments: 1983, 1984 (piracy), 1994 (computer programs, performers' rights), 1999, and 2012 (WCT and WPPT compliance, authors' royalties, disability exception, technological protection measures, safe harbour).
+
+## 3.2 Meaning of copyright (s.14)
+- Copyright is the exclusive right to do or authorise acts in respect of a work: reproduction, issue of copies, performance or communication to the public, making a film or sound recording, translation and adaptation.
+- It subsists in **original** literary, dramatic, musical and artistic works, cinematograph films and sound recordings (s.13).
+
+CASE: Eastern Book Company v D.B. Modak (2008) :: The Supreme Court adopted the "modicum of creativity" standard (between "sweat of the brow" and the high creativity standard of Feist). Copy-edited judgments in SCC were not original merely because of the labour involved, but the editors' headnotes, footnotes and paragraph numbering, which involved skill and judgment, were protected.
+
+## 3.3 and 3.4 Kinds of works
+- **Literary work** includes computer programs, tables, compilations and databases (s.2(o)). **Dramatic work** covers recitation, choreography and entertainment in dumb show, but not films (s.2(h)). **Musical work** is the music itself, excluding words or action (s.2(p)). **Artistic work** includes paintings, sculptures, drawings, photographs, architecture and works of artistic craftsmanship (s.2(c)).
+- A **cinematograph film** includes the soundtrack (s.2(f)); a **sound recording** is a recording of sounds (s.2(xx)).
+- Terms: life plus 60 years for literary, dramatic, musical and artistic works (s.22); 60 years from publication for films, sound recordings, photographs, posthumous, anonymous and government works.
+
+## 3.5 Ownership (s.17)
+- The **author** is the first owner (s.17), except:
+  - works made by a journalist under a contract of employment (the proprietor owns rights for publication in the newspaper);
+  - photographs, paintings, portraits, engravings and films made for valuable consideration at someone's instance (the person at whose instance it was made);
+  - works made in the course of employment under a contract of service (the employer);
+  - government works and works of public undertakings.
+- The 2012 proviso: these exceptions do not affect the author's right in a literary or musical work included in a film.
+
+CASE: Indian Performing Right Society Ltd v Eastern Indian Motion Pictures Association (1977) :: A film producer who commissions a composer or lyricist for valuable consideration becomes the first owner of copyright in the music and lyrics incorporated in the film, unless there is a contract to the contrary. (The 2012 amendment now gives authors of underlying works an inalienable right to equal royalties for uses other than exhibition of the film in a cinema hall.)
+
+## 3.6 Assignment (ss.18 and 19)
+- Assignment must be in writing and signed by the assignor; it must identify the work, rights, duration and territory. If duration is not stated, it is deemed to be five years; if territory is not stated, India.
+- An assignment is void for a mode of exploitation not existing or commercially known at the time (proviso to s.18(1), 2012). Authors of literary and musical works in films and sound recordings cannot assign the right to receive royalties (s.18(1) provisos), except to legal heirs or copyright societies.
+- Licences: voluntary (s.30), compulsory for works withheld from the public (s.31), statutory licences for broadcasting (s.31D), and licences for translation.
+
+## 3.7 Author's special rights (moral rights, s.57)
+- The right of **paternity** (to claim authorship) and of **integrity** (to restrain or claim damages for distortion, mutilation or modification prejudicial to honour or reputation). These rights are independent of copyright and survive assignment.
+
+CASE: Amar Nath Sehgal v Union of India (2005) :: A bronze mural by the sculptor Amar Nath Sehgal, commissioned for Vigyan Bhavan, was pulled down and stored in a damaged state. The Delhi High Court held that s.57 protected the author's moral right of integrity even after the copyright was vested in the government, and awarded damages. The court said the rights of the artist in the work are separate from the ownership of the physical object.
+
+## 3.8 to 3.10 Infringement
+- **Notion** (s.51): doing without licence any act exclusively reserved to the owner, or permitting a place to be used for public communication for profit, knowing it infringes; or selling, distributing or importing infringing copies.
+- **Criteria**: copying (direct or indirect, conscious or subconscious), substantial similarity of expression (not idea), and the impression of an average viewer or reader.
+
+CASE: R.G. Anand v Delux Films (1978) :: The playwright of "Hum Hindustani" alleged that the film "New Delhi" infringed his play. The Court held there is no copyright in an idea or theme, only in its expression. The test is whether a viewer, after seeing both, gets an unmistakable impression that one is a copy of the other. Where the same idea is developed differently, there is no infringement. The film was found to be different in treatment.
+
+- **Films of literary and dramatic works**: making a film of a work without licence infringes; but a film and a play on the same theme with different treatment do not (R.G. Anand).
+
+## 3.11 Importation
+- Importing infringing copies into India, except one copy for private use, infringes (s.51(b)(iv)). Copyright owners can ask Customs to detain infringing imports (s.53).
+
+CASE: Penguin Books Ltd v India Book Distributors (1985) :: The Delhi High Court held that importing books, for which the plaintiff held exclusive Indian licence, for sale in India without the licence infringed copyright, because the "secondary infringement" of importation covers copies that would infringe if made in India.
+
+- After 2012, the question of parallel imports of genuine copies is debated (exhaustion of rights under s.14 "copies not being copies already in circulation").
+
+## 3.12 Fair dealing (s.52)
+- Fair dealing for private or personal use including research; criticism or review; reporting current events; judicial proceedings; reproduction for educational instruction by teachers and pupils (s.52(1)(i)); performances in educational institutions; reproduction for persons with disabilities (s.52(1)(zb)); transient and incidental storage (s.52(1)(b) and (c)).
+
+CASE: The Chancellor, Masters and Scholars of the University of Oxford v Rameshwari Photocopy Services (2016) :: Publishers sued a photocopy shop at Delhi University for making course packs. A Division Bench of the Delhi High Court held that s.52(1)(i) (reproduction in the course of instruction) is not limited to classroom use and can cover course packs prepared for students, but remanded the matter for trial on facts. The publishers then withdrew the suit in 2017.
+
+## 3.13 Video piracy
+- Offences (ss.63 to 63B), seizure (s.64), possession of plates (s.65), and circumvention of technological protection measures (s.65A) and rights management information (s.65B).
+- The Cinematograph (Amendment) Act, 2023 made unauthorised recording and exhibition of films offences, with fines up to 5% of the audited gross production cost.
+- **John Doe** and **dynamic injunctions** against unknown and rogue websites.
+
+CASE: UTV Software Communication Ltd v 1337x.to (2019) :: The Delhi High Court laid down tests for "flagrantly infringing online locations" and granted a **dynamic injunction**, allowing plaintiffs to extend blocking orders to mirror and redirect websites through the Joint Registrar without a fresh suit.
+
+## 3.14 Aspects of copyright justice
+- Balancing access to knowledge (education, libraries, persons with disabilities: the Marrakesh Treaty 2013, which India was the first to ratify) with authors' rights; fair remuneration for creators (royalty rights after 2012); and community and traditional cultural expressions.
+
+## 3.15 Artificial intelligence and copyright
+- **Authorship of AI output**: the Act requires a "person" who causes a computer-generated work to be created (s.2(d)(vi)) as author. Most jurisdictions require human authorship. In *Thaler v Perlmutter* (2025), the US Court of Appeals for the D.C. Circuit upheld refusal of registration for a work generated autonomously by AI.
+- In India, the Copyright Office registered an artwork ("SURYAST") naming an AI tool as co-author in 2020, then issued a withdrawal notice. The status of such registrations remains unsettled.
+- **Training on copyrighted works (inputs)**: whether copying works for training is reproduction, and whether it is covered by fair dealing or transient storage.
+
+CASE: ANI Media Pvt Ltd v OpenAI OpCo LLC (2026) :: ANI sued OpenAI in the Delhi High Court (November 2024), alleging that ChatGPT was trained on its news content without permission. On 24 July 2026, Justice Amit Bansal refused ANI's application for an interim injunction. The Court held that it had territorial jurisdiction although training took place abroad. At the prima facie stage, OpenAI's use of ANI's content for training was protected by the fair dealing exception, and ANI had shown no evidence that the model memorised or reproduced its articles. The suit continues on merits.
+
+- **DPIIT Working Paper (Part 1, 8 December 2025)**, "One Nation, One Licence, One Payment": proposes a hybrid model, a mandatory blanket licence for AI developers to train on all lawfully accessed works, combined with a statutory right to remuneration for rights-holders collected centrally. Part 2 is to address the copyright status of AI outputs. The proposal has been criticised as overriding the owner's exclusive rights under s.14 without an opt-out.
+
+TIP: An AI question usually has two parts: inputs (training and fair dealing; cite ANI v OpenAI and the DPIIT paper) and outputs (authorship; cite s.2(d)(vi), Thaler and SURYAST). Address both.
+
+## 3.16 Recent judgments (2025–26)
+
+CASE: Sujoy Ghosh v State of Jharkhand (2026) :: A criminal complaint of copyright infringement against a film-maker was quashed because the film's screenplay existed before the complainant's script; there can be no copying of a work that came later.
+
+* No infringement where the defendant's work predates the plaintiff's (Sujoy Ghosh, 2026).
+* Copyright protects original expression (modicum of creativity: Eastern Book Co).
+* Works, terms (life plus 60), ownership and exceptions (s.17; IPRS v EIMPA).
+* Assignment in writing; five-year and India defaults; inalienable royalties (2012).
+* Moral rights survive assignment (Amar Nath Sehgal).
+* Infringement requires copying of expression (R.G. Anand); importation (Penguin); fair dealing (Rameshwari Photocopy).
+* Piracy: offences and dynamic injunctions (UTV v 1337x).
+* AI: authorship requires a person; training held prima facie fair dealing (ANI v OpenAI, 2026); DPIIT hybrid licensing proposal.
+
+QL: "There is no copyright in an idea." Discuss with reference to R.G. Anand v Delux Films.
+QL: Who is the first owner of copyright? Discuss the exceptions and the 2012 amendments on authors' royalties.
+QL: Discuss the moral rights of authors under s.57 with reference to Amar Nath Sehgal.
+QL: Explain the fair dealing provisions of the Copyright Act. Do they extend to course packs and AI training?
+QL: Critically examine the challenges that artificial intelligence poses to copyright law.
+QS: Modicum of creativity
+QS: Dynamic injunction
+QS: DPIIT Working Paper on generative AI and copyright
+
+MCQ: The "modicum of creativity" test was adopted in || R.G. Anand | *Eastern Book Co v D.B. Modak | IPRS v EIMPA | Penguin Books || 2008.
+MCQ: In the absence of a stated duration, an assignment of copyright is deemed to be for || 1 year | *5 years | 10 years | the full term || s.19(5).
+MCQ: The Delhi High Court refused ANI an interim injunction against OpenAI, holding training prima facie fair dealing, on || 19 November 2024 | *24 July 2026 | 8 December 2025 | 27 March 2026 || Justice Amit Bansal.
+MCQ: Moral rights of an artist were protected for a mural in || R.G. Anand | *Amar Nath Sehgal v Union of India | UTV v 1337x | Eastern Book Co || 2005.
+
+# 4 | Copyright remedies, including Anton Piller relief
+@topics Remedies, especially Anton Piller injunctive relief in India
+>> Copyright owners have civil remedies (injunction, damages, accounts, delivery up), criminal remedies and border measures. Ex parte search orders and John Doe orders deal with infringers who would otherwise destroy evidence or remain unknown.
+
+## 4.1 Civil remedies (s.55)
+- **Injunction**: interim (Order XXXIX CPC: prima facie case, balance of convenience, irreparable injury) and permanent.
+- **Damages**, including additional damages in flagrant cases, or **account of profits**.
+- **Delivery up** of infringing copies and plates (s.58, conversion).
+- Suits are filed in the District Court (or the High Court with original jurisdiction) where the plaintiff resides or carries on business (s.62). Commercial IP suits are governed by the Commercial Courts Act, 2015.
+
+## 4.2 Anton Piller orders
+- From *Anton Piller KG v Manufacturing Processes Ltd* (1976, English Court of Appeal): an ex parte order requiring the defendant to permit the plaintiff's representatives to enter premises and search for, inspect and seize infringing goods and documents.
+- Conditions (Ormrod LJ): an extremely strong prima facie case; very serious potential or actual damage; clear evidence that the defendant has incriminating material and there is a real possibility it will be destroyed.
+- In India, courts grant equivalent relief by appointing a **Local Commissioner** ex parte (Order XXVI rule 9 and Order XXXIX CPC, with s.151) to visit premises, make inventories, seize and seal infringing goods. The Delhi and Bombay High Courts do this routinely in IP suits.
+- Related orders: **Mareva injunction** (freezing assets) and **John Doe (Ashok Kumar) orders** against unnamed defendants.
+
+CASE: Taj Television Ltd v Rajan Mandal (2003) :: The Delhi High Court granted India's first John Doe order, restraining unnamed cable operators from broadcasting the FIFA World Cup 2002 without a licence, and allowing the plaintiff to act against any infringer found doing so.
+
+## 4.3 Criminal remedies and border measures
+- Offences under ss.63 to 70 (Unit 9); border measures (s.53 and the IPR (Imported Goods) Enforcement Rules, 2007).
+
+* Civil remedies: injunction, damages or accounts, delivery up; Commercial Courts Act.
+* Anton Piller orders (search and seize): granted in India through ex parte Local Commissioners.
+* John Doe orders (Taj Television) and Mareva injunctions.
+
+QL: Discuss the civil remedies available for infringement of copyright. To what extent are Anton Piller orders available in India?
+QS: John Doe order
+QS: Mareva injunction
+
+MCQ: India's first John Doe order was granted in || UTV v 1337x | *Taj Television v Rajan Mandal | R.G. Anand | Penguin Books || 2003, FIFA World Cup.
+MCQ: An Anton Piller order permits || freezing of assets | *ex parte entry, search and seizure of infringing material | an order against unknown persons | a compulsory licence || 1976.
+
+# 5 | Trade marks
+@topics Rationale: commercial and consumer rights; Definition and concept; Registration; Trade mark and property mark; Honest concurrent user; Deceptive similarity; Passing off and infringement; Standards of proof in passing off
+>> A trade mark tells consumers who made the goods. The law protects the trader's goodwill and the public against confusion, through registration and infringement actions and through the common law of passing off.
+
+## 5.1 Rationale
+- **Commercial**: protects the goodwill and investment of the trader and the distinctiveness of the brand.
+- **Consumer**: prevents confusion and deception, reduces search costs and guarantees consistent quality.
+
+## 5.2 Definition and concept
+- **Trade mark** (s.2(1)(zb)): a mark capable of being represented graphically and capable of distinguishing the goods or services of one person from those of others. It includes the shape of goods, packaging and combinations of colours. A **mark** includes a device, brand, heading, label, ticket, name, signature, word, letter, numeral, shape, packaging or colour combination (s.2(1)(m)).
+- **Well-known trade marks** (s.2(1)(zg) and s.11(6) to (9)) get protection across classes.
+- Functions: indicating origin, guaranteeing quality and advertising.
+
+## 5.3 Registration
+- Application (s.18), examination, acceptance or objection, advertisement in the Trade Marks Journal (s.20), opposition within four months (s.21), and registration (s.23). Registration lasts ten years, renewable indefinitely (s.25).
+- **Absolute grounds of refusal** (s.9): marks devoid of distinctive character, descriptive marks, customary or generic marks (unless they have acquired distinctiveness), marks likely to deceive or hurt religious sentiments, and functional shapes.
+- **Relative grounds** (s.11): identity or similarity with an earlier mark for identical or similar goods causing likelihood of confusion; well-known marks.
+
+## 5.4 Trade mark and property mark
+- A **trade mark** distinguishes goods in trade by origin. A **property mark** denotes that movable property belongs to a particular person (s.479 of the IPC, now in the BNS chapter on property marks). Using a false property mark is an offence. A property mark identifies ownership, not origin in trade.
+
+## 5.5 Honest concurrent user (s.12)
+- The Registrar may register identical or similar marks for the same goods for different proprietors in case of honest concurrent use or other special circumstances, subject to conditions.
+
+CASE: London Rubber Co Ltd v Durex Products Inc (1963) :: The Supreme Court considered honest concurrent use. Factors include the honesty of the concurrent use, its extent (duration, area, volume), the degree of confusion likely, whether instances of confusion have been proved, and the relative inconvenience to the parties. The respondent's long, honest use of "Durex" justified concurrent registration.
+
+## 5.6 Deceptive similarity
+- A mark is deceptively similar if it so nearly resembles another mark that it is likely to deceive or cause confusion (s.2(1)(h)). The test is that of an average person of ordinary intelligence and imperfect recollection, comparing the marks as a whole, including the idea of the mark and phonetic similarity.
+
+CASE: Amritdhara Pharmacy v Satyadeo Gupta (1962) :: "Lakshmandhara" was held deceptively similar to "Amritdhara" for medicinal preparations. An unwary purchaser of average intelligence and imperfect recollection would be deceived by the overall structural and phonetic similarity and the similar idea of the two names.
+
+CASE: Cadila Health Care Ltd v Cadila Pharmaceuticals Ltd (2001) :: The Court laid down factors for deceptive similarity in passing off involving unregistered marks: the nature of the marks, the degree of resemblance, the nature of the goods, the similarity in character and performance, the class of purchasers, the mode of purchase and other circumstances. Stricter standards apply to medicines, because confusion can harm health.
+
+## 5.7 Passing off and infringement
+| Point | Infringement | Passing off |
+|---|---|---|
+| Basis | Statutory, for registered marks (s.29) | Common law, for registered or unregistered marks (saved by s.27(2)) |
+| What is protected | The exclusive right to use the registered mark | Goodwill |
+| Proof of deception | Not necessary if the marks are identical; likelihood of confusion otherwise | Misrepresentation likely to deceive must be shown |
+| Added matter | Use of a different name or get-up does not avoid infringement if the essential features are copied | Added matter may avoid passing off |
+
+CASE: Kaviraj Pandit Durga Dutt Sharma v Navaratna Pharmaceutical Laboratories (1965) :: The Court explained the difference between infringement and passing off. In an infringement action, if the essential features of the registered mark are adopted, the fact that the get-up, packing and other writing show a different origin is immaterial. In passing off, these differences may be enough to avoid liability.
+
+## 5.8 Standards of proof in passing off
+- The **classical trinity** (*Reckitt and Colman Products Ltd v Borden Inc*, 1990, the "Jif Lemon" case): (1) goodwill attached to the goods or services; (2) misrepresentation by the defendant leading the public to believe the goods are the plaintiff's; and (3) damage, or likely damage, to the plaintiff.
+- **Trans-border reputation**:
+
+CASE: N.R. Dongre v Whirlpool Corporation (1996) :: Whirlpool, which had not sold washing machines in India under the mark for some time but whose reputation had spread through advertisements in journals circulating in India, obtained an injunction against the Indian registrant. Trans-border reputation was recognised.
+
+CASE: Toyota Jidosha Kabushiki Kaisha v Prius Auto Industries Ltd (2017) :: The Supreme Court applied the territoriality principle. A foreign trader must show goodwill and reputation in the Indian market at the time the defendant began use. Toyota failed to prove that "Prius" had sufficient goodwill in India in 2001, when the defendant adopted it, so the passing-off action failed.
+
+* Rationale: protection of goodwill and of consumers.
+* Definition (s.2(1)(zb)); registration process; absolute (s.9) and relative (s.11) grounds.
+* A property mark denotes ownership, not trade origin.
+* Honest concurrent use (s.12; London Rubber v Durex).
+* Deceptive similarity (Amritdhara; Cadila).
+* Infringement versus passing off (Durga Dutt Sharma); classical trinity; trans-border reputation (Whirlpool), territoriality (Toyota Prius).
+
+QL: Distinguish between infringement of a trade mark and passing off with reference to decided cases.
+QL: Explain the test of deceptive similarity. Discuss Amritdhara and Cadila.
+QL: Discuss the doctrine of honest concurrent use.
+QL: To what extent does Indian law protect the trans-border reputation of a trade mark? Discuss Whirlpool and Toyota Prius.
+QS: Well-known trade marks
+QS: Absolute grounds of refusal
+QS: Classical trinity
+
+MCQ: "Lakshmandhara" was held deceptively similar to "Amritdhara" in || Cadila | *Amritdhara Pharmacy v Satyadeo Gupta | Durga Dutt Sharma | London Rubber || 1962.
+MCQ: The territoriality principle for goodwill was applied against the foreign owner in || Whirlpool | *Toyota v Prius Auto Industries | Cadila | Amritdhara || 2017.
+MCQ: Passing off is saved by || s.29 | *s.27(2) | s.11 | s.12 || Trade Marks Act, 1999.
+
+# 6 | Trade mark remedies
+@topics Remedies for infringement and passing off
+>> Trade mark owners have civil remedies for both infringement and passing off, and criminal remedies for falsification and false application of marks.
+
+## 6.1 Civil remedies (s.135)
+- Injunction (including ex parte interim relief), damages or account of profits, and delivery up of infringing labels and marks for destruction or erasure.
+- **Defences**: acquiescence (s.33), use of one's own name in good faith (s.35), prior use (s.34), descriptive use, and exhaustion of rights (s.30(3)).
+- Jurisdiction: the plaintiff may sue where he carries on business (s.134). In *Indian Performing Rights Society v Sanjay Dalia* (2015), the Supreme Court read this to prevent forum shopping where the cause of action arose at the plaintiff's principal office.
+
+## 6.2 Criminal remedies (ss.101 to 121)
+- Applying false trade marks or trade descriptions (s.103), and selling goods with false marks (s.104): imprisonment of six months to three years and fine. The police may search and seize after the Registrar's opinion (s.115(4)).
+- Falsely representing a mark as registered (s.107).
+
+## 6.3 Domain names
+CASE: Satyam Infoway Ltd v Sifynet Solutions Pvt Ltd (2004) :: Domain names were held to be entitled to protection as trade marks, as they serve to identify and distinguish the business of the owner. The plaintiff's "Sify" mark was protected against "siffynet" and similar domain names, through passing off.
+
+* Civil remedies: injunction, damages or profits, delivery up; defences under ss.30 to 35.
+* Criminal remedies: ss.103 and 104.
+* Domain names are protected as trade marks (Satyam Infoway).
+
+QL: Discuss the civil and criminal remedies for infringement of trade marks.
+QS: Domain names as trade marks
+QS: Defence of acquiescence
+
+MCQ: Domain names were protected as trade marks in || Toyota | *Satyam Infoway v Sifynet Solutions | Cadila | Amritdhara || 2004.
+
+# 7 | Patents
+@topics Conception of patent; History in India; Patentable inventions, biotechnology; Obtaining a patent: application, examination, opposition, grant; Locus standi to oppose; Grounds: wrongfully obtained, anticipation, obviousness, insufficient description; Rights and obligations; Duration; Abuse; Employee inventions; Combination and selection patents; International patents and transfer of technology; Biotechnology, nuclear and plant patents; Compulsory licences; Infringement; Artificial intelligence and patents
+>> A patent is a bargain: the State grants a 20-year monopoly in exchange for full disclosure of a new, inventive and industrially applicable invention. Indian law adds safeguards against "evergreening" and abuse.
+
+## 7.1 Conception
+- A patent is a grant of exclusive rights to make, use, sell, offer for sale and import a patented product, or to use a patented process and the products made directly by it (s.48), for 20 years.
+- **Invention** (s.2(1)(j)): a new product or process involving an **inventive step** and capable of **industrial application**.
+- **Inventive step** (s.2(1)(ja)): a feature that involves technical advance compared to existing knowledge or has economic significance, or both, and is not obvious to a person skilled in the art.
+
+## 7.2 Historical overview
+- The Act VI of 1856 (based on the British Patent Law of 1852); the Indian Patents and Designs Act 1911; the Ayyangar Committee Report (1959); the **Patents Act, 1970** (process patents only for food, drugs and chemicals; 5 to 7 years for these).
+- TRIPS amendments: 1999 (mailbox and exclusive marketing rights), 2002 (20-year term, s.3 exclusions), and **2005** (product patents in all fields, s.3(d), pre-grant opposition).
+
+## 7.3 Patentable inventions; biotechnology
+- **Section 3** lists what are not inventions, including: frivolous inventions or those contrary to natural laws; inventions contrary to public order or morality, or harmful to health or the environment (s.3(b)); mere discovery of a scientific principle or of a living or non-living substance occurring in nature (s.3(c)); **mere discovery of a new form of a known substance which does not result in enhancement of its known efficacy** (s.3(d)); mere admixtures (s.3(e)); methods of agriculture (s.3(h)); methods of treatment (s.3(i)); plants and animals other than micro-organisms, and essentially biological processes (s.3(j)); mathematical or business methods and computer programs per se (s.3(k)); and traditional knowledge (s.3(p)).
+- **Section 4**: no patent for inventions relating to atomic energy (the Atomic Energy Act, 1962 it referred to has since been replaced by the SHANTI Act, 2025).
+
+CASE: Novartis AG v Union of India (2013) :: Novartis's patent application for the beta-crystalline form of imatinib mesylate (Glivec) was rejected under s.3(d). "Efficacy" for a medicine means therapeutic efficacy, and the new form had not been shown to have enhanced therapeutic efficacy over the known substance. Section 3(d) was held to be a valid safeguard against "evergreening".
+
+- **Biotechnology**: micro-organisms are patentable (following *Diamond v Chakrabarty*, US Supreme Court, 1980, which allowed a patent on a genetically engineered bacterium), but plants, animals and essentially biological processes are not (s.3(j)).
+
+CASE: Monsanto Technology LLC v Nuziveedu Seeds Ltd (2019) :: The Delhi High Court Division Bench had held Monsanto's patent on a nucleic acid sequence (Bt cotton gene technology) invalid under s.3(j). The Supreme Court set this aside and restored the single judge's order, holding that the patent's validity could not be decided summarily on a counter-claim without trial, and remanded the matter.
+
+## 7.4 Obtaining a patent
+- **Application** by the true and first inventor or assignee (s.6), with a provisional or complete specification (s.9 and s.10). Publication after 18 months (s.11A).
+- **Request for examination** (s.11B), examination (s.12), and the first examination report.
+- **Opposition**:
+  - **Pre-grant** by **any person** (s.25(1)), after publication and before grant;
+  - **Post-grant** by **any person interested** (s.25(2)), within one year of grant.
+- **Grant** (s.43), formerly called sealing.
+
+### 7.4.1 Limited locus standi
+- Post-grant opposition and revocation (s.64) are limited to a "person interested" (someone engaged in or promoting research in the same field, s.2(1)(t)). This makes it hard for public interest groups (environmental groups, patients' groups) to challenge patents with potential for ecological or mass harm after grant. Pre-grant opposition by "any person" partly addresses this, and the Central Government can revoke a patent in the public interest (s.66).
+
+### 7.4.2 to 7.4.5 Grounds of opposition and revocation (s.25 and s.64)
+- **Wrongfully obtained**: the invention was obtained from the opponent or a person under whom he claims.
+- **Anticipation (prior publication)**: the invention was published before the priority date in India or elsewhere, claimed in an earlier Indian application, or publicly known or used in India before the priority date.
+- **Obviousness and lack of inventive step**: obvious to a person skilled in the art in view of prior art.
+- **Insufficient description**: the specification does not sufficiently and clearly describe the invention or the method of performing it.
+- Others: not an invention or excluded under s.3; failure to disclose information on foreign applications (s.8); non-disclosure or wrong mention of the source of biological material.
+
+CASE: Bishwanath Prasad Radhey Shyam v Hindustan Metal Industries (1979) :: The Supreme Court held that an invention must be new and useful, and must involve an inventive step that is not obvious to a person skilled in the art. A mere workshop improvement or a combination of known integers that produces no new result is not patentable. The patent for a process of making utensils was revoked.
+
+## 7.5 Rights and obligations of a patentee
+- **Rights**: exclusive rights under s.48, to assign and license (s.68: in writing and registered), to surrender (s.63) and to sue for infringement.
+- **Patents as choses in action**: a patent is personal property that can be assigned, mortgaged or transmitted.
+- **Duration** (s.53): 20 years from the date of filing, subject to annual renewal fees. Policy considerations: a uniform term under TRIPS against the argument for shorter terms in fields of rapid change or public health.
+- **Working**: the patentee must work the invention in India; statements of working are filed in Form 27 (now once every three financial years, after the 2024 Rules).
+- **Secrecy**: secrecy directions for inventions relevant to defence (s.35).
+- **Abuse of patent rights**: non-working, excessive pricing and restrictive licence conditions. Remedies include compulsory licences (s.84), revocation for non-working (s.85), and void restrictive conditions (s.140).
+
+## 7.6 Special categories
+### 7.6.1 Employee inventions
+- India has no statutory provision. Ownership depends on the contract of employment; inventions made in the course of employment, using the employer's resources, normally belong to the employer, but the inventor must be named. Questions of policy include fair compensation for employee-inventors (contrast Germany's Employee Inventions Act and s.40 of the UK Patents Act 1977).
+
+### 7.6.2 Combination and selection patents
+- A **combination patent** is valid only if the combination of known elements produces a new, synergistic result, not a mere aggregation (Bishwanath Prasad).
+- A **selection patent** covers a selected member or group from a known larger class that has an unexpected, special advantage (*Re I.G. Farbenindustrie AG's Patents*, 1930). In India, such selections face s.3(d) scrutiny for pharmaceuticals.
+
+### 7.6.3 International patents and transfer of technology
+- The **PCT** (India joined 1998) allows a single international application with national phase entry. **Patents of addition** (s.54) cover improvements.
+- Developing countries' concerns: patents may block technology transfer; TRIPS Arts. 7, 8 and 66.2 encourage transfer. Self-reliance requires local working, compulsory licences and research capacity.
+
+### 7.6.4 Biotechnology patents
+- Micro-organisms and processes involving them are patentable. The **Biological Diversity Act, 2002** (s.6, amended 2023) requires approval of the National Biodiversity Authority before seeking IP rights on inventions based on Indian biological resources, and the applicant must disclose the source (s.10(4)(ii)(D) Patents Act).
+
+### 7.6.5 Nuclear power; plant varieties; medicinal plants
+- No patents for atomic energy inventions (s.4).
+- **Plant varieties** are protected under the **Protection of Plant Varieties and Farmers' Rights Act, 2001**, a sui generis system that also recognises farmers' rights to save, use, exchange and sell farm-saved seed (s.39). In 2021, the PPVFR Authority revoked PepsiCo's registration of the FL-2027 potato variety, after PepsiCo had sued Gujarat farmers.
+- **Medicinal plants and traditional knowledge**: India's successful challenges to the turmeric patent (USPTO, 1997) and neem patent (EPO, 2000) led to the **Traditional Knowledge Digital Library** (TKDL), which gives examiners access to traditional knowledge as prior art.
+
+### 7.6.6 Compulsory licences (ss.84 to 92)
+- After three years from grant, any person may apply on the grounds that: the reasonable requirements of the public are not satisfied; the invention is not available at a reasonably affordable price; or it is not worked in India.
+- Also by notification in national emergencies or for public non-commercial use (s.92), and for export to countries with insufficient manufacturing capacity (s.92A).
+
+CASE: Natco Pharma Ltd v Bayer Corporation (2012) :: In India's first compulsory licence, the Controller granted Natco a licence to make sorafenib tosylate (Bayer's "Nexavar", a kidney and liver cancer drug), on all three grounds under s.84. Bayer priced the drug at about ₹2.8 lakh a month; Natco was to sell at about ₹8,800 and pay 6% royalty. The decision was upheld by the IPAB (2013, which raised the royalty to 7%) and the Bombay High Court (2014), and the Supreme Court dismissed Bayer's special leave petition.
+
+## 7.7 Infringement
+### 7.7.1 Criteria
+- Infringement means doing any act within s.48 without consent, within the scope of the claims. Claims are construed purposively: the "pith and marrow" of the invention (*Catnic Components v Hill and Smith*, 1982, House of Lords), with the *Improver* questions on variants.
+
+### 7.7.2 Onus of proof
+- The plaintiff bears the burden. For **process patents**, the court may direct the defendant to prove that his process is different (s.104A), where the product is identical and the plaintiff cannot determine the defendant's process.
+
+### 7.7.3 Colourable variation
+- A defendant who takes the substance of the invention while making non-essential changes infringes (the doctrine of equivalents or colourable imitation). The question is whether the variant performs substantially the same function in substantially the same way to obtain the same result.
+
+### 7.7.4 Defences
+- Invalidity (by counter-claim for revocation, s.64), non-infringement, licence, exhaustion and parallel import (s.107A(b)), **Bolar exemption** for research and regulatory approval (s.107A(a)), experimental use, and government use (s.47 and s.100).
+- Suits must be filed in a District Court or High Court; if a counter-claim for revocation is filed, the suit goes to the High Court (s.104).
+
+## 7.8 Artificial intelligence and patents
+- **AI as inventor**: Stephen Thaler's DABUS applications naming an AI system as inventor were rejected in most jurisdictions. The UK Supreme Court in *Thaler v Comptroller-General of Patents* (2023) held that an inventor must be a natural person. The Indian Patents Act speaks of the "true and first inventor" and applications by a "person" (s.6), and the Indian Patent Office has treated a human inventor as required.
+- **AI-assisted inventions**: patentable where a human makes a significant contribution; examiners assess the inventive step of AI-generated outputs.
+- **Patenting AI technology**: algorithms as such fall under s.3(k) (computer programs per se and mathematical methods). Inventions showing a technical effect or contribution may be patentable. The Delhi High Court in *Ferid Allani v Union of India* (2019) held that inventions based on computer programs that show a technical effect are not excluded merely because they involve software. Revised draft Guidelines for Examination of Computer Related Inventions, issued in 2025, address AI and related technologies.
+
+* A patent is a 20-year exclusive right for a new, inventive, industrially applicable invention (s.2(1)(j), s.48, s.53).
+* Section 3 exclusions; s.3(d) against evergreening (Novartis); biotechnology (Chakrabarty; Monsanto).
+* Procedure: application, publication, examination, pre-grant opposition by any person, post-grant by a person interested.
+* Grounds: wrongful obtaining, anticipation, obviousness (Bishwanath Prasad), insufficiency.
+* Rights, duration, working, secrecy and abuse; employee, combination and selection patents.
+* Compulsory licences (Natco v Bayer); infringement (pith and marrow, colourable variation, s.104A); defences (Bolar, parallel imports).
+* AI: an inventor must be a human (DABUS); technical effect for software and AI (Ferid Allani).
+
+QL: Explain the meaning of "invention" and "inventive step". What inventions are not patentable under s.3? Discuss Novartis.
+QL: Describe the procedure for obtaining a patent and the grounds of opposition.
+QL: Discuss the law relating to compulsory licences with reference to Natco v Bayer.
+QL: What constitutes infringement of a patent? Discuss the doctrine of colourable variation and the defences available.
+QL: Can an artificial intelligence system be an inventor? Discuss.
+QS: Section 3(d)
+QS: Bolar exemption
+QS: Selection patent
+QS: Pre-grant and post-grant opposition
+
+MCQ: India's first compulsory licence was granted to || Cipla | *Natco Pharma (for Bayer's Nexavar) | Novartis | Ranbaxy || 2012.
+MCQ: Pre-grant opposition under s.25(1) may be filed by || a person interested only | *any person | the Controller | the inventor only || Post-grant needs a person interested.
+MCQ: Section 3(d) was upheld as a safeguard against evergreening in || Monsanto | *Novartis AG v Union of India | Bishwanath Prasad | Natco || 2013.
+MCQ: An inventor must be a natural person, as held by the UK Supreme Court in || Diamond v Chakrabarty | *Thaler v Comptroller-General (DABUS) | Catnic | Ferid Allani || 2023.
+
+# 8 | Patent remedies
+@topics Remedies for patent infringement
+>> A patentee may sue for injunction, damages or account of profits, and seizure of infringing goods. The court can also declare non-infringement and revoke invalid patents.
+
+## 8.1 Civil remedies (s.108)
+- **Injunction** (interim and permanent), **damages or account of profits**, and the court may order seizure, forfeiture or destruction of infringing goods and materials.
+- **Innocent infringer** (s.111): no damages if the defendant proves he was not aware and had no reasonable grounds to believe the patent existed; marking the product with "patent" and the number defeats this defence.
+- **Groundless threats** (s.106): a person threatened with infringement proceedings may sue for a declaration that the threats are unjustifiable, an injunction and damages.
+- **Declaration of non-infringement** (s.105).
+
+## 8.2 Speed and specialised courts
+CASE: Bajaj Auto Ltd v TVS Motor Co Ltd (2009) :: In a patent dispute over twin-spark plug technology, the Supreme Court directed that IP suits be heard on a day-to-day basis and disposed of expeditiously, preferably within four months from the filing of the written statement.
+
+- IP divisions in the Delhi and Madras High Courts since the IPAB's abolition (Tribunals Reforms Act, 2021).
+
+* Remedies: injunction, damages or profits, seizure and destruction (s.108).
+* Innocent infringer (s.111), groundless threats (s.106), declaration of non-infringement (s.105).
+* Speedy trial (Bajaj Auto v TVS); IP divisions after the IPAB's abolition.
+
+QL: Discuss the remedies available to a patentee against infringement.
+QS: Groundless threats of infringement proceedings
+QS: Innocent infringer
+
+MCQ: Relief against groundless threats of infringement is provided by || s.104A | *s.106 | s.108 | s.111 || Patents Act, 1970.
+
+# 9 | IP and criminal law; reform
+@topics Intellectual property and remedies under criminal law; Some aspects of reform
+>> Copyright and trade mark infringement can be criminal offences; patent infringement is not. Reforms aim at faster enforcement, decriminalisation of minor lapses and balance with access.
+
+## 9.1 Criminal remedies
+| Statute | Offence | Punishment |
+|---|---|---|
+| Copyright Act | Knowing infringement (s.63) | 6 months to 3 years and fine of ₹50,000 to ₹2 lakh; enhanced for repeat offences (s.63A) |
+| Copyright Act | Knowing use of an infringing computer program (s.63B) | 7 days to 3 years and fine |
+| Copyright Act | Circumvention of technological protection measures (s.65A) | Up to 2 years and fine |
+| Trade Marks Act | Falsifying or falsely applying marks (s.103); selling goods with false marks (s.104) | 6 months to 3 years and fine of ₹50,000 to ₹2 lakh |
+| Patents Act | No offence of infringement; offences include contravening secrecy provisions (s.118), falsification of entries (s.119), unauthorised claim of patent rights (s.120) | Fine or imprisonment as specified |
+| Designs Act | No criminal remedy; civil penalty for piracy (s.22) | |
+
+CASE: Knit Pro International v State of NCT of Delhi (2022) :: The Supreme Court held that the offence under s.63 of the Copyright Act, punishable with imprisonment up to three years, is cognizable and non-bailable under Part II of the First Schedule to the CrPC.
+
+- Police search and seizure powers: s.64 (Copyright Act) and s.115 (Trade Marks Act, after the Registrar's opinion).
+
+## 9.2 Aspects of reform
+- The **Jan Vishwas (Amendment of Provisions) Act, 2023** decriminalised several minor offences under the Patents Act (for example, s.120 and s.122 now carry monetary penalties instead of fines imposed by a court).
+- Abolition of the IPAB (2021) and transfer to High Courts.
+- Ongoing debates: AI and copyright (DPIIT working paper), trade secrets legislation (the Law Commission's 289th Report, 2024, recommended a separate law), protection of traditional knowledge, and access to medicines.
+
+* Copyright and trade mark offences carry 6 months to 3 years; s.63 is cognizable (Knit Pro).
+* There is no criminal patent infringement; only procedural offences.
+* Reform: Jan Vishwas 2023, IPAB abolition, AI, trade secrets, traditional knowledge.
+
+QL: Discuss the criminal remedies available for infringement of intellectual property. Why does patent law not provide for criminal liability for infringement?
+QS: Knit Pro International v State of NCT of Delhi
+QS: Jan Vishwas Act, 2023
+
+MCQ: The offence under s.63 of the Copyright Act was held cognizable and non-bailable in || Taj Television | *Knit Pro International v State of NCT of Delhi | Satyam Infoway | UTV || 2022.
+
+# 10 | Information technology and exclusive marketing rights
+@topics Information technology and IP; Exclusive marketing rights
+>> The internet makes copying easy and enforcement hard. Exclusive marketing rights were a transitional TRIPS device that India used between 1999 and 2005.
+
+## 10.1 Information technology and IP
+- **Software** is protected as a literary work under the Copyright Act; patents only where there is a technical effect (s.3(k)).
+- **Intermediary liability**: s.79 of the IT Act gives safe harbour to intermediaries that observe due diligence; s.52(1)(c) of the Copyright Act protects transient storage for providing links unless the intermediary is aware of infringement. The IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 set takedown timelines.
+
+CASE: Myspace Inc v Super Cassettes Industries Ltd (2016) :: A Division Bench of the Delhi High Court held that an intermediary is liable only if it has actual knowledge (a specific notice from the right holder) of infringing content and fails to remove it within 36 hours. General awareness that the platform may host infringing content is not enough. Section 79 IT Act and the Copyright Act are to be read together.
+
+- **Domain names** (Satyam Infoway, 2004), **databases**, **e-commerce** platforms (*Christian Louboutin SAS v Nakul Bajaj*, Delhi High Court, 2018: an e-commerce platform that actively participates in sales is not a mere intermediary).
+
+## 10.2 Exclusive marketing rights (EMRs)
+- Under TRIPS Art. 70(8) and 70(9), countries in transition (no product patents for pharmaceuticals and agrochemicals until 2005) had to accept "mailbox" applications and grant EMRs for five years or until grant or rejection of the patent.
+- India inserted Chapter IVA (ss.24A to 24F) by the Patents (Amendment) Act, 1999, with retrospective effect from 1 January 1995. Conditions: a patent application for the product in India and a patent in another WTO country, and marketing approval in India.
+- Novartis obtained an EMR for imatinib mesylate (Glivec) in 2003, which allowed it to stop generic sales until the patent application was decided (later rejected, Novartis 2013).
+- Chapter IVA was **omitted by the Patents (Amendment) Act, 2005**, once product patent protection became available.
+
+## 10.3 Recent judgments (2025–26)
+
+CASE: Sadhguru Jagadish Vasudev v Igor Isakov (Delhi HC, 2025) :: The Delhi High Court restrained unauthorised use of a public figure's name, image, voice and likeness, including through AI tools, protecting personality rights.
+
+CASE: Vivek Anand Oberoi v Collector Bazar (Delhi HC, 2026) :: The Court ordered the takedown of AI-generated deepfakes misusing an actor's identity. Many similar orders followed for other celebrities in 2025–26.
+
+* Personality rights protected against AI deepfakes (Delhi HC, 2025–26).
+* Software: copyright and limited patents; intermediary safe harbour (s.79; Myspace); e-commerce platforms (Louboutin).
+* EMRs: a TRIPS transitional device (1999 to 2005), used for Glivec, omitted in 2005.
+
+QL: Discuss the liability of intermediaries for copyright infringement on the internet.
+QL: What were exclusive marketing rights? Why were they introduced and later omitted?
+QS: Safe harbour under s.79 IT Act
+QS: Mailbox applications
+
+MCQ: Exclusive marketing rights were provided in || Chapter IV | *Chapter IVA (ss.24A to 24F) | s.3(d) | s.84 || Omitted in 2005.
+MCQ: An intermediary must have actual knowledge through specific notice to be liable, as held in || Christian Louboutin | *Myspace v Super Cassettes | Satyam Infoway | UTV || 2016.

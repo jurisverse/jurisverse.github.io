@@ -1,0 +1,198 @@
+@title Viva-voce practice with model answers
+@toc Viva practice
+@label This paper is assessed on record work (90 marks) and a viva-voce (10 marks), not a written exam. Use these questions to prepare for the viva and to check your drafts. Part C gives short model drafts to compare with your record work.
+
+PART: A | Quick viva questions | Expect several of these in the viva. Answer in two or three sentences. | Viva
+
+Q: What are the fundamental rules of pleading?
+Order VI Rule 2 CPC:
+- plead facts, not law;
+- plead material facts, not evidence; and
+- state them concisely, in numbered paragraphs, with dates and sums in figures.
+Particulars must be given for fraud, misrepresentation and undue influence (Rule 4). The pleading must be verified (Rules 15 and 15A).
+
+Q: What is verification, and why is it important?
+Verification is a statement at the end of a pleading, signed by the party, stating which paragraphs are true to his knowledge and which are based on information believed to be true (Order VI Rule 15). A false verification can lead to prosecution for false evidence.
+In commercial suits, an affidavit in the prescribed form is required (Rule 15A).
+
+Q: What is the difference between an affidavit and a pleading?
+- A **pleading** (plaint or written statement) states the party's case and is verified.
+- An **affidavit** is a sworn written statement of facts, made before an oath commissioner or notary, used as evidence on interlocutory matters (Order XIX) and, in some proceedings, as evidence-in-chief (Order XVIII Rule 4).
+- An affidavit must be confined to facts within the deponent's knowledge, except on interlocutory applications, where the deponent may state belief with its grounds.
+
+Q: What is an interlocutory application?
+An application made during a pending proceeding for an interim order, such as:
+- a temporary injunction (Order XXXIX);
+- appointment of a receiver (Order XL);
+- amendment (Order VI Rule 17);
+- condonation of delay; or
+- stay.
+It is supported by an affidavit and must state the facts, the grounds and the relief sought.
+
+Q: What is a caveat?
+A caveat is a notice under s.148A CPC by a person expecting an application to be made against him, requesting that no order be passed without notice to him. It remains in force for 90 days. The applicant must serve the caveator with a copy of the application.
+
+Q: What is a vakalatnama?
+A vakalatnama is a written authorisation by a party appointing an advocate to appear, plead and act on his behalf (Order III Rule 4 CPC). It must be signed by the party and accepted by the advocate, and it is filed in court. It continues until revoked, or until the proceedings end. An advocate cannot compromise a matter without express authority (*Krishna Kumar Ojha*, 2026).
+
+Q: What are recitals in a conveyance?
+Recitals are the introductory part of a deed, after the parties, stating the background:
+- how the vendor acquired title;
+- the vendor's desire to sell; and
+- the agreement on price.
+They begin with "WHEREAS". A recital may operate as an estoppel against the party making it. Operative clauses begin with "NOW THIS DEED WITNESSETH".
+
+Q: What is attestation, and which documents require it?
+Attestation means signing as a witness to the execution of a document, after seeing the executant sign or receiving his acknowledgment (s.3 TPA).
+- Mortgages (s.59 TPA), gifts (s.123 TPA) and wills (s.63 of the Indian Succession Act) must be attested by at least two witnesses.
+- A sale deed does not legally require attestation, though it is customary.
+
+Q: Why must stamp duty be paid on a conveyance?
+Instruments chargeable with duty under the Indian Stamp Act, 1899 and State Acts must be stamped before or at the time of execution.
+- An unstamped or insufficiently stamped instrument is inadmissible in evidence until duty and penalty are paid (s.35).
+- It is impounded (s.33).
+- It is not void (*In re Interplay between the Arbitration and Stamp Acts*, 2023).
+
+Q: What should a legal notice under section 80 CPC contain?
+- the name, description and residence of the person giving notice;
+- the cause of action; and
+- the relief claimed.
+It is delivered to the specified officer of the government or a public officer. The suit can be filed only after two months, unless leave is granted for urgent relief under s.80(2).
+
+PART: B | Explain | Be ready to explain these in more detail. | Viva
+
+Q: Explain the structure of a plaint.
+Order VII CPC prescribes the contents:
+1. the name of the court;
+2. the cause title: the parties, with name, description and residence;
+3. a statement of facts constituting the cause of action, and when it arose;
+4. facts showing the court's jurisdiction: pecuniary and territorial (s.20);
+5. valuation for jurisdiction and court fee;
+6. the relief claimed, specifically (Rule 7), with alternative or additional reliefs;
+7. limitation: if the suit is filed after the period, the ground of exemption (Rule 6);
+8. a list of documents relied upon (Rule 14);
+9. verification and signature; and
+10. in commercial suits, a statement of truth and a statement on pre-institution mediation (s.12A, Commercial Courts Act).
+A plaint lacking a cause of action is rejected (Order VII Rule 11).
+
+Q: Explain the essential parts of a sale deed.
+1. title, date and place of execution;
+2. the parties (vendor and purchaser), with full particulars;
+3. recitals: the source of title and the agreement to sell;
+4. consideration: the amount and mode of payment, with receipt;
+5. operative words of transfer ("doth hereby grant, convey, sell and transfer");
+6. a description of the property in a schedule, with survey numbers, extent, boundaries and measurements;
+7. delivery of possession;
+8. covenants for title, freedom from encumbrances and indemnity (s.55 TPA);
+9. the handing over of title deeds;
+10. testimonium and signatures; and
+11. witnesses.
+It must be stamped and registered (s.54 TPA; s.17 of the Registration Act). Only a registered deed conveys title (*Ramesh Chand v Suresh Chand*, 2025).
+
+Q: Explain the contents of a writ petition under Article 226.
+1. the cause title, naming the State and authorities as respondents (Art. 12);
+2. a synopsis and list of dates;
+3. facts, in numbered paragraphs;
+4. the impugned order or action, annexed;
+5. the fundamental or legal right infringed;
+6. grounds, stated as questions of law;
+7. a statement of other remedies, explaining why an alternative remedy is inadequate (*Whirlpool Corporation v Registrar of Trade Marks*, 1998);
+8. a statement that no other petition is pending;
+9. the prayer for the writ (certiorari, mandamus or another), with interim relief;
+10. an affidavit of verification; and
+11. a vakalatnama.
+Territorial jurisdiction depends on where the cause of action arises (Art. 226(2)). Forum non conveniens may apply (*Baksish Ahmad*, 2026).
+
+Q: How should citations be checked before filing a pleading or a memorial?
+Every judgment cited must be verified against an official or recognised report, such as the court's website, SCC, AIR, Manupatra, SCC Online or the neutral citation. This confirms that the case exists, that the citation is correct, and that the holding is what you say it is.
+- AI tools and secondary sources can invent cases.
+- The Supreme Court set aside orders relying on fake, AI-generated precedents (*Pooja Ramesh Singh v J&K Bank*, 2026).
+- Advocates owe a duty of candour to the court.
+
+PART: C | Drafting exercises | Short model drafts to compare with your record work. | Record
+
+Q: Draft a legal notice under section 138 of the Negotiable Instruments Act.
+The notice must reach the drawer within 30 days of the information of dishonour. It must demand payment within 15 days and state the cheque details.
+DRAFT: Legal notice under section 138, Negotiable Instruments Act
+REGISTERED POST WITH ACKNOWLEDGMENT DUE / SPEED POST / EMAIL
+
+Date: ...
+
+To
+Sri ..., S/o ..., residing at ...
+
+Under instructions from my client, Sri ..., S/o ..., residing at ..., I hereby give you notice as follows:
+
+1. You borrowed ₹5,00,000 (Rupees five lakh only) from my client on ... and promised to repay it by ...
+
+2. Towards discharge of this liability, you issued cheque No. ... dated ... for ₹5,00,000, drawn on ... Bank, ... Branch.
+
+3. My client presented the cheque through his bank, ... Bank, ... Branch, on ... It was returned unpaid with the endorsement "Funds Insufficient" by memo dated ..., received by my client on ...
+
+4. I therefore call upon you to pay the cheque amount of ₹5,00,000 to my client within 15 days of receipt of this notice.
+
+5. If you fail to do so, my client will initiate proceedings against you under section 138 of the Negotiable Instruments Act, 1881, and other civil proceedings, at your risk as to costs.
+
+Copy retained in my office.
+
+ADVOCATE
+(Name, enrolment number, address)
+END
+
+Q: Draft a simple affidavit in support of an application for temporary injunction.
+DRAFT: Affidavit in support of I.A. under Order XXXIX Rules 1 and 2 CPC
+IN THE COURT OF THE PRINCIPAL JUNIOR CIVIL JUDGE, NELLORE
+
+I.A. No. ... of 20...
+in O.S. No. ... of 20...
+
+A. Ramesh   ...Petitioner/Plaintiff
+Versus
+B. Suresh   ...Respondent/Defendant
+
+AFFIDAVIT
+
+I, A. Ramesh, S/o ..., aged about ... years, residing at ..., do hereby solemnly affirm and state as follows:
+
+1. I am the petitioner and plaintiff, and I am well acquainted with the facts of the case.
+
+2. I am the absolute owner and in possession of the land in Sy. No. ..., ... village, described in the schedule, by virtue of registered sale deed No. ... dated ...
+
+3. The respondent, who has no right in the land, is attempting to trespass and to raise a compound wall. On ... he came with workers and tried to dig foundations.
+
+4. I have a prima facie case. The balance of convenience is in my favour, and I will suffer irreparable injury if the respondent is not restrained.
+
+5. I therefore pray that the Hon'ble Court may grant a temporary injunction restraining the respondent, his men and agents from interfering with my possession of the schedule property, pending disposal of the suit.
+
+Solemnly affirmed and signed before me at Nellore on this ... day of ... 20...
+
+DEPONENT
+
+BEFORE ME
+ADVOCATE / NOTARY
+END
+
+Q: Draft the operative part of a gift deed.
+DRAFT: Gift deed (operative part)
+NOW THIS DEED OF GIFT WITNESSETH:
+
+1. In consideration of natural love and affection that the Donor bears towards the Donee, his daughter, the Donor hereby gifts and transfers to the Donee, absolutely and for ever, the property described in the Schedule below, with all rights, easements and appurtenances.
+
+2. The Donee has accepted this gift, in token of which she has signed this deed, and the Donor has this day delivered possession of the schedule property to the Donee.
+
+3. The Donor declares that the property is his self-acquired property, free from all encumbrances, and that he has full right to make this gift.
+
+4. Hereafter, the Donee shall hold and enjoy the property as absolute owner, with full rights of alienation, and shall pay all taxes.
+
+SCHEDULE OF PROPERTY
+(Survey number, extent, boundaries)
+
+IN WITNESS WHEREOF the Donor and the Donee have signed this deed on the day, month and year first above written, in the presence of the following witnesses.
+
+DONOR      DONEE
+
+WITNESSES
+1. ...
+2. ...
+END
+A gift of immovable property must be registered and attested by two witnesses (s.123 TPA), and must be accepted during the donor's lifetime (s.122). If the gift is made on a condition of care, state it expressly, because the Senior Citizens Act, 2007 allows such a gift to be cancelled if the condition is breached (*Urmila Dixit*, 2025).

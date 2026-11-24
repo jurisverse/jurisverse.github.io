@@ -1,0 +1,724 @@
+@title Legal Writing
+@subtitle How to write exam answers, research and cite the law, brief a case, and write memos, opinions, papers and letters in clear legal English
+@paper Companion
+@sem All semesters
+@color #3d4f7a
+@dark #2f3e61
+@marks1 Useful for :: exam answers, assignments, project work, moot memorials, internship work
+@marks2 Read with :: Drafting, Pleading and Conveyancing (6.1); Moot Court (6.4)
+@intro Good legal writing is clear, accurate and organised around what the reader needs to decide. This companion covers the writing every LL.B student does: exam answers, sentence craft, research and citation, case briefs, memos and opinions, written advocacy, contract and in-house writing, seminar papers and dissertations, letters and emails, and the use of technology and AI. For further reading on the craft of writing, Richa Kachhwaha's The Art of Legal Writing is listed under Suggested readings. Pleadings and conveyances are covered in the Drafting book (6.1), and moot memorials in the Moot Court book (6.4). A set of exercises with model answers is at the end.
+@reading Bryan A. Garner, Legal Writing in Plain English
+@reading Richard C. Wydick, Plain English for Lawyers
+@reading Martin Cutts, Oxford Guide to Plain English
+@reading S.K. Verma and M. Afzal Wani (eds.), Legal Research and Methodology (Indian Law Institute)
+@reading Nomita Aggarwal, Legal Writing and Research Methodology
+@reading Richa Kachhwaha, The Art of Legal Writing: Practicing Lawyers to Successful Professionals (Oakbridge, 2nd edn, 2025)
+
+# 1 | Foundations of good legal writing
+@topics Purpose and audience; clarity, accuracy and brevity; plain language; structure
+>> Write for a busy reader who must make a decision: tell them the answer early, support it with law and facts, and cut everything that does not help.
+
+## 1.1 Know your reader and your purpose
+Every legal document is written for someone who must do something with it: an examiner who awards marks, a judge who decides, a client who chooses, or a senior who files. Before writing, answer three questions:
+1. Who will read this, and what do they already know?
+2. What decision or action should the reading lead to?
+3. What is the one point they must take away?
+
+An examiner wants to see that you know the rule, can apply it to facts, and cite authority. A client wants to know what to do and what it will cost. A judge wants the issue, the law and why your side should win, in that order.
+
+## 1.2 Four qualities
+- **Accuracy.** The law, the facts, the section numbers and the citations must be correct. One wrong section number undermines the whole answer. Use current law, for example the BNS, BNSS and BSA, with the old numbers in brackets.
+- **Clarity.** One idea per sentence; one topic per paragraph. Prefer the concrete word to the abstract.
+- **Brevity.** Say it once. Remove words that add nothing ("it is pertinent to note that", "in the instant case at hand").
+- **Organisation.** Headings, numbered points and a logical order (issue, rule, application, conclusion) let the reader follow you.
+
+## 1.3 Plain language
+Plain language is not informal language. It is precise language the intended reader understands on first reading. Courts increasingly ask for it, and clear writing persuades better than ornate writing.
+- Use short sentences, on average about 20 words.
+- Prefer the active voice: "The court dismissed the appeal", not "The appeal was dismissed by the court".
+- Use verbs, not nouns made from verbs: "decide", not "take a decision"; "consider", not "give consideration to".
+- Put the subject and verb close together and near the start of the sentence.
+- Use a term of art only when it carries a precise legal meaning (for example "res judicata", "cognizable"), and use it consistently.
+
+| Avoid | Prefer |
+| at this point in time | now |
+| in the event that | if |
+| prior to | before |
+| for the purpose of | to |
+| in respect of | about, for |
+| the said agreement | the agreement |
+| hereinafter, heretofore | omit, or name the term once |
+| it is humbly submitted that | (state the submission directly) |
+| null and void and of no effect | void |
+| each and every | each, or every |
+
+## 1.4 Structure
+- Start with the conclusion or the answer, then give reasons (the "bottom line up front").
+- Use headings that tell the reader what the section decides, for example "The agreement is void for want of consideration", not "Consideration".
+- Number points where order or count matters; use bullets for parallel items.
+- End with a short conclusion that answers the question asked.
+
+## 1.5 How readers take in information
+Readers understand and remember more when a document works with the way people process information.
+- **Context before detail.** Tell the reader what a section is about before giving the details. A reader who knows where the argument is going follows it more easily.
+- **Known before new.** Begin a sentence with information the reader already has, and end with the new point. Each sentence then links to the one before.
+- **Topic sentences.** Open each paragraph with a sentence stating its point. A reader skimming the first sentences should get the whole argument.
+- **Signposts.** Use headings, numbered issues and transitions ("first", "however", "therefore") so the reader always knows where they are.
+- **Chunking.** Break long material into short paragraphs, lists and tables. People hold only a few items in mind at once.
+- **White space.** Margins, spacing and short paragraphs make a page easier to read and look more confident.
+
+TIP: Read your answer as the examiner would. If the first three lines do not show that you understood the question, rewrite the opening.
+
+* Write for the reader's decision; state the answer early.
+* Accuracy, clarity, brevity, organisation.
+* Plain language: short sentences, active voice, strong verbs, no legalese.
+* Headings that state conclusions; a closing answer.
+* Context before detail; known before new; topic sentences; signposts; chunking.
+
+QL: What are the qualities of good legal writing? Illustrate with examples of plain-language revision.
+QS: Plain language in legal writing
+QS: Active and passive voice in legal drafting
+
+MCQ: Which is the plain-language version of "in the event that"? || in case of the event | *if | whereas | provided always that || Plain substitutes for wordy phrases.
+MCQ: "The appeal was dismissed by the court" is written in || the active voice | *the passive voice | the subjunctive mood | the imperative mood || Prefer "The court dismissed the appeal".
+
+# 2 | Sentence craft
+@topics Building clear sentences; splitting long sentences; linking clauses; placement of words; parallel structure; lists inside sentences
+>> Most unclear legal writing fails at the level of the sentence. Keep the main clause short and early, split sentences that carry more than one idea, and link the ideas you keep together.
+
+## 2.1 Put the main clause first
+Readers look for the subject and the verb to understand what a sentence is about. Put them near the start, close together, and move qualifications after them.
+- Weak: "The petitioner, who had been in continuous possession of the land since 1998 under an agreement of sale which was never registered, filed a suit."
+- Better: "The petitioner filed a suit. He had been in continuous possession of the land since 1998 under an unregistered agreement of sale."
+
+## 2.2 Split long sentences
+A sentence of 40 or 50 words is hard to follow, especially when it carries several conditions. Split it where each new idea begins.
+1. Find the main point and give it its own sentence.
+2. Move each condition or exception into a separate sentence, or into a numbered list.
+3. Repeat the subject where needed, rather than relying on "which" and "the same".
+
+Before: "In the event that the borrower defaults in payment of any instalment and such default continues for a period of thirty days and the borrower fails to remedy the same after notice, the bank shall be entitled to recall the entire loan together with interest."
+After: "The bank may recall the whole loan, with interest, if: (a) the borrower defaults on an instalment; (b) the default continues for 30 days; and (c) the borrower does not remedy it after notice."
+
+## 2.3 Link the clauses you keep together
+Splitting is not the only tool. When two ideas belong together, show how they are linked:
+- cause: "because", "since", "as a result";
+- contrast: "but", "however", "although";
+- condition: "if", "unless", "provided";
+- sequence: "then", "after", "before";
+- addition: "also", "further".
+Use one linking word in each place, and choose the one that states the exact relationship. "Whereas" and "wherein" rarely do.
+
+## 2.4 Place words carefully
+- Put modifiers next to the words they modify. "The court only admitted two documents" can mean that the court did nothing else; "The court admitted only two documents" says what is meant.
+- Keep the subject and verb together; do not separate them with a long clause.
+- Put the new or important information at the end of the sentence, where it gets emphasis.
+- Avoid double negatives ("not unlikely", "not without merit").
+
+## 2.5 Parallel structure
+Items in a list, or ideas compared, should have the same grammatical form.
+- Not parallel: "The tenant must pay rent, the premises are to be kept clean, and no sub-letting."
+- Parallel: "The tenant must pay the rent, keep the premises clean, and not sub-let."
+Parallel structure is essential in contract clauses and statutory lists, where an unparallel item can be read as qualifying the others.
+
+## 2.6 Lists inside sentences
+Use a tabulated list when a sentence contains three or more conditions, elements or options. Introduce it with a complete clause, state whether all items or any one item is needed, and end every item with the same punctuation.
+
+* Subject and verb early and together; qualifications afterwards.
+* Split sentences that carry more than one idea; use numbered conditions.
+* Link the ideas you keep together with the precise connecting word.
+* Place modifiers carefully; put the important point at the end.
+* Parallel structure in lists and comparisons; tabulate three or more items.
+
+QL: Explain the techniques for writing clear sentences in legal documents, with examples of revision.
+QS: Splitting long sentences
+QS: Parallel structure in legal drafting
+
+MCQ: "The court admitted only two documents" differs from "The court only admitted two documents" because of || the tense | *the placement of the modifier "only" | the voice | the subject || Place modifiers next to the words they modify.
+MCQ: A sentence listing three or more conditions is usually clearest when || written as one long sentence | *tabulated as a numbered list after an introductory clause | placed in a footnote | split into separate paragraphs without numbering || State whether all or any of the items are required.
+
+# 3 | Writing law exam answers
+@topics Reading the question; IRAC; short notes; essay questions; problem questions; using cases and sections; time management
+>> Examiners reward structure, accurate law and application to the question asked. IRAC (issue, rule, application, conclusion) is the most reliable structure for problem questions, and a modified version works for essays.
+
+## 3.1 Read the question twice
+- Underline the instruction word: "explain", "discuss", "distinguish", "critically examine", "decide", "advise".
+- Identify the subject and the parts. A question with "and" usually has two parts that each need an answer.
+- Note the marks. In a 70-mark paper, a 4-mark short note needs about half a page; a 15-mark essay needs about three pages; a 10-mark problem needs about two pages.
+
+| Instruction | What the examiner wants |
+| Explain / describe | The rule, its elements and examples |
+| Discuss | The rule, arguments on both sides, and your view |
+| Critically examine / evaluate | Merits and defects, case law, reform, conclusion |
+| Distinguish | A point-by-point comparison, ideally a table |
+| Decide / advise | Apply the law to the facts and give a clear answer |
+
+## 3.2 Short notes (4 or 5 marks)
+1. Definition or statement of the rule, with the section.
+2. Two or three essential elements or features.
+3. One leading case.
+4. One exception, limitation or recent development.
+Do not write an introduction. Start with the definition.
+
+## 3.3 Essay questions (15 marks)
+- **Introduction** (3 to 4 lines): define the concept and state what the answer will show.
+- **Body** under headings: the law (statute and sections), the elements or kinds, the leading cases in chronological order showing how the law developed, and the current position (recent judgments and amendments).
+- **Critical evaluation**, if asked: strengths, criticisms, Law Commission reports, comparative law.
+- **Conclusion** (3 to 4 lines): answer the question directly.
+Use headings and numbered points. A table for distinctions earns marks quickly.
+
+## 3.4 Problem questions: IRAC
+1. **Issue.** State the precise legal question in one sentence. Where there are several issues, number them and answer each in turn.
+2. **Rule.** State the law: section, elements, and the leading case. Quote only the key words of the section.
+3. **Application.** Apply each element to the facts. This is where most marks are won or lost. Use the facts given; do not invent facts. If a fact is missing, say what the answer would be either way.
+4. **Conclusion.** Answer the question asked ("A is liable", "the suit is maintainable", "advise B to..."). Mention the remedy.
+
+DRAFT: Model IRAC answer (problem from Contracts – I)
+Problem: A offers by letter to sell his house to B for ₹50 lakh. B posts his acceptance on 3 March. A revokes the offer by telegram on 4 March, before B's letter reaches him. Is there a contract?
+
+**Issue:** Can A revoke the proposal after B has posted the acceptance?
+
+**Rule:** Under s.4 of the Contract Act, communication of acceptance is complete as against the proposer when it is put in course of transmission to him. Under s.5, a proposal may be revoked only before communication of acceptance is complete as against the proposer (Adams v Lindsell, 1818).
+
+**Application:** B posted the acceptance on 3 March. Acceptance was then complete as against A. A's revocation on 4 March came too late.
+
+**Conclusion:** There is a binding contract. B may sue A for specific performance or damages.
+END
+
+## 3.5 Using authority
+- Cite the section first, then the case.
+- Give the case name and year, for example *Maneka Gandhi v Union of India* (1978). Full citations are not needed in an exam.
+- State what the case decided in one line; do not retell its facts unless they matter to the comparison.
+- Prefer Supreme Court cases, and show you know the latest position.
+- If you forget a case name, describe it ("the Supreme Court has held that...") rather than inventing a name.
+
+## 3.6 Time management
+For a three-hour, 70-mark paper, spend about ten minutes reading and choosing questions, then allot time in proportion to marks, about two and a half minutes per mark. Leave ten minutes to re-read. Answer the questions you know best first, but finish all parts: an unanswered question scores zero.
+
+* Read the instruction word; match length to marks.
+* Short note: rule, elements, case, exception.
+* Essay: introduction, headings, development of the law, current position, conclusion.
+* Problem: IRAC; application wins marks; give a clear conclusion and remedy.
+* Section first, then case; never invent a case.
+
+QL: Explain the IRAC method of answering problem questions with an example.
+QS: How to write a short note in a law examination
+QS: Instruction words in law examination questions
+
+MCQ: In IRAC, most marks in a problem answer are usually won in || the issue | the rule | *the application | the conclusion || Applying each element to the facts.
+MCQ: In a 70-mark, three-hour paper, a 15-mark question should get roughly || 10 minutes | 20 minutes | *35 to 40 minutes | 60 minutes || About two and a half minutes per mark.
+
+# 4 | Legal research: finding the law and checking it
+@topics Primary and secondary sources; research plan; finding statutes and cases; checking that the law is current; verifying authorities; AI tools
+>> Good writing rests on good research. Start from the statute, find the binding cases, check that both are current, and verify every authority you cite.
+
+## 4.1 Sources
+- **Primary sources:** the Constitution, statutes, rules and notifications, and judgments.
+- **Secondary sources:** textbooks, commentaries, articles, Law Commission reports and legal dictionaries. They explain the law and lead you to primary sources, but they are not the law.
+- **Hierarchy of authority:** the Constitution; statutes; Supreme Court decisions (binding on all courts under Art. 141); decisions of your High Court; other High Courts (persuasive); foreign decisions (persuasive).
+
+## 4.2 A research plan
+1. Frame the question precisely, including the jurisdiction (for example, Andhra Pradesh).
+2. Identify the governing statute and the relevant sections. Read the bare act, including definitions, provisos and explanations.
+3. Read a standard textbook chapter for the overview and leading cases.
+4. Find the leading and latest Supreme Court and High Court decisions.
+5. Check that each statute is in force and unamended, and that each case has not been overruled or modified.
+6. Record full citations and paragraph numbers as you go.
+
+## 4.3 Where to find the law
+- **Statutes:** India Code (indiacode.nic.in) for central and many State Acts with amendments; the Gazette of India (egazette.gov.in) for notifications; State gazettes and websites for State laws.
+- **Judgments:** the Supreme Court website (sci.gov.in) and its free Digital SCR reports; High Court websites; eCourts and the Judgments portal; commercial databases such as SCC Online and Manupatra; free databases such as Indian Kanoon.
+- **Reports:** Law Commission reports (lawcommissionofindia.nic.in); parliamentary committee reports; PRS Legislative Research summaries of Bills.
+
+## 4.4 Checking that the law is current
+- Many syllabus statutes have been replaced: the IPC, CrPC and Evidence Act by the BNS, BNSS and BSA from 1 July 2024; the labour laws by the four Labour Codes from 21 November 2025; the Income-tax Act, 1961 by the Income-tax Act, 2025 from 1 April 2026. Always state which law applies, especially to events before the change.
+- Check whether a case has been overruled, distinguished or referred to a larger bench, using a citator in a database or a search for later cases citing it.
+- Check commencement: some Acts, such as the Mediation Act, 2023, are only partly in force.
+
+## 4.5 Verifying every authority
+- Read the judgment, or at least the headnote and the relevant paragraphs, before citing it. Headnotes are written by publishers and can be wrong.
+- Confirm the name, year, citation, court and bench strength.
+- Never cite a case you have only seen in a list, a summary or an AI answer. Generative AI tools can produce convincing but non-existent cases. The Supreme Court set aside orders relying on AI-generated fake precedents (*Pooja Ramesh Singh v J&K Bank*, 2026), and courts have warned lawyers and judges against unverified citations.
+- AI tools can help with brainstorming and summarising, but you remain responsible for every statement and citation. Check your institution's rules on AI use in assignments.
+
+* Primary v secondary sources; hierarchy under Art. 141.
+* Plan: question, statute, textbook, cases, currency check, record citations.
+* India Code, Gazette, sci.gov.in (Digital SCR), High Court sites, databases.
+* Check replacement statutes (BNS, BNSS, BSA; Labour Codes; Income-tax Act, 2025).
+* Verify every authority; never cite unverified AI output.
+
+QL: Describe the steps in researching a legal problem and the sources you would use.
+QS: Primary and secondary sources of law
+QS: Verifying authorities and the use of AI in legal research
+
+MCQ: Which is a primary source of law? || a textbook | a law journal article | *a judgment of the Supreme Court | a Law Commission report || Secondary sources explain the law.
+MCQ: The free official law reports published on the Supreme Court website are called || SCC | AIR | *Digital SCR | Manupatra || Launched by the Supreme Court in 2023.
+
+# 5 | Citing statutes and cases
+@topics Citing statutes and sections; law reports; neutral citations; High Court and foreign cases; pinpoint citations; footnotes; consistency
+>> A citation lets the reader find your source quickly. Choose one recognised style and apply it consistently.
+
+## 5.1 Statutes
+- Give the short title and year at first mention: the Bharatiya Nyaya Sanhita, 2023 (BNS). Afterwards use the abbreviation.
+- Cite provisions precisely: s.103(1) BNS; Order VII Rule 11 CPC; Art. 21 of the Constitution; Schedule VII, List I, Entry 97.
+- Where a provision was renumbered, give both: s.85 BNS [s.498A IPC].
+- Use "s." for section, "ss." for sections, "Art." for article, "r." or "Rule" for rule, "O." or "Order" for order, and "cl." for clause.
+
+## 5.2 Law reports
+- **Supreme Court Cases:** *Maneka Gandhi v Union of India*, (1978) 1 SCC 248. The year in round brackets is part of the reference.
+- **All India Reporter:** *Maneka Gandhi v Union of India*, AIR 1978 SC 597. The year has no brackets.
+- **Supreme Court Reports:** [1978] 2 SCR 621.
+- **SCC Online and Manupatra:** for example 2026 SCC OnLine SC 162.
+- When a case is reported in several reports, cite the official report (SCR) or SCC, and add a parallel citation if helpful.
+
+## 5.3 Neutral citations
+The Supreme Court introduced neutral citations in 2023, in the form *2023 INSC 1*: the year, INSC (Supreme Court of India), and a running number. They are assigned by the court, are independent of any publisher, and are free to verify on the court's website. Many High Courts have adopted their own neutral citations, for example *2023:DHC:1234* in the Delhi High Court. Use the neutral citation where available, with a report citation if your style requires one.
+
+## 5.4 Pinpoint, short forms and signals
+- Pinpoint the paragraph you rely on: (1978) 1 SCC 248, para 56. Indian judgments are cited by paragraph, not page.
+- After the first full citation, use a short form: *Maneka Gandhi*, para 56.
+- Use signals honestly: "see" (the case supports the point), "cf." (supports by analogy), "but see" (contrary authority).
+- For English cases: *Donoghue v Stevenson* [1932] AC 562 (HL).
+
+## 5.5 Footnotes and bibliography
+- In papers and dissertations, use footnotes numbered consecutively. Put the footnote number after the punctuation mark.
+- Follow one style throughout: your college's prescribed style, OSCOLA (common in Indian law schools), or the Bluebook. Do not mix styles.
+- List cases, statutes and secondary sources separately in a bibliography or table of authorities.
+- Every quotation needs a citation with a pinpoint. Keep quotations short and use them only where the exact words matter.
+
+* Statutes: short title and year first; precise provisions; new and old numbers.
+* SCC: (year) volume SCC page; AIR: AIR year SC page.
+* Neutral citations: 2023 INSC 1 (Supreme Court); High Courts have their own.
+* Pinpoint by paragraph; short forms; honest signals.
+* One citation style (OSCOLA or Bluebook) throughout.
+
+QL: Explain the methods of citing statutes and judgments in Indian legal writing, including neutral citations.
+QS: Neutral citation
+QS: Pinpoint citation
+
+MCQ: In "(1978) 1 SCC 248", the number 248 is || the volume | *the page | the paragraph | the case number || Year, volume, report, page.
+MCQ: The Supreme Court's neutral citation format is || AIR 2023 SC 1 | (2023) 1 SCC 1 | *2023 INSC 1 | [2023] 1 SCR 1 || Introduced in 2023.
+
+# 6 | Reading and briefing a case
+@topics Structure of a judgment; identifying facts, issues and ratio; writing a case brief; writing a case comment
+>> To use a case you must find its ratio, the principle it decides. A case brief records that in a fixed format; a case comment evaluates it.
+
+## 6.1 Parts of a judgment
+- **Cause title:** court, case number, parties, bench and date.
+- **Headnote:** a publisher's summary, useful but not authoritative.
+- **Facts and procedural history.**
+- **Issues**, sometimes framed by the court.
+- **Arguments** of the parties.
+- **Analysis and reasoning**, including discussion of precedents.
+- **Conclusion and order.**
+- **Separate opinions:** concurring and dissenting.
+
+## 6.2 Finding the ratio
+The ratio decidendi is the principle of law necessary for the decision on the material facts. Ask: what rule did the court apply to decide the issue, and on which facts? Statements not needed for the decision are obiter dicta. In a split decision, the ratio is found in the majority opinion; where majority judges give different reasons, find the common ground.
+
+## 6.3 Case brief format
+1. Citation: name, court, year, citation, bench.
+2. Facts: only the material facts, in 4 to 6 lines.
+3. Procedural history: how the case reached this court.
+4. Issues: as questions.
+5. Holding: the answer to each issue.
+6. Reasoning: the main steps.
+7. Ratio: one or two sentences.
+8. Separate opinions: their main points.
+9. Significance: what changed, and later developments.
+
+DRAFT: Model case brief
+**Maneka Gandhi v Union of India** (1978) 1 SCC 248; Supreme Court; seven judges
+
+**Facts:** The petitioner's passport was impounded under s.10(3)(c) of the Passports Act, 1967 "in the interests of the general public". No reasons were given, and she was not heard.
+
+**Issues:** (1) Does "procedure established by law" in Art. 21 mean any procedure prescribed by law? (2) Was the impounding without a hearing valid?
+
+**Holding:** (1) No. The procedure must be fair, just and reasonable, not arbitrary. (2) The order violated natural justice, though the court accepted the government's statement that a hearing would be given.
+
+**Reasoning:** Arts. 14, 19 and 21 are not separate compartments; a law depriving personal liberty must satisfy all three. Audi alteram partem is implied in the statute.
+
+**Ratio:** A law depriving a person of personal liberty must prescribe a procedure that is fair, just and reasonable, and must also satisfy Arts. 14 and 19.
+
+**Significance:** It overruled the narrow view in A.K. Gopalan (1950) and became the foundation for the expansion of Art. 21.
+END
+
+## 6.4 Writing a case comment
+A case comment goes beyond a brief. It:
+- introduces the case and why it matters;
+- summarises the facts and the decision briefly;
+- analyses the reasoning: its consistency with precedent and statute, gaps, and the quality of the argument;
+- places it in context: earlier and later cases, Law Commission views, comparative law; and
+- concludes with your assessment and its likely impact.
+Keep summary to about one-third, and analysis to two-thirds.
+
+* Parts of a judgment; headnote is not authoritative.
+* Ratio: the principle necessary for the decision on material facts.
+* Brief: citation, facts, history, issues, holding, reasoning, ratio, opinions, significance.
+* Case comment: one-third summary, two-thirds analysis.
+
+QL: How do you identify the ratio decidendi of a judgment? Prepare a brief of a leading case of your choice.
+QS: Case brief
+QS: Case comment
+
+MCQ: The binding part of a precedent is || the headnote | the obiter dicta | *the ratio decidendi | the dissenting opinion || The principle necessary for the decision.
+MCQ: In a case comment, most of the space should go to || the facts | the arguments of counsel | *analysis of the reasoning and its impact | the headnote || About two-thirds analysis.
+
+# 7 | Legal memorandum and opinion
+@topics The office memorandum; question presented and brief answer; discussion; client opinion; risk and recommendations
+>> A memorandum predicts the law objectively for a colleague; an opinion advises a client on what to do. Both lead with the answer.
+
+## 7.1 The office memorandum
+An internal, objective analysis of a legal question, written for a senior or a colleague. It must present both sides honestly. Structure:
+1. **Heading:** to, from, date, subject.
+2. **Question presented:** one sentence combining the legal issue and the key facts.
+3. **Brief answer:** a direct answer with the main reason.
+4. **Facts:** the relevant facts, neutrally stated, with sources.
+5. **Discussion:** issue by issue, IRAC within each, including counter-arguments and how a court is likely to decide.
+6. **Conclusion and next steps:** the answer, risks, and further information needed.
+
+## 7.2 The client opinion
+An opinion is addressed to the client and written for a non-lawyer, unless the client is a company's legal department.
+- Start with the answer and recommendation.
+- Explain the law only as far as needed for the decision.
+- State the risks, costs and time frames realistically. Do not promise outcomes.
+- State the facts and documents relied on, and the assumptions made.
+- Keep it confidential, and mark it as privileged.
+
+DRAFT: Model client opinion (extract)
+PRIVILEGED AND CONFIDENTIAL
+
+To: Sri K. Ravi
+Date: ...
+Subject: Your cheque of ₹3 lakh returned "account closed"
+
+1. **Summary of advice.** You can file a criminal complaint under section 138 of the Negotiable Instruments Act against Sri D. The courts treat a cheque returned for "account closed" in the same way as one returned for insufficient funds.
+
+2. **What you must do now.** Send a written demand notice to Sri D within 30 days of the date your bank told you of the dishonour. If he does not pay within 15 days of receiving the notice, the complaint must be filed within the next one month, in the court where your bank branch is located.
+
+3. **What to expect.** The court will presume that the cheque was given for a debt. Sri D may try to show otherwise. Many such cases are settled after the first hearing. If he is convicted, the court may impose a fine of up to twice the cheque amount, which is usually paid to you as compensation.
+
+4. **Documents needed.** The cheque, the bank's return memo, proof of the loan, a copy of the notice, and the postal receipts.
+
+5. **Assumptions.** This advice assumes the cheque was presented within three months of its date and that the loan is legally recoverable.
+
+Advocate
+END
+
+* Memo: objective, for colleagues; question presented, brief answer, facts, discussion, conclusion.
+* Opinion: for the client; answer first, plain language, risks and costs, assumptions.
+* Never promise an outcome; mark confidential.
+
+QL: Explain the structure of a legal memorandum and how it differs from a client opinion.
+QS: Question presented and brief answer
+QS: Assumptions in a legal opinion
+
+MCQ: An office memorandum should be || persuasive and one-sided | *objective, presenting both sides | addressed to the court | written only after judgment || It predicts the law for a colleague.
+
+# 8 | Written advocacy
+@topics Purpose of persuasive writing; theory of the case; written submissions; synopsis and list of dates; persuasive headings; handling facts and adverse authority; tone
+>> Persuasive writing makes it easy for the judge to agree with you. Present a clear theory of the case early, argue issue by issue with headings that state your conclusions, deal honestly with the other side's best points, and stay courteous.
+
+## 8.1 What persuasive writing does
+In a writ petition, an appeal, written submissions or a moot memorial, your aim is to persuade. You do that by being clear and credible, not by being loud. Judges read a great deal; they are persuaded by a document that answers their questions in the order they ask them.
+
+## 8.2 Theory of the case
+Before drafting, state your case in two or three sentences: what happened, what the law requires, and why your client should win. Every section of the document should serve that theory. Leave out arguments that do not.
+
+## 8.3 Synopsis and list of dates
+Indian courts expect petitions and appeals to begin with a synopsis and a list of dates.
+- The synopsis states, in one or two pages, the parties, what is challenged, the main facts and the questions for decision.
+- The list of dates sets out the key events chronologically, each with a document reference.
+- Write them last, after the body, so that they reflect the final arguments.
+
+## 8.4 Organising the argument
+- Lead with your strongest point, unless a threshold issue (such as maintainability or limitation) must come first.
+- Use argumentative headings that state the proposition: "The impugned order was passed without hearing the petitioner and is void", not "Natural justice".
+- For each heading, give the rule (statute and binding precedent), apply it to the facts, and state the conclusion.
+- Keep to the issues; a judge loses confidence in a document that argues every possible point.
+
+## 8.5 Facts and authorities
+- State the facts accurately and fairly, with references to the record. A misstated fact damages credibility for the whole document.
+- Choose facts that support your theory, and present them so that the conclusion seems natural.
+- Cite the most authoritative and recent cases; one binding Supreme Court decision outweighs ten High Court decisions.
+- Deal with adverse authority openly: distinguish it, show why it does not apply, or argue that it has been overtaken. Counsel's duty of candour to the court requires that binding adverse authority not be concealed.
+
+## 8.6 Tone and length
+- Be respectful to the court and to the other side. Attacks on opponents or judges undermine the argument and may be misconduct or contempt.
+- Avoid exaggeration and adjectives ("grossly illegal", "wholly perverse"); let the facts show it.
+- Respect page limits and court rules on written submissions. A shorter document that is read in full persuades more than a long one that is skimmed.
+
+DRAFT: Persuasive heading and paragraph
+**I. The impugned order is void because it was passed without giving the petitioner a hearing**
+
+1. The order cancelling the petitioner's licence was passed on 3 March 2026 without any notice to the petitioner (Annexure P-4, page 21).
+
+2. Cancellation of a licence affects the petitioner's right to carry on business. Such an order must be preceded by notice and a hearing, even where the statute is silent (Maneka Gandhi v Union of India, (1978) 1 SCC 248, para 56).
+
+3. No urgency is recorded in the order that could justify excluding a hearing. The order is therefore void and is liable to be quashed.
+END
+
+* Persuade by clarity and credibility; know your theory of the case.
+* Synopsis and list of dates, written last.
+* Argumentative headings; strongest point first, after threshold issues.
+* Accurate facts with record references; deal openly with adverse authority (duty of candour).
+* Respectful tone; no exaggeration; respect page limits.
+
+QL: What are the principles of effective written advocacy? Illustrate with reference to written submissions in an Indian court.
+QS: Synopsis and list of dates
+QS: Theory of the case
+QS: Dealing with adverse authority
+
+MCQ: An argumentative heading should || name the topic only | *state the proposition you want the court to accept | quote the statute in full | be in Latin || For example, "The impugned order is void because..."
+MCQ: Binding authority against your client's case should be || omitted | *disclosed and distinguished or answered | cited only if the opponent cites it | placed in an annexure || The advocate's duty of candour to the court.
+
+# 9 | Drafting language
+@topics Shall, may and must; definitions; and, or; provisos and exceptions; numbers, dates and money; gender-neutral language; consistency
+>> In drafting, precision matters more than style. Use each word in one meaning only, define terms once, and avoid ambiguous connectors.
+
+## 9.1 Words of obligation and permission
+- **Shall** in legislation and contracts traditionally imposes a duty. Courts may read "shall" as directory where the context requires, so it is not always mandatory (*State of UP v Babu Ram Upadhya*, 1961).
+- **Must** is the plain-language alternative for a duty, increasingly used in modern drafting.
+- **May** confers a discretion or permission.
+- **Shall not** or **must not** prohibits.
+- Do not use "shall" to describe facts or future events ("the agreement shall be governed by..." is acceptable as a declaration; "the goods shall be red" is ambiguous).
+
+## 9.2 Definitions
+- Define a term only if it is used more than once or has a special meaning.
+- "Means" gives an exhaustive definition; "includes" extends the ordinary meaning.
+- Define in one place, and use the defined term consistently, with a capital letter if that is your convention.
+- Do not put substantive obligations inside definitions.
+
+## 9.3 And, or, and "and/or"
+- "And" is usually conjunctive (all items); "or" is usually disjunctive (any one), but both can be ambiguous in long lists.
+- Avoid "and/or". Write "A or B, or both".
+- For lists, say expressly whether all items are required ("all of the following") or any one ("any of the following").
+
+## 9.4 Provisos, exceptions and numbering
+- Prefer "except", "unless" or "but" to "provided that", which is often unclear about whether it creates an exception or a condition.
+- Number clauses and sub-clauses in a consistent hierarchy: 1, 1.1, (a), (i).
+- Cross-refer by number, and check cross-references after every revision.
+
+## 9.5 Numbers, dates, money and time
+- Write sums in figures and words where the document will be relied on: ₹5,00,000 (Rupees five lakh only).
+- Use unambiguous dates: 3 March 2026, not 03/03/26.
+- State whether periods include or exclude the first and last day. Section 9 of the General Clauses Act excludes the first day and includes the last unless otherwise stated.
+- Say "within 30 days after" rather than "within 30 days of" when the start point matters.
+
+## 9.6 Gender-neutral and respectful language
+- Use the person's role ("the employee", "the applicant") or "they" rather than "he" for everyone, unless the statute's language must be quoted.
+- Avoid stereotypes and outdated terms; for example, use "person with disability", following the Rights of Persons with Disabilities Act, 2016. The Supreme Court's *Handbook on Combating Gender Stereotypes* (2023) lists terms to avoid in judgments and pleadings.
+
+* Shall (duty, but may be directory), must, may, shall not.
+* Means (exhaustive) v includes (extensive); define once, use consistently.
+* Avoid "and/or"; say "all of" or "any of".
+* Prefer except or unless to provided that; consistent numbering.
+* Figures and words for money; clear dates; s.9 General Clauses Act.
+* Gender-neutral, respectful language (SC Handbook, 2023).
+
+QL: Discuss the use of "shall", "may", "means" and "includes" in legal drafting with examples.
+QS: Ambiguity of "and/or"
+QS: Computation of time under section 9 of the General Clauses Act
+
+MCQ: A definition using "means" is generally || extensive | *exhaustive | illustrative | void || "Includes" extends the ordinary meaning.
+MCQ: Under section 9 of the General Clauses Act, in computing a period "from" a date || the first day is included | *the first day is excluded and the last day included | both days are excluded | both days are included || Unless otherwise stated.
+
+# 10 | Transactional and in-house writing
+@topics Architecture of a contract; covenants, conditions, representations and warranties; boilerplate; style of contract language; writing for business clients; notes for management
+>> Contracts are read by people looking for their rights and obligations, often years later and in a dispute. Business readers want the risk and the recommendation, not the law. Both need precise, well-organised writing.
+
+## 10.1 Architecture of a contract
+A typical commercial contract follows this order:
+1. title, date and parties;
+2. recitals (background, which do not create obligations);
+3. definitions and interpretation;
+4. the main commercial terms (what is sold or done, price, payment, delivery);
+5. conditions precedent;
+6. representations and warranties;
+7. covenants (continuing obligations);
+8. indemnities and limitation of liability;
+9. term and termination;
+10. boilerplate (notices, governing law, dispute resolution, assignment, entire agreement, severability, force majeure); and
+11. signatures and schedules.
+
+## 10.2 Kinds of contract language
+Using the right type of language for each provision prevents disputes:
+| Purpose | Typical language | Example |
+| Obligation (covenant) | "must" or "shall" | The Supplier must deliver the goods by 31 March. |
+| Discretion | "may" | The Buyer may reject defective goods. |
+| Prohibition | "must not" or "shall not" | The Licensee must not sub-license the software. |
+| Condition | "if", "subject to", "only after" | The Buyer must pay only after the goods pass inspection. |
+| Representation or warranty | "represents and warrants that" | The Seller represents that it owns the goods. |
+| Declaration (agreed fact or rule) | "is", "means" | This Agreement is governed by Indian law. |
+| Policy or intention (not binding) | recitals | The parties wish to cooperate in research. |
+
+## 10.3 Style
+- Use defined terms consistently; never use two words for the same thing ("goods" and "products").
+- One obligation per sentence, with the party who must act as the subject.
+- State time limits, amounts and conditions exactly.
+- Avoid "best efforts" and "reasonable endeavours" unless you mean their specific standard, and define them where possible.
+- Keep boilerplate up to date: for example, an arbitration clause must name the seat and the number of arbitrators, and should avoid unilateral appointment by one party (*Central Organisation for Railway Electrification v ECI-SPIC-SMO-MCML*, 2024).
+
+## 10.4 Writing for business clients and in-house teams
+In-house lawyers and lawyers advising businesses write for managers who want decisions, not legal analysis.
+- Start with an executive summary: the issue, the risk (high, medium or low), and the recommendation.
+- Explain the legal position only as far as it affects the decision.
+- Quantify the risk where possible: likely cost, time, regulatory penalty.
+- Give options, with your recommended option and the steps to carry it out.
+- Use short documents, tables and bullet points. Put supporting detail in an annexure.
+
+DRAFT: Legal risk note for management
+**To:** Board of Directors
+**Subject:** Use of customer data in the new loyalty app
+
+**Summary:** The app may launch on schedule if we obtain fresh consent from customers and publish a revised privacy notice. Launching without these steps carries a high risk of penalties under the Digital Personal Data Protection Act, 2023.
+
+**Risk:** High, if launched without fresh consent; low, with the steps below.
+
+**Recommendation:**
+1. Add a consent screen in the app before any data is collected.
+2. Publish the revised privacy notice (draft attached).
+3. Appoint a contact person for data requests.
+
+**Cost and time:** About two weeks of development work; no change to the launch date if started now.
+END
+
+* Contract architecture: recitals, definitions, commercial terms, conditions, warranties, covenants, indemnities, termination, boilerplate.
+* Use the right language for obligation, discretion, prohibition, condition, warranty and declaration.
+* Consistent defined terms; one obligation per sentence; exact time limits and sums.
+* Business writing: executive summary, rated risk, recommendation, options, annexures.
+
+QL: Explain the architecture of a commercial contract and the different kinds of contract language.
+QS: Representations and warranties
+QS: Boilerplate clauses
+QS: Writing a legal risk note for management
+
+MCQ: "The Seller represents that it owns the goods" is an example of || a covenant | *a representation | a condition | a recital || A statement of fact made to induce the contract.
+MCQ: A note for a company's management should begin with || a full analysis of case law | *an executive summary stating the risk and recommendation | the statutory text | the facts in chronological order || Business readers want the decision first.
+
+# 11 | Academic writing: seminar papers, projects and dissertations
+@topics Choosing a topic and research question; structure of a paper; doctrinal and empirical methods; literature review; footnoting; plagiarism and academic integrity
+>> A research paper answers a question. Choose a narrow question, show what is already known, add your analysis, and acknowledge every source.
+
+## 11.1 Topic and research question
+- Choose a topic narrow enough to treat in depth within the word limit: not "Environmental law in India" but "Is ex post facto environmental clearance lawful after the Vanashakti rulings?"
+- Frame a research question, and if useful a hypothesis that you will test.
+- Check that sources are available.
+
+## 11.2 Methods
+- **Doctrinal research:** analysis of statutes, cases and commentary. Most LL.B projects are doctrinal.
+- **Empirical research:** data from surveys, interviews, court records or RTI replies. It needs a clear method, ethical consent and honest reporting of limits.
+- **Comparative research:** how another legal system deals with the same problem.
+
+## 11.3 Structure of a paper
+1. Title, abstract (150 to 250 words) and keywords.
+2. Introduction: background, research question, hypothesis, method, scope and chapter plan.
+3. Literature review: what others have written, and the gap your paper fills.
+4. Body chapters: the analysis, each with a clear point.
+5. Suggestions or recommendations.
+6. Conclusion: the answer to the research question.
+7. Bibliography, with tables of cases and statutes.
+
+## 11.4 Plagiarism and academic integrity
+- Plagiarism is presenting another person's words or ideas as your own, including copying without quotation marks, close paraphrase without citation, and submitting work written by another person or by an AI tool as your own.
+- The UGC (Promotion of Academic Integrity and Prevention of Plagiarism in Higher Educational Institutions) Regulations, 2018 grade similarity in research work: up to 10% is minor; above that, levels of penalty apply, rising with the percentage of similarity.
+- Quote sparingly, with quotation marks and a citation. Paraphrase in your own words and still cite the source.
+- Keep notes of every source as you read so that citations are accurate.
+
+* Narrow topic; a research question and hypothesis.
+* Doctrinal, empirical and comparative methods.
+* Structure: abstract, introduction, literature review, analysis, suggestions, conclusion, bibliography.
+* Plagiarism includes AI-written text presented as your own; UGC Regulations, 2018.
+
+QL: Describe the structure of a legal research paper and the steps in writing it.
+QS: Doctrinal and empirical legal research
+QS: Plagiarism and academic integrity
+
+MCQ: Most LL.B project work uses || empirical research only | *doctrinal research | statistical modelling | ethnography || Analysis of statutes and cases.
+
+# 12 | Professional communication and ethics in writing
+@topics Letters and emails to clients and colleagues; tone; confidentiality and privilege; candour to the court; editing and proofreading
+>> Lawyers are judged by what they write. Professional writing is courteous, accurate and confidential, and never misleading.
+
+## 12.1 Letters and emails
+- Use a clear subject line that states the matter and the purpose.
+- Put the request or the answer in the first paragraph.
+- Keep one matter per email where possible.
+- Use a professional, courteous tone, even when the other side is hostile. Do not write anything you would not want read out in court.
+- Check recipients before sending; a misdirected email can breach confidentiality.
+- Legal notices and replies are formal documents. See the Drafting book (6.1) for models.
+
+## 12.2 Ethics in writing
+- **Candour:** do not misstate the facts or the law, and do not cite authorities you have not verified. Disclose adverse binding authority where your duty to the court requires it.
+- **Confidentiality and privilege:** communications with clients are privileged (s.132 BSA [126 IEA]). Mark documents as privileged where appropriate.
+- **No misleading statements:** in pleadings, affidavits and correspondence. A false affidavit can be prosecuted.
+- **Courtesy:** intemperate language about judges or opponents can be contempt or misconduct.
+
+## 12.3 Editing and proofreading checklist
+1. Does the opening answer the question or state the purpose?
+2. Is every section number, case name, year and citation correct and current?
+3. Is every authority verified?
+4. Are defined terms used consistently?
+5. Are sentences short and in the active voice where possible?
+6. Are there unnecessary words, repetitions or legalese to cut?
+7. Are numbers, dates and names correct and consistent?
+8. Are headings and numbering consistent?
+9. Is the conclusion clear and the remedy or next step stated?
+10. Read it once aloud, or after a break, to catch errors.
+
+* Email: subject line, answer first, courteous, check recipients.
+* Candour, confidentiality (s.132 BSA), no misleading statements, courtesy.
+* Edit: answer first, verified current law, consistency, cut words, read aloud.
+
+QL: What ethical duties apply to a lawyer's written communications?
+QS: Proofreading a legal document
+QS: Professional email etiquette for lawyers
+
+MCQ: Communications between an advocate and client are protected under || s.63 BSA | *s.132 BSA | s.26 BSA | s.118 BSA || Earlier s.126 IEA.
+
+# 13 | Technology, AI and the future of legal writing
+@topics Legal research technology; AI drafting tools and their limits; verification; confidentiality; court rules on AI; writing skills that remain essential
+>> Technology has changed how lawyers research and draft, but not who is responsible. A lawyer must verify every output, protect client confidences, and keep the judgement and writing skills no tool replaces.
+
+## 13.1 How technology has changed legal work
+- Online databases and free official sources (the Supreme Court's Digital SCR, India Code, High Court websites) have replaced most library research.
+- Search tools find cases by citation, phrase and subject; citators show later treatment.
+- Courts have moved to e-filing, virtual hearings and neutral citations, which change the form of documents (bookmarked PDFs, page limits, hyperlinks).
+- Contract management and document automation tools generate first drafts from templates.
+
+## 13.2 Generative AI: uses and limits
+**Useful for:**
+- summarising long documents for a first reading;
+- suggesting structure or headings;
+- checking grammar and plain-language alternatives; and
+- brainstorming issues and counter-arguments.
+
+**Risks:**
+- invented ("hallucinated") cases, citations and quotations;
+- outdated law (for example the IPC instead of the BNS);
+- confident but wrong legal reasoning; and
+- generic text that does not fit the facts.
+
+Courts in India have dealt with orders and pleadings that cited non-existent, AI-generated precedents, and set them aside (*Pooja Ramesh Singh v J&K Bank*, 2026). The Supreme Court published draft regulations on the use of AI in the courts in 2026.
+
+## 13.3 Rules for responsible use
+1. Verify every case, statute and quotation against an official or recognised source before relying on it.
+2. Do not upload confidential client information to public AI tools. It may breach privilege and the Digital Personal Data Protection Act, 2023.
+3. Follow your institution's and the court's rules on disclosing AI use.
+4. Treat AI output as a draft by an untrained assistant: you remain responsible for every word you sign or submit.
+5. For assignments and dissertations, presenting AI-generated text as your own is academic misconduct.
+
+## 13.4 Skills that remain essential
+Technology makes the core skills more valuable, not less: understanding the facts, finding the right legal issue, judging which arguments will persuade, writing clearly, and checking accuracy. These are the skills this book aims to build.
+
+* Databases, e-filing and neutral citations have changed research and the form of documents.
+* AI helps with summaries, structure and language, but invents cases and uses outdated law.
+* Verify everything; protect confidentiality; disclose AI use where required; you remain responsible.
+* Courts have set aside orders based on AI-fabricated precedents (2026).
+
+QL: Discuss the role of technology and artificial intelligence in legal research and writing, and the safeguards a lawyer must observe.
+QS: Hallucinated citations
+QS: Confidentiality and AI tools
+
+MCQ: Before citing a case suggested by an AI tool, a lawyer must || cite it if it sounds plausible | *verify it against an official or recognised source | ask the AI to confirm it | cite it with a disclaimer || The lawyer remains responsible for every citation.
+

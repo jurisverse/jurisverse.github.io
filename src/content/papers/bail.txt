@@ -1,0 +1,49 @@
+@title Practice scenarios with model answers
+@toc Practice scenarios
+@label Real-life bail situations a young lawyer meets in the first years of practice. Decide what you would do, then open the model answer to compare.
+
+PART: A | At the police station and first production | Advise quickly and practically. | Scenario
+
+Q: Your client is arrested at 10 p.m. for criminal breach of trust (punishable up to five years). No notice of appearance was issued. He is produced before the Magistrate the next afternoon. The police seek seven days' police custody. What do you argue?
+- **Illegal arrest:** for an offence punishable with up to seven years, the police must record reasons showing that a s.35(1)(b) condition applied, and ordinarily issue a notice of appearance under s.35(3) (*Arnesh Kumar*, 2014; *Satender Kumar Antil*, 2022 and 2026). Ask to see the recorded reasons.
+- **Grounds of arrest:** check whether written grounds were supplied at least two hours before production (*Mihir Rajesh Shah*, 2025). If not, the arrest and remand are illegal.
+- **Police custody:** the documents are already with the complainant or bank, so custodial interrogation is not needed. Oppose police custody.
+- **Bail:** apply for bail under s.480 BNSS at once, offering to cooperate, attend on notice, and not contact witnesses.
+
+Q: Your client is arrested for a bailable offence. The SHO refuses to release him unless he produces two local sureties for ₹1 lakh each, which the family cannot arrange tonight. Advise.
+- In a bailable offence, bail is a right, and the officer in charge must release the accused on bail (s.478 BNSS).
+- The amount must not be excessive (s.484; *Moti Ram v State of MP*, 1978). Insist on a reasonable bond, and offer a personal bond or one surety.
+- If the person cannot furnish bail within a week, he must be released on a personal bond as an indigent person (proviso to s.478(1)).
+- If the SHO still refuses, produce the client before the Magistrate at the earliest and apply there; note the refusal for possible action.
+
+PART: B | Bail applications | Advise on the remedy and the arguments. | Scenario
+
+Q: Your client, accused of attempt to murder, has been in judicial custody for 92 days from the date of first remand. No charge-sheet has been filed. It is 11 a.m. What do you do?
+- Attempt to murder (s.109 BNS) can be punished with imprisonment for life where hurt is caused, so the 90-day period applies (s.187(3)).
+- The period has expired and no charge-sheet has been filed, so the client has an indefeasible right to default bail.
+- File the default bail application immediately, stating that he is ready to furnish bail. Ask the court to decide it the same day.
+- If the prosecution files the charge-sheet after your application is filed, the right is not defeated (*Rakesh Kumar Paul*, 2017; *M. Ravindran*, 2020). If you delay and the charge-sheet comes first, the right is lost (*Uday Mohanlal Acharya*, 2001).
+
+Q: Your client's regular bail application was rejected by the Sessions Court two months ago. Since then, the charge-sheet has been filed, and a co-accused with the same role has been granted bail by the High Court. Can you file again, and where?
+- A successive bail application lies on a change of circumstances. Filing of the charge-sheet and parity with a co-accused are changes in circumstances.
+- File before the High Court under s.483, or before the Sessions Court again. If before the Sessions Court, it should preferably go to the same judge (*Captain Buddhikota Subha Rao*, 1989).
+- Disclose the earlier rejection, with the order, and explain the change in circumstances (*Kusha Duruka*, 2024).
+- Argue parity, completion of investigation, and length of custody.
+
+Q: Your client, a businessman, fears arrest after a former partner files a cheating complaint over a disputed payment. The Sessions Court grants anticipatory bail but directs him to deposit ₹10 lakh, the disputed amount. Advise.
+- Bail, including anticipatory bail, is not a recovery proceeding. A condition to deposit the disputed amount is unlawful unless there is some specific justification connected to securing presence (*Dilip Singh v State of MP*, 2021; *Ramesh Kumar v State (NCT of Delhi)*, 2023).
+- File a petition in the High Court challenging the condition, or ask the Sessions Court to modify it, offering appropriate alternative conditions: cooperating with the investigation, not leaving India without permission, and surrendering the passport.
+- Anticipatory bail need not be limited in time (*Sushila Aggarwal*, 2020).
+
+PART: C | Conditions, sureties and cancellation | Advise on the problem. | Scenario
+
+Q: Your client was granted bail ten days ago in a theft case but is still in jail because he cannot find two sureties of ₹50,000 each. He is a daily-wage labourer from another district. What can you do?
+- Inform the DLSA. Under *In re Policy Strategy for Grant of Bail* (2023), the jail should have informed the DLSA if he was not released within seven days of the bail order.
+- Apply to the court to modify the condition: reduce the amount, accept one surety, accept a personal bond, or accept a cash deposit within his means (s.490). Point out that excessive surety requirements in effect deny bail (*Moti Ram*, 1978; *Satender Kumar Antil*, 2022).
+- Give the court the facts about his income and residence, supported by documents.
+
+Q: The complainant applies to cancel your client's bail, alleging that the client threatened a witness at a tea shop. Your client denies it, and the only evidence is the witness's statement given two weeks after the alleged incident. How do you respond?
+- Cancellation requires cogent and overwhelming circumstances showing misuse of liberty, such as tampering with witnesses (*Dolat Ram v State of Haryana*, 1995).
+- Point out the delay in reporting the alleged threat, the lack of a police complaint or other evidence, and the client's compliance with all other conditions.
+- Offer stricter conditions as an alternative, such as not visiting the area where the witness lives, or reporting to the police station weekly.
+- Ask the court to direct the trial court to record the witness's evidence early, which removes any fear of influence.

@@ -1,0 +1,431 @@
+@title Jurisprudence
+@subtitle Concepts, norms, obligation, authority, the limits of legislation and the functions of law
+@paper 2.4
+@sem II
+@color #4a3f6b
+@dark #40375c
+@intro Follows the VSU syllabus, which approaches jurisprudence through questions (What is a concept? What is a norm? Why is law obligatory? What limits the legislature?) rather than through schools alone. Each unit links the theories to Indian constitutional cases.
+@reading Edgar Bodenheimer, Jurisprudence: The Philosophy and Method of the Law
+@reading P.J. Fitzgerald (ed.), Salmond on Jurisprudence
+@reading W. Friedmann, Legal Theory
+@reading M.D.A. Freeman (ed.), Lloyd's Introduction to Jurisprudence
+@reading H.L.A. Hart, The Concept of Law
+@reading R.W.M. Dias, Jurisprudence
+
+# 1 | Why study jurisprudence?
+@topics Need to study jurisprudence; Its relationship with politics, power structures and a just society
+>> Jurisprudence is the study of the nature of law. It asks what law is, why it binds, and what it ought to be, and so trains lawyers to see the assumptions beneath rules.
+
+## Meaning
+- Latin *juris prudentia*: knowledge or skill in law.
+- **Austin**: the philosophy of positive law, studying general principles common to mature legal systems.
+- **Salmond**: the science of the first principles of the civil law.
+- **Holland**: the formal science of positive law.
+- **Julius Stone**: the lawyer's extraversion, the examination of law in the light of other disciplines.
+- Modern jurisprudence includes analytical (concepts), sociological (law in society), normative or ethical (what law ought to be) and critical approaches.
+
+## Why study it?
+- It explains basic concepts (rights, duties, persons, ownership, possession, liability) used in every branch of law.
+- It sharpens reasoning and argument: how to interpret statutes, use precedents and handle gaps.
+- It reveals the values behind law and the link between law and justice.
+- It helps reform: understanding why a law exists makes it possible to criticise and improve it.
+- In India, constitutional cases constantly turn on jurisprudential questions: the limits of the amending power (Kesavananda), natural justice (Maneka Gandhi), the meaning of dignity and privacy (Puttaswamy).
+
+## Law, politics, power structures and a just society
+- **Law and politics**: legislation is the output of political processes; courts decide politically charged disputes (federalism, elections, emergency). Positivists separate law from politics and morality; realists and critical scholars argue law reflects power.
+- **Power structures**: Marxists see law as a tool of the ruling class; feminist jurisprudence shows how law has reflected patriarchy; Dr B.R. Ambedkar saw the Constitution as an instrument to break caste hierarchy.
+- **Just society**: theories of justice (Aristotle's distributive and corrective justice, utilitarianism, Rawls's justice as fairness, the Indian idea of dharma, Amartya Sen's *nyaya* and *niti*) guide law-making and judging.
+
+CASE: Indira Nehru Gandhi v Raj Narain (1975) :: An amendment placing a Prime Minister's election beyond judicial scrutiny was struck down; the case shows how jurisprudential concepts (rule of law, democracy, basic structure) restrain political power.
+
+* Jurisprudence studies the nature, sources, concepts and purposes of law.
+* It underlies reasoning in every branch of law and in constitutional adjudication.
+* Law is closely tied to politics and power; theories of justice evaluate it.
+
+QL: What is jurisprudence? Why should a law student study it?
+QL: Discuss the relationship of law with politics, power structures and a just society.
+QS: Austin's definition of jurisprudence
+QS: Niti and nyaya
+
+MCQ: "Philosophy of positive law" is how jurisprudence was described by || Salmond | *Austin | Pound | Savigny || Analytical school.
+MCQ: "The lawyer's extraversion" is a description of jurisprudence by || Holland | *Julius Stone | Hart | Kelsen || Law in the light of other disciplines.
+
+# 2 | What is a concept? What is a theory?
+@topics Concept; Ideas and notions; What is a theory; Difference between theory, hypothesis, conjecture and opinion
+>> Concepts are the building blocks of legal thought; theories organise them to explain or justify the law.
+
+## Concepts, ideas and notions
+- A **concept** is a general idea formed by abstracting common features from particular instances (for example, "contract", "possession", "person"). Legal concepts give shape and predictability to rules.
+- An **idea** is any content of thought; a **notion** is a vague or provisional idea not yet sharpened into a concept.
+- Legal concepts can be: **descriptive** (describing facts, such as possession), **normative** (prescribing, such as duty), or **institutional** (existing only because of rules, such as marriage or a company).
+- Hart warned against defining legal terms in isolation; their meaning is understood through the rules in which they operate (his essay "Definition and Theory in Jurisprudence", 1953).
+
+## What is a theory?
+A theory is a systematic, reasoned explanation of a phenomenon that connects concepts, can be tested against experience or argument, and aims to explain or justify. In law, theories explain what law is (positivism, natural law, realism) or what it ought to be (theories of justice).
+
+| Term | Meaning | Example |
+|---|---|---|
+| Theory | A coherent, reasoned, tested system of explanation | Hart's theory of law as a union of primary and secondary rules |
+| Hypothesis | A tentative proposition to be tested | "Higher penalties reduce pollution offences" |
+| Conjecture | An unproved guess, with limited evidence | "The framers meant to exclude this case" without support |
+| Opinion | A personal belief or judgment, not necessarily reasoned or tested | A view that a law is unjust |
+
+* Concepts abstract common features; ideas and notions are less precise.
+* Legal concepts are descriptive, normative or institutional.
+* A theory is systematic and tested; hypothesis, conjecture and opinion are weaker forms.
+
+QL: What is a concept? Explain the difference between a concept, an idea and a notion, with reference to legal concepts.
+QL: Distinguish between a theory, a hypothesis, a conjecture and an opinion.
+QS: Institutional concepts
+QS: Hart on definition
+
+MCQ: A tentative proposition to be tested is a || theory | *hypothesis | opinion | concept || Hypothesis.
+MCQ: "Marriage" and "company" are examples of || descriptive concepts | *institutional concepts | conjectures | opinions || They exist because of rules.
+
+# 3 | What is a norm?
+@topics Difference between maxims, rules, principles and customary rules; Primary and secondary rules; What is a normative system
+>> A norm is a standard that guides conduct by saying what ought to be done. Law is a system of norms, structured, as Hart showed, by rules about rules.
+
+## Norms
+A norm is a statement of what ought to be done or not done, as opposed to what is. Kelsen: the law is a system of norms whose validity derives from a higher norm.
+
+## 3.1 Maxims, rules, principles and customary rules
+| Type | Nature | Example |
+|---|---|---|
+| Maxim | A short traditional statement of a general legal truth, used as an aid | *Audi alteram partem*; *nemo judex in causa sua*; *ignorantia juris non excusat* |
+| Rule | Specific; applies in an all-or-nothing fashion (Dworkin) | A will must be signed by two witnesses |
+| Principle | General standard with a dimension of weight, balanced against others | No one shall profit from his own wrong (Riggs v Palmer, 1889); natural justice; proportionality |
+| Customary rule | A norm arising from long, continuous, reasonable and certain practice accepted as binding | Customs of marriage and succession (Collector of Madura v Moottoo Ramalinga, 1868) |
+
+### Dworkin's distinction between rules and principles
+Ronald Dworkin (Taking Rights Seriously, 1977) argued against Hart that law consists not only of rules but also of principles, which judges must apply in hard cases. In **Riggs v Palmer (1889)**, a grandson who murdered his grandfather could not inherit under the will, though the statute of wills had no exception, because of the principle that no one may profit from his own wrong.
+
+## 3.2 Primary and secondary rules (Hart)
+- **Primary rules** impose duties: they require people to do or abstain from actions (criminal law, tort).
+- **Secondary rules** are rules about primary rules:
+  1. **Rule of recognition**: identifies which rules are valid law (in India, roughly: what the Constitution, statutes and binding precedents lay down).
+  2. **Rules of change**: empower persons to introduce, alter or repeal rules (legislative power, Art. 368).
+  3. **Rules of adjudication**: empower persons to decide whether rules have been broken (courts' jurisdiction).
+- Hart: a legal system is the union of primary and secondary rules. A pre-legal society with only primary rules suffers from uncertainty, static character and inefficiency.
+
+## 3.3 What is a normative system?
+A set of norms related to one another so that the validity of each can be traced to a common source.
+- **Kelsen's Pure Theory**: a hierarchy of norms (Stufenbau); each norm derives validity from a higher norm, ending in the **Grundnorm** (basic norm), which is presupposed, not posited. In India, one might say the Grundnorm is that the Constitution ought to be obeyed.
+- **Hart's system**: validity by reference to the rule of recognition, whose existence is a social fact (accepted by officials from the internal point of view).
+- **Other normative systems**: morality, religion, etiquette; law differs in having secondary rules and institutionalised sanctions.
+
+TIP: Combine Hart (primary and secondary rules), Kelsen (hierarchy of norms) and Dworkin (rules and principles) in any answer on norms. Give an Indian example for each.
+
+* A norm says what ought to be done.
+* Maxims, rules, principles and customary rules differ in generality and operation.
+* Rules apply all-or-nothing; principles have weight (Dworkin; Riggs v Palmer).
+* Hart's primary rules impose duties; secondary rules recognise, change and adjudicate.
+* Kelsen's hierarchy of norms ends in the Grundnorm.
+
+QL: Distinguish between maxims, rules, principles and customary rules.
+QL: Explain Hart's distinction between primary and secondary rules. How does it explain a legal system?
+QL: What is a normative system? Discuss with reference to Kelsen's Pure Theory of Law.
+QS: Rule of recognition
+QS: Grundnorm
+QS: Riggs v Palmer
+
+MCQ: The "rule of recognition" is a concept of || Kelsen | *Hart | Austin | Dworkin || A secondary rule.
+MCQ: According to Dworkin, principles differ from rules because principles || are written | *have a dimension of weight | apply all-or-nothing | are made by legislatures || Taking Rights Seriously (1977).
+MCQ: The Grundnorm is || a statute | *the presupposed basic norm from which validity flows | a custom | the rule of recognition || Kelsen.
+
+# 4 | The concept of law
+@topics Concept of law; Its difference from laws of natural science, social sciences, statistics and history; Laws of obligation
+>> Legal laws prescribe what ought to happen and can be broken; scientific laws describe what does happen and are disproved by exceptions.
+
+## Meaning of "law" in different senses
+| Sense | Nature | Breach |
+|---|---|---|
+| Laws of natural science (Newton's law of gravitation) | Descriptive: state uniformities in nature | An exception disproves or revises the law |
+| Laws of social sciences (law of demand) | Descriptive generalisations about human behaviour, often probabilistic | Exceptions are explained, not punished |
+| Statistical laws | Statements of probability and regularity in large numbers | Individual deviations are expected |
+| Laws of history (Marx's historical materialism) | Claims about patterns or direction of historical change | Contested; not normative |
+| Legal laws (Penal Code, Contract Act) | Prescriptive: state what ought to be done, backed by sanctions or institutions | Breach does not invalidate the law; it leads to consequences |
+
+## Definitions of law
+- **Austin (positivist)**: law is a command of the sovereign, backed by a sanction, addressed to persons habitually obedient.
+- **Hart**: the union of primary and secondary rules.
+- **Kelsen**: a coercive order of norms.
+- **Salmond**: the body of principles recognised and applied by the State in the administration of justice.
+- **Savigny (historical)**: law is found, not made; it grows from the spirit of the people (Volksgeist).
+- **Roscoe Pound (sociological)**: law is social engineering, balancing competing interests.
+- **Holmes (realist)**: the prophecies of what the courts will do in fact.
+- **Natural law**: law must accord with reason and morality; an unjust law is not law (*lex injusta non est lex*, Augustine and Aquinas).
+- **Indian tradition**: law as dharma, which binds the king as well as the subject.
+
+## 4.1 Laws of obligation
+Laws that impose obligations (duty-imposing rules) differ from power-conferring rules (contracts, wills, legislation). Hart criticised Austin for reducing all law to commands, ignoring power-conferring rules and the continuity of legal authority. Laws of obligation are characterised by serious social pressure, importance to social life, and potential conflict with self-interest.
+
+* Scientific laws describe; legal laws prescribe.
+* Definitions vary by school: command (Austin), rules (Hart), norms (Kelsen), Volksgeist (Savigny), social engineering (Pound), prediction (Holmes), morality (natural law), dharma.
+* Laws of obligation impose duties; power-conferring rules enable action.
+
+QL: Distinguish between laws in the legal sense and laws of natural science, social science, statistics and history.
+QL: Critically examine the various definitions of law.
+QS: Austin's command theory
+QS: Laws of obligation
+
+MCQ: Law as "prophecies of what the courts will do in fact" was said by || Pound | *Holmes | Austin | Hart || American realism.
+MCQ: A scientific law differs from a legal law in that it is || prescriptive | *descriptive | backed by sanction | made by a sovereign || It describes uniformities.
+
+# 5 | Why are laws obligatory?
+@topics Legal concepts: liability, obligation, sanction, coercion, compulsion, duty, estoppel, promise, dharma, with case material; Contractarian theories: general will, free will and autonomous theories; Positivist theories from Austin onwards; Dworkin, Rawls; Marxian doctrine of withering away of the State; Transcendental theories; Whom does the law obligate? Personality, people, State, Directive Principles, locus standi, Randhir Singh, Golak Nath
+>> Laws bind because of sanction, social acceptance, consent, morality or justice, depending on which theory one accepts. Indian constitutional law draws on all of them.
+
+## 5.1 Legal concepts
+| Concept | Meaning | Case or example |
+|---|---|---|
+| Duty | An act that one is legally bound to do or abstain from doing | Duty of care in negligence (Donoghue v Stevenson) |
+| Obligation | A legal tie by which one is bound to render something to another (Roman *vinculum juris*) | Contractual and quasi-contractual obligations |
+| Liability | The condition of being answerable for a wrong; civil or criminal | Absolute liability (M.C. Mehta, 1987) |
+| Sanction | The consequence attached to breach (punishment, damages, nullity) | Austin's core idea |
+| Coercion | Use or threat of force to secure compliance | s.15 Contract Act |
+| Compulsion | Being forced by law or circumstance | Compulsory acquisition |
+| Estoppel | A rule preventing a person from denying what he has represented | Promissory estoppel against the State (Motilal Padampat, 1979) |
+| Promise | An undertaking that creates an expectation; binding when law so provides | s.2(b) Contract Act |
+| Dharma | Duty and righteousness; the cosmic and social order binding rulers and subjects | Dharma as the foundation of law in classical Indian thought |
+
+## 5.2 Theories of obligation
+### Contractarian theories
+- **Hobbes**: in the state of nature life is "solitary, poor, nasty, brutish and short"; people surrender rights to an absolute sovereign for security; obligation rests on that covenant.
+- **Locke**: people consent to government to protect natural rights of life, liberty and property; government that violates them may be resisted.
+- **Rousseau (general will)**: law binds because it expresses the general will of the community, of which each citizen is a part; obeying it is obeying oneself.
+- **Free-will and autonomy theories (Kant)**: a person is bound by laws that a rational, autonomous will could give to itself; the categorical imperative.
+
+### Positivist theories
+- **Austin**: law is binding because it is a command of the sovereign backed by sanction.
+- **Kelsen**: validity derives from a higher norm, ultimately the presupposed Grundnorm.
+- **Hart**: obligation exists when rules are accepted from the internal point of view and backed by serious social pressure; officials' acceptance of the rule of recognition grounds the system.
+
+### Dworkin
+Law is integrity: judges must interpret legal practice in its best moral light, so that the community speaks with one voice of principle. Obligation arises from "associative obligations" of a community of principle.
+
+### Rawls
+In *A Theory of Justice* (1971), principles of justice are those that free and equal persons would choose behind a **veil of ignorance** in the original position: (1) equal basic liberties for all; (2) social and economic inequalities arranged to the greatest benefit of the least advantaged (the **difference principle**) and attached to offices open to all under fair equality of opportunity. There is a natural duty to support just institutions.
+
+### Marx and the withering away of the State
+Law is part of the superstructure built on the economic base; it serves the interests of the ruling class. After the proletarian revolution and a transitional dictatorship of the proletariat, class antagonisms disappear and the State (and law as coercion) will "wither away" (Engels). Critics point out that socialist States grew stronger, not weaker.
+
+### Transcendental theories
+Obligation derives from a source beyond human will: divine law, natural law (Aquinas), or a moral order such as dharma; positive law binds because and in so far as it conforms to that higher order.
+
+## 5.3 Whom does the law obligate?
+- **Legal personality**: natural persons and legal persons (companies, the State, idols, trusts). A Hindu idol is a juristic person capable of holding property: **Pramatha Nath Mullick v Pradyumna Kumar Mullick (1925)**. The Guru Granth Sahib was held a juristic person in **Shiromani Gurdwara Prabandhak Committee v Som Nath Dass (2000)**.
+- **The people**: the Constitution is made by "We, the people"; citizens owe Fundamental Duties (Art. 51A).
+- **The State**: bound by Fundamental Rights and directed by Directive Principles (Art. 37: fundamental in governance).
+- **Locus standi**: who can enforce obligations; relaxed by PIL (S.P. Gupta, 1981).
+
+CASE: Randhir Singh v Union of India (1982) :: Drivers of the Delhi Police were paid less than drivers in other government departments doing the same work. The Court held that "equal pay for equal work", though a Directive Principle (Art. 39(d)), is a constitutional goal enforceable through Arts. 14 and 16. The State is obligated by Directive Principles when read with Fundamental Rights.
+
+CASE: I.C. Golak Nath v State of Punjab (1967) :: The majority held that Parliament itself is obligated by Fundamental Rights even when amending the Constitution, as an amendment is "law" under Art. 13. Though overruled on this point in Kesavananda, it raised the question whether the sovereign legislature can be bound.
+
+TIP: When asked "why is law obligatory?", compare at least four theories (sanction, social acceptance, consent, justice) and end with an Indian synthesis: constitutional supremacy grounded in popular sovereignty and justice, enforced by courts.
+
+* Key concepts: duty, obligation, liability, sanction, coercion, estoppel, promise, dharma.
+* Contractarians (Hobbes, Locke, Rousseau, Kant) base obligation on consent or rational will.
+* Positivists (Austin, Kelsen, Hart) on command, validity or acceptance.
+* Dworkin on integrity; Rawls on fairness behind the veil of ignorance; Marx predicted withering away of the State.
+* Law obligates persons (natural and juristic), people and the State (Randhir Singh; Golak Nath).
+
+QL: Why are laws obligatory? Critically examine the contractarian and positivist theories.
+QL: Explain Rawls's theory of justice.
+QL: Discuss the Marxian theory of law and the doctrine of withering away of the State.
+QL: Whom does the law obligate? Discuss with reference to legal personality, the State and Directive Principles.
+QS: Veil of ignorance
+QS: General will
+QS: Idol as a juristic person
+QS: Randhir Singh v Union of India
+
+MCQ: The "veil of ignorance" is associated with || Dworkin | *Rawls | Hart | Rousseau || A Theory of Justice (1971).
+MCQ: "Equal pay for equal work" was held enforceable through Arts. 14 and 16 in || Golak Nath | *Randhir Singh v Union of India | Maneka Gandhi | Kesavananda || 1982.
+MCQ: The "general will" theory is associated with || Hobbes | Locke | *Rousseau | Kant || Social contract.
+
+# 6 | Theories of authority and precedent
+@topics Types of authority: legislative, judicial and customary, and their binding nature; Bindingness of precedent; Determination of ratio: methods of Wambaugh, Salmond, Goodhart, Simpson's approach in Jacobs' case; Llewellyn's factors; no distinction between making and declaring law; Gestalt psychology (Peter Brett)
+>> Legislation, precedent and custom are the main sources of legal authority. A precedent binds through its ratio decidendi, and jurists have offered several methods to find it.
+
+## 6.1 Types of authority
+| Source | Nature | Binding force in India |
+|---|---|---|
+| Legislative | Deliberate law-making by a competent legislature | Binding if within competence and consistent with the Constitution |
+| Judicial | Law declared in judgments | Art. 141: law declared by the Supreme Court binds all courts; High Court decisions bind subordinate courts in the State |
+| Customary | Long-standing practice accepted as law | Binding if ancient, certain, reasonable, continuous, not opposed to law or public policy; recognised by statutes (s.29(2) HMA) |
+
+- Other authorities: juristic writings (persuasive), foreign judgments (persuasive), international law (through Art. 51(c) and judicial incorporation where not inconsistent with domestic law).
+
+## 6.2 Precedent and the ratio decidendi
+- **Stare decisis**: courts stand by decided cases. Only the **ratio decidendi** (the reason for the decision, the principle of law necessary to decide the case) binds; **obiter dicta** (statements not necessary to the decision) are only persuasive, though obiter of the Supreme Court is given great weight in India.
+- Within the Supreme Court, a bench is bound by a decision of a larger bench, and a bench of equal strength should refer doubts to a larger bench rather than differ (**Central Board of Dawoodi Bohra Community v State of Maharashtra, 2005**).
+
+### Methods of determining the ratio
+| Jurist | Method |
+|---|---|
+| **Wambaugh** (inversion test) | Frame the proposition of law said to be the ratio, then invert it (insert a word reversing its meaning); if the decision would still have been the same, the proposition was not the ratio |
+| **Salmond** | The ratio is the general principle of law which the case establishes, as gathered from the judgment read with the facts; a precedent is authoritative as to the principle on which it is based |
+| **Goodhart** (material facts test) | The ratio is found by taking account of the facts treated by the judge as material, and his decision based on them; a later court must reach the same conclusion unless there is an additional or different material fact |
+| **Simpson** | Criticised Goodhart's test for ignoring the reasons judges give; a case may have more than one ratio; the ratio is the rule of law expressly or impliedly treated by the judge as necessary to reach the conclusion |
+
+CASE: Jacobs v London County Council (1950) :: The plaintiff tripped on a stone forecourt. The House of Lords decided against her on one ground; another ground was also discussed. Lord Simonds held that where a case is decided on two grounds, both are ratios and binding; a court cannot disregard one as obiter merely because the decision could rest on the other. Simpson used this to show that a case can have more than one ratio.
+
+### Llewellyn's factors
+Karl Llewellyn (The Common Law Tradition, 1960) listed "steadying factors" that make appellate judging predictable: law-conditioned officials, legal doctrine, known techniques, responsibility for justice, the tradition of one right answer, opinions of the court, a known bench, group decision, and judicial security and honesty. He also catalogued the many techniques by which courts expand or narrow precedents.
+
+### Making versus declaring law
+- The **declaratory theory** (Blackstone): judges do not make law but declare what it has always been.
+- Realists and modern theorists accept that judges make law, especially in hard cases. In India, prospective overruling (Golak Nath) and creative interpretation (Maneka Gandhi; Puttaswamy) show judicial law-making.
+- The syllabus note (with reference to **Peter Brett**) suggests, drawing on **Gestalt psychology**, that there is no real distinction between making and declaring: a judge perceives the case as a whole pattern; the "discovery" of the rule and its "creation" happen in the same act of perceiving the whole, just as a figure is perceived only with its ground.
+
+TIP: Apply the methods to a familiar case: Donoghue v Stevenson's ratio by Goodhart's test (material facts: manufacturer, product reaching consumer without intermediate examination, injury) and by Salmond's (duty of care to the ultimate consumer).
+
+## 6.3 Recent judgments (2025–26)
+
+CASE: Rohan Vijay Nahar v State of Maharashtra (2025) :: Judicial discipline under Art. 141 requires High Courts and lower courts to follow binding Supreme Court precedent, not to depart from it.
+
+CASE: Pooja Ramesh Singh v J&K Bank (2026) :: The Supreme Court set aside tribunal orders that relied on non-existent, AI-generated precedents, warning that judges and lawyers must verify every authority they cite.
+
+* Binding precedent and judicial discipline (Rohan Vijay Nahar, 2025); AI-fabricated precedents rejected (2026).
+* Authority comes from legislation, precedent and custom; Art. 141 makes Supreme Court law binding.
+* Only the ratio binds; obiter is persuasive.
+* Wambaugh's inversion test, Salmond's principle test, Goodhart's material facts test and Simpson's criticism.
+* A case decided on two grounds has two ratios (Jacobs v LCC).
+* Llewellyn's steadying factors explain predictability; Gestalt view collapses the making/declaring distinction.
+
+QL: Discuss the binding nature of legislative, judicial and customary authority.
+QL: What is ratio decidendi? Explain the methods of determining it, with reference to Wambaugh, Goodhart and Simpson.
+QL: Do judges make law or merely declare it? Discuss.
+QS: Obiter dicta
+QS: Wambaugh's inversion test
+QS: Jacobs v London County Council
+QS: Article 141
+
+MCQ: The "inversion test" for finding the ratio was proposed by || Goodhart | *Wambaugh | Simpson | Salmond || Invert the proposition and test the result.
+MCQ: The "material facts" test is associated with || Wambaugh | *Goodhart | Llewellyn | Hart || A.L. Goodhart.
+MCQ: Law declared by the Supreme Court binds all courts under || Art. 136 | *Art. 141 | Art. 142 | Art. 144 || Art. 141.
+
+# 7 | Limits on legislative authority
+@topics Positivist view that there are no limits (Austin, Kelsen, Golak Nath, D.C. Wadhwa); Natural law view (Aquinas, Finnis); Rationalist view (Kant, Rawls); Basic structure doctrine (Kesavananda Bharati); The concept of reasonableness with Indian cases: V.G. Row, Dwarka Prasad, Krishan Chander Arora, Haradhan Saha, Nergesh Meerza, Maneka Gandhi
+>> Is a legislature free to make any law? Positivists say yes, natural lawyers and rationalists say no. Indian constitutional law answers through judicial review, the basic structure and the test of reasonableness.
+
+## 7.1 The positivist view: no limits
+- **Austin**: the sovereign is legally illimitable; a sovereign bound by law is a contradiction.
+- **Kelsen**: validity depends only on the norm's derivation from a higher norm; content does not matter. Any content can be law.
+- Indian illustrations:
+  - In **Golak Nath (1967)** the minority treated Parliament's amending power as unlimited (a positivist view).
+  - **D.C. Wadhwa v State of Bihar (1987)**: the Bihar government repromulgated ordinances 256 times without placing them before the legislature. The Court held that repromulgation without legislative approval is a fraud on the Constitution and subverts the democratic process; the executive cannot usurp the legislative function. This shows that, even within positivist validity, the Constitution limits law-making.
+  - **Krishna Kumar Singh v State of Bihar (2017)**: a seven-judge bench held that the failure to place an ordinance before the legislature is a constitutional infraction, and repromulgation is a fraud on the Constitution.
+
+## 7.2 The natural law view: limits of morality and natural justice
+- **Aquinas**: law is an ordinance of reason for the common good, made by one who has care of the community and promulgated. Human law that conflicts with natural law is not law but a perversion of law.
+- **John Finnis** (Natural Law and Natural Rights, 1980): there are basic goods (life, knowledge, play, aesthetic experience, sociability, practical reasonableness, religion) and requirements of practical reasonableness; an unjust law lacks the full moral authority of law, though it may be legally valid.
+- **Natural justice** in India: *audi alteram partem* and *nemo judex in causa sua* are read into statutes and constitutional rights (Maneka Gandhi, 1978).
+
+## 7.3 The rationalist view: limits of rational principles of justice
+- **Kant**: law must be consistent with the principle that each person's freedom is compatible with the freedom of all under a universal law; persons must be treated as ends, not means.
+- **Rawls**: a just constitution protects equal basic liberties that cannot be traded for social advantage; legislation must fit the principles of justice.
+- In India, the doctrine of arbitrariness under Art. 14 (Royappa, 1974; Shayara Bano, 2017) embodies a requirement of rationality in legislation.
+
+## 7.4 The basic structure doctrine
+CASE: Kesavananda Bharati v State of Kerala (1973) :: Parliament may amend any part of the Constitution but cannot alter its basic structure. Any amendment destroying the basic structure is not a valid law. This is a uniquely Indian answer: the limit comes from the Constitution's own identity, neither from external morality nor from an unlimited sovereign.
+
+## 7.5 Reasonableness
+| Case | Principle |
+|---|---|
+| State of Madras v V.G. Row (1952) | No abstract standard of reasonableness; consider nature of the right, purpose and extent of the restriction, urgency of the evil, disproportion and prevailing conditions |
+| Dwarka Prasad Laxmi Narain v State of Uttar Pradesh (1954) | A licensing order giving unfettered discretion to an officer to grant or refuse licences for coal dealing without guidance was an unreasonable restriction on Art. 19(1)(g) |
+| Krishan Chander Arora v Commissioner of Police, Calcutta (1961) | The requirement of a licence for running a place of public entertainment, with guided discretion, was a reasonable restriction |
+| Haradhan Saha v State of West Bengal (1975) | The Maintenance of Internal Security Act was upheld; preventive detention is not punishment, and the procedure with Advisory Boards is reasonable under Arts. 19, 21 and 22 |
+| Air India v Nergesh Meerza (1981) | Regulations terminating air hostesses' service on first pregnancy were struck down as unreasonable, arbitrary and an insult to womanhood; termination on marriage within four years was upheld |
+| Maneka Gandhi v Union of India (1978) | Procedure under Art. 21 must be fair, just and reasonable; reasonableness runs through Arts. 14, 19 and 21 |
+
+TIP: In "limits on legislative authority", present the four views as columns (positivist, natural law, rationalist, basic structure), then show how Indian courts use reasonableness and arbitrariness to give content to the limits.
+
+## 7.6 Recent judgments (2025–26)
+
+CASE: Madras Bar Association v Union of India (2025) :: The legislature cannot simply re-enact provisions that the Court has struck down without removing the basis of the judgment; such a law is an impermissible legislative override.
+
+CASE: Ashwini Kumar Upadhyay v Union of India (2026) :: Creating new offences is a legislative function. The Court declined to frame a hate-speech offence by judicial direction.
+
+* No legislative override of judgments (MBA, 2025); courts do not create offences (2026).
+* Positivists (Austin, Kelsen) see no limits on the sovereign; but repromulgation of ordinances is a fraud on the Constitution (D.C. Wadhwa; Krishna Kumar Singh).
+* Natural law (Aquinas, Finnis) limits law by morality and natural justice.
+* Rationalists (Kant, Rawls) limit law by principles of justice; Art. 14 arbitrariness doctrine reflects this.
+* Basic structure limits even constitutional amendment (Kesavananda).
+* Reasonableness: V.G. Row, Dwarka Prasad, Krishan Chander Arora, Haradhan Saha, Nergesh Meerza, Maneka Gandhi.
+
+QL: Are there any limits on legislative authority? Discuss with reference to positivist, natural law and rationalist views.
+QL: Explain the basic structure doctrine as a limit on legislative power.
+QL: Discuss the concept of reasonableness with reference to Indian cases.
+QS: D.C. Wadhwa v State of Bihar
+QS: Air India v Nergesh Meerza
+QS: Finnis's basic goods
+
+MCQ: Repromulgation of ordinances was held a fraud on the Constitution in || Maneka Gandhi | *D.C. Wadhwa v State of Bihar | Haradhan Saha | V.G. Row || 1987.
+MCQ: "Lex injusta non est lex" expresses the view of || legal positivism | *natural law | legal realism | Marxism || An unjust law is not law.
+MCQ: Termination of air hostesses on first pregnancy was struck down in || V.G. Row | Krishan Chander Arora | *Air India v Nergesh Meerza | Dwarka Prasad || 1981.
+
+# 8 | The functions of law
+@topics Law as upholder of moral order; Dharma and the connection between law and morality; Law for efficiency and social stability (utilitarian views); Ends of a legal, political and religious order: are they interchangeable? Dialectics of law; Law as a means of social control; Law as Volksgeist
+>> Law maintains order, upholds morality, promotes welfare, resolves disputes and changes society. Different schools emphasise different functions.
+
+## 8.1 Law as upholder of the moral order
+- **Devlin** (The Enforcement of Morals, 1959): society is held together by a shared morality; the law may enforce it to prevent disintegration, as with treason.
+- **Hart** (Law, Liberty and Morality, 1963): following Mill's harm principle, law should restrict liberty only to prevent harm to others, not to enforce private morality.
+- The Hart-Devlin debate followed the Wolfenden Report (1957) on homosexuality and prostitution. In India, **Navtej Singh Johar (2018)** preferred "constitutional morality" over popular or social morality in decriminalising consensual same-sex relations.
+
+## 8.2 Dharma and the link between law and morality
+- In classical Indian thought, *dharma* includes law, duty, righteousness and the order sustaining society. The king (*raja*) was bound to uphold dharma and was himself subject to it.
+- Sources: Vedas, Smritis, custom (*sadachara*) and conscience (*atmatushti*).
+- Dharma does not separate law and morality: legal rules are part of the moral order.
+- The Supreme Court has referred to dharma as a concept of duty and righteousness in constitutional interpretation, while constitutional morality, not religious dharma, is the touchstone of validity.
+
+## 8.3 Utilitarian views: efficiency and stability
+- **Bentham**: law should aim at "the greatest happiness of the greatest number"; pain and pleasure are the sovereign masters; punishment is justified only if it prevents greater mischief.
+- **J.S. Mill**: liberty and the harm principle.
+- **Law and economics** (Posner): legal rules should promote efficiency, minimising transaction costs and maximising wealth.
+- Criticism: utilitarianism may sacrifice minority rights; rights theories (Dworkin, Rawls) set side constraints.
+
+## 8.4 Legal, political and religious orders
+| Order | Ends | Means |
+|---|---|---|
+| Legal | Justice, order, certainty, protection of rights | Rules enforced by courts and State sanctions |
+| Political | Power, policy, public welfare, legitimacy | Elections, legislation, administration |
+| Religious | Salvation, spiritual and moral perfection | Faith, ritual, religious authority |
+- Are they interchangeable? A secular constitutional State separates them (Arts. 25 to 28), but they interact: religion influences personal law; politics makes law; law limits politics. Replacing one by another (theocracy, or politics without law) threatens liberty.
+- **Dialectics of law**: law develops through conflict and resolution of opposing forces: Hegel's thesis, antithesis and synthesis; Marx's material dialectic of class struggle; and in practice, the tension between stability and change, individual and community, rights and duties.
+
+## 8.5 Law as a means of social control
+- **Roscoe Pound**: law is social engineering; the task is to reconcile and balance conflicting individual, public and social interests with minimum friction and waste. He classified interests and set out "jural postulates" of civilised society.
+- **Social control** works through formal sanctions and through law's educative and expressive effect.
+- **Law as an instrument of social change** in India: abolition of untouchability, land reform, Hindu Code reforms, reservation, Right to Education.
+
+## 8.6 Law as Volksgeist
+- **Savigny** (historical school): law is not made by legislators but grows organically from the common consciousness or spirit of the people (*Volksgeist*), like language. He opposed a hasty codification of German law (1814).
+- **Henry Maine**: the movement of progressive societies has been "from Status to Contract".
+- Criticism: the Volksgeist is vague; it ignores conscious reform; it was later misused by nationalism. In India, it explains the persistence of custom and personal law, and the difficulty of a Uniform Civil Code.
+
+TIP: For "functions of law", organise by school: natural law (morality), utilitarian (welfare and efficiency), sociological (social control and engineering, Pound), historical (Volksgeist, Savigny), Marxist (class instrument and dialectics), Indian (dharma). End with law as an agent of social change in India.
+
+* Hart-Devlin debate on enforcement of morality; India prefers constitutional morality (Navtej Johar).
+* Dharma unites law and morality in classical Indian thought.
+* Utilitarians (Bentham, Mill) and law and economics see law as maximising welfare and efficiency.
+* Legal, political and religious orders have different ends; law develops dialectically.
+* Pound: law as social engineering and control.
+* Savigny: law as Volksgeist; Maine: status to contract.
+
+QL: Discuss the relationship between law and morality with reference to the Hart-Devlin debate and the concept of dharma.
+QL: Explain Roscoe Pound's theory of social engineering.
+QL: Critically examine Savigny's theory of Volksgeist.
+QL: "Law is an instrument of social change." Discuss in the Indian context.
+QS: Constitutional morality
+QS: Bentham's utilitarianism
+QS: From status to contract
+QS: Jural postulates
+
+MCQ: The theory of "social engineering" is associated with || Savigny | *Roscoe Pound | Bentham | Austin || Sociological jurisprudence.
+MCQ: "From Status to Contract" was said by || Savigny | *Henry Maine | Hegel | Pound || Ancient Law (1861).
+MCQ: The Volksgeist theory belongs to the || analytical school | *historical school | realist school | natural law school || Savigny.
+MCQ: Constitutional morality, rather than social morality, was emphasised in || Devlin's lecture | *Navtej Singh Johar v Union of India | Golak Nath | D.C. Wadhwa || 2018.

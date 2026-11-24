@@ -1,0 +1,426 @@
+@title Moot Court Exercise and Internship
+@subtitle Practical Training IV: moot courts, observance of trials, client interviewing and pre-trial preparation
+@paper 6.4
+@sem VI
+@marks1 Record work :: 90 marks (three components of 30)
+@marks2 Viva-voce :: 10 marks
+@color #5a4a2f
+@dark #4e4028
+@intro A guide to the three record components of this paper, and to the viva-voce on them: (A) two moot courts, each carrying 15 marks (10 for written submissions and 5 for oral advocacy); (B) observation of two trials, including at least one civil case; and (C) client interviewing and pre-trial preparation. Each unit explains what examiners look for and gives a template you can adapt. Your record must be your own work, based on the problems your faculty assigns and the proceedings you actually observe.
+@reading Bryan Garner, The Winning Brief
+@reading Krishnamurthy Iyer, Advocacy
+@reading Steven Lubet, Modern Trial Advocacy (Indian adaptation)
+@reading Legal Services Authorities: Training Manual for Paralegal Volunteers
+@reading Bar Council of India Rules, Part VI (Professional Conduct)
+
+# 1 | The paper and its assessment
+@topics Components of the paper; Evaluation scheme; Planning the semester
+>> The paper tests practical skills through a record of three components and a viva. Planning early (choosing courts to observe, finding a chamber to intern with, and preparing for moots) is the key to good marks.
+
+## 1.1 Components and marks
+| Component | Marks | What you submit |
+|---|---|---|
+| A. Moot court | 30 (2 × 15) | For each moot: written submissions (10) and oral advocacy (5) |
+| B. Observance of trial | 30 | A record of two cases (at least one civil), stage by stage |
+| C. Interviewing and pre-trial preparation | 30 | Records of client interviews and preparation of a case file |
+| D. Viva-voce | 10 | Oral examination on all three components |
+
+- **Moot evaluation**: by the Principal or Head, an advocate and the teacher concerned.
+- **Written submissions** must include a brief summary of facts, issues involved, provisions of law and agreements, citations, and the prayer.
+- **Oral advocacy** is marked for communication skills, presentation, language, provisions of law, authorities quoted and court manners.
+
+## 1.2 Planning the semester
+1. In the first week, get your moot problems and note the dates.
+2. Arrange an internship with an advocate (or a legal aid clinic) early; get permission to accompany them to court and to client meetings.
+3. Choose two cases to follow, at least one civil, where you can attend several hearings.
+4. Keep a dated diary from the first day; write up each visit the same evening.
+5. Prepare a neat, indexed, signed record; get each entry countersigned where required.
+
+* Three components of 30 marks, plus a viva of 10.
+* Moots: 10 marks written, 5 oral, each; evaluated by a three-member panel.
+* Plan early: problems, internship, two cases, a daily diary.
+
+QL: Describe the components of the moot court and internship paper and how you would plan for them.
+QS: Evaluation of moot courts
+
+MCQ: Out of 15 marks for each moot problem, written submissions carry || 5 | *10 | 15 | 7.5 || Oral advocacy carries 5.
+
+# 2 | Moot court: analysing the problem and research
+@topics Assigned moot problem; Identifying issues; Legal research
+>> A moot is won in the library before it is argued in court. Read the problem many times, identify the issues precisely, and research the law on both sides.
+
+## 2.1 Analysing the problem
+- Read the problem slowly, at least three times; list the facts chronologically; note the parties, dates, documents and statutes mentioned; separate facts that are agreed, disputed and unknown.
+- Identify the **forum** (which court, under what jurisdiction) and the **procedural posture** (suit, appeal, writ, criminal appeal or SLP).
+- Frame **issues** as questions that can be answered "yes" or "no", for example: "Whether the termination of the agreement by the respondent was valid under clause 12."
+- Note any **clues** the drafters planted (dates for limitation, notice periods, statutory amendments).
+
+## 2.2 Legal research
+- **Sources**: bare acts (current versions on India Code); commentaries; Supreme Court and High Court judgments (through SCC Online, Manupatra, or free sources such as Indian Kanoon and the Supreme Court's e-SCR); law commission reports; parliamentary debates; and foreign cases for persuasive value.
+- Read the **ratio** of each case, not only the headnote; check that it has not been overruled or distinguished (use citators).
+- Prepare a **research table**: issue, argument, authority (statute or case), citation, the exact paragraph relied on, and the counter-argument with its answer.
+- Research **both sides**: you may be asked to argue either, and you must anticipate the opponent's best cases.
+
+## 2.3 Recent judgments (2025–26)
+
+CASE: Pooja Ramesh Singh v J&K Bank (2026) :: Orders resting on AI-generated fake precedents were set aside. In moot research, check every authority in a reliable reporter or the court's own website.
+
+* Never cite an unverified authority; AI tools can invent cases (2026).
+* Read the problem repeatedly; chronology; forum and procedural posture; precise issues.
+* Research from current bare acts and authoritative reports; check that cases are still good law.
+* Research table for both sides.
+
+QL: How would you analyse a moot problem and conduct legal research for it?
+QS: Framing issues in a moot problem
+
+MCQ: An issue in a moot problem should ideally be framed as || a narrative of facts | *a question answerable "yes" or "no" | a list of cases | a prayer || For example, "Whether...".
+
+# 3 | Moot court: written submissions (memorial)
+@topics Written submission: summary of facts, issues, provisions of law, citations, prayer
+>> The memorial is the written argument. It must be accurate, well organised and persuasive, with every proposition supported by authority, and must follow the prescribed format.
+
+## 3.1 Structure of a memorial
+| Part | Content |
+|---|---|
+| Cover page | Name of court, case title, side (Petitioner or Respondent), name of the team or student |
+| Table of contents | With page numbers |
+| List of abbreviations | AIR, SCC, Art., s., etc. |
+| Index of authorities | Statutes, cases (with citations), books, reports |
+| Statement of jurisdiction | The provision under which the court hears the matter |
+| Statement of facts | A neutral, concise summary in chronological order |
+| Issues raised | Numbered questions |
+| Summary of arguments | A paragraph for each issue |
+| Arguments advanced | Detailed, with headings for each issue and sub-issue, applying law to facts, with citations |
+| Prayer | Specific reliefs sought |
+
+## 3.2 Writing persuasively
+- Use **headings that argue** ("The termination was invalid because no notice was given"), not neutral headings ("Termination").
+- Follow a clear structure for each issue: state the rule, cite the authority, apply it to the facts, and conclude (IRAC: issue, rule, application, conclusion).
+- Deal with the opponent's strongest argument and answer it.
+- Cite accurately and uniformly (for example, *Maneka Gandhi v Union of India*, (1978) 1 SCC 248). Use a consistent citation style throughout.
+- Do not misstate facts or law; do not add facts not in the problem.
+- Keep within the page limit; proofread carefully.
+
+DRAFT: Memorial: cover page and statement of jurisdiction
+BEFORE THE HON'BLE HIGH COURT OF ANDHRA PRADESH AT AMARAVATI
+
+WRIT PETITION (CIVIL) NO. ____ OF 2026
+
+IN THE MATTER OF:
+[Petitioner] ... Petitioner
+Versus
+State of Andhra Pradesh and others ... Respondents
+
+MEMORIAL ON BEHALF OF THE PETITIONER
+
+Submitted by: [Name], Roll No. [ ], VI Semester, 3-Year LL.B,
+[College], Nellore
+
+STATEMENT OF JURISDICTION
+The Petitioner has approached this Hon'ble Court under Article 226 of
+the Constitution of India. The Petitioner humbly submits to the
+jurisdiction of this Hon'ble Court and accepts that it has the power
+to hear and decide the present petition.
+END
+
+DRAFT: Memorial: issue, summary and argument (example)
+ISSUE I
+Whether the cancellation of the Petitioner's licence without a hearing
+violates the principles of natural justice.
+
+SUMMARY OF ARGUMENTS
+The cancellation of a licence affects the Petitioner's right to carry on
+business under Article 19(1)(g). Such a decision is quasi-judicial in
+nature and must comply with the rule of audi alteram partem. No notice
+or hearing was given before the order dated [date]. The order is
+therefore void.
+
+ARGUMENTS ADVANCED
+1.1 The right to be heard applies to administrative decisions with civil
+consequences. [State the rule; cite Maneka Gandhi v Union of India,
+(1978) 1 SCC 248, para __; A.K. Kraipak v Union of India, (1969) 2 SCC
+262.]
+1.2 The cancellation had serious civil consequences for the Petitioner.
+[Apply the rule to the facts in the problem.]
+1.3 No exception to the rule applies. [Anticipate and answer the
+Respondent's argument of urgency.]
+1.4 Therefore, the order is liable to be quashed.
+
+PRAYER
+In the light of the issues raised, arguments advanced and authorities
+cited, it is most humbly prayed that this Hon'ble Court may be pleased to:
+(a) quash the order dated [date] cancelling the Petitioner's licence;
+(b) direct the Respondents to restore the licence; and
+(c) pass any other order it deems fit in the interests of justice.
+All of which is respectfully submitted.
+Counsel for the Petitioner
+END
+
+* Memorial structure: cover, contents, abbreviations, authorities, jurisdiction, facts, issues, summary, arguments, prayer.
+* Argumentative headings; IRAC for each issue; answer the opponent; accurate, uniform citations.
+* No new facts; respect page limits; proofread.
+
+QL: Explain the structure of a moot court memorial and the principles of persuasive legal writing.
+QS: Statement of jurisdiction
+QS: IRAC method
+
+MCQ: IRAC stands for || Introduction, Research, Argument, Conclusion | *Issue, Rule, Application, Conclusion | Issue, Reasoning, Authority, Citation | Index, Rule, Analysis, Case || A structure for each argument.
+
+# 4 | Moot court: oral advocacy and court manners
+@topics Oral advocacy: communication, presentation, language, law, authorities, court manners
+>> Oral argument tests clarity, command of the law and composure under questions. The best advocates speak simply, answer the bench directly, and stay courteous.
+
+## 4.1 Preparing the oral argument
+- Prepare a **roadmap**: the issues you will argue and the order, with time allocated to each.
+- Prepare a short outline (not a script) and a compendium of key authorities with the relevant paragraphs flagged.
+- Practise aloud, with friends acting as judges who interrupt with questions.
+
+## 4.2 Structure in court
+1. **Introduction**: "May it please Your Lordships. I, [name], appear on behalf of the Petitioner. With Your Lordships' permission, I will address three issues..."
+2. **Facts**: only if the bench wishes; otherwise a brief reference.
+3. **Arguments**: issue by issue; state your proposition, cite the authority, apply it to the facts.
+4. **Rebuttal** (if allowed): answer the opponent's key points briefly.
+5. **Prayer**: "For these reasons, I pray that Your Lordships may be pleased to..."
+
+## 4.3 Answering questions
+- Stop speaking when a judge asks a question; listen fully; answer directly ("Yes, My Lord, because...") and then return to your argument.
+- If you do not know, say so honestly and offer to assist the court later. Never bluff or misstate a case.
+- Concede points that cannot be defended and show why they do not affect your conclusion.
+
+## 4.4 Court manners
+- Address judges of the High Court and Supreme Court as "My Lord" or "Your Lordship" (or "Your Honour", as many courts now prefer, and as the Bar Council has suggested); address subordinate courts as "Your Honour" or "Sir/Madam".
+- Stand when addressing the court; wear the proper dress (black coat and band; white shirt; appropriate attire under the BCI Rules); seek permission before handing up documents; do not interrupt the opponent; refer to the opponent as "my learned friend".
+- Speak clearly and at a moderate pace; maintain eye contact with the bench; avoid reading.
+
+* Prepare a roadmap, outline and compendium; practise with interruptions.
+* Introduction, arguments, rebuttal, prayer.
+* Answer questions directly and honestly; concede where necessary.
+* Court manners: forms of address, dress, courtesy to opponents, clear delivery.
+
+QL: What are the essentials of effective oral advocacy in a moot court? Explain court manners.
+QS: Answering questions from the bench
+QS: Roadmap in oral argument
+
+MCQ: When a judge asks a question during argument, counsel should || continue the prepared speech | *stop, listen and answer directly | refer the question to the co-counsel | ask the judge to wait || Then return to the argument.
+
+# 5 | Observance of trial: civil case
+@topics Observance of a civil trial; Recording observations stage by stage
+>> Observing a civil case from filing to judgment teaches how the CPC works in practice. Your record should follow the stages of the suit and note what actually happened at each hearing.
+
+## 5.1 Stages to observe in a civil suit
+| Stage | Provision | What to note |
+|---|---|---|
+| Presentation of plaint | s.26, Order IV, VII | Court fee, valuation, documents filed, numbering |
+| Issue of summons | s.27, Order V | Mode of service, date fixed |
+| Appearance and written statement | Order VIII, IX | Time taken; set-off or counter-claim; ex parte proceedings if any |
+| Interlocutory applications | Order XXXIX, XXVI | Grounds, arguments, orders on injunction or commission |
+| Examination of parties and ADR | Order X; s.89 | Whether referred to mediation or Lok Adalat |
+| Framing of issues | Order XIV | The issues framed |
+| Evidence | Order XVIII | Affidavit in chief, cross-examination, documents marked (Ex. A1, B1) |
+| Arguments | Order XVIII r.2 | Main points by each side; authorities cited |
+| Judgment and decree | Order XX | Findings on issues; relief granted; costs |
+| Adjournments | Order XVII | Number and reasons |
+
+## 5.2 How to record
+- For each hearing: the date, the court, the case number, the stage, who appeared, what happened, the order passed and the next date.
+- Add your **observations**: procedure followed, time management, advocates' techniques, and any departure from the CPC (with the rule).
+- End with a **reflection**: what you learned and suggestions for reducing delay.
+
+DRAFT: Trial observation diary: sample entry (civil)
+Date of visit: [date]
+Court: Principal Junior Civil Judge, Kavali
+Case: O.S. No. 214 of 2025, [Plaintiff] v [Defendant]
+Nature of suit: Permanent injunction (agricultural land)
+Stage: Cross-examination of PW-1 (plaintiff)
+
+Proceedings:
+The plaintiff's chief-examination affidavit had been filed earlier
+(Order XVIII rule 4). Defence counsel cross-examined PW-1 for about
+40 minutes on the boundaries of the land, the revenue entries, and the
+date of the alleged trespass. Ex. A3 (Adangal extract) was confronted
+to the witness. The court recorded the deposition in English, read it
+over to the witness in Telugu, and obtained his signature.
+
+Order: Cross-examination of PW-1 concluded. Call on [date] for PW-2.
+
+My observations:
+1. Leading questions were asked freely in cross-examination, as
+   permitted by s.146 BSA.
+2. The judge disallowed one question on the plaintiff's personal life
+   as irrelevant.
+3. The case was taken up at 3.30 pm after a long cause list; the next
+   date given is six weeks away, showing the pressure of pendency.
+END
+
+CASE: Salem Advocate Bar Association v Union of India (2005) :: Upholding the 1999 and 2002 CPC amendments, the Supreme Court approved the recording of examination-in-chief by affidavit (Order XVIII rule 4) and of cross-examination by a commissioner, to save court time. It also approved case-management rules to curb adjournments, which is why you will often see evidence recorded before commissioners when you observe civil trials.
+
+* Stages of a civil suit from plaint to decree, with the relevant provisions.
+* Record each hearing: date, stage, appearance, proceedings, order, next date.
+* Add observations and a final reflection.
+
+QL: Describe the stages of a civil suit you observed and explain how you recorded your observations.
+QS: Marking of documents in evidence
+
+MCQ: Examination-in-chief in civil suits is now given || orally only | *by affidavit (Order XVIII rule 4) | in writing to the clerk | through a commissioner only || Cross-examination is in court.
+
+# 6 | Observance of trial: criminal case
+@topics Observance of a criminal trial; Recording observations stage by stage
+>> A criminal trial has its own stages under the BNSS. Observe how the court protects the accused's rights while the prosecution proves its case.
+
+## 6.1 Stages to observe
+| Stage | BNSS provision | What to note |
+|---|---|---|
+| Cognizance and appearance | ss.210, 227 | How the accused was produced; bail status |
+| Supply of documents | s.230 | Whether copies were given within 14 days |
+| Commitment (Sessions cases) | s.232 | Time taken |
+| Discharge or framing of charge | ss.250, 251 (Sessions); ss.262, 263 (warrant cases) | The charge framed; whether the accused pleaded guilty |
+| Prosecution evidence | ss.253, 254 | Witnesses examined; hostile witnesses; exhibits; audio-video evidence |
+| Examination of the accused | s.351 | Questions put; the accused's answers |
+| Defence evidence | s.256 | Whether any defence witnesses were examined |
+| Arguments | s.257 | Main points; authorities |
+| Judgment and sentence | ss.258, 392, 393 | Findings; hearing on sentence; compensation |
+
+## 6.2 Points of special interest
+- Bail hearings: the grounds argued and conditions imposed.
+- Rights of the accused: legal aid (s.341), explanation of charges in the accused's language, presence during evidence (s.308).
+- Victim participation: the victim's counsel assisting the prosecution, victim compensation (s.395 and s.396).
+- Use of technology: video-conference evidence and electronic summons.
+
+CASE: State of Maharashtra v Dr Praful B. Desai (2003) :: Evidence recorded by video-conferencing satisfies the requirement that evidence be taken in the presence of the accused. Note in your record whether any witness was examined by video link, as s.308 BNSS now expressly allows.
+
+* Criminal trial stages under the BNSS: cognizance, documents, charge, evidence, s.351 examination, defence, arguments, judgment.
+* Note bail, the accused's rights, victim participation and technology.
+
+QL: Describe the stages of a criminal trial you observed, with reference to the BNSS.
+QS: Examination of the accused under s.351 BNSS
+
+MCQ: The examination of the accused by the court is now governed by || s.313 BNSS | *s.351 BNSS | s.250 BNSS | s.230 BNSS || Formerly s.313 CrPC.
+
+# 7 | Client interviewing techniques
+@topics Interviewing techniques
+>> The client interview is where the lawyer learns the facts, the client's goals and the documents. Good interviewing builds trust, gathers complete information and sets realistic expectations.
+
+## 7.1 Stages of a client interview
+1. **Preparation**: review any documents sent; prepare a checklist of questions; ensure privacy.
+2. **Opening and rapport**: introduce yourself; explain confidentiality (s.132 BSA and BCI Rules); put the client at ease.
+3. **Client's narrative**: let the client tell the story in their own words using open questions ("Tell me what happened"). Listen actively and do not interrupt.
+4. **Clarification and detail**: use closed and specific questions to fill gaps (dates, amounts, witnesses, documents); build a chronology.
+5. **Identifying goals**: what the client wants (money, possession, a stop to harassment, a quick settlement).
+6. **Preliminary advice**: options (negotiation, mediation, litigation), likely time and cost, risks, and what more is needed. Avoid over-promising.
+7. **Closing**: agree on next steps, documents to bring, fees, and the next meeting; send a follow-up note.
+
+## 7.2 Techniques
+- **Questioning**: start with open questions, then use focused and closed questions; avoid leading questions that may distort the client's account.
+- **Active listening**: paraphrasing, summarising and reflecting feelings.
+- **Funnel technique**: from broad to narrow questions.
+- **Timeline**: draw a chronology with the client.
+- **Dealing with difficult clients**: emotional, uncooperative or dishonest clients; remain calm and professional; explain the duty to the court.
+- **Ethics**: conflict-of-interest check before the interview; confidentiality; not taking a brief where you may be a witness; no promise of results; transparency on fees; no contingency fees.
+
+DRAFT: Client interview record (template)
+Date: [ ]   Place: Chambers of [Advocate], Nellore
+Interviewer: [Student], under supervision of [Advocate]
+Client: [Name], age [ ], occupation [ ], phone [ ]
+Conflict check: Done; no conflict.
+
+1. Client's account (summary):
+   The client says that her husband has not paid maintenance since
+   [date] and that she lives with her two children at her parents'
+   house in Nellore.
+2. Chronology:
+   Marriage [date]; birth of children [dates]; separation [date];
+   last payment [date].
+3. Documents seen / to be collected:
+   Marriage invitation, children's birth certificates, school fee
+   receipts, husband's salary details (if available).
+4. Client's goals:
+   Monthly maintenance for herself and the children; continued
+   residence with her parents for now.
+5. Options discussed:
+   Maintenance under s.144 BNSS; a petition under s.12 of the
+   Protection of Women from Domestic Violence Act; mediation through
+   the Family Court.
+6. Next steps:
+   Client to bring documents by [date]; draft petition to be prepared;
+   affidavit of assets and liabilities (Rajnesh v Neha) to be prepared.
+7. Reflection:
+   [What went well; what you would ask differently next time.]
+END
+
+CASE: Bar of Indian Lawyers v D.K. Gandhi PS National Institute of Communicable Diseases (2024) :: The Supreme Court described the advocate-client relationship as one of personal service with a high degree of trust, in which the client retains substantial control and the advocate is bound by duties to the court. This is why the interview must respect the client's instructions and autonomy while giving honest advice.
+
+* Stages: preparation, rapport, narrative, clarification, goals, advice, closing.
+* Techniques: open then closed questions, active listening, funnel, timeline; handling difficult clients.
+* Ethics: conflict check, confidentiality, no promises, fee transparency.
+
+QL: Explain the stages and techniques of an effective client interview. What ethical duties must the lawyer observe?
+QS: Active listening
+QS: Funnel technique
+
+MCQ: In the early part of a client interview, the lawyer should mainly use || leading questions | *open questions | yes/no questions only | written questionnaires || Then narrow down.
+
+# 8 | Pre-trial preparation
+@topics Pre-trial preparations
+>> Cases are won by preparation: a complete case file, a clear theory of the case, organised evidence, and well-prepared witnesses.
+
+## 8.1 Building the case file
+- **Index** of documents; **chronology**; **list of dates and events**; **parties and witnesses** with contact details; copies of pleadings and orders; research notes; and a running record of hearings.
+
+## 8.2 Developing the theory of the case
+- A short, persuasive explanation of what happened and why the client should win, consistent with the evidence and the law. Every step (pleadings, evidence, cross-examination, arguments) should support it.
+
+## 8.3 Evidence and documents
+- Identify the facts to be proved and the evidence for each (oral, documentary, electronic).
+- Obtain certified copies of public documents; arrange for the s.63 BSA certificate for electronic records; issue notices to produce (Order XII rule 8, CPC) and summonses for witnesses or documents.
+- Check limitation, court fees, jurisdiction, and the need for notice (s.80 CPC or contractual notice).
+
+## 8.4 Witness preparation
+- Interview witnesses separately; review their statements; explain the court procedure and cross-examination.
+- Never coach a witness to give false evidence (that would be misconduct and an offence of fabricating false evidence).
+
+## 8.5 Settlement and ADR
+- Assess the strengths and weaknesses; advise the client about settlement, mediation or Lok Adalat; prepare a negotiating position.
+
+## 8.6 Trial notebook
+- An outline of the opening, the order of witnesses, examination-in-chief questions, cross-examination plans for opposing witnesses, objections to anticipate, and closing arguments.
+
+CASE: Mahender Chawla v Union of India (2018) :: The Supreme Court approved the Witness Protection Scheme, 2018 and directed all States to implement it. Witnesses facing threats can apply to a competent authority for protection measures such as concealment of identity and police escorts. Pre-trial preparation should consider whether a witness needs such protection.
+
+* Case file: index, chronology, parties, documents, research, hearings.
+* Theory of the case.
+* Evidence planning: certified copies, s.63 certificates, summonses; check limitation, fees, jurisdiction, notice.
+* Witness preparation without coaching; settlement assessment; trial notebook.
+
+QL: Explain the steps involved in pre-trial preparation of a civil or criminal case.
+QS: Theory of the case
+QS: Trial notebook
+
+MCQ: Preparing a witness to give false evidence is || a permissible advocacy technique | *professional misconduct and an offence | allowed in civil cases | allowed with the client's consent || Witness preparation must be honest.
+
+# 9 | Internship and the viva-voce
+@topics Internship; Record keeping; Viva-voce
+>> The internship links what you have learned to real practice. A careful record and confident understanding of it are what the viva tests.
+
+## 9.1 Making the most of the internship
+- Attend court with your advocate every day possible; read the files before hearings; help with drafting, research and client meetings (with the client's consent).
+- Maintain professional conduct: punctuality, dress, confidentiality, and respect for court staff.
+- Observe different courts: civil, criminal, family, and tribunals (MACT, consumer commissions), and a Lok Adalat if possible.
+
+## 9.2 The record
+- Organise it in three parts (A, B, C) with an index; date and sign every entry; attach copies of memorials and drafts; get certificates from the advocate and the court where required.
+- Write neatly and legibly; avoid copying from others or from published sources; keep it factual and reflective.
+
+## 9.3 Preparing for the viva
+- Be ready to explain: the moot problems and your arguments; the procedural stages and provisions in your observed cases; why the court passed particular orders; your interview techniques and what you learned; and the ethics involved.
+- Expect questions on basic procedure (CPC, BNSS, BSA), on the provisions behind your drafts, and on professional conduct.
+
+TIP: Most viva questions start with your own record: "Tell us about the civil case you observed. What stage was it at? Which Order of the CPC applies?" Know every case and provision in your record.
+
+* Use the internship to see varied courts and to practise drafting and research.
+* An organised, signed, original record in three parts.
+* The viva tests your understanding of your own record and basic procedure and ethics.
+
+QL: How should a law student make the best use of an internship? How should the record be maintained?
+QS: Preparing for the viva-voce
+
+MCQ: The viva-voce in this paper carries || 30 marks | *10 marks | 20 marks | 15 marks || The record carries 90.

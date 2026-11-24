@@ -1,0 +1,567 @@
+@title Legal Maxims
+@subtitle The Latin (and equity) maxims an LL.B student needs, grouped by subject, with meaning, explanation and the leading case for each
+@paper Companion
+@sem All semesters
+@color #1f5f5b
+@dark #174a47
+@marks1 Most useful for :: Interpretation of Statutes (3.5), Torts, Crimes, Contracts, CPC and BSA
+@marks2 Each maxim gives :: literal meaning, how courts use it, leading case
+@intro Maxims are short statements of legal principle, mostly in Latin, that courts and examiners use as shorthand for settled rules. This companion collects the ones that come up across the VSU LL.B papers, grouped by subject, with the literal meaning, what the maxim means in Indian law today, and a leading case. Use the A to Z index at the end to look a maxim up quickly. Where a maxim has been modified by statute (for example the BNS, BNSS or BSA) the current provision is given.
+@reading Broom, A Selection of Legal Maxims
+@reading Jethro Brown (ed.), Broom's Legal Maxims
+@reading P. Ramanatha Aiyar, Advanced Law Lexicon
+@reading Black's Law Dictionary
+@reading G.P. Singh, Principles of Statutory Interpretation (for the interpretation maxims)
+@reading Snell's Equity (for the maxims of equity)
+
+# 1 | Using maxims in answers and in court
+@topics What a maxim is; Sources; Authority of maxims; How to use maxims in exam answers
+>> A maxim is a compressed rule. It carries weight because courts have applied it for centuries, but it never overrides the words of a statute or the Constitution.
+
+## 1.1 What a maxim is
+A legal maxim is an established principle stated in a short, memorable form. Most come from Roman law and the medieval common law, and are in Latin. Some, such as the maxims of equity, are in English. A few Indian maxims come from the Sanskrit and Islamic legal traditions, but the exam syllabus uses the Latin and equity maxims.
+
+## 1.2 How much weight a maxim carries
+- A maxim states a principle; it is not itself a rule of law. Courts apply it where it fits and the statute is silent.
+- A maxim cannot override the express words of a statute. *Ignorantia juris non excusat*, for example, yields where a statute requires knowledge of the law.
+- Indian courts treat many maxims as part of the law through decisions: *audi alteram partem* is read into Art. 14 and Art. 21; *nemo debet bis vexari* is codified in s.11 CPC, Art. 20(2) and s.337 BNSS.
+- Some English maxims have been rejected or diluted in India. *Falsus in uno, falsus in omnibus* is not applied (*Nisar Ali v State of UP*, 1957); the King-can-do-no-wrong rule never applied as such because of Art. 300.
+
+## 1.3 Using maxims in exam answers
+- Name the maxim, translate it, state the rule in plain words, then give the leading case.
+- Show the limits or exceptions; examiners reward this.
+- Do not string maxims together for decoration. One correctly used maxim with a case is worth more than five without.
+- Spell the maxim correctly and italicise or underline it in a handwritten answer.
+
+TIP: A good short note on a maxim has four lines: the maxim and its translation, the rule, the leading case, and an exception or statutory provision.
+
+* Maxims state settled principles in short form; mostly Latin, some English (equity).
+* They yield to statute; many are codified (s.11 CPC, Art. 20(2), s.337 BNSS).
+* Some are not applied in India (falsus in uno falsus in omnibus).
+* Exam method: maxim, translation, rule, case, limit.
+
+QS: Value of legal maxims in interpretation
+QS: Falsus in uno, falsus in omnibus in Indian law
+
+MCQ: The maxim falsus in uno, falsus in omnibus is || mandatory in India | *not applied as a rule of law in India | applied only in civil cases | codified in the BSA || Nisar Ali v State of UP (1957).
+MCQ: A legal maxim || overrides a statute | *yields to the express words of a statute | binds only the Supreme Court | applies only in criminal cases || Maxims state principles, not statutory rules.
+
+# 2 | General principles of law and justice
+@topics Maxims of general application: rights and remedies; knowledge of law; wrongdoing and benefit; finality; necessity; the act of the court
+>> These maxims express the foundations of any legal system: every right has a remedy, the law does not demand the impossible, no one may profit from his own wrong, and litigation must end.
+
+## 2.1 Rights and remedies
+MAXIM: Ubi jus ibi remedium :: Where there is a right, there is a remedy. :: A legal right without a remedy is meaningless; the law provides a remedy for every invasion of a right. It underlies Arts. 32 and 226 and the tort of injuria sine damno (*Ashby v White*, 1703). Public-law compensation for violation of Art. 21 rests on it (*Nilabati Behera v State of Orissa*, 1993).
+
+MAXIM: Ubi societas ibi jus :: Where there is society, there is law. :: Law is a social necessity; wherever people live together, rules arise to govern them. Used in jurisprudence to explain the origin of law.
+
+MAXIM: Vigilantibus non dormientibus jura subveniunt :: The law assists the vigilant, not those who sleep over their rights. :: The basis of the law of limitation and of the doctrine of laches in writ jurisdiction. Courts refuse relief to a party who delays without explanation (*State of Odisha v Namatara Girls High School*, 2026, an 11-year delay not condoned).
+
+MAXIM: Interest reipublicae ut sit finis litium :: It is in the interest of the State that there be an end to litigation. :: The basis of res judicata, limitation and finality of judgments. Together with *nemo debet bis vexari*, it underlies s.11 CPC (*Daryao v State of UP*, 1961).
+
+## 2.2 Knowledge of the law and of facts
+MAXIM: Ignorantia juris non excusat :: Ignorance of the law is no excuse. :: Every person is presumed to know the law; a mistake of law is no defence in crime (s.14 BNS protects only mistakes of fact) and does not avoid a contract (s.21 Contract Act). *State of Maharashtra v M.H. George* (1965): a foreigner was liable under a notification he did not know of. The rule is softened where the law was not published (*Harla v State of Rajasthan*, 1951).
+
+MAXIM: Ignorantia facti excusat :: Ignorance of fact excuses. :: A bona fide mistake of fact, not law, is a defence: ss.14 and 17 BNS [76 and 79 IPC]. *R v Tolson* (1889): a woman who remarried believing on reasonable grounds that her husband was dead was not guilty of bigamy.
+
+## 2.3 Wrongdoing and benefit
+MAXIM: Nullus commodum capere potest de injuria sua propria :: No one can take advantage of his own wrong. :: A party cannot rely on his own breach or illegality to gain a benefit. A murderer cannot inherit from the victim (s.25 Hindu Succession Act; *R v Sigsworth*, 1935); a party cannot plead the absence of a contract it prevented from being completed.
+
+MAXIM: Ex turpi causa non oritur actio :: No action arises from a base cause. :: Courts will not help a party whose claim rests on an illegal or immoral act. It underlies s.23 of the Contract Act. *Holman v Johnson* (1775) explains that the defence is allowed not for the defendant's sake but because courts will not lend aid to illegality.
+
+MAXIM: In pari delicto potior est conditio defendentis :: Where both parties are equally at fault, the position of the defendant is stronger. :: Money paid under an illegal contract cannot generally be recovered where both parties are equally guilty. Exceptions: the parties are not in pari delicto (one was oppressed or defrauded), or the plaintiff repents before the illegal purpose is carried out (*Immani Appa Rao v Gollapalli Ramalingamurthi*, 1962).
+
+MAXIM: Fraus omnia corrumpit :: Fraud vitiates everything. :: A judgment, decree or order obtained by fraud is a nullity and can be challenged in any proceeding, even collaterally (*S.P. Chengalvaraya Naidu v Jagannath*, 1994). Fraud also vitiates consent (s.17 Contract Act).
+
+## 2.4 Necessity and the impossible
+MAXIM: Lex non cogit ad impossibilia :: The law does not compel the impossible. :: A person is excused where performance of a legal duty is impossible. It underlies frustration of contracts (s.56) and excuses non-compliance with a time limit where compliance was impossible (*Raj Kumar Dey v Tarapada Dey*, 1987).
+
+MAXIM: Impotentia excusat legem :: Inability excuses the law. :: Closely related to the previous maxim: where the law requires an act that a person is unable to perform without fault, the failure is excused.
+
+MAXIM: Necessitas non habet legem :: Necessity knows no law. :: The basis of the defence of necessity: an act done in good faith to avoid greater harm is excused (s.19 BNS [81 IPC]). It is not a defence to murder (*R v Dudley and Stephens*, 1884).
+
+MAXIM: Salus populi suprema lex :: The welfare of the people is the supreme law. :: Individual interest yields to public welfare. It justifies police powers, eminent domain and reasonable restrictions on rights, and the defence of necessity in tort (destroying property to stop the spread of fire).
+
+## 2.5 The act of the court and the law's trivia
+MAXIM: Actus curiae neminem gravabit :: An act of the court shall prejudice no one. :: A party should not suffer because of the court's delay or mistake. Courts use it to restore parties to the position they would have held (*A.R. Antulay v R.S. Nayak*, 1988; *Jang Singh v Brij Lal*, 1966).
+
+MAXIM: De minimis non curat lex :: The law does not concern itself with trifles. :: Trivial violations are not punished. It is codified in s.33 BNS [95 IPC]: nothing is an offence if the harm is so slight that a person of ordinary sense would not complain (*Veeda Menezes v Yusuf Khan*, 1966).
+
+MAXIM: Fiat justitia ruat caelum :: Let justice be done though the heavens fall. :: Justice must be done whatever the consequences. Used rhetorically in judgments to emphasise judicial independence.
+
+* Ubi jus ibi remedium: right means remedy (Arts. 32 and 226; Nilabati Behera).
+* Ignorantia juris non excusat; ignorantia facti excusat (ss.14, 17 BNS).
+* No benefit from own wrong; ex turpi causa; in pari delicto (Immani Appa Rao).
+* Fraus omnia corrumpit (S.P. Chengalvaraya Naidu).
+* Lex non cogit ad impossibilia; necessitas non habet legem (not for murder: Dudley and Stephens).
+* Actus curiae neminem gravabit (Antulay); de minimis (s.33 BNS).
+
+QL: Explain the maxims ignorantia juris non excusat and ignorantia facti excusat with reference to the BNS and the Contract Act.
+QL: "No one can take advantage of his own wrong." Discuss with related maxims.
+QS: Ubi jus ibi remedium
+QS: Actus curiae neminem gravabit
+QS: Fraus omnia corrumpit
+QS: De minimis non curat lex
+
+MCQ: "A judgment obtained by fraud is a nullity" was held in || Daryao v State of UP | *S.P. Chengalvaraya Naidu v Jagannath | A.R. Antulay v R.S. Nayak | Harla v State of Rajasthan || 1994; fraus omnia corrumpit.
+MCQ: De minimis non curat lex is codified in || s.14 BNS | *s.33 BNS | s.19 BNS | s.22 BNS || IPC s.95, trifling harm.
+MCQ: Necessity was held to be no defence to murder in || R v Tolson | *R v Dudley and Stephens | R v Sigsworth | Holman v Johnson || 1884.
+MCQ: The maxim underlying the law of limitation is || ubi jus ibi remedium | *vigilantibus non dormientibus jura subveniunt | de minimis non curat lex | salus populi suprema lex || The law helps the vigilant.
+
+# 3 | Constitutional and administrative law
+@topics Natural justice; delegation; sovereign immunity; legality and retrospectivity; the writs
+>> Natural justice, the limits of delegated power and the meaning of the writs are all carried in Latin maxims that Indian courts have absorbed into Articles 14, 21 and 32.
+
+## 3.1 Natural justice
+MAXIM: Audi alteram partem :: Hear the other side. :: No one should be condemned unheard. A person affected by a decision must get notice and a fair hearing. It is part of Art. 14 and Art. 21 (*Maneka Gandhi v Union of India*, 1978; *A.K. Kraipak v Union of India*, 1969). It may be excluded in emergencies, with a post-decisional hearing.
+
+MAXIM: Nemo judex in causa sua :: No one should be a judge in his own cause. :: The rule against bias: pecuniary, personal or official bias disqualifies the decision-maker. The test is a real likelihood or reasonable apprehension of bias (*A.K. Kraipak*, 1969; *Ranjit Thakur v Union of India*, 1987). Justice must not only be done but must be seen to be done (*R v Sussex Justices, ex parte McCarthy*, 1924).
+
+MAXIM: Qui aliquid statuerit parte inaudita altera, aequum licet dixerit, haud aequum fecerit :: He who decides without hearing the other side, though he decides rightly, has not acted justly. :: The longer form of audi alteram partem. It explains why a right decision reached without a hearing is still set aside.
+
+## 3.2 Delegation and power
+MAXIM: Delegatus non potest delegare :: A delegate cannot further delegate. :: A person to whom power is delegated must exercise it himself and cannot sub-delegate it, unless the parent law permits expressly or by necessary implication (*Ganpati Sitaram Balvalkar v Waman Shripad Mage*, 1981). Also applies to agents (s.190 Contract Act).
+
+MAXIM: Ultra vires :: Beyond the powers. :: An act beyond the legal power of the authority or company is void. Applies to delegated legislation, administrative action and companies (*Ashbury Railway Carriage v Riche*, 1875).
+
+MAXIM: Rex non potest peccare :: The King can do no wrong. :: The English basis of sovereign immunity. It never applied as such in India: under Art. 300 the State is liable like the East India Company, subject to the sovereign-function exception (*Kasturi Lal v State of UP*, 1965), now largely eroded (*N. Nagendra Rao v State of AP*, 1994).
+
+MAXIM: Quod principi placuit legis habet vigorem :: What pleases the ruler has the force of law. :: The Roman maxim of absolute power. It is the opposite of the rule of law and is cited to contrast arbitrary rule with constitutional government (Art. 14; *E.P. Royappa*, 1974).
+
+## 3.3 Legality and retrospectivity
+MAXIM: Nullum crimen sine lege, nulla poena sine lege :: No crime without law, no punishment without law. :: A person can be punished only for an act that was an offence under a law in force when it was done, and only with the penalty then prescribed: Art. 20(1). It bars retrospective criminal laws, but not retrospective changes of procedure (*Rao Shiv Bahadur Singh v State of Vindhya Pradesh*, 1953).
+
+MAXIM: Lex prospicit non respicit :: The law looks forward, not backward. :: Statutes are presumed to be prospective unless the legislature clearly makes them retrospective; procedural laws may apply to pending matters (*Hitendra Vishnu Thakur v State of Maharashtra*, 1994).
+
+## 3.4 The writs (meanings to remember)
+MAXIM: Habeas corpus :: You may have the body. :: The writ to produce a person detained before the court and to release him if the detention is illegal. The most important safeguard of personal liberty; any person may apply (*Sunil Batra v Delhi Administration*, 1980).
+
+MAXIM: Mandamus :: We command. :: The writ commanding a public authority to perform a public legal duty it has failed to perform. Not available against a private person or for a purely contractual duty.
+
+MAXIM: Certiorari :: To be certified (informed). :: The writ quashing a decision of an inferior court, tribunal or authority for want or excess of jurisdiction, error of law on the face of the record, or violation of natural justice (*Hari Vishnu Kamath v Ahmad Ishaque*, 1955).
+
+MAXIM: Quo warranto :: By what authority? :: The writ requiring the holder of a public office to show by what authority he holds it; the appointment is ousted if illegal (*University of Mysore v C.D. Govinda Rao*, 1964).
+
+MAXIM: Locus standi :: A place to stand. :: The right to bring an action. Relaxed in public interest litigation so that any public-spirited person may move the court for those who cannot (*S.P. Gupta v Union of India*, 1981).
+
+* Audi alteram partem and nemo judex in causa sua (Kraipak; Maneka Gandhi).
+* Delegatus non potest delegare unless the Act permits (Ganpati Sitaram).
+* Rex non potest peccare never applied as such in India (Art. 300; Nagendra Rao).
+* Nullum crimen sine lege: Art. 20(1); procedure may be retrospective.
+* Writs: habeas corpus, mandamus, certiorari, quo warranto (and prohibition).
+
+QL: Explain the principles of natural justice with reference to the maxims audi alteram partem and nemo judex in causa sua.
+QL: Explain the maxims delegatus non potest delegare and rex non potest peccare with reference to Indian law.
+QS: Nullum crimen sine lege
+QS: Quo warranto
+QS: Locus standi
+
+MCQ: Delegatus non potest delegare means || a delegate must consult the delegator | *a delegate cannot further delegate | delegation is always void | the legislature cannot delegate || Subject to express or implied authority.
+MCQ: "Justice should not only be done but should manifestly and undoubtedly be seen to be done" was said in || A.K. Kraipak | *R v Sussex Justices, ex parte McCarthy | Ranjit Thakur | Maneka Gandhi || 1924.
+MCQ: Art. 20(1) embodies || audi alteram partem | *nullum crimen sine lege | nemo debet bis vexari | nemo tenetur se ipsum accusare || No retrospective criminal liability.
+MCQ: The writ that literally means "we command" is || certiorari | *mandamus | prohibition | quo warranto || Directs performance of a public duty.
+
+# 4 | Law of contract
+@topics Agreement and consent; consideration; illegality; performance and impossibility; remedies; agency; sale of goods
+>> Contract law's maxims express its core ideas: a meeting of minds, promises must be kept, the buyer must take care, no one can pass a better title than he has, and the injured party is put in the position performance would have produced.
+
+## 4.1 Formation
+MAXIM: Consensus ad idem :: Agreement on the same thing (in the same sense). :: There is no contract unless the parties agree on the same thing in the same sense (s.13 Contract Act). A fundamental mistake about the subject matter negatives consent (*Raffles v Wichelhaus*, 1864, the two ships "Peerless").
+
+MAXIM: Pacta sunt servanda :: Agreements must be kept. :: The foundation of the binding force of contracts and treaties (Art. 26, Vienna Convention on the Law of Treaties).
+
+MAXIM: Ex nudo pacto non oritur actio :: No action arises from a bare promise. :: A promise without consideration is not enforceable (s.25 Contract Act), subject to the statutory exceptions: natural love and affection, past voluntary services, time-barred debts, and completed gifts.
+
+MAXIM: Quantum meruit :: As much as he has earned. :: A party who has done work under a contract that is discharged, or where no price was fixed, can recover reasonable payment for what was done (*Planche v Colburn*, 1831; ss.65 and 70 Contract Act).
+
+## 4.2 Interpretation and fairness
+MAXIM: Verba chartarum fortius accipiuntur contra proferentem :: The words of a document are construed most strongly against the party who drafted them. :: Ambiguous terms, especially exclusion clauses in standard form contracts, are read against the drafter (*Central Inland Water Transport v Brojo Nath Ganguly*, 1986, on unconscionable terms; insurance policies are read against the insurer).
+
+MAXIM: Uberrimae fidei :: Of the utmost good faith. :: Contracts such as insurance require full disclosure of all material facts by the proposer; non-disclosure allows the insurer to avoid the policy (*Manmohan Nanda v United India Assurance*, 2022). Ordinary contracts do not require such disclosure (s.17 Explanation).
+
+## 4.3 Performance, impossibility and remedies
+MAXIM: Lex non cogit ad impossibilia :: The law does not compel the impossible. :: Underlies s.56 (supervening impossibility). "Impossible" means impracticable from the point of view of the object, not merely more costly (*Satyabrata Ghose v Mugneeram Bangur*, 1954).
+
+MAXIM: Restitutio in integrum :: Restoration to the original position. :: On rescission, the parties must be restored to their positions before the contract, as far as possible (s.64 Contract Act). In damages for tort, the aim is to put the plaintiff in the position he would have been in had the wrong not occurred.
+
+In contract, damages follow breach: a breach gives at least nominal damages even without proof of loss, while loss caused without any breach is not compensable. The parallel tort maxims, *injuria sine damno* and *damnum sine injuria*, are explained in Unit 5.
+
+## 4.4 Agency and title
+MAXIM: Qui facit per alium facit per se :: He who acts through another does it himself. :: The principal is bound by acts of the agent within authority (s.226 Contract Act), and is vicariously liable for torts in the course of the agency. See also respondeat superior in torts.
+
+MAXIM: Nemo dat quod non habet :: No one gives what he does not have. :: A seller who is not the owner cannot pass a better title than he has (s.27 Sale of Goods Act). Exceptions: estoppel, sale by a mercantile agent, a seller or buyer in possession, a voidable title not yet rescinded (ss.27 to 30), and sale by a co-owner in possession.
+
+MAXIM: Caveat emptor :: Let the buyer beware. :: The buyer must satisfy himself about the quality and fitness of goods; there is no implied condition of quality (s.16 Sale of Goods Act). Exceptions: fitness for a purpose made known, merchantable quality in a sale by description, sale by sample, and fraud (*Priest v Last*, 1903). Consumer protection law has heavily eroded the rule.
+
+MAXIM: Caveat venditor :: Let the seller beware. :: The modern counterpart: under consumer protection law and product liability (Chapter VI, Consumer Protection Act, 2019) the seller and manufacturer bear responsibility for defects.
+
+* Consensus ad idem (s.13); pacta sunt servanda; ex nudo pacto (s.25).
+* Contra proferentem against the drafter; uberrimae fidei in insurance.
+* Lex non cogit ad impossibilia (s.56; Satyabrata Ghose); restitutio in integrum (s.64).
+* Qui facit per alium facit per se (s.226); nemo dat quod non habet (s.27 SGA).
+* Caveat emptor (s.16 SGA) and its exceptions; caveat venditor under consumer law.
+
+QL: Explain the maxim nemo dat quod non habet and its exceptions under the Sale of Goods Act.
+QL: "Caveat emptor has given way to caveat venditor." Discuss.
+QS: Consensus ad idem
+QS: Quantum meruit
+QS: Uberrimae fidei
+QS: Contra proferentem
+
+MCQ: The two ships "Peerless" illustrate || caveat emptor | *absence of consensus ad idem | quantum meruit | restitutio in integrum || Raffles v Wichelhaus (1864).
+MCQ: Nemo dat quod non habet is embodied in || s.16 Sale of Goods Act | *s.27 Sale of Goods Act | s.56 Contract Act | s.226 Contract Act || With exceptions in ss.27 to 30.
+MCQ: Contracts of insurance are contracts || caveat emptor | *uberrimae fidei | ex turpi causa | in pari delicto || Utmost good faith; full disclosure required.
+
+# 5 | Law of torts
+@topics Legal injury and damage; consent; proof of negligence; vicarious liability; causation and remoteness; use of property; death of a party
+>> Torts is full of maxims, and examiners expect them: injuria sine damno, damnum sine injuria, volenti non fit injuria, res ipsa loquitur, respondeat superior and sic utere tuo.
+
+## 5.1 Legal injury and damage
+MAXIM: Injuria sine damno :: Legal injury without actual damage. :: Violation of a legal right is actionable even without loss. *Ashby v White* (1703): a voter wrongfully refused his vote recovered damages; *Bhim Singh v State of J&K* (1985): compensation for illegal detention of an MLA.
+
+MAXIM: Damnum sine injuria :: Damage without legal injury. :: Actual loss without violation of a legal right is not actionable. *Gloucester Grammar School case* (1410): a rival school took pupils; *Mogul Steamship Co v McGregor, Gow and Co* (1892): lawful trade competition.
+
+## 5.2 Consent
+MAXIM: Volenti non fit injuria :: To one who consents, no injury is done. :: A person who voluntarily accepts a known risk cannot sue for harm from it (*Hall v Brooklands Auto Racing Club*, 1933). Knowledge is not consent (*Smith v Baker*, 1891); it does not apply to rescuers (*Haynes v Harwood*, 1935) or where consent is obtained by fraud. In crime, consent is a limited defence (ss.25 to 28 BNS).
+
+## 5.3 Proof of negligence
+MAXIM: Res ipsa loquitur :: The thing speaks for itself. :: Where the thing was under the defendant's control and the accident would not ordinarily happen without negligence, negligence is inferred and the burden shifts to the defendant (*Scott v London and St Katherine Docks*, 1865; *Municipal Corporation of Delhi v Subhagwanti*, 1966, collapse of a clock tower; *Achutrao Khodwa v State of Maharashtra*, 1996, a mop left in the abdomen).
+
+## 5.4 Vicarious liability
+MAXIM: Respondeat superior :: Let the master answer. :: The master is liable for torts committed by the servant in the course of employment (*Century Insurance v Northern Ireland Road Transport Board*, 1942; *Lloyd v Grace Smith and Co*, 1912). The State is liable under Art. 300 (*State of Rajasthan v Vidyawati*, 1962).
+
+MAXIM: Qui facit per alium facit per se :: He who acts through another does it himself. :: The second basis of vicarious liability: an act authorised by the principal is the principal's own act.
+
+## 5.5 Causation and remoteness
+MAXIM: Causa causans :: The immediate (operative) cause. :: The cause that actually produces the damage, as opposed to a mere condition (causa sine qua non). Liability attaches to the causa causans.
+
+MAXIM: In jure non remota causa sed proxima spectatur :: In law, the immediate and not the remote cause is considered. :: Damages are recoverable only for consequences that are not too remote. The test is reasonable foreseeability (*The Wagon Mound*, 1961), which replaced the directness test (*Re Polemis*, 1921). Also applied in insurance law.
+
+MAXIM: Novus actus interveniens :: A new intervening act. :: A free, deliberate and unforeseeable act of a third party breaks the chain of causation and relieves the original wrongdoer. A foreseeable intervention does not (*Haynes v Harwood*, 1935).
+
+## 5.6 Use of property
+MAXIM: Sic utere tuo ut alienum non laedas :: Use your own property so as not to injure another's. :: The basis of the law of nuisance and of *Rylands v Fletcher* (1868). The absolute liability of hazardous enterprises (*M.C. Mehta v Union of India*, 1987) extends the same idea.
+
+## 5.7 Death of a party
+MAXIM: Actio personalis moritur cum persona :: A personal action dies with the person. :: At common law, tort actions ended with the death of either party. Largely abrogated by statute: the Legal Representatives' Suits Act, 1855, the Fatal Accidents Act, 1855, and s.306 Indian Succession Act, which keeps alive most causes of action except defamation, assault and other personal injuries not causing death (*M. Veerappa v Evelyn Sequeira*, 1988).
+
+* Injuria sine damno (Ashby v White) v damnum sine injuria (Gloucester Grammar School).
+* Volenti non fit injuria: knowledge is not consent (Smith v Baker); not for rescuers.
+* Res ipsa loquitur shifts the burden (Subhagwanti; Achutrao Khodwa).
+* Respondeat superior and qui facit per alium: vicarious liability.
+* Remoteness: proxima causa; Wagon Mound foreseeability; novus actus interveniens.
+* Sic utere tuo: nuisance and Rylands; actio personalis moritur cum persona, modified by statute.
+
+QL: Distinguish between injuria sine damno and damnum sine injuria with decided cases.
+QL: Explain volenti non fit injuria and its limitations.
+QL: Explain res ipsa loquitur and its application in medical negligence.
+QS: Respondeat superior
+QS: Novus actus interveniens
+QS: Actio personalis moritur cum persona
+QS: Sic utere tuo ut alienum non laedas
+
+MCQ: Ashby v White illustrates || damnum sine injuria | *injuria sine damno | volenti non fit injuria | res ipsa loquitur || Voter refused his vote.
+MCQ: "Knowledge of risk is not consent" was held in || Hall v Brooklands | *Smith v Baker | Haynes v Harwood | Scott v St Katherine Docks || 1891.
+MCQ: The collapse of the clock tower in Chandni Chowk was decided on || volenti non fit injuria | *res ipsa loquitur | act of God | novus actus interveniens || MCD v Subhagwanti (1966).
+MCQ: The maxim modified by s.306 of the Indian Succession Act is || sic utere tuo | *actio personalis moritur cum persona | respondeat superior | causa causans || Most actions survive except defamation and similar personal wrongs.
+
+# 6 | Criminal law
+@topics Guilty mind; incapacity; double jeopardy; self-incrimination; proof and doubt; the body of the crime
+>> The criminal law maxims protect the accused: no guilt without a guilty mind, no second trial for the same offence, no compulsion to confess, and the benefit of reasonable doubt.
+
+## 6.1 The guilty mind
+MAXIM: Actus non facit reum nisi mens sit rea :: The act does not make a person guilty unless the mind is also guilty. :: Criminal liability ordinarily needs both a prohibited act (actus reus) and a guilty mind (mens rea). Mens rea is presumed to be required unless a statute excludes it expressly or by necessary implication (*Nathulal v State of MP*, 1966). Strict-liability offences in public-welfare statutes are exceptions (*State of Maharashtra v M.H. George*, 1965).
+
+MAXIM: Actus me invito factus non est meus actus :: An act done by me against my will is not my act. :: Involuntary acts do not attract liability. It underlies the defences of compulsion by threats (s.32 BNS [94 IPC]) and accident (s.18 BNS [80 IPC]).
+
+MAXIM: Furiosi nulla voluntas est :: A madman has no will. :: A person of unsound mind, who cannot know the nature of the act or that it is wrong, is not criminally responsible: s.22 BNS [84 IPC] (M'Naghten rules).
+
+MAXIM: Doli incapax :: Incapable of crime. :: A child under seven is conclusively presumed incapable of committing an offence (s.20 BNS [82 IPC]). A child of seven to twelve is presumed incapable unless shown to have attained sufficient maturity of understanding (s.21 BNS [83 IPC]).
+
+MAXIM: Qui peccat ebrius luat sobrius :: He who sins when drunk shall be punished when sober. :: Voluntary intoxication is no defence, though it may be relevant to specific intent: ss.23 and 24 BNS [85 and 86 IPC] (*Basdev v State of PEPSU*, 1956).
+
+## 6.2 No second trial, no compelled confession
+MAXIM: Nemo debet bis vexari pro una et eadem causa :: No one should be vexed twice for the same cause. :: The basis of double jeopardy and res judicata. In criminal law: Art. 20(2) (no prosecution and punishment twice for the same offence) and s.337 BNSS [300 CrPC], covering autrefois acquit and autrefois convict (*Maqbool Hussain v State of Bombay*, 1953: departmental confiscation is not "prosecution"). In civil law: s.11 CPC.
+
+MAXIM: Nemo tenetur se ipsum accusare :: No one is bound to accuse himself. :: The right against self-incrimination: Art. 20(3). It covers testimonial compulsion, not physical evidence such as fingerprints or specimen handwriting (*State of Bombay v Kathi Kalu Oghad*, 1961). Involuntary narco-analysis, polygraph and brain-mapping violate it (*Selvi v State of Karnataka*, 2010; *Amlesh Kumar v State of Bihar*, 2025).
+
+## 6.3 Proof and doubt
+MAXIM: Ei incumbit probatio qui dicit, non qui negat :: The burden of proof lies on the one who asserts, not on the one who denies. :: The prosecution must prove the charge beyond reasonable doubt (s.104 BSA [101 IEA]); the accused need not prove innocence, except for exceptions he pleads (s.108 BSA [105 IEA]).
+
+MAXIM: In dubio pro reo :: When in doubt, for the accused. :: Where the evidence leaves a reasonable doubt, the accused gets the benefit of it. The doubt must be reasonable, not fanciful (*Kali Ram v State of HP*, 1973).
+
+MAXIM: Corpus delicti :: The body of the crime. :: The facts showing that a crime was committed. In murder, recovery of the dead body is not essential if death is proved by other reliable evidence (*Rama Nand v State of HP*, 1981).
+
+MAXIM: Falsus in uno, falsus in omnibus :: False in one thing, false in everything. :: Not a rule of law in India. Courts separate the grain from the chaff and may accept the reliable part of a witness's testimony (*Nisar Ali v State of UP*, 1957; *Gangadhar Behera v State of Orissa*, 2002).
+
+MAXIM: Alibi :: Elsewhere. :: The plea that the accused was elsewhere when the offence was committed; facts inconsistent with the prosecution case are relevant under the BSA. The burden of proving it is on the accused, and it must be strictly proved (*Binay Kumar Singh v State of Bihar*, 1997).
+
+* Actus non facit reum nisi mens sit rea (Nathulal); exceptions for strict liability.
+* Incapacity: furiosi nulla voluntas (s.22 BNS); doli incapax (ss.20, 21 BNS); intoxication (ss.23, 24 BNS).
+* Nemo debet bis vexari: Art. 20(2), s.337 BNSS; nemo tenetur: Art. 20(3) (Kathi Kalu Oghad; Selvi).
+* Burden on prosecution; in dubio pro reo; falsus in uno not applied in India.
+
+QL: Explain actus non facit reum nisi mens sit rea. Are there exceptions?
+QL: Explain the maxims nemo debet bis vexari and nemo tenetur se ipsum accusare with reference to Article 20.
+QS: Doli incapax
+QS: Corpus delicti
+QS: In dubio pro reo
+QS: Plea of alibi
+
+MCQ: Specimen handwriting taken from an accused || violates Art. 20(3) | *does not violate Art. 20(3) | needs consent of the court | is inadmissible || Kathi Kalu Oghad (1961).
+MCQ: A child below seven years is || presumed capable | *conclusively presumed incapable of an offence | liable if mature | liable only for grave offences || s.20 BNS [82 IPC].
+MCQ: Falsus in uno, falsus in omnibus was rejected as a rule in India in || Kali Ram | *Nisar Ali v State of UP | Selvi | Rama Nand || 1957.
+
+# 7 | Evidence and procedure
+@topics Finality and pending proceedings; burden and presumptions; dying declarations and res gestae; precedent; procedural terms
+>> Procedure and evidence rest on finality, presumptions of regularity and fairness to parties not before the court. Several Latin terms are also simply names for procedural ideas.
+
+## 7.1 Finality
+MAXIM: Res judicata pro veritate accipitur :: A thing adjudged is accepted as the truth. :: A final decision between the same parties on the same matter binds them in later proceedings (s.11 CPC), including matters that might and ought to have been raised (constructive res judicata). It also applies to writ petitions (*Daryao v State of UP*, 1961).
+
+MAXIM: Res sub judice :: A matter under judicial consideration. :: A court shall not proceed with a suit where the same matter is directly and substantially in issue in an earlier suit pending between the same parties (s.10 CPC). Only the trial is stayed.
+
+MAXIM: Lis pendens :: A pending suit. :: A transfer of immovable property during a suit in which the right to it is in question cannot affect the rights of the other party under the decree (s.52 TPA; *Bellamy v Sabine*, 1857).
+
+## 7.2 Burden and presumptions
+MAXIM: Actori incumbit onus probandi :: The burden of proof lies on the plaintiff. :: The party who wants judgment on facts must prove them (s.104 BSA [101 IEA]); the party who would fail if no evidence were led bears the burden (s.105 BSA [102 IEA]).
+
+MAXIM: Omnia praesumuntur rite esse acta :: All acts are presumed to have been done rightly and regularly. :: Official and judicial acts are presumed to have been regularly performed (illustration (e) to s.119 BSA [114 IEA]), until the contrary is shown.
+
+MAXIM: Res inter alios acta alteri nocere non debet :: A transaction between others should not prejudice one who is not a party. :: Acts, statements or judgments between other parties are generally not evidence against a stranger. Judgments in rem are an exception.
+
+## 7.3 Statements of the dying and of the moment
+MAXIM: Nemo moriturus praesumitur mentire :: A dying person is presumed not to lie. :: The basis of the admissibility of dying declarations (s.26(a) BSA [32(1) IEA]). In India, expectation of death is not needed, and a dying declaration can found a conviction without corroboration if it is true and voluntary (*Khushal Rao v State of Bombay*, 1958; *Laxman v State of Maharashtra*, 2002).
+
+MAXIM: Res gestae :: Things done (part of the transaction). :: Facts and statements so connected with the fact in issue as to form part of the same transaction are relevant (s.4 BSA [6 IEA]). They must be contemporaneous, leaving no time for fabrication (*Sukhar v State of UP*, 1999).
+
+## 7.4 Precedent
+MAXIM: Stare decisis et non quieta movere :: To stand by decisions and not to disturb settled matters. :: Courts follow precedent to ensure certainty. In India, Art. 141 makes Supreme Court decisions binding on all courts; larger benches bind smaller ones (*Central Board of Dawoodi Bohra Community v State of Maharashtra*, 2005).
+
+MAXIM: Ratio decidendi :: The reason for the decision. :: The principle of law on which a case is decided, which is the binding part of a precedent.
+
+MAXIM: Obiter dictum :: A remark by the way. :: A statement of law not necessary for the decision; persuasive, not binding, though considered Supreme Court obiter is generally followed by lower courts.
+
+MAXIM: Per incuriam :: Through lack of care. :: A decision given in ignorance of a binding statute or precedent is not binding (*State of UP v Synthetics and Chemicals*, 1991). A High Court cannot declare a Supreme Court decision per incuriam.
+
+## 7.5 Common procedural terms
+MAXIM: Ex parte :: On behalf of one side only. :: A proceeding or order made in the absence of the other party (Order IX CPC); the defendant may apply to set aside an ex parte decree (Order IX Rule 13).
+
+MAXIM: Amicus curiae :: A friend of the court. :: A lawyer appointed by the court to assist it on a point, often in public interest litigation or for an unrepresented accused.
+
+MAXIM: Forum non conveniens :: An inconvenient forum. :: A court with jurisdiction may decline to exercise it where another forum is more appropriate. Applied to writs under Art. 226 where only a small part of the cause of action arose (*Kusum Ingots v Union of India*, 2004).
+
+MAXIM: Nunc pro tunc :: Now for then. :: An order given retrospective effect from an earlier date, to correct an omission.
+
+* Res judicata (s.11 CPC; Daryao), res sub judice (s.10 CPC), lis pendens (s.52 TPA).
+* Actori incumbit onus probandi (ss.104, 105 BSA); omnia praesumuntur rite esse acta (s.119 BSA).
+* Nemo moriturus praesumitur mentire (s.26 BSA; Khushal Rao); res gestae (s.4 BSA).
+* Stare decisis (Art. 141); ratio, obiter, per incuriam.
+
+QL: Explain the maxims on which the doctrine of res judicata is based. Distinguish res judicata from res sub judice.
+QL: Explain nemo moriturus praesumitur mentire and the evidentiary value of a dying declaration.
+QS: Lis pendens
+QS: Omnia praesumuntur rite esse acta
+QS: Per incuriam
+QS: Forum non conveniens
+
+MCQ: Res sub judice is dealt with in || s.11 CPC | *s.10 CPC | s.52 TPA | Order IX CPC || Stay of the later suit.
+MCQ: A dying declaration is admissible because || the declarant expected death | *a dying person is presumed not to lie | it is always corroborated | it is a confession || s.26 BSA; expectation of death not needed in India.
+MCQ: Res judicata applies to writ petitions, as held in || Kusum Ingots | *Daryao v State of UP | Bellamy v Sabine | Khushal Rao || 1961.
+
+# 8 | Property, family and succession
+@topics Ownership of land; title; priority; succession; guardianship and legitimacy; conflict of laws
+>> Property maxims explain who owns what is attached to land, why the earlier right prevails, and why a living person has no heirs. Family law adds the presumption of paternity and the State as parent of those who cannot protect themselves.
+
+## 8.1 Land and what it carries
+MAXIM: Cujus est solum ejus est usque ad coelum et ad inferos :: Whose is the soil, his is it up to the sky and down to the depths. :: The owner of land owns the space above and the minerals below. Modified by statute (aviation law; mineral rights vested in the State). *Thressiamma Jacob v Geologist* (2013): sub-soil rights belong to the landowner unless the law vests them elsewhere.
+
+MAXIM: Quicquid plantatur solo, solo cedit :: Whatever is affixed to the soil belongs to the soil. :: Fixtures become part of the land. Not fully applied in India: a person who builds on another's land in good faith may remove the building or be compensated (s.51 TPA, improvements by bona fide holders; s.108(h) for lessees).
+
+## 8.2 Title and priority
+MAXIM: Nemo dat quod non habet :: No one gives what he does not have. :: A transferor cannot pass a better title than his own. Registration does not cure the absence of title (*Mehnoor Fatima v Vishveshka Infrastructure*, 2025). Exceptions in property law include the ostensible owner (s.41 TPA) and feeding the grant by estoppel (s.43 TPA).
+
+MAXIM: Qui prior est tempore, potior est jure :: He who is first in time is stronger in right. :: Between competing interests in the same property, the earlier prevails (s.48 TPA), subject to registration and notice rules.
+
+MAXIM: Pendente lite nihil innovetur :: During litigation nothing should be changed. :: The basis of lis pendens (s.52 TPA): the subject of a pending suit must not be altered to prejudice the other party.
+
+MAXIM: Jus tertii :: The right of a third party. :: A defendant in possession cannot usually defeat a possessory claim by showing that a third person, not himself, has a better title.
+
+## 8.3 Succession
+MAXIM: Nemo est heres viventis :: No one is the heir of a living person. :: An heir apparent has only a hope of succession (spes successionis), which cannot be transferred (s.6(a) TPA) or relinquished by contract in a way that binds him later, except by estoppel.
+
+MAXIM: Spes successionis :: A hope of succession. :: The chance of an heir apparent or a relation obtaining an estate. It is not property and cannot be transferred (s.6(a) TPA).
+
+MAXIM: Donatio mortis causa :: A gift in contemplation of death. :: A gift of movable property made in expectation of imminent death, conditional on death occurring (s.191 Indian Succession Act; Muslim law treats such gifts as wills limited to one-third).
+
+## 8.4 Family and guardianship
+MAXIM: Pater est quem nuptiae demonstrant :: The father is he whom the marriage indicates. :: A child born during a valid marriage is presumed legitimate (s.116 BSA [112 IEA]), rebuttable only by proof of non-access. DNA tests are ordered only in cases of eminent need (*Goutam Kundu v State of WB*, 1993; *R. Rajendran v Kamar Nisha*, 2025).
+
+MAXIM: Parens patriae :: Parent of the country. :: The State as guardian of those who cannot protect themselves: minors, persons of unsound mind, and victims of disasters. Used in the Bhopal Gas Disaster (Processing of Claims) Act, 1985 (*Charan Lal Sahu v Union of India*, 1990) and in decisions on persons in a vegetative state (*Aruna Shanbaug*, 2011).
+
+MAXIM: Factum valet quod fieri non debuit :: What ought not to have been done is valid once done. :: A Hindu law maxim (also Latin form) that an act done in breach of a directory precept, but not of a mandatory rule, is valid. Used for marriages and adoptions with irregularities that do not go to their essence.
+
+## 8.5 Conflict of laws
+MAXIM: Mobilia sequuntur personam :: Movables follow the person. :: Succession to movable property is governed by the law of the deceased's domicile (s.5 Indian Succession Act).
+
+MAXIM: Lex situs :: The law of the place where the property is situated. :: Succession to and transfer of immovable property are governed by the law of the place where it is situated.
+
+* Cujus est solum (modified by statute; Thressiamma Jacob); quicquid plantatur (s.51 TPA).
+* Nemo dat; qui prior est tempore (s.48 TPA); pendente lite (s.52 TPA).
+* Nemo est heres viventis; spes successionis (s.6(a) TPA).
+* Pater est quem nuptiae demonstrant (s.116 BSA); parens patriae (Charan Lal Sahu); factum valet.
+* Mobilia sequuntur personam; lex situs for immovables.
+
+QL: Explain the maxims cujus est solum ejus est usque ad coelum and quicquid plantatur solo solo cedit with reference to Indian law.
+QL: Explain the doctrine of parens patriae with decided cases.
+QS: Nemo est heres viventis
+QS: Qui prior est tempore potior est jure
+QS: Factum valet
+QS: Mobilia sequuntur personam
+
+MCQ: The State acted as parens patriae for Bhopal gas victims, upheld in || Aruna Shanbaug | *Charan Lal Sahu v Union of India | M.C. Mehta v Union of India | Goutam Kundu || 1990.
+MCQ: Spes successionis is || transferable with consent | *not transferable (s.6(a) TPA) | transferable by registered deed | a vested right || A mere chance of succession.
+MCQ: Succession to movables is governed by || lex situs | *the law of the domicile (mobilia sequuntur personam) | the law of the court | the law of the place of death || s.5 Indian Succession Act.
+
+# 9 | Interpretation of statutes
+@topics Construction to give effect; associated words; general and specific provisions; later and earlier laws; contemporaneous exposition
+>> The interpretation maxims are tested in every Interpretation of Statutes paper. Learn each with its conditions and one leading case.
+
+## 9.1 Making the law work
+MAXIM: Ut res magis valeat quam pereat :: It is better for a thing to have effect than to be void. :: Where two constructions are possible, the court adopts the one that makes the provision workable rather than futile (*CIT v Teja Singh*, 1959; *Tinsukhia Electric Supply v State of Assam*, 1989).
+
+MAXIM: A verbis legis non est recedendum :: From the words of the law there must be no departure. :: The literal rule: where the words are clear, they must be applied (*Nelson Motis v Union of India*, 1992).
+
+MAXIM: Casus omissus :: A case omitted. :: A situation the legislature did not provide for cannot be supplied by the court, except in rare cases of clear necessity apparent from the statute itself (*Padmasundara Rao v State of TN*, 2002).
+
+## 9.2 Associated words
+MAXIM: Noscitur a sociis :: A word is known by the company it keeps. :: A doubtful word takes its meaning from the words associated with it (*Rainbow Steels v CST*, 1981; limited in *State of Bombay v Hospital Mazdoor Sabha*, 1960).
+
+MAXIM: Ejusdem generis :: Of the same kind. :: General words following specific words of a distinct genus are confined to that genus. Conditions: the specific words form a genus, the general words follow them, and no contrary intention appears (*Amar Chandra Chakraborty v Collector of Excise*, 1972). Not applied to "other authorities" in Art. 12 (*Rajasthan SEB v Mohan Lal*, 1967).
+
+MAXIM: Reddendo singula singulis :: Referring each to each. :: Where several words are followed by several objects, each word is read with its appropriate object.
+
+MAXIM: Expressio unius est exclusio alterius :: The express mention of one thing excludes others. :: An aid to be used with caution, since the mention may be for abundant caution.
+
+MAXIM: Expressum facit cessare tacitum :: What is expressed makes what is implied cease. :: Where a statute expressly provides for something, there is no room for implying something different on the same matter.
+
+## 9.3 Conflicting provisions
+MAXIM: Generalia specialibus non derogant :: General provisions do not derogate from special ones. :: A special provision prevails over a general one on the same subject, even if the general law is later (*J.K. Cotton Spinning and Weaving Mills v State of UP*, 1961).
+
+MAXIM: Leges posteriores priores contrarias abrogant :: Later laws repeal earlier contrary laws. :: Where two laws of equal rank conflict and cannot be harmonised, the later prevails (implied repeal), subject to the generalia specialibus rule.
+
+## 9.4 Context and history
+MAXIM: Contemporanea expositio est optima et fortissima in lege :: A contemporaneous exposition is the best and strongest in law. :: The understanding of a statute at the time it was made, and long official practice, is a useful aid for old statutes, but not where the words are clear (*Desh Bandhu Gupta v Delhi Stock Exchange*, 1979).
+
+MAXIM: Ex visceribus actus :: From the inside of the Act. :: A statute must be read as a whole; every part throws light on the others (*Philips India v Labour Court*, 1985).
+
+MAXIM: In pari materia :: On the same subject matter. :: Statutes dealing with the same subject are read together as one system (*Daivshala v Oriental Insurance*, 2025, reading the Employees' Compensation Act with the ESI Act).
+
+* Ut res magis valeat; literal rule (a verbis legis); casus omissus not supplied.
+* Noscitur a sociis; ejusdem generis (conditions: Amar Chandra Chakraborty); reddendo singula singulis.
+* Expressio unius (caution); expressum facit cessare tacitum.
+* Generalia specialibus non derogant (J.K. Cotton); later laws repeal earlier contrary laws.
+* Contemporanea expositio; ex visceribus actus; in pari materia.
+
+QL: Explain the rule of ejusdem generis and noscitur a sociis with decided cases.
+QL: Explain generalia specialibus non derogant and leges posteriores priores contrarias abrogant.
+QS: Ut res magis valeat quam pereat
+QS: Casus omissus
+QS: Contemporanea expositio
+QS: In pari materia
+
+MCQ: The conditions for applying ejusdem generis were laid down in || Hospital Mazdoor Sabha | *Amar Chandra Chakraborty v Collector of Excise | Rainbow Steels | Nelson Motis || 1972.
+MCQ: A special law prevails over a general law on the same subject under || leges posteriores | *generalia specialibus non derogant | expressio unius | noscitur a sociis || J.K. Cotton Spinning (1961).
+MCQ: Reading the EC Act with the ESI Act in Daivshala (2025) is an example of || ejusdem generis | *in pari materia | casus omissus | reddendo singula singulis || Statutes on the same subject.
+
+# 10 | Maxims of equity
+@topics The twelve maxims of equity and their use in Indian law, especially the Specific Relief Act and the Trusts Act
+>> Equity developed in the English Court of Chancery to soften the rigidity of the common law. Its maxims are in English and guide discretionary relief in India, such as specific performance and injunctions.
+
+## 10.1 The maxims
+MAXIM: Equity will not suffer a wrong to be without a remedy :: Equity's counterpart of ubi jus ibi remedium. :: Equity intervenes where the common law gives no adequate remedy, for example by enforcing trusts and granting injunctions.
+
+MAXIM: Equity follows the law :: Equity does not override legal rules. :: Equity supplements the law; it does not contradict statutes or settled legal rights.
+
+MAXIM: He who seeks equity must do equity :: A claimant for equitable relief must be ready to act fairly towards the other side. :: A plaintiff seeking specific performance must be ready and willing to perform his part (s.16(c) Specific Relief Act; *Mohammed Khaleel v Jayamma*, 2026, on continuous readiness).
+
+MAXIM: He who comes into equity must come with clean hands :: Equitable relief is refused to a party guilty of misconduct in the same matter. :: A litigant who suppresses material facts or acts unfairly can be denied relief (*S.P. Chengalvaraya Naidu v Jagannath*, 1994; *K.D. Sharma v SAIL*, 2008, writ refused for suppression).
+
+MAXIM: Delay defeats equity :: Equity aids the vigilant. :: Unexplained delay (laches) can bar equitable relief such as specific performance and writs, even within limitation.
+
+MAXIM: Equality is equity :: Equity treats like claimants equally. :: Where there is no basis for unequal division, property is divided equally; for example, contribution among co-sureties (s.146 Contract Act).
+
+MAXIM: Equity looks to the intent rather than the form :: Substance prevails over form. :: A transaction is judged by its real nature; for example, a sale with a condition of repurchase may be treated as a mortgage ("once a mortgage, always a mortgage"; no clog on redemption).
+
+MAXIM: Equity regards as done that which ought to be done :: An agreement that equity will enforce is treated as performed. :: The basis of equitable conversion and the rights of a purchaser under a contract of sale before conveyance.
+
+MAXIM: Equity imputes an intention to fulfil an obligation :: Acts are presumed done in performance of an existing duty. :: Where a person under an obligation does an act that could fulfil it, equity presumes it was done for that purpose.
+
+MAXIM: Equity acts in personam :: Equity acts on the person. :: Equitable orders bind the conscience of the party, enforced by contempt or attachment, which is why courts can act on persons within jurisdiction even about property outside it.
+
+MAXIM: Where the equities are equal, the law prevails :: Between equally innocent parties, the legal title wins. :: A bona fide purchaser of the legal estate for value without notice takes free of prior equitable interests.
+
+MAXIM: Where the equities are equal, the first in time prevails :: Between competing equitable interests, the earlier prevails. :: Equity's form of qui prior est tempore potior est jure (s.48 TPA).
+
+* Equity supplements the law; it follows the law and does not contradict statute.
+* He who seeks equity must do equity (s.16(c) SRA); clean hands (Chengalvaraya Naidu; K.D. Sharma).
+* Delay defeats equity (laches); equality is equity (s.146 Contract Act).
+* Substance over form (no clog on redemption); regards as done what ought to be done; acts in personam.
+* Equities equal: the law prevails; the first in time prevails.
+
+QL: Explain the maxims "he who seeks equity must do equity" and "he who comes into equity must come with clean hands" with Indian cases.
+QL: Discuss the maxims of equity and their application under the Specific Relief Act.
+QS: Delay defeats equity
+QS: Equity acts in personam
+QS: Equity looks to the intent rather than the form
+
+MCQ: A writ petitioner who suppresses material facts may be refused relief under || equality is equity | *he who comes into equity must come with clean hands | equity follows the law | equity acts in personam || K.D. Sharma v SAIL (2008).
+MCQ: The doctrine of "no clog on redemption" reflects || equity follows the law | *equity looks to the intent rather than the form | delay defeats equity | equality is equity || A mortgage is treated as such whatever its form.
+
+# 11 | International law and jurisprudence
+@topics Treaties and change of circumstances; peremptory norms; sovereignty and immunity; territory; extradition; nature of law
+>> Public international law uses Latin for its foundational ideas, and jurisprudence uses maxims to frame debates about the nature of law.
+
+## 11.1 Treaties
+MAXIM: Pacta sunt servanda :: Treaties must be kept. :: Every treaty in force binds the parties and must be performed in good faith (Art. 26, VCLT); internal law is no excuse (Art. 27).
+
+MAXIM: Rebus sic stantibus :: Things standing thus. :: A fundamental change of circumstances may justify terminating or withdrawing from a treaty, but only narrowly: the change must be fundamental, unforeseen, and radically transform the obligations (Art. 62, VCLT; *Gabčíkovo-Nagymaros*, 1997).
+
+MAXIM: Jus cogens :: Compelling law. :: Peremptory norms from which no derogation is permitted, such as the prohibitions of genocide, slavery, torture and aggression. A treaty conflicting with jus cogens is void (Arts. 53 and 64, VCLT).
+
+MAXIM: Opinio juris sive necessitatis :: An opinion of law or necessity. :: The belief that a practice is legally required; with State practice, it creates customary international law (*North Sea Continental Shelf*, 1969).
+
+MAXIM: Ex injuria jus non oritur :: A right does not arise from a wrong. :: An illegal act, such as aggression, cannot create legal rights or valid title (for example, non-recognition of territory acquired by force).
+
+## 11.2 Sovereignty and territory
+MAXIM: Par in parem non habet imperium :: An equal has no authority over an equal. :: The basis of sovereign immunity: one State cannot be sued in the courts of another for sovereign acts (acta jure imperii). In India, s.86 CPC requires Central Government consent to sue a foreign State (*Ethiopian Airlines v Ganesh Narain Saboo*, 2011, no immunity for commercial acts).
+
+MAXIM: Uti possidetis juris :: As you possess under law. :: New States inherit the colonial administrative boundaries at independence (*Frontier Dispute, Burkina Faso v Mali*, 1986).
+
+MAXIM: Terra nullius :: Land belonging to no one. :: Territory not under any State's sovereignty, which could be acquired by occupation. Inhabited territory with social and political organisation is not terra nullius (*Western Sahara* advisory opinion, 1975).
+
+MAXIM: Mare liberum :: The free sea. :: Grotius's principle of the freedom of the high seas, now in UNCLOS Art. 87.
+
+MAXIM: Aut dedere aut judicare :: Either extradite or prosecute. :: A State holding a person accused of certain international crimes must either extradite or prosecute him (*Belgium v Senegal*, 2012, on torture).
+
+## 11.3 Jurisprudence
+MAXIM: Lex injusta non est lex :: An unjust law is not law. :: The natural law view (Augustine, Aquinas), revived by Radbruch's formula for extreme injustice, and contested by positivists such as Hart.
+
+MAXIM: Salus populi suprema lex :: The welfare of the people is the supreme law. :: Also used in jurisprudence and constitutional law to justify State power exercised for the common good, within constitutional limits.
+
+* Pacta sunt servanda; rebus sic stantibus (narrow: Gabčíkovo); jus cogens (Arts. 53, 64 VCLT).
+* Opinio juris plus practice makes custom; ex injuria jus non oritur.
+* Par in parem non habet imperium (s.86 CPC; Ethiopian Airlines).
+* Uti possidetis; terra nullius (Western Sahara); mare liberum; aut dedere aut judicare.
+* Lex injusta non est lex (natural law v positivism).
+
+QL: Explain pacta sunt servanda and rebus sic stantibus in the law of treaties.
+QL: Explain par in parem non habet imperium and the restrictive theory of sovereign immunity in India.
+QS: Jus cogens
+QS: Uti possidetis
+QS: Aut dedere aut judicare
+QS: Lex injusta non est lex
+
+MCQ: A treaty conflicting with a peremptory norm is void under || Art. 26 VCLT | *Art. 53 VCLT | Art. 62 VCLT | Art. 38 ICJ Statute || Jus cogens.
+MCQ: Consent of the Central Government to sue a foreign State is required by || s.80 CPC | *s.86 CPC | s.9 CPC | s.20 CPC || Par in parem non habet imperium.
+MCQ: Inhabited territory with social and political organisation is not terra nullius, as held in || North Sea Continental Shelf | *Western Sahara | Belgium v Senegal | Gabčíkovo-Nagymaros || 1975 advisory opinion.

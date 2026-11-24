@@ -1,0 +1,332 @@
+@title Professional Ethics and Accounting System
+@subtitle Practical Training II: the legal profession, advocacy, ethics, disciplinary proceedings, Bar–Bench relations and accounting for lawyers
+@paper 6.2
+@sem VI
+@marks1 University exam :: 70 marks, 3 hours
+@marks2 Viva-voce :: 30 marks
+@color #2e4a5a
+@dark #284050
+@intro Covers the Advocates Act, 1961 and the Bar Council of India Rules (Part VI, Chapter II: Standards of Professional Conduct and Etiquette). The syllabus asks for selected disciplinary opinions and Supreme Court judgments, and Unit 4 gathers the leading ones. Unit 6 covers the accounting knowledge a lawyer needs: financial statements, accounting in disputes, and keeping clients' money separately.
+@reading Krishnamurthy Iyer, Advocacy
+@reading P. Ramanatha Aiyar, Legal and Professional Ethics
+@reading Kailash Rai, Legal Ethics, Accountancy for Lawyers and Bench–Bar Relations
+@reading The Advocates Act, 1961; Bar Council of India Rules, Part VI
+@reading Selected Opinions of the Disciplinary Committees of the Bar Council of India
+
+# 1 | Law and the legal profession
+@topics Development of the legal profession in India; Right to practise: a right or privilege? Art. 19(1)(g) and its scope
+>> The legal profession in India grew from vakils under the Mughals and pleaders under the Company to a unified Bar under the Advocates Act, 1961. Practising law is a fundamental right under Art. 19(1)(g), but it is a right regulated by statute.
+
+## 1.1 Development of the legal profession
+- **Ancient and medieval**: no organised profession; parties appeared in person or through representatives. Under the Mughals, vakils acted as agents.
+- **Company period**: the Mayor's Courts (1726) had no trained lawyers. The Regulating Act, 1773 and the Supreme Court at Calcutta (1774) admitted English barristers and attorneys. The Bengal Regulation VII of 1793 created a class of licensed **vakils** (pleaders) in the Company's courts.
+- **Legal Practitioners Act, 1879** and the **Indian Bar Councils Act, 1926** organised pleaders, vakils, mukhtars and advocates, with limited self-government.
+- **All India Bar Committee** (1953, S.R. Das) and the **Law Commission's 14th Report** (1958) recommended a unified Bar and an all-India Bar Council.
+- **Advocates Act, 1961**: created a single class of legal practitioners, "advocates" (s.29); State Bar Councils and the Bar Council of India; uniform qualifications; and disciplinary jurisdiction with the Bar Councils.
+
+## 1.2 Right to practise: a right or a privilege?
+- **Art. 19(1)(g)**: the right to practise any profession, subject to reasonable restrictions in the interests of the general public, including prescribing professional or technical qualifications (Art. 19(6)).
+- **Section 30**: every advocate on the State roll is entitled as of right to practise throughout India, in all courts including the Supreme Court, before tribunals and any authority. It was brought into force only on **15 June 2011**.
+- **Section 33**: only enrolled advocates may practise in courts, subject to exceptions (s.32: the court may permit any person to appear in a particular case).
+- Restrictions: courts may make rules on who may appear (s.34; Art. 145 for the Supreme Court: only Advocates-on-Record may file); the Bar Councils' rules; and the court's control over the conduct of proceedings.
+
+CASE: Bar Council of India v Bonnie FOI Law College (2023) :: A Constitution Bench upheld the BCI's power to hold the All India Bar Examination (AIBE) as a condition for practice after enrolment. It held that the Bar Council can regulate entry into practice, and that the AIBE can be held before enrolment, so final-year students may take it.
+
+CASE: Indian Council of Legal Aid and Advice v Bar Council of India (1995) :: A BCI rule barring enrolment of persons above 45 years was struck down as unreasonable and discriminatory. It had no rational relation to the object of maintaining standards in the profession, and it exceeded the BCI's rule-making power under the Advocates Act.
+
+* From vakils to the Advocates Act, 1961: a unified Bar (s.29) under the Bar Councils.
+* The right to practise is a fundamental right (Art. 19(1)(g)), regulated by law; s.30 in force from 2011.
+* The AIBE is valid (Bonnie FOI); the age bar for enrolment was struck down (Indian Council of Legal Aid).
+
+QL: Trace the development of the legal profession in India up to the Advocates Act, 1961.
+QL: "Practice of law is a right, not a privilege." Discuss with reference to Art. 19(1)(g) and the Advocates Act.
+QS: Section 30 of the Advocates Act
+QS: All India Bar Examination
+
+MCQ: Section 30 of the Advocates Act (right to practise throughout India) came into force in || 1961 | *2011 | 1973 | 1995 || On 15 June 2011.
+MCQ: The BCI rule barring enrolment of persons above 45 was struck down in || Bonnie FOI | *Indian Council of Legal Aid v BCI | Harish Uppal | A.K. Balaji || 1995.
+
+# 2 | Enrolment, regulation of practice, and advocacy
+@topics Regulation of enrolment and practice; Is the practice of law a business? Is a solicitors' firm an industry? Elements of advocacy
+>> Admission to the Bar is controlled by the State Bar Councils under the Advocates Act. The profession is treated as a noble calling rather than a business, which affects advertising, fees, and the application of consumer and labour laws.
+
+## 2.1 Enrolment (ss.24 to 28)
+- **Qualifications** (s.24): a citizen of India (or a national of a country allowing reciprocity), at least 21 years old, with a law degree from a recognised university, who pays the enrolment fee and fulfils conditions in the State Bar Council's rules.
+- **Disqualifications** (s.24A): conviction for an offence involving moral turpitude, or under the Untouchability (Offences) Act, 1955 (now the Protection of Civil Rights Act), or dismissal or removal from government employment for moral turpitude. The disqualification ceases two years after release, dismissal or removal.
+- The State Bar Council's Enrolment Committee decides applications; refusals are referred to the BCI (s.26). An advocate can be on the roll of only one State Bar Council (s.17).
+- **Enrolment fee**: in *Gaurav Kumar v Union of India* (2024), the Supreme Court held that State Bar Councils cannot charge enrolment fees beyond the amounts in s.24(1)(f) (₹750 for general candidates; ₹125 for SC and ST candidates).
+- **Bar on other employment** (BCI Rules 47 to 52): an advocate shall not personally engage in any business or be a full-time salaried employee; he may be a sleeping partner, a director (non-executive) or hold certain honorary posts. A person cannot practise two professions simultaneously (*Dr Haniraj L. Chulani v Bar Council of Maharashtra*, 1996, upheld a rule refusing enrolment to a practising doctor).
+- **Foreign lawyers**: in *Bar Council of India v A.K. Balaji* (2018), the Supreme Court held that foreign law firms and lawyers cannot practise Indian law in India, but may visit on a casual "fly in and fly out" basis to advise on foreign law and international arbitration. The BCI framed rules for registration of foreign lawyers and firms (2022, notified in 2023 and amended in 2025) allowing practice in foreign and international law on a reciprocal basis.
+
+## 2.2 Is the practice of law a business?
+- Traditionally, law is a profession: the advocate's duty to the court and to justice ranks above private gain. Advertising and soliciting work are prohibited (BCI Rule 36), except that an advocate may give limited information on a website (name, contact, enrolment number, areas of practice). Contingency fees and fees based on a share of the result are prohibited (Rule 20).
+
+CASE: Bar of Indian Lawyers v D.K. Gandhi PS National Institute of Communicable Diseases (2024) :: The Supreme Court held that the legal profession is sui generis and that a complaint for deficiency in service against an advocate does not lie under the Consumer Protection Act, 2019. The advocate works under substantial control of the client and is bound by duties to the court, so the relationship is one of contract of personal service, excluded from "service" under the Act.
+
+## 2.3 Is a solicitors' firm an industry?
+CASE: National Union of Commercial Employees v M.R. Meher (1962) :: The Supreme Court held that a solicitors' firm is not an "industry" under the Industrial Disputes Act, because the essential service is the personal, intellectual service of the solicitor, and employees do not contribute directly to it. This was overruled in *Bangalore Water Supply and Sewerage Board v A. Rajappa* (1978), which applied the "triple test" (systematic activity, cooperation of employer and employee, production of goods or services) and held that liberal professions may be industries in respect of their employees. The question was referred to a larger bench in 2005 and remains pending; the IR Code, 2020 has its own definition of "industry".
+
+## 2.4 Elements of advocacy
+- **Preparation**: mastery of facts, law and procedure; knowing the judge and the court.
+- **Pleading**: clear, accurate drafting (see the Drafting book).
+- **Examination of witnesses**: non-leading questions in chief; controlled, short questions in cross-examination; knowing when to stop.
+- **Argument**: structure (issues, law, application, relief), candour, brevity, courtesy, and answering the court's questions directly.
+- **Negotiation and settlement**: advising on ADR and realistic outcomes.
+- **Integrity**: never mislead the court; disclose adverse authority.
+
+## 2.5 Recent judgments (2025–26)
+
+CASE: Bhumika Trust v Union of India (2026) :: Modifying the 2025 All India Judges Association ruling, the Court reduced the minimum practice for entry-level judicial posts from three years to one year of actual practice, with a transition window until 31 March 2027.
+
+NOTE: The Supreme Court has also directed reservation of seats for women in State Bar Councils and in Bar Associations (about 30%). Check the latest orders before the exam.
+
+* Practice requirement for judicial service: three years (2025), modified to one year (Bhumika Trust, 2026).
+* Enrolment under s.24; disqualifications under s.24A; enrolment fee limits (Gaurav Kumar, 2024).
+* No other business or full-time employment; no dual professions (Chulani); foreign lawyers (A.K. Balaji; BCI rules).
+* Law is a profession, not a business: no advertising (Rule 36), no contingency fees (Rule 20); advocates are outside the Consumer Protection Act (D.K. Gandhi, 2024).
+* Solicitors' firm as an industry: Meher (no), overruled by Bangalore Water (yes); the reference was answered in Jai Bir Singh (2026), and new cases now turn on the IR Code definition.
+* Elements of advocacy: preparation, pleading, examination, argument, negotiation, integrity.
+
+QL: Explain the qualifications and disqualifications for enrolment as an advocate.
+QL: "Law is a profession and not a business." Discuss with reference to advertising, fees and consumer protection.
+QL: Is a solicitors' firm an industry? Discuss.
+QS: Foreign law firms in India
+QS: Elements of advocacy
+
+MCQ: Advocates are not liable under the Consumer Protection Act for deficiency in service, as held in || A.K. Balaji | *Bar of Indian Lawyers v D.K. Gandhi | Bonnie FOI | Chulani || 2024.
+MCQ: Foreign lawyers may visit India on a "fly in and fly out" basis, as held in || Gaurav Kumar | *Bar Council of India v A.K. Balaji | Meher | Bonnie FOI || 2018.
+MCQ: Contingency fees for advocates are || permitted | *prohibited under BCI Rule 20 | permitted in civil cases | permitted with the court's leave || A share in the result.
+
+# 3 | Ethics
+@topics Seven lamps of advocacy; Advocates' duties towards the public, clients, the court, other advocates, and legal aid; Bar Council code of ethics
+>> An advocate owes duties to the court, the client, the opponent, colleagues and society. The BCI Rules codify these duties; the "seven lamps" describe the qualities of a good advocate.
+
+## 3.1 The seven lamps of advocacy
+- Described by Judge Edward Abbott Parry (1923): **honesty, courage, industry, wit, eloquence, judgment, and fellowship**.
+- Honesty: never deceive the court or the client. Courage: present the client's case fearlessly. Industry: thorough preparation. Wit: lightens the court and helps persuasion. Eloquence: clear and persuasive speech. Judgment: choosing what to argue and what to concede. Fellowship: camaraderie and respect for colleagues.
+
+## 3.2 Duties under the BCI Rules (Part VI, Chapter II)
+### Duty to the court (Rules 1 to 10)
+- Act with dignity and self-respect; maintain a respectful attitude towards the court; do not influence the court by illegal or improper means; prevent the client from resorting to unfair practices; appear in prescribed dress; do not appear before a court where a close relative is the judge; do not wear bands or gowns in public places other than courts; do not appear for an organisation of which he is an office-bearer; do not appear in a matter in which he has a pecuniary interest; do not stand surety for a client.
+
+### Duty to the client (Rules 11 to 33)
+- Accept a brief in courts where he practises, at a fee consistent with his standing (the "cab-rank" rule, Rule 11), except in special circumstances.
+- Do not withdraw from a case without sufficient cause and reasonable notice (Rule 12).
+- Do not appear where he is likely to be a witness (Rule 13); disclose interest and relations (Rule 14).
+- Fearlessly uphold the client's interests by all fair and honourable means (Rule 15); in criminal cases, a prosecutor must not suppress material evidence (Rule 16).
+- Do not disclose communications with the client (Rule 17); do not act for the opposite party in the same matter (Rule 33).
+- Do not stipulate fees contingent on results (Rule 20), and do not buy any interest in the actionable claim (Rule 21) or bid for property sold in execution of a decree in a case in which he acted (Rule 22).
+- Keep proper accounts of the client's money (Rule 25), and deal with it only as the client directs (Rules 25 to 28 govern clients' money); do not lend money to a client for the case (Rule 29).
+
+### Duty to the opponent (Rules 34 and 35)
+- Do not negotiate directly with the opposite party who is represented by an advocate; carry out legitimate promises made to the opposite side.
+
+### Duty to colleagues (Rules 36 to 39)
+- No advertising or soliciting (Rule 36); no permitting one's name to be used for unauthorised practice (Rule 37); no fees lower than those prescribed by the Bar Council (Rule 38); no appearance in a case where another advocate has filed a vakalat without his consent (Rule 39).
+
+### Duty to render legal aid (Rule 46)
+- Every advocate should keep in mind that anyone genuinely in need of a lawyer is entitled to legal assistance, even if he cannot pay, and the advocate should give such aid within the limits of his economic condition. Art. 39A and the Legal Services Authorities Act, 1987 support this.
+
+### Duty to the public
+- Uphold the rule of law, avoid frivolous litigation, assist in law reform, and maintain public confidence in the justice system.
+
+## 3.3 The Bar Council code of ethics
+- The BCI Rules have statutory force under s.49 of the Advocates Act. A breach can be "professional or other misconduct" under s.35.
+
+## 3.4 Recent judgments (2025–26)
+
+CASE: In re Summoning Advocates who give legal opinion or represent parties (2025) :: Investigating agencies cannot summon advocates merely for advice or representation; client privilege (s.132 BSA) applies, with narrow exceptions.
+
+CASE: Rehana Khan v Rizwan Siddhiquee (2026) :: An advocate cannot act against a former client using confidential information gained in the earlier engagement.
+
+CASE: Gummadi Usha Rani v State (2026) :: The Supreme Court criticised a trial court order based on AI-generated, non-existent precedents. Lawyers and judges must verify citations.
+
+* Advocate-client privilege protected from investigative summons (2025); former-client confidences (2026).
+* Seven lamps: honesty, courage, industry, wit, eloquence, judgment, fellowship.
+* Duties to the court (Rules 1 to 10), client (11 to 33), opponent (34 and 35), colleagues (36 to 39), legal aid (46) and the public.
+* The BCI Rules have statutory force (s.49); breach is misconduct (s.35).
+
+QL: Explain the seven lamps of advocacy.
+QL: Discuss the duties of an advocate towards the court and towards the client under the BCI Rules.
+QS: Cab-rank rule
+QS: Duty to render legal aid
+QS: Prohibition of advertising
+
+MCQ: The "seven lamps of advocacy" were described by || Lord Denning | *Judge Edward Abbott Parry | Justice Krishna Iyer | Lord Brougham || 1923.
+MCQ: Advertising and soliciting by advocates is prohibited by BCI || Rule 11 | *Rule 36 | Rule 46 | Rule 20 || A duty to colleagues.
+
+# 4 | Disciplinary proceedings
+@topics Professional misconduct and disqualifications; Functions of the Bar Council of India and State Bar Councils; Disciplinary committee; Disqualification and removal from rolls; Selected opinions of disciplinary committees and major Supreme Court judgments
+>> The Bar Councils discipline advocates for professional or other misconduct, with appeals to the BCI and then the Supreme Court. "Misconduct" is not defined; the courts and Bar Councils have built up its content case by case.
+
+## 4.1 Professional misconduct
+- Section 35 refers to "professional or other misconduct". It is not defined, but covers conduct that is dishonourable or disgraceful to the profession, whether in professional work or otherwise.
+- **Examples**: misappropriating client's money; deceiving the court; taking money to bribe a judge; buying property in dispute from a client; appearing for both sides; touting; gross negligence involving moral turpitude; false adjournment requests; conviction for serious offences; contempt of court; strikes and abstention.
+
+## 4.2 Functions of the Bar Councils
+- **State Bar Councils** (s.6): admit advocates, prepare and maintain rolls, entertain and determine cases of misconduct, safeguard advocates' rights, promote law reform, conduct seminars, organise legal aid, and manage funds.
+- **Bar Council of India** (s.7): lay down standards of professional conduct and etiquette, lay down procedure for disciplinary committees, safeguard rights, promote law reform, deal with cases referred and appeals, supervise State Bar Councils, recognise universities and lay down standards of legal education, conduct the AIBE, and recognise foreign qualifications.
+
+## 4.3 Disciplinary committees (ss.9, 35 to 38)
+- Each Bar Council constitutes disciplinary committees of three members (two elected and one co-opted).
+- **Procedure** (s.35): on receipt of a complaint or otherwise, if the State Bar Council has reason to believe an advocate is guilty of misconduct, it refers the case to its disciplinary committee. The committee fixes a hearing, gives notice to the advocate and the Advocate General, and may: (a) dismiss the complaint; (b) reprimand; (c) suspend from practice for a period; or (d) remove the name from the roll.
+- **Time limit** (s.36B): the State committee must dispose of the complaint within one year, or it is transferred to the BCI.
+- **BCI's original jurisdiction** (s.36): it may withdraw a case pending before a State committee.
+- **Appeals**: to the BCI (s.37, within 60 days), then to the Supreme Court (s.38, within 60 days), which may pass any order it deems fit.
+- **Review** (s.44): a disciplinary committee may review its own order within 60 days.
+
+## 4.4 Disqualification and removal from rolls
+- Removal on a finding of misconduct (s.35(3)(d)), and removal of names of persons disqualified under s.24A or who have died or requested removal (s.26A).
+
+## 4.5 Leading Supreme Court judgments
+CASE: V.C. Rangadurai v D. Gopalan (1979) :: An advocate deceived elderly clients into executing promissory notes and misappropriated money meant for a suit. Krishna Iyer J upheld the finding of misconduct but reduced the punishment, considering the advocate's remorse and directing him to do free legal aid work. The Court stressed that the profession is a trust and that punishment should also be reformative.
+
+CASE: Bar Council of Maharashtra v M.V. Dabholkar (1976) :: Advocates who stood at the court gate soliciting clients and touting for work were held guilty of misconduct. Krishna Iyer J said the Bar is not a private guild but a public institution committed to service; touting and soliciting degrade it.
+
+CASE: Ex-Capt. Harish Uppal v Union of India (2003) :: A Constitution Bench held that lawyers have no right to go on strike or call for a boycott of courts, even a token strike. Abstention is permissible only in the rarest of rare cases, such as where the dignity, integrity and independence of the Bar or Bench are at stake, and only for a day. Advocates who hold vakalats must appear; courts are not bound to adjourn because of strikes.
+
+CASE: Supreme Court Bar Association v Union of India (1998) :: A Constitution Bench held that the Supreme Court cannot, in exercise of its contempt jurisdiction under Art. 129 read with Art. 142, suspend an advocate's licence to practise; that power belongs to the Bar Councils under the Advocates Act. It overruled the punishment in *In re Vinay Chandra Mishra* (1995) to that extent, though the Court can debar an advocate from appearing before it for contempt.
+
+CASE: R.K. Anand v Registrar, Delhi High Court (2009) :: A senior advocate was caught in a television sting operation trying to influence a prosecution witness in the BMW hit-and-run case. The Court upheld his conviction for contempt and the High Court's order debarring him from appearing in the Delhi High Court and subordinate courts for four months. It held courts can debar advocates guilty of contempt from appearing before them, as distinct from suspending their licence.
+
+CASE: Pravin C. Shah v K.A. Mohd. Ali (2001) :: An advocate found guilty of contempt cannot appear in court until he purges himself of the contempt. The High Court's rule (Rule 11 of the Kerala High Court rules) to this effect is valid, because courts have power to regulate who appears before them.
+
+CASE: Shambhu Ram Yadav v Hanuman Das Khatry (2001) :: An advocate wrote to his client asking for money to bribe the judge. The Supreme Court upheld his removal from the roll, holding that such conduct is extremely serious misconduct that brings the profession into disrepute.
+
+CASE: P.D. Gupta v Ram Murti (1997) :: An advocate purchased property in dispute from a client, knowing of the dispute, and sold it at a profit. This was held to be professional misconduct under the BCI Rules (Rule 22 analogy and the duty of fidelity), and he was suspended.
+
+CASE: N.G. Dastane v Shrikant S. Shivde (2001) :: Seeking repeated adjournments on false grounds, to the detriment of the opposite party, was held to be professional misconduct. The Court remanded the matter to the Bar Council for proper inquiry, criticising its casual dismissal of the complaint.
+
+CASE: Noratanmal Chouraria v M.R. Murli (2004) :: Misconduct under s.35 includes conduct outside professional work. An advocate who threatened and assaulted the complainant could be held guilty of "other misconduct", because the term covers any conduct that renders him unfit to be a member of the profession.
+
+CASE: Hikmat Ali Khan v Ishwar Prasad Arya (1997) :: An advocate convicted of attempt to murder was removed from the roll. The Court held that a conviction for a serious offence involving violence is gross misconduct justifying removal.
+
+## 4.6 Selected opinions of disciplinary committees: themes
+The syllabus requires the study of fifty opinions of disciplinary committees. They fall into recurring themes:
+| Theme | Typical findings |
+|---|---|
+| Misappropriation of client money | Removal or long suspension; refund ordered |
+| Negligence and failure to appear | Mere error of judgment is not misconduct; gross negligence causing loss is (Pandurang Khandekar v Bar Council of Maharashtra, 1984) |
+| Conflict of interest | Acting for both sides; using confidential information; suspension |
+| Touting and advertising | Reprimand or suspension |
+| Misbehaviour with court or colleagues | Reprimand to suspension |
+| Fabrication of documents or false statements | Removal |
+| Retaining client's files to extract fees | Misconduct; the advocate's lien is limited |
+| Criminal conviction | Removal where moral turpitude is involved |
+
+TIP: For the viva, prepare a short list of ten opinions with the facts, the finding and the punishment, grouped by these themes. Your college library or the BCI's published volume of disciplinary opinions are the sources.
+
+## 4.7 Recent judgments (2025–26)
+
+CASE: Ajay Vijh v Indian Bar Association (2026) :: The Supreme Court directed the Bar Council of India to audit and improve its disciplinary mechanisms.
+
+* BCI directed to audit its disciplinary system (2026).
+* Misconduct (s.35) is undefined but covers professional and other dishonourable conduct.
+* State Bar Councils (s.6) and the BCI (s.7); disciplinary committees; punishments: dismissal, reprimand, suspension, removal.
+* Time limit of one year (s.36B); appeals to the BCI (s.37) and Supreme Court (s.38); review (s.44).
+* Leading cases: Rangadurai; Dabholkar; Harish Uppal (strikes); SCBA (licence suspension only by Bar Councils); R.K. Anand; Pravin Shah; Shambhu Ram Yadav; P.D. Gupta; Dastane; Noratanmal; Hikmat Ali Khan.
+
+QL: What is professional misconduct? Discuss the procedure for disciplinary proceedings against advocates under the Advocates Act.
+QL: Can lawyers go on strike? Discuss with reference to Ex-Capt. Harish Uppal.
+QL: Can the Supreme Court suspend an advocate's licence for contempt? Discuss the SCBA case.
+QL: Discuss any five leading judgments of the Supreme Court on professional misconduct.
+QS: Functions of the Bar Council of India
+QS: Disciplinary committee
+QS: R.K. Anand case
+
+MCQ: Lawyers have no right to strike, as held in || SCBA v Union of India | *Ex-Capt. Harish Uppal v Union of India | R.K. Anand | Dabholkar || 2003.
+MCQ: The power to suspend an advocate's licence lies with the Bar Councils, not the Supreme Court under contempt jurisdiction, as held in || Vinay Chandra Mishra | *Supreme Court Bar Association v Union of India | Pravin C. Shah | R.K. Anand || 1998.
+MCQ: A State disciplinary committee must dispose of a complaint within || six months | *one year | two years | three months || s.36B.
+MCQ: An appeal from an order of the BCI's disciplinary committee lies to || the High Court | *the Supreme Court | the State Bar Council | the Central Government || s.38, within 60 days.
+
+# 5 | Bar–Bench relations
+@topics Bar–Bench relations
+>> The Bar and the Bench are two wheels of the same chariot of justice. Mutual respect, courtesy and independence make the system work; conflict, strikes and contempt damage it.
+
+## 5.1 The relationship
+- The judge depends on the Bar for preparation, candour and assistance; the Bar depends on the judge for fair hearing, patience and courtesy. Most judges of the higher judiciary come from the Bar.
+- **Duties of the Bar**: respect for the court; no browbeating or intimidating judges; no allegations of bias without basis; punctuality; not seeking adjournments without cause; assisting the court with honest statements of law and fact.
+- **Duties of the Bench**: patience, courtesy and impartiality; not hasty in judgment; listening to arguments; avoiding harsh remarks against advocates in open court; respecting the dignity of the Bar.
+
+## 5.2 Problems and remedies
+- Problems: strikes and boycotts, contempt proceedings, allegations of favouritism, delays, and lack of communication.
+- Remedies: grievance redressal committees at the High Court and district levels (as directed in *Harish Uppal* and later cases), regular Bar–Bench meetings, training, and professional discipline by the Bar Councils.
+
+CASE: Mahipal Singh Rana v State of Uttar Pradesh (2016) :: An advocate convicted of criminal contempt for abusing and threatening a judge was held liable to be debarred from appearing. The Court noted the decline in standards and requested the Law Commission to review the regulatory framework of the legal profession under the Advocates Act. (This led to the Law Commission's 266th Report, 2017, on the regulation of the legal profession.)
+
+* The Bar and the Bench are partners in justice; mutual duties of respect, courtesy and assistance.
+* Problems: strikes, contempt, delays; remedies: grievance committees and regular dialogue.
+* Mahipal Singh Rana (2016) and the Law Commission's 266th Report.
+
+QL: Discuss the importance of cordial Bar–Bench relations and the measures to improve them.
+QS: Grievance redressal committees
+QS: Mahipal Singh Rana v State of UP
+
+MCQ: The Law Commission's report on regulation of the legal profession following Mahipal Singh Rana is the || 245th | *266th | 14th | 274th || 2017.
+
+# 6 | Accountancy for lawyers
+@topics Nature and functions of accounting; Branches of accounting; Accounting and law; Use of accountancy in legal disputes (contracts, tax); Accountancy in a lawyer's office or firm; Basic financial statements: income and loss account, balance sheet and its interpretation; Standard costing
+>> Lawyers need accounting to understand clients' businesses, to handle commercial, tax and insolvency disputes, and to manage their own practice, especially clients' money.
+
+## 6.1 Nature and functions of accounting
+- Accounting is the process of identifying, measuring, recording, classifying, summarising and communicating financial information to users.
+- **Double-entry system**: every transaction has a debit and a credit of equal amounts. Books include the journal, ledger, cash book and trial balance.
+- Functions: recording transactions, ascertaining profit or loss, showing financial position, controlling assets, meeting legal requirements, and aiding decisions.
+
+## 6.2 Branches of accounting
+| Branch | Focus |
+|---|---|
+| Financial accounting | Recording and reporting to external users (shareholders, creditors, regulators) |
+| Cost accounting | Ascertaining and controlling the cost of products or services |
+| Management accounting | Information for internal planning and control |
+| Tax accounting | Computation of taxable income and compliance |
+| Auditing | Independent examination of financial statements |
+| Forensic accounting | Investigation of fraud and use of accounting evidence in court |
+
+## 6.3 Accounting and law
+- Statutory requirements: books of account and financial statements under the Companies Act, 2013 (ss.128 and 129, Schedule III), the Income-tax Act (maintenance of books and audit), the GST laws (accounts and records), and the LLP Act.
+- Accounting standards: Ind AS (converged with IFRS) for specified companies; Accounting Standards issued by the Institute of Chartered Accountants of India for others.
+- Statutory audit (Companies Act, ss.139 to 148) and the National Financial Reporting Authority (NFRA).
+
+## 6.4 Use of accountancy in legal disputes
+- **Contracts**: computing damages (loss of profit, expectation and reliance losses), interest, and set-off; reading invoices, ledgers and statements of account in recovery suits.
+- **Tax law**: understanding profit and loss, capital and revenue items, depreciation, and the books' evidentiary value.
+- **Company and insolvency law**: valuation of shares, oppression and mismanagement claims, claims in insolvency, avoidance transactions under the IBC, and forensic audits.
+- **Family law**: assessing income and assets for maintenance (the affidavit of disclosure under *Rajnesh v Neha*, 2020).
+- **Criminal law**: economic offences, cheating, criminal breach of trust and money laundering.
+- **Evidence**: entries in books of account kept in the course of business are relevant, but not alone sufficient to charge a person with liability (s.28 BSA [s.34 IEA]).
+
+## 6.5 Accountancy in a lawyer's office or firm
+- Keep separate accounts for the advocate's own money and **clients' money** (BCI Rule 25, with Rules 26 to 28 on dealing with it); do not divert money received for a particular purpose; give receipts and statements of account to clients.
+- Fee ledger, expense records, bank reconciliation, and records for income tax and GST. Legal services by an advocate or firm to a business entity are subject to GST under the reverse charge mechanism (the business entity pays the tax).
+- Firms (partnerships or LLPs) must keep accounts under their governing laws.
+
+### 6.5.1 Basic financial statements
+- **Profit and loss account** (statement of profit and loss): revenues minus expenses for a period, showing net profit or loss. Shows revenue from operations, other income, cost of materials, employee benefits, finance costs, depreciation, and tax.
+- **Balance sheet**: the financial position on a date: **assets = liabilities + equity**.
+  - Assets: non-current (property, plant and equipment, intangibles, investments) and current (inventory, receivables, cash).
+  - Liabilities: non-current (long-term borrowings) and current (payables, short-term borrowings).
+  - Equity: share capital and reserves.
+- **Interpretation**: ratios such as the current ratio (current assets ÷ current liabilities, a measure of liquidity), the debt-equity ratio (solvency), and return on capital employed (profitability). Watch for contingent liabilities, related-party transactions, and auditor's qualifications.
+- **Features of a balance sheet**: prepared at a date; based on the going concern assumption; follows the accounting equation; in the format of Schedule III for companies; with notes and comparatives.
+
+### 6.5.2 Standard costing
+- Setting predetermined (standard) costs for materials, labour and overheads, comparing them with actual costs, and analysing the differences (**variances**: material price and usage variance, labour rate and efficiency variance) for cost control. Lawyers encounter it in cost disputes, pricing under contracts and government contracts.
+
+* Accounting: double entry, journal, ledger, trial balance; functions.
+* Branches: financial, cost, management, tax, audit, forensic.
+* Law requires books and audits (Companies Act, Income-tax, GST); accounting standards.
+* Accounting is used in contract, tax, company, family and criminal disputes; books of account as evidence (s.28 BSA).
+* Lawyer's office: separate client accounts (Rules 25 to 28); GST on legal services under reverse charge.
+* Financial statements: P&L, balance sheet (assets = liabilities + equity), ratios; standard costing and variances.
+
+QL: Explain the importance of accountancy for a lawyer, with reference to legal disputes in contract and tax law.
+QL: What is a balance sheet? Explain its features and how it is interpreted.
+QL: Discuss the accounting duties of an advocate regarding clients' money under the BCI Rules.
+QS: Double-entry system
+QS: Standard costing
+QS: Profit and loss account
+
+MCQ: The accounting equation is || assets = income − expenses | *assets = liabilities + equity | liabilities = assets + equity | equity = income + liabilities || Balance sheet.
+MCQ: An advocate must keep accounts of clients' money under BCI || Rule 36 | *Rule 25 | Rule 46 | Rule 11 || Duty to the client.
+MCQ: The current ratio measures || profitability | *liquidity | solvency | efficiency || Current assets ÷ current liabilities.

@@ -1,0 +1,1034 @@
+@title Law of Torts and Consumer Protection
+@subtitle General principles of tortious liability, specific torts, remedies and the Consumer Protection Act, 2019
+@paper 1.3
+@sem I
+@color #23594e
+@dark #1f4f45
+@intro Covers the common law of torts as applied in India, State liability, strict and absolute liability, and consumer law under the Consumer Protection Act, 2019.
+@reading Winfield and Jolowicz, Law of Tort
+@reading Salmond and Heuston, Law of Torts
+@reading Ramaswamy Iyer, The Law of Torts
+@reading Ratanlal and Dhirajlal, The Law of Torts
+@reading The Consumer Protection Act, 2019
+@reading R.K. Bangia, Law of Torts including Consumer Protection Laws
+@reading Indian Law Institute, Annual Survey of Indian Law (relevant articles)
+
+# 1 | Evolution, nature and scope of the law of torts
+@topics Development by courts in England; Forms of action; Emergence of specific remedies; Reception in India; Justice, equity and good conscience; Definition, nature, scope and objects; Wrongful act and legal damage; Damnum sine injuria and injuria sine damno; Tort distinguished from crime and breach of contract; Unliquidated damages; Changing scope of tort law
+>> A tort is a civil wrong, other than a mere breach of contract or trust, for which the remedy is an action for unliquidated damages. The law grew case by case in England and came to India as justice, equity and good conscience.
+
+## Development in England
+- "Tort" comes from the Latin *tortum*, twisted or crooked; in French it means simply "wrong".
+- English law developed through **forms of action**: a plaintiff had to obtain the correct royal writ.
+- **Trespass** (*vi et armis*, with force and arms) covered direct and forcible injury to person, land or goods.
+- **Trespass on the case** (action on the case) covered indirect or consequential harm. Out of it grew negligence, nuisance, defamation, deceit and conversion.
+- The forms of action were abolished by the Common Law Procedure Act, 1852 and the Judicature Acts, 1873 to 1875, but, as Maitland said, "the forms of action we have buried, but they still rule us from their graves": the categories of tort still follow their old outlines.
+
+## Reception in India
+- There is no general statute of torts in India. The law is largely uncodified and judge-made.
+- In the Presidency towns, English common law applied. Elsewhere, courts were directed by Regulations (from 1781) and later statutes to decide according to **justice, equity and good conscience** where no rule existed.
+
+CASE: Waghela Rahsanji v Sheikh Masludin (1887) :: The Privy Council said that justice, equity and good conscience generally means the rules of English law, if found applicable to Indian society and circumstances.
+
+- Indian courts therefore apply English principles but adapt them: for example, absolute liability in M.C. Mehta (1987) went beyond English law.
+- Several statutes deal with particular torts: the Fatal Accidents Act, 1855; the Motor Vehicles Act, 1988; the Railways Act, 1989; the Consumer Protection Act, 2019; the Environment (Protection) Act, 1986.
+
+## Definitions
+- **Salmond**: a tort is a civil wrong for which the remedy is a common law action for unliquidated damages, and which is not exclusively the breach of a contract or the breach of a trust or other merely equitable obligation.
+- **Winfield**: tortious liability arises from the breach of a duty primarily fixed by law; this duty is towards persons generally and its breach is redressible by an action for unliquidated damages.
+- **Limitation Act, 1963, s.2(m)**: "tort" means a civil wrong which is not exclusively a breach of contract or breach of trust.
+
+### Essentials
+1. A wrongful act or omission by the defendant (an act which violates a legal right of the plaintiff).
+2. Legal damage, meaning violation of a legal right, whether or not actual loss results.
+3. A legal remedy, usually unliquidated damages (an amount not fixed in advance, assessed by the court).
+
+### Law of tort or law of torts?
+- **Winfield** (general principle theory): all harm is actionable unless there is a just cause; so "law of tort".
+- **Salmond** (pigeonhole theory): there are only specific, recognised torts; a plaintiff must bring his case within one; so "law of torts".
+- Courts have created new torts (negligence after Donoghue v Stevenson, absolute liability in India), which supports Winfield, but they still proceed by recognised heads.
+
+## Legal damage: damnum sine injuria and injuria sine damno
+| Maxim | Meaning | Actionable? |
+|---|---|---|
+| Damnum sine injuria | Actual loss without violation of a legal right | No |
+| Injuria sine damno | Violation of a legal right without actual loss | Yes |
+
+CASE: Gloucester Grammar School Case (1410) :: A rival schoolmaster set up a school nearby, causing the plaintiff to reduce fees. Held: no action. Competition causes loss, but infringes no legal right.
+
+CASE: Mogul Steamship Co v McGregor, Gow and Co (1892) :: Shipowners combined to offer low freight rates to drive a rival out of the China tea trade. Held: no tort. Loss caused by lawful competition is damnum sine injuria.
+
+CASE: Ashby v White (1703) :: A returning officer wrongly refused to register the plaintiff's vote; his candidate won anyway. Held: the plaintiff could sue. Holt CJ said every injury imports a damage; the violation of a right is actionable without proof of loss.
+
+CASE: Bhim Singh v State of Jammu and Kashmir (1985) :: A member of the State Legislative Assembly was arrested and detained to prevent him from attending the Assembly session. The Supreme Court awarded ₹50,000 as exemplary compensation for violation of his personal liberty, an injuria for which compensation was given though no pecuniary loss was proved.
+
+## Tort distinguished from crime and breach of contract
+| Point | Tort | Crime | Breach of contract |
+|---|---|---|---|
+| Nature of wrong | Private wrong, infringement of right in rem | Public wrong, against society | Infringement of right in personam |
+| Duty | Fixed by law, owed to persons generally | Fixed by law, owed to the State | Fixed by the parties, owed to the other party |
+| Parties | Injured person sues the wrongdoer | State prosecutes | Party sues party |
+| Remedy | Unliquidated damages, injunction | Punishment (and compensation under BNSS s.395) | Liquidated or unliquidated damages, specific performance |
+| Intention or motive | Usually irrelevant | Usually essential (mens rea) | Irrelevant |
+| Privity | Not needed | Not applicable | Needed |
+| Compromise | Can be settled | Only compoundable offences | Can be settled |
+
+The same act may be both a tort and a crime (assault, defamation, nuisance) or both a tort and a breach of contract (a doctor's negligence towards a paying patient).
+
+## Changing scope and objects of the law of torts
+Tort law is expanding because of:
+- complex modern society, scientific and technological progress, industrialisation and occupational hazards;
+- mass torts (Bhopal), environmental harm, product liability, medical negligence, data and privacy injuries;
+- public law compensation for violation of Fundamental Rights (Rudul Sah, Nilabati Behera).
+
+Objects:
+- prescribing standards of conduct (deterrence);
+- compensating victims by money damages;
+- preventing wrongs by injunction;
+- spreading loss (through insurance and vicarious liability).
+
+TIP: For the essay "Law of tort or law of torts?", give Winfield's and Salmond's views, show how new torts were created (negligence, absolute liability), and conclude that the law is a growing body of specific torts held together by general principles.
+
+* Tort grew from the writs of trespass and case; forms of action still shape it.
+* In India it came as justice, equity and good conscience (Waghela Rahsanji).
+* Tort = civil wrong, not exclusively breach of contract or trust, remedied by unliquidated damages (Salmond; s.2(m) Limitation Act).
+* Damnum sine injuria is not actionable (Gloucester Grammar School; Mogul Steamship); injuria sine damno is (Ashby v White; Bhim Singh).
+* Tort differs from crime (public wrong) and contract (duty fixed by parties).
+
+QL: Define tort. Distinguish tort from crime and from breach of contract.
+QL: "There is no wrong without a remedy." Explain with reference to injuria sine damno and damnum sine injuria.
+QL: Is it the law of tort or the law of torts? Discuss with reference to the views of Winfield and Salmond.
+QL: Trace the evolution of the law of torts in England and its reception in India.
+QS: Forms of action
+QS: Justice, equity and good conscience
+QS: Ashby v White
+QS: Unliquidated damages
+QS: Mogul Steamship case
+
+MCQ: Ashby v White is an illustration of || damnum sine injuria | *injuria sine damno | volenti non fit injuria | res ipsa loquitur || Violation of a legal right without loss is actionable.
+MCQ: The "pigeonhole theory" of torts was propounded by || Winfield | *Salmond | Pollock | Holt CJ || Salmond: only specific recognised torts exist.
+MCQ: Loss caused by lawful competition is || injuria sine damno | *damnum sine injuria | actionable per se | a crime || Gloucester Grammar School case (1410).
+MCQ: In tort, the remedy is primarily || liquidated damages | *unliquidated damages | punishment | specific performance || Damages are assessed by the court.
+
+# 2 | Principles of liability in torts
+@topics Fault; Wrongful intent; Negligence; Liability without fault; Violation of ethical codes; Statutory liability (Fatal Accidents Act, Railways Act, Workmen's Compensation, Motor Vehicles Act, Carriers Acts, insurance laws); Place of motive; Extinguishment of liability: death, waiver and acquiescence, release, accord and satisfaction, limitation
+>> Most tort liability rests on fault (intention or negligence), but modern law also imposes liability without fault where activities are hazardous or where statutes demand it.
+
+## 2.1 to 2.3 Fault-based liability
+- **Fault** means blameworthy conduct: intention, recklessness or negligence.
+- **Wrongful intent**: the defendant desires or foresees the harmful consequence. Torts of intention: assault, battery, false imprisonment, deceit, malicious prosecution, conspiracy, trespass.
+- **Negligence**: failure to take reasonable care where there is a duty to do so (Unit 7). It is both a state of mind (careless) and an independent tort.
+
+## 2.4 Liability without fault
+- **Strict liability** (Rylands v Fletcher, 1868): for escape of dangerous things brought on land for non-natural use; some defences allowed.
+- **Absolute liability** (M.C. Mehta v Union of India, 1987): for enterprises engaged in hazardous or inherently dangerous activities; no exceptions.
+- **Vicarious liability**: a master is liable for torts of a servant committed in the course of employment though the master is not at fault (Unit 5).
+- **Statutory no-fault schemes**: motor accidents, railway accidents, employees' compensation.
+
+## 2.5 Violation of ethical codes
+Professional codes (medical council regulations, Bar Council rules, advertising codes) are not themselves torts, but breach of them is evidence of failure to meet the professional standard of care and may support liability in negligence or before consumer commissions.
+
+## 2.6 and 2.7 Statutory liability
+| Statute | Liability |
+|---|---|
+| Fatal Accidents Act, 1855 | Where death is caused by a wrongful act, neglect or default, an action lies for the benefit of the wife, husband, parent and child of the deceased, through the executor, administrator or representative, for their pecuniary loss |
+| Railways Act, 1989 | s.124: railway administration liable for death or injury in accidents; s.124A: liable for "untoward incidents" (terrorist acts, robbery, accidental falling of passengers) regardless of any wrongful act or neglect on its part; claims before the Railway Claims Tribunal |
+| Employees' Compensation Act, 1923 (earlier Workmen's Compensation Act) | Employer to pay compensation for personal injury by accident arising out of and in the course of employment. From 21 November 2025, these provisions are consolidated in the Code on Social Security, 2020 |
+| Motor Vehicles Act, 1988 | s.164: compensation of ₹5 lakh for death and ₹2.5 lakh for grievous hurt without proof of fault; s.161: hit-and-run compensation of ₹2 lakh for death and ₹50,000 for grievous hurt; s.166: claim on fault basis before the Motor Accidents Claims Tribunal |
+| Carriers Act, 1865 and Carriage by Road Act, 2007 | Common carriers liable for loss or damage to goods, subject to the Act's conditions |
+| Insurance laws | Third-party insurance is compulsory for motor vehicles (s.146 MV Act); insurers must satisfy judgments against the insured (s.149) |
+
+CASE: Union of India v Prabhakaran Vijaya Kumar (2008) :: A passenger fell from a crowded train. The Supreme Court held that s.124A creates strict liability; "accidental falling" must be interpreted liberally as a beneficial provision, and negligence of the passenger is not a defence unless the case falls within the statutory exceptions.
+
+## 2.8 Place of motive in torts
+Motive (the ulterior reason for an act) is generally irrelevant. A lawful act does not become unlawful because of a bad motive, and an unlawful act is not excused by a good motive.
+
+CASE: Bradford Corporation v Pickles (1895) :: Pickles drained water from his own land so as to reduce the water flowing to the Corporation's reservoir, intending to force the Corporation to buy his land at a high price. Held: no tort. He had a legal right to do what he did, and his malicious motive was irrelevant.
+
+Exceptions where motive (malice) matters:
+- malicious prosecution (malice is an essential);
+- conspiracy (predominant purpose to injure);
+- defamation, where malice defeats the defences of qualified privilege and fair comment;
+- nuisance, where malice may make otherwise reasonable conduct unreasonable (Christie v Davey, 1893).
+
+## 2.9 to 2.11 Extinguishment of liability
+### Death: actio personalis moritur cum persona
+"A personal action dies with the person." At common law, an action in tort ended on the death of either party.
+- **England**: the Law Reform (Miscellaneous Provisions) Act, 1934 provides that causes of action survive for and against the estate, except defamation.
+- **India**: s.306 of the Indian Succession Act, 1925 provides that all demands and rights to prosecute or defend any action survive to and against executors and administrators, **except** causes of action for defamation, assault (as defined in the penal law), or other personal injuries not causing death of the party. The Legal Representatives' Suits Act, 1855 allows actions for wrongs to property within one year before death.
+- Where the wrongful act causes death, the dependants have a separate cause of action under the Fatal Accidents Act, 1855.
+
+### Waiver and acquiescence
+A person who, knowing of the wrong, elects one remedy (for example, sues in contract or for money had and received) may be taken to have waived the tort. Acquiescence means the plaintiff stands by and allows the wrong to continue, which can bar equitable relief such as an injunction.
+
+### Release
+The injured person may release the wrongdoer from liability, by deed or for consideration. A release obtained by fraud or without full knowledge is not binding.
+
+### Accord and satisfaction
+An agreement (accord) to accept something in place of the claim, followed by its performance (satisfaction), discharges the tort. A mere accord without satisfaction does not.
+
+### Limitation
+| Claim | Period | Article of the Limitation Act, 1963 |
+|---|---|---|
+| False imprisonment | 1 year from end of imprisonment | 73 |
+| Malicious prosecution | 1 year from acquittal or end of prosecution | 74 |
+| Libel | 1 year from publication | 75 |
+| Slander | 1 year from publication, or when special damage results | 76 |
+| Compensation under the Fatal Accidents Act | 2 years from death | 82 |
+| Other torts (residuary) | 3 years from when the right to sue accrues | 113 |
+
+For continuing torts such as nuisance, a fresh period begins every moment the wrong continues (s.22).
+
+TIP: When asked about motive, quote Bradford v Pickles and then list the four torts where malice is relevant. That contrast is what examiners look for.
+
+* Liability rests on fault (intention, negligence) or on no-fault principles (strict, absolute, vicarious, statutory).
+* Statutes impose no-fault liability for railway and motor accidents and employment injuries.
+* Motive is generally irrelevant (Bradford v Pickles), except in malicious prosecution, conspiracy, defamation privilege and nuisance.
+* Actio personalis moritur cum persona is largely abolished by s.306 Indian Succession Act, except for defamation, assault and personal injuries not causing death.
+* Liability may be extinguished by waiver, release, accord and satisfaction and limitation.
+
+QL: Discuss the principles of liability in tort, distinguishing fault-based liability from liability without fault.
+QL: "Motive is generally irrelevant in tort." Discuss with exceptions.
+QL: Explain the maxim actio personalis moritur cum persona and its present position in India.
+QL: Write a note on statutory no-fault liability under the Motor Vehicles Act and the Railways Act.
+QS: Bradford Corporation v Pickles
+QS: Accord and satisfaction
+QS: Fatal Accidents Act, 1855
+QS: Untoward incidents under the Railways Act
+QS: Waiver of tort
+
+MCQ: Bradford Corporation v Pickles decided that || malice makes a lawful act unlawful | *malicious motive does not make a lawful act unlawful | water rights cannot be enforced | public nuisance needs special damage || Motive is generally irrelevant.
+MCQ: Under s.306 of the Indian Succession Act, which cause of action does NOT survive? || Trespass to land | Conversion | *Defamation | Breach of contract || Also assault and personal injuries not causing death.
+MCQ: The limitation period for a suit for libel is || 3 years | 2 years | *1 year | 6 months || Article 75, Limitation Act.
+MCQ: Compensation under s.164 of the Motor Vehicles Act for death is || ₹50,000 | ₹2 lakh | *₹5 lakh | ₹10 lakh || Payable without proof of fault.
+
+# 3 | Justification in tort: general defences
+@topics Volenti non fit injuria; free consent, informed consent, mere knowledge and knowledge with assumption of risk; Necessity, private and public; Plaintiff's default; Act of God and inevitable accident; Private defence; Statutory authorisation; Judicial and quasi-judicial acts; Parental and quasi-parental authority
+>> Even where all the elements of a tort are present, the defendant escapes liability if he can bring himself within a recognised justification.
+
+## 3.1 Volenti non fit injuria
+"To one who consents, no injury is done." A person who voluntarily accepts the risk of harm cannot complain when it happens.
+
+Consent may be express or implied: a spectator at a cricket or motor-racing event, a player in a contact sport, a patient consenting to surgery.
+
+CASE: Hall v Brooklands Auto Racing Club (1933) :: A spectator at a car race was injured when two cars collided and one flew into the crowd. Held: the risk was inherent in the sport and accepted by spectators; the defendants were not liable.
+
+CASE: Padmavati v Dugganaika (1975) :: Two strangers took a lift in a jeep; a wheel came off due to a loose nut, and they were injured. Held: the driver was not liable; the accident was due to a sudden mechanical failure (inevitable accident), and the passengers had voluntarily taken the lift.
+
+### Mere knowledge is not consent
+*Scienti non fit injuria* is not the law: knowing of a risk is not the same as agreeing to bear it.
+
+CASE: Smith v Baker and Sons (1891) :: A workman drilling rocks knew that stones were being swung by crane over his head without warning. A stone fell and injured him. Held: knowledge of the risk did not mean he consented to it; volenti did not apply, especially as an employee does not freely accept risks created by the employer's negligence.
+
+### Limits of volenti
+- Consent must be free, not obtained by fraud or under compulsion.
+- The harm must be the same as that consented to.
+- Consent to an illegal act is no defence in many cases.
+- **Rescue cases**: a person who is injured while trying to rescue others from danger created by the defendant's negligence is not volens.
+
+CASE: Haynes v Harwood (1935) :: A policeman was injured stopping runaway horses left unattended in a crowded street. Held: the owner was liable; the rescuer acted under a moral duty and was not volens.
+
+- **Unfair Contract Terms**: in consumer contracts, exclusion of liability for negligence causing death or personal injury is treated as an unfair term (s.2(46), CPA 2019).
+
+### Informed consent in medical treatment
+CASE: Samira Kohli v Dr Prabha Manchanda (2008) :: During a diagnostic laparoscopy to which the patient had consented, the surgeon removed her uterus and ovaries, taking consent from her mother while she was unconscious. The Supreme Court held that consent for diagnosis is not consent for therapeutic surgery; the patient must be given adequate information about the nature, purpose, risks and alternatives. The doctor was liable for the unauthorised surgery.
+
+## 3.2 Necessity
+An act done to prevent greater harm to the public or to the defendant's own interests is justified if reasonable.
+- **Public necessity**: destroying property to stop a fire spreading or pulling down houses to prevent the spread of a conflagration.
+- **Private necessity**: protecting one's own person or property.
+
+CASE: Leigh v Gladstone (1909) :: Force-feeding a suffragette prisoner on hunger strike to save her life was held justified by necessity; no battery.
+
+CASE: Cope v Sharpe (1912) :: The defendant entered the plaintiff's land to prevent a fire from spreading to adjoining land where his master had shooting rights. Held: a reasonable act done in necessity, even if it turned out unnecessary, was justified.
+
+## 3.3 Plaintiff's default
+Where the harm is due to the plaintiff's own wrongful act or fault, he cannot recover, or his damages are reduced.
+- **Contributory negligence** (Unit 7): reduces damages in proportion to fault.
+- **Ex turpi causa non oritur actio**: a plaintiff injured while engaged in a criminal enterprise may be barred.
+
+## 3.4 Act of God and inevitable accident
+### Act of God (vis major)
+An extraordinary natural event, without human intervention, that could not have been foreseen or prevented by reasonable care: exceptionally heavy rainfall, earthquake, lightning, storm.
+
+CASE: Nichols v Marsland (1876) :: Artificial lakes on the defendant's land burst their banks after extraordinary rainfall, "greater and more violent than any within the memory of witnesses". Held: the defendant was not liable under Rylands v Fletcher; the escape was due to an act of God.
+
+### Inevitable accident
+An accident that could not have been avoided by the exercise of ordinary care, caution and skill. Unlike act of God, it need not involve natural forces.
+
+CASE: Stanley v Powell (1891) :: During a shooting party, a pellet from the defendant's gun glanced off a tree and hit the plaintiff. Held: an inevitable accident; no liability, as the defendant was not negligent.
+
+CASE: Holmes v Mather (1875) :: Horses driven carefully on a highway bolted on being startled by a barking dog and knocked down the plaintiff. Held: inevitable accident.
+
+## 3.5 Private defence
+A person may use reasonable force to protect his person or property against unlawful force. The force must be proportionate to the threat and used only while the danger lasts.
+
+CASE: Bird v Holbrook (1828) :: The defendant set a spring-gun in his garden without notice. A trespasser who entered to retrieve a peahen was injured. Held: liable; using such a dangerous device without warning was more than reasonable defence of property.
+
+## 3.6 Statutory authority
+An act authorised by statute is not actionable, even if it causes harm, provided it is done without negligence. Where the statute gives absolute authority, there is no liability even for unavoidable nuisance; where it is conditional, the act must be done without causing nuisance.
+
+CASE: Vaughan v Taff Vale Railway Co (1860) :: Sparks from a railway engine, authorised by statute to run on the line, set fire to the plaintiff's wood. Held: the railway was not liable, as it had used all reasonable care.
+
+CASE: Hammersmith and City Railway Co v Brand (1869) :: Vibration from trains running under statutory authority reduced the value of the plaintiff's house. Held: no action, as the damage was the inevitable result of the authorised activity.
+
+## 3.7 Judicial and quasi-judicial acts
+Judges are not liable for acts done in the discharge of their judicial duties, even if in excess of jurisdiction, provided they acted in good faith believing they had jurisdiction. Protection in India is given by the Judicial Officers' Protection Act, 1850 and the Judges (Protection) Act, 1985. Similar protection extends to quasi-judicial authorities and to executive officers carrying out judicial orders.
+
+## 3.8 Parental and quasi-parental authority
+Parents and those in loco parentis (guardians, teachers) traditionally had authority to impose reasonable discipline. In India, s.17 of the Right of Children to Free and Compulsory Education Act, 2009 prohibits physical punishment and mental harassment of children in schools, so corporal punishment by teachers is no longer a defence.
+
+TIP: Distinguish carefully: act of God involves natural forces of an extraordinary nature; inevitable accident is any accident not preventable by reasonable care. Both negate negligence, but only act of God is a defence to strict liability under Rylands v Fletcher.
+
+* Volenti non fit injuria requires free and full consent to the risk; mere knowledge is not consent (Smith v Baker).
+* Rescuers are not volens (Haynes v Harwood); informed consent is required for medical treatment (Samira Kohli).
+* Necessity justifies reasonable acts to prevent greater harm (Leigh v Gladstone; Cope v Sharpe).
+* Act of God (Nichols v Marsland) and inevitable accident (Stanley v Powell) excuse in the absence of negligence.
+* Private defence must be proportionate (Bird v Holbrook).
+* Statutory authority protects acts done without negligence (Vaughan v Taff Vale; Hammersmith v Brand).
+
+QL: Discuss the defence of volenti non fit injuria. What are its limitations? Refer to rescue cases.
+QL: Distinguish between act of God and inevitable accident with the help of decided cases.
+QL: Explain the general defences available in an action for tort.
+QL: Discuss the doctrine of informed consent with reference to Samira Kohli v Dr Prabha Manchanda.
+QS: Scienti non fit injuria
+QS: Necessity as a defence
+QS: Statutory authority
+QS: Haynes v Harwood
+QS: Private defence
+
+MCQ: In Smith v Baker, the court held that || knowledge of risk amounts to consent | *mere knowledge of risk is not consent | workmen are always volens | the employer had statutory authority || Scienti non fit injuria is not the law.
+MCQ: A rescuer injured while rescuing someone from danger created by the defendant's negligence || is volens | *is not volens and can recover | is contributorily negligent | has no remedy || Haynes v Harwood (1935).
+MCQ: Nichols v Marsland is a leading case on || inevitable accident | *act of God | necessity | volenti || Extraordinary rainfall.
+MCQ: Force-feeding a hunger-striking prisoner was justified in || Cope v Sharpe | *Leigh v Gladstone | Bird v Holbrook | Stanley v Powell || Defence of necessity.
+
+# 4 | Doctrine of sovereign immunity and State liability
+@topics Liability of the State: sovereign and non-sovereign functions; Crown Proceedings Act of UK and Federal Tort Claims Act of USA; Constitution of India, Articles 294 and 300; Act of State
+>> The State in India is liable in tort like any employer for acts of its servants, except in a shrinking area of "sovereign functions"; in public law, courts now award compensation for violation of Fundamental Rights without regard to sovereign immunity.
+
+## The English and American position
+- At common law "the King can do no wrong", so the Crown was not liable in tort.
+- **Crown Proceedings Act, 1947 (UK)**: the Crown is liable in tort as if it were a private person of full age and capacity, for torts of its servants and agents, for breach of duties owed by employers and for breach of duties attaching to ownership of property.
+- **Federal Tort Claims Act, 1946 (USA)**: the United States is liable for negligent or wrongful acts of federal employees acting within the scope of employment, as a private person would be, subject to exceptions such as discretionary functions.
+
+## The constitutional provisions
+SEC: Art. 300(1) :: The Government of India may sue or be sued by the name of the Union of India and the Government of a State may sue or be sued by the name of the State, and may, subject to any provisions which may be made by Act of Parliament or the State legislature, sue or be sued in relation to their respective affairs in the like cases as the Dominion of India and the corresponding Provinces might have sued or been sued if this Constitution had not been enacted.
+- Art. 300 does not itself define liability; it carries forward the position under s.176 of the Government of India Act, 1935, which went back through the earlier Acts to the liability of the East India Company.
+- **Art. 294** provides for succession of the Union and States to the property, assets, rights, liabilities and obligations of the former Dominion and Provinces. This means the State inherits the liabilities of the East India Company and the Secretary of State.
+
+## Judicial development
+CASE: Peninsular and Oriental Steam Navigation Co v Secretary of State for India (1861) :: A servant of the plaintiff company was injured when government workmen in the Kidderpore dockyard negligently dropped an iron funnel on a road, frightening the horses. Peacock CJ held the government liable, distinguishing between sovereign functions (for which the East India Company was not liable) and non-sovereign or commercial functions which a private person could perform (for which it was liable). Maintaining a dockyard was non-sovereign.
+
+CASE: State of Rajasthan v Vidyawati (1962) :: A government jeep, kept for the Collector's use, was being driven back from repair by a government driver who negligently knocked down and killed a pedestrian. The Supreme Court held the State liable like any other employer. The State has no immunity in a modern welfare State for such acts; the activity was not sovereign.
+
+CASE: Kasturilal Ralia Ram Jain v State of Uttar Pradesh (1965) :: Police seized gold from a jeweller on suspicion and kept it in the malkhana; a constable absconded with it. The Supreme Court held the State not liable: the power to arrest, search and seize is a sovereign power, so the State was immune, though the act was negligent. The Court urged Parliament to legislate.
+
+CASE: N. Nagendra Rao and Co v State of Andhra Pradesh (1994) :: Goods seized under the Essential Commodities Act deteriorated through negligence of officers. The Supreme Court held the State liable. It said the doctrine of sovereign immunity has no place in a welfare State, except for functions such as defence, foreign affairs, administration of justice and legislation; Kasturilal should be confined to its own facts.
+
+CASE: State of Andhra Pradesh v Challa Ramakrishna Reddy (2000) :: A prisoner killed in jail by a bomb attack, despite requests for protection, was held entitled to compensation. The Court held that the right to life is available even to prisoners, and the doctrine of sovereign immunity is not available where Fundamental Rights are violated.
+
+### Public law compensation
+In Rudul Sah (1983), Bhim Singh (1985) and Nilabati Behera (1993), the Supreme Court awarded compensation under Arts. 32 and 226 for violation of Art. 21. This is a public law remedy based on strict liability, and the defence of sovereign immunity does not apply to it. The private law action in tort remains available separately.
+
+### Need for legislation
+The First Law Commission (1956, its First Report) recommended a statute defining State liability. Government (Liability in Tort) Bills introduced in 1965 and 1967 lapsed. The law is still judge-made.
+
+## Act of State
+An act of the sovereign power of a State against a foreign State or its subjects, done in exercise of sovereign power, not cognisable by municipal courts.
+
+CASE: Buron v Denman (1848) :: A British naval commander destroyed a Spanish slave trader's property and released slaves on the West African coast. The British government ratified the act. Held: it became an act of State, and the Spaniard could not sue in English courts.
+
+CASE: Secretary of State in Council of India v Kamachee Boye Sahaba (1859) :: The East India Company seized the property of the deceased Raja of Tanjore, claiming the Raj had lapsed. The Privy Council held it an act of State not cognisable by municipal courts.
+
+CASE: State of Saurashtra v Memon Haji Ismail (1959) :: After Junagadh's accession, the State took possession of property; the Supreme Court held that acts during the transition from one sovereign to another were acts of State.
+
+Points:
+- An act of State cannot be pleaded against a citizen of the State itself, nor against a friendly alien resident within the territory (Johnstone v Pedlar, 1921).
+- After the Constitution, the government cannot plead act of State against its own citizens in respect of their Fundamental Rights.
+
+| Point | Sovereign immunity | Act of State |
+|---|---|---|
+| Against whom | Usually own citizens | Foreign State or aliens abroad |
+| Basis | Nature of the function | Exercise of sovereign power in external relations |
+| Effect | State not liable for acts of servants | Municipal courts have no jurisdiction |
+| Current status in India | Very narrow (Nagendra Rao) | Limited to external affairs |
+
+TIP: Arrange the cases chronologically to show how immunity has shrunk: P&O (1861), Vidyawati (1962), Kasturilal (1965), Nagendra Rao (1994), Challa Ramakrishna Reddy (2000), then public law compensation (Nilabati Behera).
+
+## Recent judgments (2025–26)
+
+CASE: Lahra Bai Tamre v State (2026) :: In a custodial death case, the Supreme Court transferred the probe to the CBI and awarded ₹25 lakh compensation, reaffirming public-law compensation for violation of Art. 21 by the police.
+
+* Custodial death: CBI probe and ₹25 lakh public-law compensation (Lahra Bai Tamre, 2026).
+* Art. 300 continues the pre-Constitution liability of the government; Art. 294 makes it successor to former liabilities.
+* P&O (1861) introduced the sovereign/non-sovereign distinction.
+* Vidyawati (1962): State liable for driver's negligence; Kasturilal (1965): police seizure sovereign.
+* Nagendra Rao (1994) confined immunity to core functions; immunity no defence where Fundamental Rights are violated.
+* Act of State applies only against foreign States and aliens abroad.
+
+QL: Discuss the liability of the State for torts committed by its servants in India, with reference to P&O Steam Navigation, Vidyawati and Kasturilal.
+QL: "The doctrine of sovereign immunity has no place in a welfare State." Discuss with reference to recent decisions.
+QL: What is an act of State? Can it be pleaded against a citizen?
+QL: Compare the position of State liability in India with the Crown Proceedings Act (UK) and the Federal Tort Claims Act (USA).
+QS: Article 300
+QS: Kasturilal v State of UP
+QS: Act of State
+QS: Nagendra Rao case
+QS: Public law compensation
+
+MCQ: The distinction between sovereign and non-sovereign functions was first made in || Vidyawati | Kasturilal | *P&O Steam Navigation Co v Secretary of State | Nagendra Rao || Calcutta Supreme Court, 1861.
+MCQ: In Kasturilal, the State was held || liable | *not liable, because the act was in exercise of sovereign power | liable only for half the loss | liable under Art. 21 || Police powers of seizure were treated as sovereign.
+MCQ: Act of State can be pleaded against || an Indian citizen | *a foreign State or an alien outside the territory | a friendly alien resident in India | any person || Johnstone v Pedlar (1921).
+MCQ: The Crown Proceedings Act was enacted in || 1934 | *1947 | 1950 | 1965 || UK statute making the Crown liable in tort.
+
+# 5 | Vicarious liability
+@topics Basis, scope and justification; Express authorisation; Ratification; Abetment; Special relationships; Master and servant: course of employment, who is master, control test, who is servant, borrowed servant, independent contractor; Principal and agent; Corporation and principal officer
+>> A person may be liable for a tort he did not commit, because of his relationship with the wrongdoer. The master is liable for torts of his servant committed in the course of employment.
+
+## Basis and justification
+- *Qui facit per alium facit per se*: he who acts through another acts himself.
+- *Respondeat superior*: let the principal answer.
+- Justifications: the master has the "deep pocket" and insurance; he benefits from the servant's work so should bear its risks; he selects and controls the servant; liability encourages care in selection and supervision; loss is spread across the enterprise.
+
+## Ways in which vicarious liability arises
+- **Express authorisation**: liability for torts one authorises another to commit.
+- **Ratification**: an act done on one's behalf without authority, later adopted with knowledge, is treated as authorised (the act must have been done on behalf of the ratifier).
+- **Abetment**: one who instigates, aids or procures a tort is a joint tortfeasor.
+- **Special relationships**: master and servant, principal and agent, partners (s.26, Indian Partnership Act, 1932), company and its officers, employer and independent contractor (limited).
+
+## 5.6 Master and servant
+### Who is a servant?
+| Test | Content | Case |
+|---|---|---|
+| Control test | A servant is a person subject to the command of the master as to the manner in which he shall do his work | Yewens v Noakes (1880) |
+| Integration (organisation) test | A servant is employed as part of the business and his work is an integral part of it; an independent contractor works for the business but is not integrated into it | Stevenson, Jordan and Harrison v Macdonald and Evans (1952), Denning LJ |
+| Multiple (economic reality) test | Consider control, provision of tools, chance of profit, risk of loss, payment, and the parties' own description | Ready Mixed Concrete v Minister of Pensions (1968) |
+
+The control test is unsuited to skilled professionals (surgeons, pilots), so courts look at the whole relationship. Hospitals are liable for negligence of their staff doctors (Cassidy v Ministry of Health, 1951).
+
+### Borrowed servant
+Where a servant is lent by his general employer to another, the general employer usually remains liable unless he clearly proves that control over the manner of work passed to the hirer.
+
+CASE: Mersey Docks and Harbour Board v Coggins and Griffith (1947) :: The Board lent a crane with its driver to stevedores, who directed what to load but not how to work the crane. The driver negligently injured a person. Held: the Board, as general employer, remained liable; the burden of shifting liability is heavy.
+
+### Independent contractor
+An employer is generally not liable for torts of an independent contractor, because he does not control how the work is done. Exceptions:
+- the employer authorised or ratified the tort, or was himself negligent in selecting the contractor;
+- the work is extra-hazardous or inherently dangerous (Honeywill and Stein v Larkin Bros, 1934, where photographers using magnesium flares set fire to a cinema);
+- non-delegable duties imposed by statute or common law (for example, operations on a highway, withdrawal of support from neighbouring land);
+- cases of strict liability under Rylands v Fletcher.
+
+### Course of employment
+The most important question. Salmond's test: a master is liable for a wrongful act of his servant if it is (a) a wrongful act authorised by the master, or (b) a wrongful and unauthorised **mode** of doing some act authorised by the master.
+
+CASE: Century Insurance Co v Northern Ireland Road Transport Board (1942) :: A driver delivering petrol lit a cigarette and threw away a lighted match while petrol was being transferred, causing an explosion. Held: the master was liable; the driver was doing his authorised job of delivering petrol, though in a negligent way.
+
+CASE: Limpus v London General Omnibus Co (1862) :: A bus driver, against express instructions, raced with a rival bus and caused an accident. Held: the master was liable; the prohibited act was only a wrongful mode of doing his job of driving.
+
+CASE: Beard v London General Omnibus Co (1900) :: A bus conductor, in the absence of the driver, drove the bus himself and caused an accident. Held: the employer was not liable, because driving was not within the conductor's employment.
+
+CASE: Rose v Plenty (1976) :: A milkman, against orders, took a boy on his float to help deliver milk; the boy was injured. Held: the employer was liable, as the boy was being used to further the employer's business.
+
+CASE: Lloyd v Grace, Smith and Co (1912) :: A solicitor's managing clerk fraudulently induced a client to transfer her properties to him. Held: the firm was liable, even though the fraud was for the clerk's own benefit, because it was committed within the apparent scope of his authority.
+
+CASE: State Bank of India v Shyama Devi (1978) :: A bank employee, who was a friend of the plaintiff's husband, received money from the plaintiff to deposit and misappropriated it without following bank procedure. Held: the bank was not liable, because he received the money as a friend, not as part of his employment.
+
+CASE: Pushpabai Purshottam Udeshi v Ranjit Ginning and Pressing Co (1977) :: A company's manager, driving the company car on company business, gave a lift to a person, and an accident killed him. The Supreme Court held the company liable, applying the modern trend of treating such acts as within the course of employment.
+
+### The close connection test
+English courts now ask whether the tort was so closely connected with the employment that it would be fair and just to hold the employer liable: **Lister v Hesley Hall (2001)** (warden's sexual abuse of boys in a boarding house) and **Mohamud v Wm Morrison Supermarkets (2016)** (petrol station attendant's assault on a customer).
+
+## 5.7 Principal and agent
+A principal is liable for torts committed by his agent within the scope of the agent's actual or apparent authority. Under s.238 of the Indian Contract Act, misrepresentation or fraud by an agent acting in the course of business affects the principal. Partners are liable for torts of a co-partner in the ordinary course of business of the firm (s.26, Partnership Act).
+
+## 5.8 Corporation and principal officer
+A corporation can act only through human agents, so it is liable for the torts of its servants and agents done in the course of employment, including torts requiring malice. Torts may be attributed to the company itself through its directing mind and will. A corporation is liable for torts even if the act was ultra vires the company, if done within the course of employment.
+
+TIP: In a problem, ask three questions in order: (1) Is the wrongdoer a servant or an independent contractor? (2) Was the tort in the course of employment (authorised act in an unauthorised mode)? (3) Does any exception apply (frolic of his own, express prohibition limiting the scope of work)?
+
+* Vicarious liability rests on qui facit per alium facit per se and respondeat superior.
+* Servant status is decided by control, integration and multiple tests.
+* Borrowed servant: general employer stays liable unless control clearly passes (Mersey Docks).
+* No liability for independent contractors, except for hazardous work, non-delegable duties and own negligence.
+* Course of employment: wrongful mode of an authorised act (Century Insurance, Limpus); not acts outside employment (Beard; Shyama Devi).
+* Liability for fraud within apparent authority (Lloyd v Grace, Smith).
+
+QL: Explain the doctrine of vicarious liability. What is the justification for holding a master liable for the torts of his servant?
+QL: "A master is liable for the torts of his servant committed in the course of employment." Discuss with decided cases.
+QL: Distinguish between a servant and an independent contractor. When is an employer liable for the torts of an independent contractor?
+QS: Borrowed servant
+QS: Lloyd v Grace, Smith and Co
+QS: Control test
+QS: Ratification of tort
+QS: Liability of a principal for torts of his agent
+
+MCQ: In Century Insurance v Northern Ireland Road Transport Board, the master was held liable because || the driver acted on express orders | *the driver was doing his authorised work in a negligent manner | the driver was an independent contractor | the act was ratified || Lighting a cigarette while delivering petrol.
+MCQ: A bus conductor driving the bus in the driver's absence makes the employer || liable | *not liable, as driving was outside his employment | liable only if ratified | strictly liable || Beard v London General Omnibus Co (1900).
+MCQ: The integration test was developed by || Lord Atkin | *Denning LJ | Salmond | Holt CJ || Stevenson, Jordan and Harrison v Macdonald and Evans (1952).
+MCQ: A bank was held NOT liable for misappropriation by its employee acting as a friend in || Lloyd v Grace Smith | *State Bank of India v Shyama Devi | Rose v Plenty | Pushpabai Udeshi || 1978 Supreme Court decision.
+
+# 6 | Torts against persons, personal relations, property and business
+@topics Assault, battery, mayhem; False imprisonment; Defamation: libel, slander and privileges; Marital, domestic, parental and master-servant relations; Malicious prosecution; Shortened expectation of life; Nervous shock; Defences; Trespass to land, trespass ab initio, dispossession; Trespass to goods, detinue, conversion; Injurious falsehood, misstatements, passing off
+>> The specific torts protect bodily integrity, liberty, reputation, family relations, land, goods and business goodwill. Most are actionable per se; some need proof of special damage.
+
+## 6.1 Assault, battery and mayhem
+- **Assault**: an act which causes the plaintiff reasonable apprehension of immediate unlawful force. No contact is needed. Mere words are generally not assault, but words can negative an apparent threat.
+- **Battery**: intentional application of unlawful force to another without lawful justification. The least touching in anger is a battery (Cole v Turner, 1704).
+- **Mayhem**: maiming, depriving a person of a member of the body useful for fighting; now covered by battery and grievous hurt.
+
+CASE: Tuberville v Savage (1669) :: The defendant laid his hand on his sword and said, "If it were not assize-time, I would not take such language from you." Held: no assault. The words showed that he did not intend to strike.
+
+CASE: Stephens v Myers (1830) :: At a parish meeting, the defendant advanced with a clenched fist towards the chairman but was stopped before reaching him. Held: assault, since he was close enough and intended to strike.
+
+## 6.2 False imprisonment
+Total restraint of a person's liberty without lawful justification, however short. Physical force is not needed; a show of authority is enough.
+
+CASE: Bird v Jones (1845) :: Part of a public footway was fenced off for spectators; the plaintiff was prevented from going forward but was free to go back. Held: no false imprisonment, as the restraint was partial, not total.
+
+CASE: Meering v Grahame-White Aviation Co (1919) :: The plaintiff was kept in a room by works police, without knowing he was being watched. Held: false imprisonment; knowledge of the restraint by the plaintiff is not necessary, though it may affect damages.
+
+- In India, unlawful arrest or detention by the police gives rise to both a private law claim and public law compensation (Rudul Sah, Bhim Singh).
+
+## 6.3 Defamation
+Publication of a false statement that tends to lower a person in the estimation of right-thinking members of society generally, or makes them shun or avoid him.
+
+### Libel and slander
+| Point | Libel | Slander |
+|---|---|---|
+| Form | Permanent: writing, print, picture, film, broadcast, online post | Transient: spoken words, gestures |
+| Actionability in England | Per se (without proof of damage) | Only on proof of special damage, except: imputation of a criminal offence punishable by imprisonment, of a contagious disease, of unchastity of a woman, or disparagement in office, profession or trade |
+| Criminal liability | Also an offence | Also an offence |
+| Indian position | Actionable per se | Indian courts have differed; many High Courts hold slander actionable per se, making the English distinction of little importance |
+
+Criminal defamation is now punishable under s.356 of the Bharatiya Nyaya Sanhita, 2023 (earlier ss.499 and 500 IPC). Its validity was upheld in **Subramanian Swamy v Union of India (2016)**.
+
+### Essentials
+1. **The statement must be defamatory**: judged by right-thinking members of society. Innuendo (a hidden meaning understood by people with special knowledge) can make innocent words defamatory.
+2. **It must refer to the plaintiff**: the test is whether reasonable people would understand it as referring to him, even if the defendant did not intend it.
+3. **It must be published**: communicated to at least one person other than the plaintiff.
+
+CASE: Cassidy v Daily Mirror Newspapers (1929) :: A newspaper published a photo of Mr Cassidy with a woman, saying their engagement had been announced. His wife's acquaintances thought she had been living with him unmarried. Held: defamatory of the wife by innuendo, though the paper did not know he was married.
+
+CASE: Newstead v London Express Newspapers (1940) :: A report that "Harold Newstead, a thirty-year-old Camberwell man" had been convicted of bigamy was true of one Newstead but read as referring to another of the same name and age. Held: the paper was liable to the plaintiff; lack of intention is no defence.
+
+CASE: Mahendra Ram v Harnandan Prasad (1958) :: A defamatory letter in Urdu was sent to the plaintiff, who could not read Urdu and had it read by a third person. Held: no publication by the defendant, since he did not know or intend that a third person would read it.
+
+### Defences
+- **Justification (truth)**: the statement is substantially true. Truth is a complete defence in civil cases.
+- **Fair comment**: honest expression of opinion on a matter of public interest, based on true facts, without malice.
+- **Absolute privilege**: statements in Parliament and State legislatures (Arts. 105, 194), in judicial proceedings by judges, advocates, parties and witnesses, and communications between high officers of State. No action lies even if made maliciously.
+- **Qualified privilege**: statements made in discharge of a legal, social or moral duty to a person with a corresponding interest (references for employees, reports to police, fair reports of public proceedings). Lost if the statement was made with malice.
+
+CASE: R. Rajagopal v State of Tamil Nadu (1994) :: The Court held that, in matters of public record and conduct of public officials in discharge of official duties, no action for damages lies for publication of the truth, and even for false statements, the official must show that the publication was made with reckless disregard for truth (adopting the actual-malice principle of New York Times v Sullivan).
+
+## 6.4 Torts against domestic and personal relations
+- **Marital relations**: historically, a husband could sue for loss of consortium caused by injury to his wife, for enticement or harbouring of the wife, and (formerly) for adultery. Modern law treats spouses equally; actions for enticement and adultery have largely disappeared. In India, after Joseph Shine v Union of India (2018), adultery is no longer a crime.
+- **Parental relations**: a parent could sue for loss of the services of a child injured by the defendant (per quod servitium amisit), and for seduction of a daughter.
+- **Master and servant**: a master could sue for loss of services of a servant injured by the defendant. These relational actions are now rare; dependants rely instead on the Fatal Accidents Act and on claims for loss of consortium in motor accident cases.
+
+## 6.5 Malicious prosecution
+Essentials (the plaintiff must prove all):
+1. Prosecution of the plaintiff by the defendant (setting the criminal law in motion, not merely giving information).
+2. Absence of reasonable and probable cause.
+3. Malice: a purpose other than bringing an offender to justice.
+4. Termination of the prosecution in favour of the plaintiff.
+5. Damage to reputation, person or property.
+
+CASE: West Bengal State Electricity Board v Dilip Kumar Ray (2007) :: The Supreme Court restated the elements: the defendant must have initiated proceedings without reasonable and probable cause, with malice, and the proceedings must have ended in the plaintiff's favour. Reasonable and probable cause means an honest belief, based on reasonable grounds, in the guilt of the accused.
+
+## 6.6 Shortened expectation of life
+Damages may be awarded for loss of expectation of life caused by injury. Courts award a moderate, conventional sum rather than attempt to value life.
+
+CASE: Benham v Gambling (1941) :: The House of Lords held that damages for loss of expectation of life should be moderate, since the court is not valuing a life but compensating the loss of a prospect of happiness; a small conventional sum was awarded for a child's death.
+
+In Indian motor accident cases, courts award conventional amounts for loss of estate, loss of consortium and funeral expenses, following National Insurance Co v Pranay Sethi (2017).
+
+## 6.7 Nervous shock
+Psychiatric injury (a recognised mental illness, not mere grief or distress) caused by the defendant's negligence.
+
+CASE: Dulieu v White and Sons (1901) :: A pregnant woman suffered shock and a premature birth when a horse-drawn van crashed into the bar where she was serving. Held: she could recover, as she feared for her own safety.
+
+CASE: Hambrook v Stokes Bros (1925) :: A mother suffered shock and died after seeing a runaway lorry heading towards where she had left her children. Held: recoverable though she feared for her children, not herself.
+
+CASE: Bourhill v Young (1943) :: A pregnant fishwife heard a motorcycle accident and later saw blood on the road; she suffered shock and a stillbirth. Held: no duty owed to her, as she was outside the area of foreseeable danger.
+
+CASE: Alcock v Chief Constable of South Yorkshire Police (1992) :: Arising from the Hillsborough stadium disaster, the House of Lords distinguished primary victims (in danger themselves) from secondary victims (witnesses), who must show close ties of love and affection with the victim, proximity in time and space to the event or its immediate aftermath, and perception by their own unaided senses.
+
+## 6.8 Defences to these torts
+Consent, private defence, necessity, lawful authority (arrest by police under law), parental authority, statutory authority, and for defamation, truth, fair comment and privilege.
+
+## 6.9 Trespass to land
+Unjustified intrusion on land in the possession of another: entering, remaining, or placing objects on it. Actionable per se. Mistake is no defence (**Basely v Clarkson, 1682**, where the defendant mowed the plaintiff's grass believing it to be his own).
+- **Trespass ab initio**: where a person enters land under authority of law and then abuses that authority by a positive wrongful act, he is treated as a trespasser from the beginning (**The Six Carpenters' Case, 1610**: mere non-payment for wine was a non-feasance and did not make the entry a trespass ab initio).
+- **Dispossession**: the person dispossessed may recover possession by suit (s.6 of the Specific Relief Act, 1963 gives a summary remedy within six months of dispossession, without regard to title), and claim mesne profits.
+
+## 6.10 Torts to movable property
+| Tort | Meaning |
+|---|---|
+| Trespass to goods | Wrongful direct interference with goods in another's possession: moving, damaging or destroying them (Kirk v Gregory, 1876, moving jewellery to a supposedly safer place) |
+| Detinue | Wrongful detention of goods after a demand for their return; remedy is return of goods or their value |
+| Conversion | Dealing with goods in a manner inconsistent with the right of the owner, denying his title: wrongful taking, sale, destruction or refusal to deliver (Hollins v Fowler, 1875, where a broker who innocently bought and resold cotton obtained by fraud was liable) |
+
+## 6.11 Torts against business interests
+- **Injurious falsehood**: false and malicious statement about the plaintiff's goods or business causing special damage (Ratcliffe v Evans, 1892, where a false report that the plaintiff's business had ceased caused loss of trade).
+- **Negligent misstatement**: where a person with special skill gives advice knowing another will rely on it, he may owe a duty of care for economic loss: **Hedley Byrne and Co v Heller and Partners (1964)**.
+- **Deceit**: a false statement made knowingly or recklessly, intended to be acted on, causing damage (Derry v Peek, 1889).
+- **Passing off**: misrepresenting one's goods or services as those of another, damaging his goodwill. The elements (from **Erven Warnink v Townend, 1979**) are a misrepresentation, in the course of trade, to prospective customers, calculated to injure the business or goodwill of another, causing actual damage.
+
+CASE: Cadila Health Care Ltd v Cadila Pharmaceuticals Ltd (2001) :: Concerning drugs sold as "Falcigo" and "Falcitab", the Supreme Court held that in passing off actions for medicinal products a stricter approach is needed to prevent confusion, and set out factors for deciding deceptive similarity.
+
+TIP: For defamation problems, write the three essentials (defamatory, refers to plaintiff, published) and then go through the defences in order: truth, fair comment, absolute privilege, qualified privilege. Mention Rajagopal if a public official is involved.
+
+* Assault is apprehension; battery is application of force (Tuberville v Savage; Stephens v Myers).
+* False imprisonment requires total restraint (Bird v Jones); knowledge is not needed (Meering).
+* Defamation: defamatory statement, referring to plaintiff, published; innuendo and unintended reference suffice (Cassidy; Newstead).
+* Defences: truth, fair comment, absolute and qualified privilege; public officials must prove reckless disregard (Rajagopal).
+* Malicious prosecution needs prosecution, no reasonable cause, malice, favourable termination and damage.
+* Nervous shock: primary and secondary victims (Alcock).
+* Trespass to land is actionable per se; conversion denies the owner's title (Hollins v Fowler); passing off protects goodwill.
+
+QL: Define defamation. Distinguish libel from slander. What defences are available in an action for defamation?
+QL: Explain the essentials of the tort of malicious prosecution.
+QL: Discuss the law relating to nervous shock with reference to the development of English cases.
+QL: Distinguish between assault and battery. Explain false imprisonment with cases.
+QL: Write a note on torts relating to movable property: trespass to goods, detinue and conversion.
+QS: Innuendo
+QS: Qualified privilege
+QS: Trespass ab initio
+QS: Passing off
+QS: Injurious falsehood
+QS: Bird v Jones
+
+MCQ: Bird v Jones decided that || partial restraint is false imprisonment | *restraint must be total to be false imprisonment | knowledge of restraint is essential | words cannot be assault || The plaintiff could go back.
+MCQ: In Tuberville v Savage, there was no assault because || there was no weapon | *the words showed no intention to strike | the plaintiff was not afraid | it was assize-time || Words can negative a threat.
+MCQ: R. Rajagopal v State of Tamil Nadu concerned || nervous shock | *defamation and privacy of public officials | malicious prosecution | passing off || 1994 Auto Shankar case.
+MCQ: Dealing with goods in a way that denies the owner's title is || detinue | trespass to goods | *conversion | nuisance || Hollins v Fowler (1875).
+MCQ: The Six Carpenters' Case concerns || conversion | *trespass ab initio | malicious prosecution | false imprisonment || Non-feasance does not make entry a trespass ab initio.
+
+# 7 | Negligence, strict liability and absolute liability
+@topics Basic concepts; Theories of negligence; Standards of care, duty to take care; Contributory negligence; Res ipsa loquitur; Professional negligence with special reference to consumer protection law; Rule in Rylands v Fletcher; Storing and escape of dangerous things; Bhopal, Oleum gas, Machhu dam, M.C. Mehta, nuclear installations; Liability under the Motor Vehicles Act, Railways Act etc.
+>> Negligence asks whether the defendant failed to take the care a reasonable person would; strict and absolute liability ask only whether a dangerous activity caused harm.
+
+## 7.1 and 7.2 Negligence: meaning and theories
+- **Subjective theory**: negligence is a state of mind, carelessness or indifference (Salmond).
+- **Objective theory**: negligence is conduct falling below the standard of a reasonable person, whatever the state of mind (Winfield, and the modern law).
+- Negligence as a tort has three elements: (1) a duty of care owed to the plaintiff; (2) breach of that duty; (3) damage caused by the breach that is not too remote.
+
+### Duty of care
+CASE: Donoghue v Stevenson (1932) :: A woman drank ginger beer, bought by a friend, from an opaque bottle containing a decomposed snail and fell ill. Held: the manufacturer owed her a duty of care despite the absence of a contract. Lord Atkin's "neighbour principle": you must take reasonable care to avoid acts or omissions which you can reasonably foresee would be likely to injure your neighbour, meaning persons so closely and directly affected by your act that you ought reasonably to have them in contemplation.
+
+CASE: Caparo Industries v Dickman (1990) :: The House of Lords set a three-stage test for new duty situations: foreseeability of damage, proximity of relationship, and whether it is fair, just and reasonable to impose a duty.
+
+## 7.3 Standard of care and breach
+The standard is that of the reasonable man: "Negligence is the omission to do something which a reasonable man would do, or doing something which a prudent and reasonable man would not do" (**Blyth v Birmingham Waterworks Co, 1856**).
+
+Factors in deciding breach:
+- **Likelihood of harm**: Bolton v Stone (1951), a cricket ball hit out of the ground only about six times in thirty years; no breach.
+- **Seriousness of harm**: Paris v Stepney Borough Council (1951), a one-eyed workman not given goggles; higher care owed because loss of his remaining eye would be catastrophic.
+- **Cost and practicality of precautions**.
+- **Social value of the activity**.
+- **Special skill**: professionals are judged by the standard of a reasonably competent member of the profession.
+
+## 7.4 Contributory negligence
+Where the plaintiff's own lack of care contributes to his harm.
+- Old common law: complete defence (Butterfield v Forrester, 1809).
+- The **last opportunity rule** softened this: the party who had the last opportunity to avoid the accident is liable (Davies v Mann, 1842, a donkey tethered on the highway).
+- England: Law Reform (Contributory Negligence) Act, 1945 provides for **apportionment**: damages reduced to the extent the court thinks just.
+- India has no general statute, but courts apply apportionment as a rule of justice, equity and good conscience.
+
+CASE: Municipal Corporation of Greater Bombay v Laxman Iyer (2003) :: The Supreme Court explained that contributory negligence means failure by a person to use reasonable care for his own safety; where both parties are negligent, damages are apportioned according to the degree of fault.
+
+## 7.5 Res ipsa loquitur
+"The thing speaks for itself." Where the cause of the accident is unknown, the plaintiff may raise an inference of negligence if: (1) the thing causing harm was under the management and control of the defendant; (2) the accident is such as in the ordinary course does not happen if proper care is used; (3) the cause is not known.
+
+CASE: Scott v London and St Katherine Docks Co (1865) :: Bags of sugar fell from a crane onto a customs officer. Erle CJ laid down the doctrine: where the thing is under the defendant's management and the accident is one that does not ordinarily happen with care, it is reasonable evidence of negligence in the absence of explanation.
+
+CASE: Municipal Corporation of Delhi v Subhagwanti (1966) :: The Chandni Chowk clock tower collapsed, killing several people. The Supreme Court applied res ipsa loquitur: the tower was under the Corporation's control and such collapse does not happen without negligence in maintenance.
+
+- The effect is to shift the evidential burden to the defendant to explain the accident consistently with no negligence.
+
+## 7.6 Professional negligence, especially under consumer law
+### Medical negligence
+CASE: Jacob Mathew v State of Punjab (2005) :: A patient died when an oxygen cylinder was found empty. The Supreme Court adopted the **Bolam test** (Bolam v Friern Hospital Management Committee, 1957): a doctor is not negligent if he acts in accordance with a practice accepted as proper by a responsible body of medical opinion. For criminal liability, negligence must be gross or reckless. It also laid down guidelines that a private complaint against a doctor should be supported by credible medical opinion.
+
+CASE: Kusum Sharma v Batra Hospital (2010) :: The Court summarised principles of medical negligence: a doctor must exercise reasonable skill; a mere error of judgment or choice of one reasonable course over another is not negligence; doctors must not be harassed by frivolous complaints.
+
+CASE: V. Kishan Rao v Nikhil Super Speciality Hospital (2010) :: A patient treated for typhoid when she had malaria died. The Court held that expert evidence is not needed in every case before a consumer forum; where negligence is obvious, res ipsa loquitur may apply.
+
+### Professionals under the Consumer Protection Act
+CASE: Indian Medical Association v V.P. Shantha (1995) :: Medical services rendered for payment (including services paid for through insurance or by an employer) are "services" under consumer law; only services rendered entirely free of charge, or under a contract of personal service, are excluded.
+
+CASE: Bar of Indian Lawyers v D.K. Gandhi PS National Institute of Communicable Diseases (2024) :: The Supreme Court held that services of advocates are not within the Consumer Protection Act, 2019, because the advocate-client relationship involves a high degree of direct control by the client and is a contract of personal service, and the profession is sui generis. It also referred the correctness of V.P. Shantha to a larger bench.
+
+## 7.7 to 7.9 Strict liability: the rule in Rylands v Fletcher
+CASE: Rylands v Fletcher (1868) :: The defendants had a reservoir built on their land by independent contractors, who negligently failed to block old mine shafts. Water flooded the plaintiff's mine. Blackburn J held: a person who for his own purposes brings on his land and collects and keeps there anything likely to do mischief if it escapes must keep it in at his peril; if he does not, he is prima facie answerable for all damage which is the natural consequence of its escape. The House of Lords added that the use of land must be "non-natural".
+
+Essentials:
+1. A dangerous thing (likely to do mischief if it escapes): water, gas, electricity, explosives, fire, noxious fumes, vibrations.
+2. Escape from the defendant's land to a place outside his control (Read v J. Lyons and Co, 1947: no escape when a shell exploded inside a munitions factory, so no liability).
+3. Non-natural use of land (ordinary domestic water supply is natural use: Rickards v Lothian, 1913).
+4. Damage to the plaintiff.
+
+Exceptions:
+- plaintiff's own default;
+- act of God (Nichols v Marsland, 1876);
+- consent of the plaintiff or common benefit;
+- act of a stranger (Box v Jubb, 1879, where a third party emptied his reservoir into the drain);
+- statutory authority (Green v Chelsea Waterworks, 1894).
+In **Cambridge Water Co v Eastern Counties Leather (1994)** the House of Lords added a requirement that the type of damage be foreseeable.
+
+## Absolute liability: the Indian development
+CASE: M.C. Mehta v Union of India (1987) :: Oleum gas leaked from a unit of Shriram Foods and Fertilisers in Delhi in December 1985, affecting many people. The Supreme Court (Bhagwati CJ) held that an enterprise engaged in a hazardous or inherently dangerous industry which poses a potential threat to the health and safety of persons working in the factory and residing in the surrounding areas owes an absolute and non-delegable duty to the community. If harm results, the enterprise is absolutely liable, and none of the exceptions to Rylands v Fletcher apply. The measure of compensation must be correlated to the magnitude and capacity of the enterprise, so that it has a deterrent effect.
+
+### Bhopal gas disaster
+- On the night of 2 to 3 December 1984, methyl isocyanate gas leaked from the Union Carbide India Ltd plant in Bhopal, killing thousands and injuring hundreds of thousands.
+- The **Bhopal Gas Leak Disaster (Processing of Claims) Act, 1985** made the Union of India the sole representative of the victims (parens patriae); upheld in **Charan Lal Sahu v Union of India (1990)**.
+- In **Union Carbide Corporation v Union of India (1989)**, the Supreme Court recorded a settlement of US $470 million in full and final settlement. A curative petition by the Union seeking enhanced compensation was dismissed in 2023.
+- The disaster led to the Environment (Protection) Act, 1986 and the Public Liability Insurance Act, 1991, which requires owners handling hazardous substances to take insurance and provides no-fault relief.
+
+### Other disasters named in the syllabus
+- **Machhu dam failure (Morbi, Gujarat, 1979)**: the dam burst after heavy rain, causing massive loss of life; it raised questions of State liability, act of God and design negligence.
+- **Nuclear installations**: the Civil Liability for Nuclear Damage Act, 2010 channelled liability for nuclear incidents to the operator on a no-fault basis, with a cap and a right of recourse against suppliers. It was repealed, together with the Atomic Energy Act, 1962, by the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, 2025, which keeps strict liability of the operator but replaces the flat cap with a tiered structure and removes the open-ended supplier liability.
+
+CASE: Indian Council for Enviro-Legal Action v Union of India (1996) :: Chemical industries at Bichhri village in Rajasthan polluted groundwater with sludge. The Court applied absolute liability and the "polluter pays" principle, ordering the polluters to pay for remediation.
+
+| Point | Strict liability (Rylands) | Absolute liability (M.C. Mehta) |
+|---|---|---|
+| Activity | Non-natural use of land, dangerous thing | Hazardous or inherently dangerous industry |
+| Escape | Necessary | Not necessary (harm to workers inside also covered) |
+| Exceptions | Act of God, stranger, consent, default, statutory authority | None |
+| Damages | Compensatory | Correlated to magnitude and capacity of the enterprise (deterrent) |
+
+## 7.10 Liability under the Motor Vehicles Act and Railways Act
+- **Motor Vehicles Act, 1988**: fault-based claims under s.166 before Motor Accidents Claims Tribunals; no-fault compensation under s.164; hit-and-run compensation under s.161; compulsory third-party insurance (s.146). Compensation is computed by the multiplier method, using **Sarla Verma v DTC (2009)** and **National Insurance v Pranay Sethi (2017)** for future prospects and conventional heads.
+- **Railways Act, 1989**: ss.124 and 124A impose strict liability for accidents and untoward incidents, with fixed compensation schedules (Unit 2).
+
+TIP: In absolute liability questions, contrast Rylands and M.C. Mehta in a table, and explain why the Supreme Court said India cannot hold back its law because English law has not developed: the needs of a developing industrial economy required a stricter rule.
+
+* Negligence needs duty, breach and damage; duty from the neighbour principle (Donoghue v Stevenson) and Caparo's three-stage test.
+* Standard of care is the reasonable man; factors include likelihood and seriousness of harm (Bolton v Stone; Paris v Stepney).
+* Contributory negligence reduces damages by apportionment.
+* Res ipsa loquitur shifts the evidential burden (Scott v London Docks; MCD v Subhagwanti).
+* Medical negligence: Bolam test (Jacob Mathew); advocates are outside the CPA (D.K. Gandhi, 2024).
+* Rylands v Fletcher: dangerous thing, escape, non-natural use; five exceptions.
+* M.C. Mehta (1987): absolute liability for hazardous industries with no exceptions; polluter pays (Enviro-Legal Action).
+
+QL: Define negligence. Explain its essentials with reference to Donoghue v Stevenson.
+QL: Discuss the rule in Rylands v Fletcher and its exceptions. How has the Supreme Court modified it in M.C. Mehta v Union of India?
+QL: Explain the doctrine of res ipsa loquitur with decided cases.
+QL: Discuss the law of medical negligence in India, including liability under the Consumer Protection Act.
+QL: What is contributory negligence? How do Indian courts apportion damages?
+QS: Neighbour principle
+QS: Bolam test
+QS: Absolute liability
+QS: Bhopal gas disaster
+QS: Polluter pays principle
+QS: Last opportunity rule
+
+MCQ: Absolute liability was laid down in || Rylands v Fletcher | *M.C. Mehta v Union of India (Oleum gas) | Union Carbide v Union of India | Indian Council for Enviro-Legal Action || 1987.
+MCQ: Which of these is NOT an element of the rule in Rylands v Fletcher? || Dangerous thing | Escape | Non-natural use | *Intention to cause harm || Strict liability does not require intention.
+MCQ: The Bolam test relates to || product liability | *the standard of care of professionals | remoteness | vicarious liability || Adopted in Jacob Mathew (2005).
+MCQ: In Read v Lyons, the defendant was not liable because || there was an act of God | *there was no escape of the dangerous thing | the plaintiff consented | there was statutory authority || The shell exploded within the factory.
+MCQ: The Supreme Court held that advocates' services are not covered by the CPA, 2019 in || V.P. Shantha | *Bar of Indian Lawyers v D.K. Gandhi | Jacob Mathew | Kusum Sharma || 2024.
+
+# 8 | Nuisance
+@topics Definition, essentials and types; Acts which constitute nuisance: obstruction of highways, pollution of air and water, noise, interference with light and air
+>> Nuisance protects the use and enjoyment of land against unreasonable interference, and protects the public against acts that endanger or inconvenience the community.
+
+## 8.1 Definition and types
+Nuisance is an unlawful interference with a person's use or enjoyment of land, or of some right over or in connection with it (Winfield).
+
+### Public nuisance
+- An act or omission that causes common injury, danger or annoyance to the public or to people in general who live or occupy property in the vicinity. It is a crime (s.270, Bharatiya Nyaya Sanhita, 2023).
+- A private individual can sue for public nuisance only if he suffers **special damage** beyond that suffered by the public in general.
+- Remedies: suit by the Advocate-General or two or more persons with leave of court under s.91 of the CPC (no special damage needed); magistrate's conditional order to remove a public nuisance under s.152 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (earlier s.133 CrPC).
+
+CASE: Municipal Council, Ratlam v Vardhichand (1980) :: Residents complained of open drains and filth. The magistrate ordered the municipality to construct drains under s.133 CrPC. The Supreme Court upheld the order: a municipality cannot plead lack of funds to escape its statutory duty to remove a public nuisance.
+
+### Private nuisance
+An unlawful interference with a person's use or enjoyment of land or some right over it. Kinds:
+- encroachment on the neighbour's land (overhanging branches, roots);
+- physical damage to land (vibrations, flooding);
+- interference with comfort and enjoyment (smoke, smells, noise, dust).
+
+### Essentials of private nuisance
+1. **Unreasonable interference**: judged by the standards of an ordinary person in that locality. Factors: locality, duration, intensity, sensitivity of the plaintiff, malice of the defendant.
+2. **With use or enjoyment of land or a right over it**.
+3. **Damage**: actual damage, or, in cases of interference with comfort, substantial discomfort.
+
+CASE: St Helen's Smelting Co v Tipping (1865) :: Fumes from a copper smelter damaged trees and shrubs on the plaintiff's estate. Held: nuisance. Where there is material physical damage to property, the character of the locality is irrelevant.
+
+CASE: Robinson v Kilvert (1889) :: Heat from the defendant's cellar damaged the plaintiff's unusually sensitive brown paper stored above. Held: no nuisance, because ordinary paper would not have been damaged; a person carrying on an exceptionally delicate trade cannot complain.
+
+CASE: Christie v Davey (1893) :: The defendant, annoyed by music lessons next door, banged trays and shouted to disrupt them. Held: nuisance; his malicious intent made the noise unreasonable.
+
+CASE: Sturges v Bridgman (1879) :: A doctor built a consulting room at the end of his garden and then complained of noise from a confectioner's machines which had been used for years. Held: nuisance; it is no defence that the plaintiff came to the nuisance.
+
+## 8.2 Acts which constitute nuisance
+| Nuisance | Illustrations and cases |
+|---|---|
+| Obstruction of highways | Unauthorised structures, encroachments, stalls or vehicles blocking public roads; a public nuisance, actionable by an individual with special damage |
+| Pollution of air | Smoke, fumes, dust: St Helen's Smelting v Tipping; Air (Prevention and Control of Pollution) Act, 1981 |
+| Pollution of water | Discharge of effluents into rivers or wells: M.C. Mehta v Union of India (Ganga pollution cases); Water (Prevention and Control of Pollution) Act, 1974 |
+| Noise | Machines, loudspeakers, firecrackers: In re Noise Pollution (2005), Supreme Court guidelines on loudspeakers and firecrackers at night; Noise Pollution (Regulation and Control) Rules, 2000 |
+| Interference with light and air | Building that obstructs ancient lights: Colls v Home and Colonial Stores (1904): actionable only if it leaves the premises with substantially less light than an ordinary person would require; in India an easement of light and air is acquired by 20 years' uninterrupted enjoyment (s.15, Indian Easements Act, 1882) |
+
+CASE: Radhey Shyam v Gur Prasad Sharma (1978) :: Running a flour mill with heavy noise and vibration in a residential locality was held to be a private nuisance, and an injunction was granted.
+
+CASE: Ram Raj Singh v Babulal (1982) :: A brick-grinding machine set up next to a doctor's clinic emitted red brick dust that entered the clinic. Held: a private nuisance even without proof of injury to health; substantial discomfort was enough.
+
+CASE: Kuldip Singh v Subhash Chander Jain (2000) :: A neighbour sought an injunction against construction of a bakery oven, fearing future nuisance. The Supreme Court held that a quia timet injunction for an apprehended nuisance requires proof of strong probability that the thing will be a nuisance when in operation.
+
+### Defences
+- **Prescription**: a right to commit a private nuisance may be acquired by 20 years' continuous enjoyment (Indian Easements Act). There is no prescriptive right to commit a public nuisance.
+- **Statutory authority** (Hammersmith Railway v Brand).
+Not defences: coming to the nuisance (Sturges v Bridgman), that the nuisance results from many people's acts together, or that the defendant's activity is useful to the public.
+
+TIP: Always say whether a nuisance is public or private. For public nuisance, mention special damage and the remedies under s.91 CPC and s.152 BNSS (Ratlam). For private nuisance, the key idea is unreasonable interference judged by locality, sensitivity and malice.
+
+* Public nuisance affects the public; an individual sues only with special damage; s.91 CPC and s.152 BNSS provide remedies.
+* Private nuisance is unreasonable interference with use or enjoyment of land.
+* Locality irrelevant for physical damage (St Helen's); sensitive users cannot complain (Robinson v Kilvert); malice makes interference unreasonable (Christie v Davey).
+* Coming to the nuisance is no defence (Sturges v Bridgman).
+* 20 years' prescription may legalise a private nuisance but not a public one.
+
+QL: Define nuisance. Distinguish between public and private nuisance. When can an individual sue for public nuisance?
+QL: What are the essentials of private nuisance? Discuss the relevance of locality, sensitivity and malice.
+QL: Explain the defences available in an action for nuisance.
+QS: Municipal Council, Ratlam v Vardhichand
+QS: Special damage in public nuisance
+QS: Easement of light and air
+QS: Sturges v Bridgman
+QS: Noise pollution
+
+MCQ: An individual may sue for public nuisance only if he proves || malice | *special damage | prescription | that he came first || Damage over and above that of the public.
+MCQ: In Robinson v Kilvert, the plaintiff failed because || the defendant had statutory authority | *the plaintiff's trade was exceptionally sensitive | there was no malice | the locality was industrial || Ordinary paper would not have been damaged.
+MCQ: "Coming to the nuisance" is || a complete defence | *no defence | a partial defence | relevant only to public nuisance || Sturges v Bridgman (1879).
+MCQ: The magistrate's power to remove a public nuisance is now in || s.133 CrPC only | *s.152 of the BNSS, 2023 | s.91 CPC | s.270 BNS || Formerly s.133 CrPC.
+
+# 9 | Legal remedies
+@topics Legal remedies; Damages: simple, special, punitive; Remoteness: foreseeability and directness tests; Injunction; Specific restitution of property; Extra-legal remedies: self-help, re-entry, recapture, distress damage feasant, abatement of nuisance; Judicial process in tort: delay, procedure, evidence, experts, court fees, access; Who may sue (individuals, class action under Order I Rule 8, social action groups, statutory standing); Who may not be sued (ambassadors, lunatics, infants)
+>> The main remedy in tort is damages; injunctions prevent wrongs; restitution returns property; self-help is permitted within narrow limits.
+
+## 9.1 Classes of remedies
+- **Judicial remedies**: damages, injunction, specific restitution of property.
+- **Extra-judicial remedies (self-help)**: self-defence, expulsion of trespasser, re-entry on land, recaption of goods, abatement of nuisance, distress damage feasant.
+
+## 9.2 Damages
+| Kind | Meaning |
+|---|---|
+| Nominal | A small sum to vindicate a right where no loss is proved (torts actionable per se) |
+| Contemptuous | A tiny sum showing the court's disapproval of the plaintiff's conduct, though he technically wins |
+| Compensatory: general | Loss presumed by law as the natural result (pain and suffering, loss of amenities) |
+| Compensatory: special | Specific quantifiable losses that must be pleaded and proved (medical bills, loss of earnings) |
+| Aggravated | Additional compensation for injury to feelings caused by the manner of the wrong |
+| Exemplary or punitive | To punish and deter. In England, limited to oppressive action by government servants, conduct calculated to make a profit, and where authorised by statute (Rookes v Barnard, 1964) |
+
+CASE: M.C. Mehta v Kamal Nath (2000) :: The Supreme Court held that, although a fine (a criminal penalty) cannot be imposed without a trial, exemplary damages can be awarded against a polluter in addition to the cost of restoring the environment, under the polluter pays principle.
+
+Indian courts also award exemplary compensation under public law for custodial violence and illegal detention (Bhim Singh, 1985).
+
+## 9.3 Remoteness of damage
+### Directness test
+CASE: Re Polemis and Furness, Withy and Co (1921) :: Stevedores negligently dropped a plank into a ship's hold; it caused a spark that ignited petrol vapour and the ship was destroyed. Held: the defendants were liable for all direct consequences of their negligence, even if unforeseeable.
+
+### Foreseeability test
+CASE: Overseas Tankship (UK) v Morts Dock and Engineering Co, The Wagon Mound (No. 1) (1961) :: Oil negligently spilled from a ship in Sydney harbour spread to a wharf where welding was going on. The oil, which was not thought capable of catching fire on water, ignited and destroyed the wharf. The Privy Council rejected Re Polemis: the defendant is liable only for damage of a kind that was reasonably foreseeable.
+
+Refinements:
+- If the type of harm is foreseeable, the exact manner or extent need not be: **Hughes v Lord Advocate (1963)**, where a boy knocked a paraffin lamp into a manhole and it exploded.
+- **Egg-shell skull rule**: the defendant takes his victim as he finds him, so is liable for the full extent of injury aggravated by the victim's pre-existing condition: **Smith v Leech Brain and Co (1962)**, where a burn on the lip triggered a latent cancer.
+- **Novus actus interveniens**: an independent intervening act of a third party or the plaintiff may break the chain of causation.
+
+Indian courts generally follow the foreseeability test, combined with the egg-shell skull rule.
+
+## 9.4 Injunction
+- **Temporary (interim)**: under Order XXXIX, Rules 1 and 2 CPC and s.37(1) of the Specific Relief Act; granted on a prima facie case, balance of convenience and irreparable injury.
+- **Perpetual**: by decree after trial (ss.37(2), 38 SRA).
+- **Mandatory**: to compel the defendant to undo a wrongful act, such as pulling down an obstruction (s.39 SRA).
+- **Quia timet**: to restrain an apprehended wrong which has not yet happened, on proof of imminent danger of substantial damage (Kuldip Singh v Subhash Chander Jain, 2000).
+
+## 9.5 Specific restitution of property
+- **Immovable property**: suit for recovery of possession by a person entitled (s.5 SRA), and a summary suit under s.6 within six months by a person dispossessed without his consent otherwise than in due course of law.
+- **Movable property**: recovery of specific movable property (s.7 SRA); a person in possession of a specific movable not as owner may be compelled to deliver it to the person entitled (s.8 SRA), for example where compensation in money would not be adequate.
+
+## 9.6 Extra-legal remedies
+| Remedy | Meaning and limits |
+|---|---|
+| Self-defence | Reasonable force to protect person or property (Unit 3) |
+| Expulsion of a trespasser | The occupier may ask a trespasser to leave and, if he refuses, remove him with reasonable force |
+| Re-entry on land | A person entitled to possession may peacefully re-enter; force may expose him to criminal liability |
+| Recaption of goods | The owner may retake goods wrongfully taken, using reasonable force, without breach of the peace |
+| Abatement of nuisance | The injured person may remove a nuisance (for example, cut overhanging branches) after notice, if not causing more damage than necessary |
+| Distress damage feasant | The occupier may seize and detain cattle or chattels unlawfully on his land doing damage until compensation is paid |
+
+## 9.7 The judicial process in tort: problems in India
+- **Delay**: civil suits take many years; this deters claims, except in motor accident and consumer cases with dedicated tribunals.
+- **Complicated procedure and evidence**: strict proof of damage, need for expert evidence (doctors, engineers, scientists), and reports of testing laboratories.
+- **Court fees**: ad valorem court fees on the amount claimed in damages suits make litigation expensive. Motor accident claims and consumer complaints have low or nominal fees, which is why most tort claims go there.
+- **Access to justice**: legal aid under the Legal Services Authorities Act, 1987 and PIL have improved access, but private tort litigation remains rare in India.
+
+## 9.8 Parties: who may sue and who may not be sued
+### Who may sue
+- **Aggrieved individuals**.
+- **Representative suits**: under Order I Rule 8 CPC, one or more persons may sue or be sued on behalf of all with the same interest, with permission of the court and notice to all interested. This is the Indian class action.
+- **Social action groups**: public interest litigation lets public-spirited persons and organisations seek redress for those who cannot approach courts (S.P. Gupta, 1981).
+- **Statutory standing**: statutes allow specified persons or groups to sue: s.91 CPC (public nuisance), consumer associations and the Central Consumer Protection Authority (class actions) under the CPA, 2019.
+
+### Who may not sue or be sued, or with restrictions
+| Person | Position |
+|---|---|
+| Foreign sovereigns and ambassadors | Cannot be sued without the consent of the Central Government (s.86 CPC); diplomatic agents have immunity under the Diplomatic Relations (Vienna Convention) Act, 1972 |
+| Minors (infants) | Can sue through a next friend (Order XXXII CPC); liable for their own torts if old enough to have the relevant mental element, but not where the tort is a disguised enforcement of a void contract |
+| Persons of unsound mind (lunatics) | Generally liable for their torts unless the mental state negates an essential element (Morriss v Marsden, 1952) |
+| Corporations | Can sue and be sued in tort through their agents |
+| Trade unions | Statutory immunity from civil suits for acts in contemplation or furtherance of a trade dispute (earlier the Trade Unions Act, 1926; now the Industrial Relations Code, 2020) |
+| Judges and judicial officers | Immune for judicial acts in good faith (Judicial Officers' Protection Act, 1850; Judges (Protection) Act, 1985) |
+
+TIP: For remoteness, write Re Polemis (direct consequences) against Wagon Mound (foreseeable kind of damage), then add Hughes v Lord Advocate (manner need not be foreseen) and the egg-shell skull rule.
+
+## 9.9 Recent judgments (2025–26)
+
+CASE: Shishu Pal v Surjeet (2026) :: Recognising the economic value of a homemaker's work, the Court awarded compensation under a separate head for 'loss of domestic care' (assessed at ₹30,000 a month) in a motor accident claim.
+
+CASE: New India Assurance Co v Dolly Gandhi (2026) :: Amounts received under a mediclaim policy cannot be deducted from motor accident compensation; they come from a separate contract paid for by the claimant.
+
+* New MACT head 'loss of domestic care' for homemakers (Shishu Pal, 2026); mediclaim not deductible (Dolly Gandhi, 2026).
+* Damages may be nominal, contemptuous, compensatory, aggravated or exemplary; exemplary damages awarded for pollution (Kamal Nath).
+* Remoteness: Wagon Mound's foreseeability test replaced Re Polemis' directness test; egg-shell skull rule applies.
+* Injunctions: temporary, perpetual, mandatory and quia timet.
+* Restitution of property under ss.5 to 8 SRA.
+* Self-help remedies must be reasonable.
+* Order I Rule 8 allows representative suits; foreign sovereigns and diplomats are immune.
+
+QL: Discuss the rules relating to remoteness of damage in tort, with reference to Re Polemis and the Wagon Mound.
+QL: Explain the different kinds of damages that may be awarded in an action for tort.
+QL: Write an essay on extra-judicial remedies in the law of torts.
+QL: Discuss the problems of the judicial process in tort litigation in India. Who may sue and who may not be sued?
+QS: Exemplary damages
+QS: Egg-shell skull rule
+QS: Quia timet injunction
+QS: Distress damage feasant
+QS: Representative suit under Order I Rule 8
+QS: Novus actus interveniens
+
+MCQ: The test of reasonable foreseeability of damage was laid down in || Re Polemis | *The Wagon Mound (No. 1) | Hughes v Lord Advocate | Smith v Leech Brain || Privy Council, 1961.
+MCQ: The egg-shell skull rule means || only foreseeable plaintiffs can sue | *the defendant takes the victim as he finds him | exemplary damages are available | contributory negligence is a defence || Smith v Leech Brain (1962).
+MCQ: Seizing cattle trespassing on one's land until compensation is paid is || recaption | abatement | *distress damage feasant | re-entry || A self-help remedy.
+MCQ: A representative suit in India is filed under || Order XXXIX CPC | *Order I Rule 8 CPC | s.91 CPC | s.86 CPC || The Indian class action.
+
+# 10 | Common law, the consumer and the Consumer Protection Act, 2019
+@topics Duty to take care and liability for negligence of manufacturers, traders and service providers including professionals; Caveat emptor and caveat venditor; Deceit and false advertisement; Liability for hazardous industrial activity; Product liability and the EEC directive; Right to common property resources and pathways; Consumer Protection Act, 2019
+>> The common law protected consumers through negligence and deceit; the Consumer Protection Act, 2019 adds a fast, low-cost forum, statutory product liability and a regulator against unfair trade practices.
+
+## 10.1 Common law duty of care
+- **Manufacturers**: owe a duty of care to ultimate consumers (Donoghue v Stevenson, 1932), independent of contract.
+- **Traders and sellers**: liable for negligence in handling or selling goods, and in contract for breach of implied conditions.
+- **Service providers and professionals**: doctors, engineers, architects, accountants owe a duty to use reasonable skill (Bolam; Jacob Mathew). Advocates are liable in negligence under general law but, after D.K. Gandhi (2024), not before consumer commissions.
+
+## 10.2 Caveat emptor and caveat venditor
+- **Caveat emptor** ("let the buyer beware"): s.16 of the Sale of Goods Act, 1930 provides that there is no implied condition as to quality or fitness, except where the buyer relies on the seller's skill and the goods are of a description the seller deals in (fitness for purpose), or where goods are bought by description from a dealer (merchantable quality), or as implied by trade usage.
+- **Caveat venditor** ("let the seller beware"): modern consumer law shifts the burden to sellers and manufacturers through implied conditions, mandatory disclosures, product liability and penalties for misleading advertisements.
+
+## 10.3 Deceit and false advertisement
+- Common law: deceit (Derry v Peek) requires a knowingly false statement intended to be relied upon.
+- Statute: the CPA, 2019 defines a **misleading advertisement** (s.2(28)) as one that falsely describes a product or service, gives a false guarantee, conveys an express or implied representation which would amount to an unfair trade practice, or deliberately conceals important information.
+- The Central Consumer Protection Authority (CCPA) may direct discontinuance or modification of a misleading advertisement and impose a penalty of up to ₹10 lakh on a manufacturer or endorser, and up to ₹50 lakh for subsequent contraventions; it may prohibit an endorser from endorsing for up to one year (three years for subsequent contraventions) (s.21). An endorser is not liable if he exercised due diligence to verify the claims.
+- s.89 makes a false or misleading advertisement by a manufacturer or service provider an offence punishable with imprisonment up to two years and fine up to ₹10 lakh (higher for subsequent offences).
+
+## 10.4 Liability for hazardous and inherently dangerous industrial activity
+Absolute liability (M.C. Mehta, 1987) and the polluter pays principle (Enviro-Legal Action, 1996) protect people living near hazardous industries, supported by the Public Liability Insurance Act, 1991 and the National Green Tribunal Act, 2010 (which applies the principle of no-fault liability in accidents).
+
+## 10.5 Product liability
+### The EEC Directive
+The **European Economic Community Directive 85/374/EEC (1985)** introduced strict liability of producers for damage caused by defective products: the injured person need prove only the defect, the damage and the causal link, not negligence. A product is defective when it does not provide the safety a person is entitled to expect. Defences include the "development risks" defence (state of scientific knowledge did not allow the defect to be discovered). It influenced the UK Consumer Protection Act, 1987 and many other laws.
+
+### Product liability under the CPA, 2019 (Chapter VI, ss.82 to 87)
+- "Product liability" (s.2(34)) means the responsibility of a product manufacturer or product seller to compensate for any harm caused to a consumer by a defective product or deficiency in services.
+- An action can be brought against a product manufacturer, product service provider or product seller (s.83).
+
+SEC: s.84, CPA, 2019 :: A product manufacturer is liable in a product liability action if the product contains a manufacturing defect; is defective in design; deviates from manufacturing specifications; does not conform to the express warranty; or fails to contain adequate instructions of correct usage to prevent harm or warnings regarding improper or incorrect usage. A manufacturer is liable even if he proves that he was not negligent or fraudulent in making the express warranty.
+
+- **Product service providers** (s.85): liable where the service was faulty, imperfect or deficient, where there was an act of omission or commission or negligence, where adequate instructions or warnings were not given, or where the service did not conform to the express warranty.
+- **Product sellers** (s.86): liable where they exercised substantial control over design, testing, manufacture, packaging or labelling; altered or modified the product; made an independent express warranty; sold a product whose manufacturer is not identifiable or not subject to Indian law; or failed to exercise reasonable care.
+- **Exceptions** (s.87): the product was misused, altered or modified; adequate warnings were provided; the product was sold to an employer or as a component for a sophisticated user; the danger is obvious or commonly known; or the consumer used it under the influence of alcohol or a non-prescribed drug.
+
+## 10.6 Right to common property resources
+Members of the public and communities have rights over common resources: rights of way along pathways (public rights of way, and customary easements under s.18 of the Indian Easements Act, 1882), village grazing lands, tanks and ponds. Courts protect these through the public trust doctrine and Art. 21.
+
+CASE: Jagpal Singh v State of Punjab (2011) :: The Supreme Court directed State governments to remove illegal encroachments on village common lands (gram sabha, gram panchayat, poramboke, shamlat lands) and restore them to the common use of villagers.
+
+## 10.7 The Consumer Protection Act, 2019
+The Act replaced the Consumer Protection Act, 1986 and came into force on 20 July 2020 (most provisions).
+
+### Key definitions
+| Term | Section | Meaning in brief |
+|---|---|---|
+| Consumer | 2(7) | Any person who buys goods or hires or avails of services for consideration, including beneficiaries and users with approval; includes offline and online transactions (e-commerce, teleshopping, direct selling, multi-level marketing); excludes a person who obtains goods for resale or for a commercial purpose (but self-employment use to earn a livelihood is not commercial purpose) |
+| Consumer rights | 2(9) | Right to be protected against hazardous goods and services; to be informed of quality, quantity, potency, purity, standard and price; to be assured access to goods at competitive prices; to be heard; to seek redressal against unfair or restrictive trade practices and exploitation; and to consumer awareness |
+| Defect | 2(10) | Any fault, imperfection or shortcoming in quality, quantity, potency, purity or standard of goods |
+| Deficiency | 2(11) | Any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance of a service; includes negligence, omission or deliberate withholding of relevant information |
+| Unfair contract | 2(46) | Terms causing significant change in consumer rights: excessive security deposits, disproportionate penalties, refusal of early repayment, unilateral termination, assignment to the consumer's detriment, unreasonable charges |
+| Unfair trade practice | 2(47) | Unfair or deceptive practices including false representation, misleading advertisement, failure to issue a bill, refusal to take back defective goods within 30 days, disclosure of personal information |
+
+### Institutional structure
+| Body | Section | Role |
+|---|---|---|
+| Consumer Protection Councils (Central, State, District) | 3 to 9 | Advisory bodies to promote consumer rights |
+| Central Consumer Protection Authority (CCPA) | 10 | Regulator: protects consumer rights as a class, investigates unfair trade practices and misleading advertisements, orders recall of unsafe goods, refunds, discontinuance of practices, imposes penalties, can file class-action complaints |
+| District Commission | 28 | Complaints where value of goods or services paid as consideration does not exceed ₹50 lakh |
+| State Commission | 42 | Above ₹50 lakh up to ₹2 crore; appeals from District Commissions |
+| National Commission | 53 | Above ₹2 crore; appeals from State Commissions |
+
+The pecuniary limits were revised by the Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021. Under the 2019 Act, pecuniary jurisdiction depends on the value paid as consideration, not the compensation claimed.
+
+### Procedure
+- A complaint may be filed where the complainant resides or personally works for gain, as well as where the opposite party resides or the cause of action arose (s.34(2)); e-filing is permitted.
+- Limitation: two years from the date the cause of action arises (s.69), with power to condone delay for sufficient cause.
+- **Mediation** (ss.74 to 81): consumer mediation cells attached to commissions; settlements are recorded and no appeal lies from them.
+- **Appeals**: District to State within 45 days (s.41); State to National within 30 days (s.51); National to Supreme Court within 30 days (s.67).
+- **Penalties**: failure to comply with a commission's order is punishable with imprisonment from one month to three years, or fine from ₹25,000 to ₹1 lakh, or both (s.72). Selling or manufacturing adulterated or spurious goods is punishable under ss.90 and 91.
+- Relief available (s.39): removal of defect, replacement, refund, compensation for loss or injury, punitive damages, discontinuance of unfair practices, withdrawal of hazardous goods, corrective advertisement.
+
+### Leading consumer cases
+CASE: Lucknow Development Authority v M.K. Gupta (1994) :: Housing construction by a development authority is a "service"; delay in delivery of a flat is deficiency. Compensation may be awarded for harassment and mental agony, and the Court said the public authority should recover the amount from the officers responsible.
+
+CASE: Laxmi Engineering Works v P.S.G. Industrial Institute (1995) :: Whether a purchase is for a "commercial purpose" depends on the facts; a person who buys goods to use himself exclusively to earn his livelihood by self-employment is a consumer.
+
+CASE: Spring Meadows Hospital v Harjol Ahluwalia (1998) :: A child became permanently brain-damaged after a wrong injection by a nurse. The Court held that both the child and the parents are consumers and awarded compensation to each; the hospital was vicariously liable.
+
+CASE: Dr Balram Prasad v Dr Kunal Saha (2013) :: In a medical negligence claim arising from the death of Dr Kunal Saha's wife, the Supreme Court enhanced compensation to nearly ₹6 crore plus interest, one of the largest awards for medical negligence in India, and apportioned liability among the hospital and doctors.
+
+TIP: Learn the 2019 Act by structure: definitions (consumer, defect, deficiency, unfair trade practice), the CCPA (new regulator), three-tier commissions with ₹50 lakh and ₹2 crore limits, product liability (ss.82 to 87), mediation, and penalties.
+
+## 10.8 Recent judgments (2025–26)
+
+CASE: Canara Bank v Kavita Chowdhary (2026) :: A collecting bank's delay in presenting a cheque for clearance is a deficiency in service under the Consumer Protection Act.
+
+CASE: T.K.A. Padmanabhan v Union of India (2026) :: An arbitration clause in a contract does not oust the jurisdiction of consumer commissions; the consumer remedy is an additional remedy.
+
+CASE: Habib Alladin v State (2026) :: Landowners who enter into a joint development agreement with a builder are not 'consumers' of the builder.
+
+* Bank delay is deficiency in service (Canara Bank, 2026); arbitration clause does not bar consumer forum (Padmanabhan, 2026).
+* Manufacturers owe a duty to consumers (Donoghue); s.16 SGA states caveat emptor with exceptions.
+* Misleading advertisements: CCPA penalties up to ₹10 lakh (₹50 lakh for repeat) and endorser bans; criminal offence under s.89.
+* Product liability under ss.82 to 87 makes manufacturers liable without proof of negligence; s.87 gives exceptions.
+* CPA, 2019: consumer, defect, deficiency, unfair contract and unfair trade practice definitions; CCPA; District (₹50 lakh), State (₹2 crore), National (above ₹2 crore).
+* Complaints can be filed where the consumer resides; limitation two years; mediation available.
+
+QL: Discuss the salient features of the Consumer Protection Act, 2019. How does it improve on the 1986 Act?
+QL: Explain the law of product liability under the Consumer Protection Act, 2019, with reference to the EEC Directive.
+QL: Who is a "consumer"? Discuss with reference to the meaning of commercial purpose and decided cases.
+QL: "Caveat emptor has given way to caveat venditor." Discuss.
+QS: Central Consumer Protection Authority
+QS: Misleading advertisement
+QS: Deficiency in service
+QS: Unfair contract
+QS: Pecuniary jurisdiction of consumer commissions
+QS: Lucknow Development Authority v M.K. Gupta
+
+MCQ: The pecuniary jurisdiction of a District Commission is now up to || ₹20 lakh | ₹1 crore | *₹50 lakh | ₹10 crore || Under the 2021 Rules, based on consideration paid.
+MCQ: Under s.84 of the CPA, 2019, a manufacturer is liable for a defective product || only if negligent | *even if he proves he was not negligent | only if there is a contract | only for design defects || Strict product liability.
+MCQ: The limitation period for filing a consumer complaint is || 1 year | *2 years | 3 years | 6 months || s.69.
+MCQ: Which body under the CPA, 2019 can order recall of unsafe goods and act against misleading advertisements? || District Commission | National Commission | *Central Consumer Protection Authority | Consumer Protection Council || s.10 and following.
+MCQ: Housing construction by a development authority was held to be a service in || V.P. Shantha | *Lucknow Development Authority v M.K. Gupta | Laxmi Engineering | Spring Meadows || 1994.

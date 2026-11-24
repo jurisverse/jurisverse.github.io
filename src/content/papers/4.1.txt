@@ -1,0 +1,213 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Minimum wages
+- The Minimum Wages Act, 1948 empowered governments to fix minimum rates of wages for scheduled employments.
+- The Code on Wages, 2019, in force from 21 November 2025, makes minimum wages universal for all employees. They are fixed on the basis of time or piece work, skill, region and arduousness, above a national floor wage set by the Centre.
+- Paying less than the minimum wage is "forced labour" under Art. 23 (*PUDR v Union of India*, 1982; *Sanjit Roy v State of Rajasthan*, 1983).
+- Wages must be revised at intervals not exceeding five years.
+
+Q: Equal remuneration
+- Art. 39(d) directs equal pay for equal work for men and women.
+- *Randhir Singh v Union of India* (1982) read this into Arts. 14 and 16, and *State of Punjab v Jagjit Singh* (2016) extended it to temporary employees doing the same work.
+- The Equal Remuneration Act, 1976 is now subsumed in the Code on Wages, 2019. Section 3 prohibits gender discrimination in wages and recruitment for the same or similar work, and covers transgender persons.
+
+Q: Maternity benefit
+- The Maternity Benefit Act, 1961, now Chapter VI of the Code on Social Security, 2020, gives:
+  - 26 weeks' paid leave (12 weeks from the third child onwards);
+  - 12 weeks for adopting and commissioning mothers;
+  - nursing breaks;
+  - a crèche for establishments with 50 or more employees; and
+  - work from home by agreement.
+- Eligibility: 80 days of work in the preceding 12 months.
+- *Hamsaanandini Nanduri v Union of India* (2026): limiting adoptive mothers' benefit to children below three months violates Arts. 14 and 21. The Court urged the Union to provide paternity leave.
+
+Q: Benefits under the ESI scheme
+The Employees' State Insurance Act, 1948 (now in the Code on Social Security) provides benefits funded by employer and employee contributions:
+- sickness benefit;
+- maternity benefit;
+- disablement benefit (temporary and permanent);
+- dependants' benefit on death from employment injury;
+- medical benefit for the insured person and family;
+- funeral expenses; and
+- unemployment allowance (Rajiv Gandhi Shramik Kalyan Yojana).
+Commuting accidents are deemed employment injuries (s.51E). Coverage has been extended to all establishments with 10 or more employees, and to hazardous units of any size.
+
+Q: Gratuity
+- The Payment of Gratuity Act, 1972 (now Chapter V of the Code on Social Security) provides gratuity on termination after five years' continuous service, by superannuation, retirement, resignation, death or disablement. The five-year condition does not apply to death or disablement.
+- Rate: 15 days' wages for each completed year (26 working days per month), subject to a ceiling (₹20 lakh, raised for some employees by notification).
+- Fixed-term employees qualify after one year under the Code.
+- Gratuity can be forfeited for misconduct causing loss, or for riotous or violent conduct.
+- The Act does not cover civil posts governed by the CCS (Pension) Rules (*N. Manoharan*, 2026).
+
+Q: Bonus
+- The Payment of Bonus Act, 1965 (now in the Code on Wages) applies to employees earning up to a notified wage ceiling.
+- The minimum bonus is 8.33% of wages; the maximum is 20%, paid from allocable surplus through the set-on and set-off mechanism.
+- Employees with at least 30 days' work in the year qualify.
+- Bonus can be disqualified for fraud, riotous behaviour or theft.
+- Bonus is now a statutory right, not merely deferred wages (*Jalan Trading Co v Mill Mazdoor Sabha*, 1966).
+
+Q: Abolition of contract labour
+- Under the Contract Labour (Regulation and Abolition) Act, 1970 (s.10), now in the OSH Code, the government may prohibit contract labour in a process if the work is:
+  - perennial;
+  - incidental to the main business;
+  - sufficient for whole-time workers; and
+  - normally done through regular workers.
+- *Steel Authority of India v National Union Waterfront Workers* (2001): automatic absorption of contract labour on abolition is not mandated. Workers get preference in regular recruitment. A sham contract can be pierced to treat the workers as direct employees.
+
+Q: Child labour
+- **Art. 24:** no child below 14 may be employed in factories, mines or hazardous employment.
+- **Art. 21A:** education.
+- **Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 (amended 2016):**
+  - prohibits employment of children below 14 in all occupations, except family enterprises after school hours and the entertainment industry;
+  - prohibits adolescents (14 to 18) in hazardous occupations;
+  - offences are cognizable; and
+  - the Child and Adolescent Labour Rehabilitation Fund.
+- *M.C. Mehta v State of TN* (1996): ₹20,000 compensation per child, payable by the offending employer, to a welfare fund.
+
+Q: Gig and platform workers
+The Code on Social Security, 2020 recognises gig workers (s.2(35)) and platform workers (s.2(61)) for the first time. It provides:
+- schemes for life and disability cover, health, maternity and old age;
+- aggregators contributing 1% to 2% of turnover, capped at 5% of payments to such workers;
+- registration on the e-Shram portal; and
+- a National Social Security Board.
+Some States (Rajasthan, 2023; Karnataka, 2025) have enacted separate gig worker laws.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Explain the main features of the Code on Wages, 2019.
+### Background
+The Code consolidates four laws: the Payment of Wages Act, 1936; the Minimum Wages Act, 1948; the Payment of Bonus Act, 1965; and the Equal Remuneration Act, 1976. It came into force on 21 November 2025.
+### Key features
+1. **Universal coverage:** minimum wages and timely payment for all employees, in the organised and unorganised sectors. The earlier "scheduled employment" approach is gone.
+2. **Uniform definition of "wages" (s.2(y)):** basic pay, dearness allowance and retaining allowance. Exclusions such as HRA and conveyance cannot exceed 50% of total remuneration; any excess is added back. This affects PF and gratuity.
+3. **National floor wage (s.9):** fixed by the Centre. States cannot fix minimum wages below it.
+4. **Fixing minimum wages (ss.6 to 8):** based on skill, geography and arduousness, with revision within five years.
+5. **Payment of wages (ss.15 to 17):**
+   - timely payment by set dates;
+   - payment within two working days on removal, dismissal or resignation; and
+   - authorised deductions limited to 50% of wages.
+6. **Bonus (ss.26 to 41):** 8.33% to 20%, as before.
+7. **Gender equality (s.3):** no discrimination in wages or recruitment, including against transgender persons.
+8. **Advisory boards:** Central and State boards.
+9. **Inspector-cum-facilitators:** a web-based, randomised inspection scheme.
+10. **Penalties:** fines graded by offence, compounding for first offences, and imprisonment only for repeat offences.
+11. **Claims:** before authorities, with appeal; limitation of three years.
+### Assessment
+- **Benefits:** simplification, universal coverage, and gender equality.
+- **Concerns:** reduced inspection, enforcement, and the role of States.
+- **Constitutional backing:** Arts. 23, 39 and 43; and *Sanjit Roy*, which treats sub-minimum wages as forced labour.
+### Conclusion
+The Code makes minimum wages a universal entitlement. It harmonises definitions and reduces compliance burdens, but its success depends on enforcement.
+
+Q: When is an employer liable to pay compensation for injury to an employee? Discuss with reference to the Employees' Compensation Act, 1923 and recent cases.
+### Liability (s.3)
+The employer is liable if personal injury is caused to an employee by an accident arising out of and in the course of employment.
+- **Arising out of:** a causal connection with the employment.
+- **In the course of:** during working time, at the place of work, or doing something incidental. The doctrine of notional extension covers reasonable approaches and travel provided by the employer (*Saurashtra Salt Manufacturing Co v Bai Valu Raja*, 1958; *General Manager, B.E.S.T. Undertaking v Agnes*, 1964).
+### Commuting accidents
+*Daivshala v Oriental Insurance Co* (2025): accidents while commuting to or from work can arise out of and in the course of employment. The EC Act was read consistently with s.51E of the ESI Act, which is clarificatory.
+### Exceptions (s.3(1))
+- disablement of three days or less;
+- injury caused by drunkenness, wilful disobedience of safety rules, or wilful removal of safety guards. These exceptions do not apply if the injury results in death or permanent total disablement.
+### Occupational diseases (Schedule III)
+These are deemed to be employment injuries.
+### Amount (s.4)
+- **Death:** 50% of monthly wages multiplied by an age factor, subject to a minimum.
+- **Permanent total disablement:** 60% of monthly wages multiplied by the age factor.
+- **Permanent partial disablement:** as per Schedule I, or loss of earning capacity.
+- **Functional disability:** the Schedule is not rigid; compensation may reflect functional disability and actual loss of earning capacity (*Kamal Dev Prasad v Mahesh Forge*, 2025).
+- **Temporary disablement:** half-monthly payments.
+### Interest and penalty (s.4A)
+Payment is due when it falls due. Interest of 12% is payable on delay, and a penalty of up to 50% applies on unjustified delay.
+### Insurer's liability
+The Commissioner may make the insurer jointly liable with the employer where the insurance contract so provides (*Alok Kumar Ghosh v New India Assurance*, 2025).
+### Procedure
+The Commissioner decides claims, with an appeal to the High Court on a substantial question of law (s.30). The provisions are carried into the Code on Social Security.
+### Conclusion
+The Act is beneficial legislation. Recent decisions have extended it to commuting accidents and assessed disability functionally.
+
+Q: Discuss the social security measures under the Code on Social Security, 2020.
+### Consolidation
+The Code consolidates nine laws, among them:
+- the EPF Act;
+- the ESI Act;
+- the Employees' Compensation Act;
+- the Maternity Benefit Act;
+- the Payment of Gratuity Act;
+- the Unorganised Workers' Social Security Act;
+- the Building and Other Construction Workers Cess Act; and
+- the Employment Exchanges Act.
+It came into force on 21 November 2025.
+### Main features
+1. **Expanded coverage:** gig workers, platform workers and unorganised workers, with schemes funded by aggregators and government.
+2. **EPF (Chapter III):** the Employees' Provident Fund, pension and deposit-linked insurance, administered by the EPFO.
+3. **ESIC (Chapter IV):** extended pan-India. It covers all establishments with 10 or more employees, and hazardous units on notification.
+4. **Gratuity (Chapter V):** five years, or one year for fixed-term employees.
+5. **Maternity benefit (Chapter VI):** 26 weeks. The adoptive age limit was struck down in *Hamsaanandini Nanduri* (2026).
+6. **Employees' compensation (Chapter VII):** includes accidents while commuting.
+7. **Building and construction workers (Chapter VIII):** cess and welfare boards.
+8. **Unorganised, gig and platform workers (Chapter IX):** registration (e-Shram), Aadhaar-based identity and portability.
+9. **Social Security Organisations and a National Social Security Board.**
+10. **Career centres** replace employment exchanges.
+### Constitutional basis
+Arts. 38, 39, 41, 42 and 43, and Art. 21 (livelihood and dignity).
+### Concerns
+- dependence on schemes rather than entitlements;
+- thresholds that exclude small establishments; and
+- low aggregator contributions.
+### Conclusion
+The Code moves towards universal social security. It brings gig and unorganised workers into the fold, but much depends on the schemes the government frames.
+
+Q: Discuss the regulation and abolition of contract labour in India.
+### Contract Labour (Regulation and Abolition) Act, 1970
+- **Applicability:** originally establishments and contractors employing 20 or more contract workers; the OSH Code, 2020 raised the threshold to 50.
+- **Registration of principal employers (s.7)** and **licensing of contractors (s.12).**
+- **Welfare (ss.16 to 19):** canteens, rest rooms, drinking water and first aid.
+- **Wages (s.21):** the contractor pays the wages. If the contractor fails, the principal employer pays and recovers from the contractor.
+- **Prohibition (s.10):** in any process, operation or work, after consultation with the Board, considering whether the work is perennial, incidental, sufficient for whole-time workers and ordinarily done through regular workers.
+### Absorption question
+- *Air India Statutory Corporation* (1997) favoured automatic absorption.
+- *Steel Authority of India v National Union Waterfront Workers* (2001, five judges) overruled it. There is no automatic absorption on a s.10 notification. If the contract is sham or camouflage, the workers are employees of the principal employer, and the industrial adjudicator may so declare.
+- *Secretary, State of Karnataka v Umadevi* (2006): no regularisation contrary to constitutional schemes, except a one-time measure. Later cases have taken a softer approach to long-serving workers (*Jaggo v Union of India*, 2024; *Shripal v Nagar Nigam*, 2025; *R. Iyyappan*, 2026, ISRO daily-wage workers).
+### OSH Code, 2020 (Chapter XI)
+- a single licence for contractors;
+- prohibition in core activities, with exceptions; and
+- equal wages for contract workers doing the same work.
+### Conclusion
+The law regulates contract labour and permits abolition, but stops short of guaranteeing absorption. Recent cases protect long-serving workers from exploitation.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: R, a factory worker, is hit by a bus while riding his motorcycle from home to the factory for his morning shift. He suffers permanent disability. The employer and insurer deny liability. Advise R.
+**Issue:** Is a commuting accident an employment injury?
+**Law:**
+- Section 3 of the Employees' Compensation Act covers accidents arising out of and in the course of employment.
+- *Daivshala v Oriental Insurance* (2025): accidents during travel to or from work may be covered, applying the ESI Act's s.51E standard.
+- *Kamal Dev Prasad v Mahesh Forge* (2025): disability is assessed functionally.
+- The Code on Social Security now governs such claims.
+**Application:** R was on his way to his shift. There is a direct link between the travel and the employment.
+**Conclusion:** R can claim compensation for permanent disability, assessed on functional loss of earning capacity, with interest and penalty for delay. If he is covered by ESI, he claims disablement benefit through ESIC instead.
+
+Q: A woman employee adopts a one-year-old child and applies for maternity leave. The employer refuses, citing the law, which allows adoption leave only for a child below three months. Advise her.
+**Issue:** Is the age limit for adoptive maternity benefit valid?
+**Law:** *Hamsaanandini Nanduri v Union of India* (2026): the condition in s.60(4) of the Code on Social Security limiting adoptive maternity benefit to children below three months is arbitrary and violates Arts. 14 and 21. It discriminates among adoptive mothers and against older children, who need care equally.
+**Application:** She has adopted a one-year-old child. After the ruling, the age limit cannot be applied against her.
+**Conclusion:** She is entitled to maternity benefit, 12 weeks for adoptive mothers. The employer's refusal is unlawful.
+
+Q: A public sector company engages contract workers through successive contractors for 15 years for housekeeping, a perennial job. After the government prohibits contract labour in housekeeping under section 10, the workers demand absorption. Advise them.
+**Issue:** Are contract workers entitled to automatic absorption on abolition?
+**Law:**
+- *Steel Authority of India v National Union Waterfront Workers* (2001): no automatic absorption, but preference in regular recruitment, with relaxation of age and qualifications. If the contract is sham, the workers are direct employees.
+- *Jaggo* (2024) and *R. Iyyappan* (2026): long-serving workers in perennial work should not be kept temporary indefinitely.
+**Application:** If the contractors were mere intermediaries, with the company controlling and supervising the work, the arrangement may be sham.
+**Conclusion:** The workers can raise an industrial dispute seeking a declaration that they are direct employees. If that fails, they are entitled to preference in regular recruitment, but not to automatic absorption.
+
+Q: An employer pays daily-rated workers less than the notified minimum wage, saying the workers agreed to it. The workers complain. Decide.
+**Issue:** Can workers contract out of the minimum wage?
+**Law:**
+- The Code on Wages, ss.5 and 6: minimum wages are mandatory, and no employer shall pay less.
+- Any agreement to accept less is void.
+- *Sanjit Roy v State of Rajasthan* (1983): payment below the minimum wage is forced labour under Art. 23.
+- The authority under the Code may order payment of the difference with compensation, and the employer is liable to penalties.
+**Application:** The workers' consent is irrelevant.
+**Conclusion:** The employer must pay the arrears and compensation, and is liable to penalties.

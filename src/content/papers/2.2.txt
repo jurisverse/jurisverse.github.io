@@ -1,0 +1,231 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Doctrine of pith and substance
+When a law made by one legislature is challenged as encroaching on a field of another, the court looks at its true nature and character. If, in substance, the law falls within the competent List, incidental encroachment on another List does not invalidate it.
+- *Prafulla Kumar Mukherjee v Bank of Commerce* (1947): a Bengal moneylenders law affecting promissory notes was valid.
+- *State of Bombay v F.N. Balsara* (1951): prohibition was valid, though it affected imports.
+The doctrine allows flexibility in a federation with rigid lists.
+
+Q: Residuary powers
+Article 248 and Entry 97 of List I vest in Parliament the power to legislate on any matter not enumerated in Lists II and III, including taxation not mentioned elsewhere. This follows the Government of India Act tradition of a strong Centre, unlike the USA and Australia, where residue rests with the States.
+- *Union of India v H.S. Dhillon* (1971): wealth tax including agricultural land fell within residuary power.
+- Residuary power is to be invoked only when no entry covers the subject.
+
+Q: Ordinance-making power
+- The President (Art. 123) and the Governor (Art. 213) may promulgate ordinances when the legislature is not in session and immediate action is necessary.
+- An ordinance has the force of law, but ceases six weeks after the legislature reassembles, unless approved earlier.
+- The satisfaction behind it is subject to judicial review (*R.C. Cooper*, 1970; *Krishna Kumar Singh v State of Bihar*, 2017). Re-promulgation without placing ordinances before the legislature is a fraud on the Constitution (*D.C. Wadhwa*, 1987; *Krishna Kumar Singh*).
+- Ordinances cannot violate fundamental rights (Art. 13).
+
+Q: Anti-defection law
+The Tenth Schedule was added by the 52nd Amendment (1985). A member is disqualified for:
+- voluntarily giving up membership of the party; or
+- voting or abstaining contrary to the party whip, unless condoned within 15 days.
+Independents are disqualified for joining a party, and nominated members for joining one after six months.
+- The "split" exception was deleted by the 91st Amendment (2003). Only a merger with two-thirds support is protected.
+- The Speaker decides (para 6), subject to judicial review (*Kihoto Hollohan*, 1992).
+- Decisions are to be made within a reasonable time, ordinarily three months (*Keisham Meghachandra*, 2020; *Padi Kaushik Reddy v State of Telangana*, 2025).
+
+Q: Basic structure doctrine
+- *Kesavananda Bharati v State of Kerala* (1973, 7:6): Parliament's power under Art. 368 does not extend to altering the basic structure of the Constitution.
+- Features held basic include:
+  - supremacy of the Constitution;
+  - republican and democratic government;
+  - secularism;
+  - separation of powers;
+  - federalism;
+  - judicial review (*Minerva Mills*, 1980; *L. Chandra Kumar*, 1997);
+  - free and fair elections (*Indira Gandhi v Raj Narain*, 1975; reaffirmed in *YSR Congress Party v State of AP*, 2026); and
+  - independence of the judiciary (*NJAC case*, 2015).
+- *I.R. Coelho* (2007): laws placed in the Ninth Schedule after 24 April 1973 are open to basic-structure review.
+
+Q: Article 356 and the Bommai case
+If the Governor reports, or the President is otherwise satisfied, that the government of a State cannot be carried on in accordance with the Constitution, President's Rule may be imposed. It must be approved by Parliament within two months, and lasts for six months at a time, up to three years.
+*S.R. Bommai v Union of India* (1994):
+- The proclamation is subject to judicial review.
+- The test of majority is the floor of the House.
+- Secularism is a basic feature, and its violation can justify Art. 356.
+- The Assembly should not be dissolved before parliamentary approval.
+- The court may restore the government.
+
+Q: Protection under Article 311
+Civil servants of the Union and States:
+- cannot be dismissed or removed by an authority subordinate to the appointing authority (Art. 311(1)); and
+- cannot be dismissed, removed or reduced in rank without an inquiry in which they are informed of the charges and given a reasonable opportunity (Art. 311(2)).
+Exceptions (second proviso):
+- (a) conviction on a criminal charge;
+- (b) an inquiry not reasonably practicable, for reasons recorded in writing;
+- (c) the security of the State.
+The exceptions were upheld in *Union of India v Tulsiram Patel* (1985). Reasons must be recorded for (b) (*Manohar Lal*, 2026).
+
+Q: The collegium system
+- *S.P. Gupta* (1981, First Judges case): the executive had primacy.
+- *Supreme Court Advocates-on-Record Association* (1993, Second Judges case): primacy of the CJI's opinion, formed in consultation with senior judges.
+- *In re Special Reference No. 1 of 1998* (Third Judges case): the collegium for Supreme Court appointments is the CJI and the four senior-most judges.
+- The 99th Amendment and the NJAC Act, 2014 were struck down in the *NJAC case* (2015), which upheld collegium primacy as part of judicial independence.
+- The Memorandum of Procedure governs appointments.
+
+Q: Article 142
+The Supreme Court may pass any decree or order necessary for doing complete justice in any cause pending before it.
+- Uses include:
+  - the *Vishaka* guidelines (1997);
+  - the Babri Masjid land dispute (*M. Siddiq*, 2019);
+  - divorce on irretrievable breakdown (*Shilpa Sailesh*, 2023);
+  - release of a convict (*A.G. Perarivalan*, 2022).
+- Limits:
+  - it cannot override express statutory provisions on substantive rights (*Supreme Court Bar Association v Union of India*, 1998);
+  - it is to be exercised sparingly.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: "The Indian Constitution is quasi-federal." Discuss with reference to Centre–State relations and recent judicial decisions.
+### Federal features
+- dual polity;
+- a written, rigid Constitution;
+- division of powers in three Lists (Art. 246, Seventh Schedule);
+- supremacy of the Constitution;
+- an independent judiciary as umpire (Art. 131); and
+- a bicameral legislature with the Rajya Sabha representing the States.
+### Unitary features (strong Centre)
+- residuary power (Art. 248);
+- Parliamentary legislation on State subjects in the national interest (Art. 249), during emergencies (Art. 250), and by consent (Art. 252);
+- treaties (Art. 253);
+- repugnancy, where Central law prevails (Art. 254);
+- appointment of Governors;
+- reservation of Bills for the President (Arts. 200 and 201);
+- directions to States (Arts. 256 and 257);
+- emergencies (Arts. 352, 356 and 360);
+- integrated judiciary and all-India services; and
+- reorganisation of States (Art. 3).
+Wheare called it "quasi-federal". Granville Austin called it "cooperative federalism".
+### Judicial view
+- *State of West Bengal v Union of India* (1962): the Constitution is not truly federal.
+- *S.R. Bommai* (1994): federalism is a basic feature; States are not mere appendages of the Centre.
+- *State (NCT of Delhi) v Union of India* (2018, 2023): collaborative federalism.
+- *Union of India v Mohit Minerals* (2022): GST Council recommendations are persuasive, not binding.
+- *State of Tamil Nadu v Governor of Tamil Nadu* (April 2025): a two-judge bench fixed timelines for assent.
+- *In re Assent to Bills* (Presidential Reference, Nov 2025, 5 judges): courts cannot impose timelines or deemed assent. The Governor has three options (assent, withhold and return, or reserve). Prolonged unexplained inaction may attract a limited mandamus.
+- *Mineral Area Development Authority* (2024): States can tax mineral rights.
+### Fiscal federalism
+- Finance Commissions (Art. 280).
+- GST (the 101st Amendment, Art. 246A, and the GST Council under Art. 279A).
+- Grants-in-aid (Arts. 275 and 282).
+### Conclusion
+India is a federation with a strong Centre: "an indestructible Union of destructible States". The courts protect its federal balance as part of the basic structure.
+
+Q: Discuss the amending power of Parliament and the doctrine of basic structure.
+### Article 368
+- Amendment by a special majority of each House: a majority of total membership, plus two-thirds of those present and voting.
+- Ratification by half the States is needed for federal provisions (Art. 368(2) proviso).
+- Some matters are amended by simple majority, as under Arts. 4 and 169.
+### Evolution
+1. *Shankari Prasad* (1951) and *Sajjan Singh* (1965): amendments are not "law" under Art. 13, so fundamental rights can be amended.
+2. *I.C. Golak Nath v State of Punjab* (1967, 6:5): an amendment is "law", and fundamental rights cannot be abridged (prospective overruling).
+3. The 24th Amendment (1971) restored the amending power and made Art. 13 inapplicable to amendments.
+4. *Kesavananda Bharati* (1973, 7:6): Parliament may amend any provision, but not alter the basic structure. *Golak Nath* was overruled.
+5. *Indira Gandhi v Raj Narain* (1975): cl.(4) of Art. 329A was struck down for violating free and fair elections, the rule of law and judicial review.
+6. The 42nd Amendment (1976) added Art. 368(4) and (5), excluding judicial review. *Minerva Mills* (1980) struck these down: limited amending power is itself a basic feature, as is the balance between Parts III and IV.
+7. *Waman Rao* (1981): basic structure applies to amendments after 24 April 1973.
+8. *L. Chandra Kumar* (1997): judicial review by High Courts is basic.
+9. *I.R. Coelho* (2007): Ninth Schedule laws are subject to review.
+10. *NJAC case* (2015): the 99th Amendment was struck down.
+11. *Janhit Abhiyan* (2022): the 103rd Amendment (EWS) was upheld; economic criteria do not violate the basic structure.
+12. *In re Article 370* (2023): abrogation was upheld.
+### Criticism and defence
+- Critics say the doctrine is vague and undemocratic, a "judicial veto".
+- Supporters say it protects constitutional identity against majoritarian change and has been used with restraint.
+### Conclusion
+The doctrine reconciles Parliament's power to change the Constitution with the need to preserve its core identity.
+
+Q: Discuss the emergency provisions of the Constitution and the safeguards introduced by the 44th Amendment.
+### National emergency (Art. 352)
+- Grounds: war, external aggression or armed rebellion. "Internal disturbance" was replaced by "armed rebellion" in 1978.
+- The President acts on the written advice of the Cabinet.
+- Approval by both Houses within one month, by special majority, and every six months thereafter.
+- The Lok Sabha may disapprove by simple majority, with a special sitting on a requisition by one-tenth of members.
+- Effects:
+  - Parliament may legislate on the State List (Art. 250);
+  - executive directions may be issued to States (Art. 353);
+  - financial arrangements may be modified (Art. 354);
+  - the life of the Lok Sabha may be extended by one year at a time (Art. 83(2));
+  - Art. 19 is suspended automatically only in war or external aggression (Art. 358);
+  - the President may suspend enforcement of other rights (Art. 359), but never Arts. 20 and 21 (44th Amendment).
+### President's Rule (Art. 356)
+- Failure of constitutional machinery in a State.
+- Approval within two months; six months at a time; a maximum of three years. Beyond one year, only if a national emergency is in force and the Election Commission certifies.
+- Judicial review applies (*S.R. Bommai*, 1994; *Rameshwar Prasad*, 2006).
+- Art. 365: non-compliance with Union directions.
+### Financial emergency (Art. 360)
+- Never proclaimed.
+- Allows reduction of salaries, including those of judges, and reservation of money Bills.
+### The Emergency of 1975 and *ADM Jabalpur* (1976)
+The Court held that habeas corpus could not be sought during the suspension of Art. 21. This was overruled in *K.S. Puttaswamy* (2017).
+### Safeguards added by the 44th Amendment (1978)
+- "armed rebellion" in place of "internal disturbance";
+- written Cabinet advice;
+- a special majority and one-month approval;
+- Arts. 20 and 21 cannot be suspended; and
+- judicial review restored, since the 38th Amendment's bar was removed.
+### Conclusion
+The emergency provisions are necessary for national security but open to abuse. The 44th Amendment and *Bommai* provide checks.
+
+Q: How is the independence of the judiciary secured under the Indian Constitution?
+### Constitutional safeguards
+- Appointment by the President in consultation with the judiciary (Arts. 124 and 217), with collegium primacy.
+- Security of tenure: removal only by impeachment, for proved misbehaviour or incapacity (Art. 124(4); Judges (Inquiry) Act, 1968).
+- Salaries and allowances charged on the Consolidated Fund and not reducible to their disadvantage, except during a financial emergency (Arts. 125 and 221).
+- No discussion of a judge's conduct in the legislature (Arts. 121 and 211).
+- Power to punish for contempt (Arts. 129 and 215).
+- Prohibition of practice after retirement (Art. 124(7)).
+- Separation of the judiciary from the executive (Art. 50).
+- Control of subordinate courts by High Courts (Arts. 233 to 235).
+### Judicial pronouncements
+- The Judges cases, on appointments.
+- The *NJAC case* (2015): primacy of the judiciary as part of the basic structure.
+- *All India Judges' Association* cases: service conditions of the subordinate judiciary.
+- Recruitment: three years' practice was restored for Civil Judges in 2025 and modified to one year in *Bhumika Trust* (2026). In-service judges may compete for direct recruitment as District Judges (*Rejanish K.V.*, 2025).
+- Tribunals: *L. Chandra Kumar* (1997) and the *Madras Bar Association* line, including the 2025 decision striking down provisions of the Tribunals Reforms Act, 2021 and directing a National Tribunals Commission.
+### Challenges
+- vacancies and delay;
+- transparency of the collegium;
+- post-retirement appointments; and
+- accountability, through in-house procedures.
+### Conclusion
+Judicial independence is a basic feature. The Constitution secures it through appointment, tenure, finance and contempt powers, and the courts guard it actively.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A State Legislature passes ten Bills. The Governor neither assents nor returns them for over two years. The State seeks a writ directing the Governor to decide within a fixed time, and asks the court to declare the Bills as deemed to have received assent. Decide.
+**Issue:** Can courts fix timelines for the Governor or declare deemed assent?
+**Law:**
+- Art. 200 gives the Governor three options: assent, withhold assent and return the Bill (if not a money Bill), or reserve it for the President. A re-passed Bill must receive assent, though it may be reserved in some cases.
+- *State of Tamil Nadu v Governor* (April 2025) fixed timelines, but the Presidential Reference (Nov 2025, 5 judges) held that courts cannot impose judicial timelines or declare deemed assent. The Governor's function is not justiciable on merits.
+- However, prolonged, unexplained and indefinite inaction can be examined, and a limited mandamus may issue to the Governor to decide within a reasonable time, without directing how.
+**Application:** Two years of inaction with no reasons is prolonged and unexplained.
+**Conclusion:** The court cannot declare deemed assent. It may issue a limited direction requiring the Governor to take a decision on the Bills within a reasonable period.
+
+Q: An MLA elected on Party X's ticket openly joins Party Y. A disqualification petition is filed before the Speaker, who does not decide it for eighteen months. The petitioner approaches the High Court. Decide.
+**Issue:** Can the court intervene in the Speaker's inaction under the Tenth Schedule?
+**Law:**
+- The Speaker acts as a tribunal, and decisions are subject to judicial review (*Kihoto Hollohan*, 1992).
+- Petitions should ordinarily be decided within three months (*Keisham Meghachandra Singh*, 2020).
+- *Padi Kaushik Reddy v State of Telangana* (2025): the Speaker must decide within a time frame, and courts may direct the Speaker to decide pending petitions within three months.
+**Application:** Eighteen months of inaction defeats the Tenth Schedule.
+**Conclusion:** The court may direct the Speaker to decide the petition within a fixed period, such as three months. It will not itself decide disqualification except in exceptional circumstances.
+
+Q: A government servant is dismissed without any inquiry. The order states only: "It is not reasonably practicable to hold an inquiry." No reasons are recorded. Advise the employee.
+**Issue:** Is a dismissal under Art. 311(2)(b) valid without recorded reasons?
+**Law:**
+- Art. 311(2)(b) permits dispensing with the inquiry only where the authority is satisfied that it is not reasonably practicable, and records its reasons in writing.
+- *Union of India v Tulsiram Patel* (1985): the reasons are subject to judicial review and must be relevant, for example intimidation of witnesses.
+- *Manohar Lal v State* (2026): the dismissal is invalid without recorded reasons.
+**Application:** The order merely repeats the words of the clause, with no reasons.
+**Conclusion:** The dismissal is illegal. The employee is entitled to reinstatement with consequential benefits, though the department may hold a regular inquiry.
+
+Q: Parliament passes a constitutional amendment providing that the election of the Prime Minister shall not be questioned in any court, and that any pending election case shall abate. Is the amendment valid?
+**Issue:** Does the amendment violate the basic structure?
+**Law:**
+- *Indira Gandhi v Raj Narain* (1975): Art. 329A(4), inserted by the 39th Amendment to validate the Prime Minister's election and oust judicial review, was struck down. It destroyed free and fair elections, the rule of law, equality and judicial review, all basic features.
+- *Kesavananda Bharati* (1973); *Minerva Mills* (1980): judicial review is basic.
+**Application:** The amendment excludes all judicial scrutiny of a particular election and abates pending cases. That is a legislative judgment and violates the basic structure.
+**Conclusion:** The amendment is unconstitutional and void.

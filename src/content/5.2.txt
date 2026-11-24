@@ -1,0 +1,559 @@
+@title Law of Crimes – II: Bharatiya Nagarik Suraksha Sanhita, 2023
+@subtitle Criminal procedure: arrest, investigation, bail, trial, judgment, appeals, probation and juvenile justice
+@paper 5.2
+@sem V
+@color #4a2f2f
+@dark #402828
+@intro The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) replaced the Code of Criminal Procedure, 1973 from 1 July 2024. Sections are given under the BNSS, with the old CrPC number in brackets, because most leading cases were decided under the CrPC and their principles continue to apply. New BNSS features include zero FIR and e-FIR, audio-video recording of searches, mandatory forensics for serious offences, trial in absentia, and electronic summons and proceedings.
+@reading R.V. Kelkar, Criminal Procedure
+@reading Ratanlal and Dhirajlal, The Code of Criminal Procedure
+@reading The Bharatiya Nagarik Suraksha Sanhita, 2023
+@reading The Juvenile Justice (Care and Protection of Children) Act, 2015
+@reading The Probation of Offenders Act, 1958
+
+# 1 | Introductory
+@topics Rationale of the BNSS and fair trial; Constitutional perspectives: Arts. 14, 20 and 21; Police, prosecutor, defence counsel and prison authorities; Inquisitorial and adversarial procedures
+>> Criminal procedure balances the State's power to investigate and punish against the accused's right to a fair trial. Arts. 14, 20, 21 and 22 make fairness a constitutional requirement.
+
+## 1.1 Rationale and fair trial
+- The BNSS aims to speed up justice, use technology, protect victims and modernise procedure. It sets timelines (for example, charge sheets, framing of charges and judgments) and introduces electronic summons, e-FIR and video-conferencing for trial.
+- **Fair trial** means a trial before an impartial judge, a fair prosecutor and an atmosphere of judicial calm, in which the accused can defend himself fully.
+
+CASE: Zahira Habibullah Sheikh v State of Gujarat (2004) :: In the Best Bakery case, where witnesses turned hostile under intimidation and the trial was a farce, the Supreme Court ordered a retrial outside Gujarat. A fair trial is the heart of criminal jurisprudence; it means fairness to the accused, the victim and society. Denial of a fair trial is as much an injustice to the victim and society as to the accused.
+
+## 1.2 Constitutional perspectives
+- **Art. 14**: equality before law and non-arbitrary procedure.
+- **Art. 20**: no ex post facto criminal laws (20(1)), no double jeopardy (20(2)), no compulsion to be a witness against oneself (20(3)).
+- **Art. 21**: procedure must be just, fair and reasonable (*Maneka Gandhi v Union of India*, 1978). It includes speedy trial, legal aid, humane treatment in custody and the right against handcuffing without justification.
+- **Art. 22**: the right to be informed of grounds of arrest, to consult a lawyer, and to be produced before a Magistrate within 24 hours.
+
+## 1.3 Functionaries
+- **Police**: the Police Act, 1861 and State police laws. The Supreme Court in *Prakash Singh v Union of India* (2006) directed police reforms: a State Security Commission, a fixed tenure for the DGP and senior officers, separation of investigation from law and order, a Police Establishment Board and Police Complaints Authorities.
+- **Prosecutors**: Public Prosecutors in the High Court and Sessions Courts (s.18 [24]), Assistant Public Prosecutors in Magistrates' courts (s.19 [25]), and a Directorate of Prosecution in each State (s.20 [25A]). The prosecutor is an officer of the court, not a mere agent of the police, and must be fair.
+- **Defence counsel**: the accused has a right to be defended by a lawyer of his choice (s.340 [303]), and to legal aid at State expense in Sessions trials and other cases (s.341 [304]; Art. 39A).
+- **Prisons**: the Prisons Act, 1894 and State manuals; the Model Prisons and Correctional Services Act, 2023 (circulated by the Centre for States). Prisoners retain fundamental rights except those necessarily curtailed (*Sunil Batra v Delhi Administration*, 1978).
+
+## 1.4 Types of procedure
+- India follows the **adversarial** model, with some inquisitorial features: the court's power to summon and examine any person (s.348 [311]), to question the accused (s.351 [313]), and to put questions to witnesses (s.168 BSA [165 IEA]).
+- The **Malimath Committee** (2003) recommended borrowing more inquisitorial features; only some were adopted.
+
+* The BNSS (from 1 July 2024) modernises procedure; fair trial is fair to the accused, the victim and society (Zahira Sheikh).
+* Arts. 14, 20, 21 and 22; procedure must be just and fair (Maneka Gandhi).
+* Police reforms (Prakash Singh); the Directorate of Prosecution; defence counsel and legal aid; prisoners' rights (Sunil Batra).
+* An adversarial system with inquisitorial powers.
+
+QL: Explain the concept of fair trial with reference to the constitutional provisions and decided cases.
+QL: Describe the organisation and functions of the police, prosecution and defence under the BNSS.
+QS: Directorate of Prosecution
+QS: Prakash Singh v Union of India
+
+MCQ: The BNSS came into force on || 1 January 2024 | *1 July 2024 | 26 January 2025 | 1 April 2024 || Replacing the CrPC, 1973.
+MCQ: A retrial outside the State was ordered in the Best Bakery case, || Prakash Singh | *Zahira Habibullah Sheikh v State of Gujarat | Maneka Gandhi | Sunil Batra || 2004.
+
+# 2 | Pre-trial process: arrest, search and seizure
+@topics Cognizable and non-cognizable offences; Steps to ensure the accused's presence; Arrest with and without warrant; Absconders; Rights of arrested persons; Search warrants and searches without warrant; Police searches; General principles of search; Seizure; Constitutional aspects
+>> Arrest and search are the State's most intrusive powers. The BNSS sets conditions for their exercise and gives the arrested person rights that the Supreme Court treats as part of Arts. 21 and 22.
+
+## 2.1 Cognizable and non-cognizable offences
+- **Cognizable offence** (s.2(1)(g)): the police may arrest without warrant. **Non-cognizable** (s.2(1)(o)): the police cannot arrest without warrant or investigate without a Magistrate's order (s.174 [155]).
+- The classification is in the First Schedule. Broadly, offences punishable with three years or more are cognizable. Problems include over-broad classification and misuse of arrest powers.
+
+## 2.2 Steps to ensure the accused's presence
+- **Summons** (ss.63 to 71 [61 to 69]), which may now be served electronically; **warrant of arrest** (ss.72 to 83 [70 to 81]); **proclamation and attachment** (ss.84 to 89 [82 to 86]); bonds and security.
+- **Summons case**: an offence punishable with up to two years. **Warrant case**: an offence punishable with death, life imprisonment, or imprisonment exceeding two years.
+
+## 2.3 Arrest with and without warrant
+- A warrant of arrest must be in writing, signed and sealed, naming the person and offence (s.72 [70]). It may direct release on bail (s.73 [71]).
+- **Arrest without warrant** (s.35 [41]): a police officer may arrest a person who commits a cognizable offence in his presence; or against whom there is a reasonable complaint, credible information or reasonable suspicion of an offence punishable with up to seven years, if the officer has reason to believe it necessary (to prevent further offences, for proper investigation, to prevent tampering, to secure attendance, or to prevent inducement of witnesses) and records reasons; or for offences punishable with more than seven years.
+- **Notice of appearance** (s.35(3) to (6) [41A]): where arrest is not required, the police must issue a notice to appear.
+- **Section 35(7)** (new): no arrest without permission of an officer not below the rank of DSP for an offence punishable with less than three years, if the person is infirm or above 60 years.
+
+CASE: Arnesh Kumar v State of Bihar (2014) :: In offences punishable with imprisonment up to seven years (including s.498A IPC cases), police should not arrest automatically. They must satisfy themselves of the necessity under s.41 CrPC and record reasons; Magistrates must not authorise detention mechanically. Failure to follow this attracts departmental action and contempt.
+
+CASE: Joginder Kumar v State of Uttar Pradesh (1994) :: No arrest can be made merely because it is lawful for the police officer to do so. The existence of the power is one thing, and the justification for its exercise another. The officer must be satisfied, after reasonable investigation, about the genuineness of the complaint and the need to arrest.
+
+## 2.4 Absconders (ss.84 to 88 [82 to 86])
+- A court may publish a written **proclamation** requiring an absconding person to appear within at least 30 days (s.84). Property may be attached (s.85). A person proclaimed for an offence punishable with ten years or more may be declared a **proclaimed offender** (s.84(4)).
+- **Trial in absentia** (s.356, new): a proclaimed offender who absconds to evade trial may be tried and convicted in his absence, after following specified steps.
+
+## 2.5 Rights of arrested persons
+### 2.5.1 Right to be informed of grounds of arrest
+- **Art. 22(1)**; s.47 [50]: the arresting officer must inform the person of the full particulars of the offence or grounds of arrest, and of the right to bail in bailable offences. Section 48 [50A]: inform a relative or nominated person. Section 36 [41B]: a memo of arrest attested by a witness.
+
+CASE: Prabir Purkayastha v State (NCT of Delhi) (2024) :: Following *Pankaj Bansal v Union of India* (2023, PMLA), the Court held that the grounds of arrest must be communicated to the arrested person in writing, as a matter of course, under Art. 22(1). Failure to do so before remand vitiates the arrest and remand. This applies to arrests under the UAPA as well.
+
+CASE: Vihaan Kumar v State of Haryana (2025) :: The Supreme Court held that the requirement to inform the arrested person of the grounds of arrest under Art. 22(1) is mandatory. Non-compliance makes the arrest illegal and entitles the person to be released, even if a charge sheet has been filed. The burden of proving compliance is on the police.
+
+### 2.6 and 2.7 Production before the Magistrate; 24 hours
+- Section 57 [56]: the arrested person must be taken before a Magistrate without unnecessary delay. Section 58 [57] and **Art. 22(2)**: no detention beyond 24 hours (excluding travel time) without a Magistrate's order.
+
+### 2.8 Right to consult a lawyer and legal aid
+- Art. 22(1); s.38 [41D]: the right to meet an advocate of choice during interrogation, though not throughout. Legal aid under s.341 [304] and the Legal Services Authorities Act, 1987.
+
+CASE: D.K. Basu v State of West Bengal (1997) :: The Court laid down guidelines on arrest and detention: police must carry clear identification; prepare a memo of arrest attested by a witness; inform a relative or friend; record the arrest in a diary; conduct a medical examination every 48 hours; allow the person to meet a lawyer during interrogation; and set up a police control room. Most of these are now statutory (ss.35 to 38, 47, 48 and 53 BNSS).
+
+### 2.9 Medical examination
+- At the request of the police (s.51 [53]); of a person accused of rape (s.52 [53A]); and of an arrested person on arrest, by a registered medical practitioner (s.53 [54]).
+
+## 2.10 Search warrants and searches without warrant
+- **Search warrant** (s.96 [93]): to produce a document or thing, or where it is not known who possesses it, or for a general search. **Search of places containing stolen property or forged documents** (s.97 [94]). **Search for persons wrongfully confined** (s.100 [97]). **Restoration of abducted women** (s.101 [98]).
+- **Searches without warrant**: by a police officer during investigation (s.185 [165]); by an officer in charge in another jurisdiction (s.186 [166]); and of an arrested person (s.49 [51]).
+
+## 2.11 Police search during investigation (ss.185 and 186)
+- The officer must have reasonable grounds to believe that a thing necessary for investigation may be found in a place and cannot be obtained otherwise without undue delay. He must record his grounds in writing before searching, conduct the search himself as far as possible, and send copies of the record to the Magistrate.
+
+## 2.12 General principles of search (s.103 [100])
+- The person in charge of a closed place must allow free entry. The search must be made in the presence of two or more independent and respectable inhabitants of the locality. A list of things seized must be prepared and signed. Women must be searched by women with strict regard to decency.
+- **Section 105** (new): searches and seizures must be recorded through audio-video electronic means, preferably on a mobile phone, and the recording sent to the Magistrate without delay.
+
+## 2.13 Seizure (s.106 [102])
+- A police officer may seize property alleged or suspected to have been stolen, or found in circumstances creating suspicion of an offence, and must report the seizure to the Magistrate.
+- **Section 107** (new): attachment and forfeiture of proceeds of crime on a Magistrate's order.
+
+## 2.14 Constitutional aspects
+- Search and seizure do not violate Art. 20(3), because the person is not compelled to be a witness (*M.P. Sharma v Satish Chandra*, 1954, overruled on privacy by *Puttaswamy*, 2017, but not on Art. 20(3)).
+- **Illegally obtained evidence** is admissible if relevant, subject to the court's caution (*Pooran Mal v Director of Inspection*, 1974). After Puttaswamy, searches must also satisfy the proportionality test.
+- Special laws have stricter safeguards, such as the right to be searched before a Gazetted Officer or Magistrate under s.50 of the NDPS Act (*State of Punjab v Baldev Singh*, 1999).
+
+## 2.15 Recent judgments (2025–26)
+
+CASE: Mihir Rajesh Shah v State of Maharashtra (2025) :: Written grounds of arrest, in a language the arrested person understands, are mandatory for all offences. If not supplied at arrest, they must be given at least two hours before production for remand; otherwise the arrest and remand are illegal.
+
+CASE: Satender Kumar Antil v CBI (2026) :: For offences punishable up to seven years, arrest is the exception: the police must record reasons under s.35(1)(b) BNSS, and a notice of appearance under s.35(3) is the rule.
+
+CASE: State of Andhra Pradesh v Suda Suresh (2026) :: Section 38 BNSS gives an arrested person the right to meet an advocate of choice during interrogation, but not to have the advocate present throughout.
+
+* Written grounds two hours before remand (Mihir Rajesh Shah, 2025); arrest as exception for offences up to seven years (Antil, 2026).
+* Cognizable and non-cognizable offences; summons and warrant cases.
+* Arrest without warrant only when necessary, with reasons (s.35; Arnesh Kumar; Joginder Kumar); notice of appearance; s.35(7) for the elderly and infirm.
+* Proclamation, attachment and trial in absentia (s.356).
+* Rights: written grounds of arrest (Prabir Purkayastha; Vihaan Kumar); production within 24 hours; lawyer; medical examination; D.K. Basu guidelines.
+* Searches: warrants (ss.96 to 101), police searches (ss.185 and 186), general rules (s.103), video recording (s.105), seizure (s.106).
+* Constitutional aspects: Art. 20(3), illegally obtained evidence (Pooran Mal), NDPS safeguards (Baldev Singh).
+
+QL: When can a police officer arrest without a warrant? Discuss the safeguards with reference to Arnesh Kumar and Joginder Kumar.
+QL: Discuss the rights of an arrested person under the BNSS and the Constitution.
+QL: Explain the procedure for search by a police officer during investigation and the general principles of search.
+QS: Notice of appearance under s.35(3) BNSS
+QS: D.K. Basu guidelines
+QS: Trial in absentia
+
+MCQ: The requirement of written grounds of arrest under Art. 22(1) was affirmed for UAPA arrests in || Arnesh Kumar | *Prabir Purkayastha v State (NCT of Delhi) | D.K. Basu | Joginder Kumar || 2024.
+MCQ: Audio-video recording of searches and seizures is required by BNSS || s.103 | *s.105 | s.185 | s.47 || A new provision.
+MCQ: A summons case is one involving an offence punishable with imprisonment || up to seven years | *up to two years | up to three years | of any term || Others are warrant cases.
+MCQ: In Mihir Rajesh Shah (2025), if written grounds are not given at the time of arrest, they must be supplied || within 24 hours | *at least two hours before production for remand | before charge-sheet | at the first bail hearing || Otherwise the arrest and remand are illegal.
+
+# 3 | Pre-trial process: FIR and cognizance
+@topics FIR (s.173); Evidentiary value of FIR; Magistrate's power to take cognizance; Electronically stored information; Role of AI in criminal investigation
+>> The FIR sets the criminal law in motion. The Magistrate takes cognizance on a police report, a complaint or other information. Digital evidence and AI tools are changing how investigations are carried out.
+
+## 3.1 First Information Report (s.173 [154])
+- Information about a cognizable offence, given orally or **electronically**, must be recorded by the officer in charge of a police station, irrespective of the area where the offence was committed (**zero FIR**). An e-FIR must be signed by the informant within three days.
+- **Preliminary enquiry** (s.173(3), new): for offences punishable with three to seven years, the officer may, with the permission of the DSP, conduct a preliminary enquiry within 14 days to ascertain whether a prima facie case exists.
+- If the officer refuses to record the FIR, the informant may send it to the Superintendent of Police (s.173(4)), and then approach the Magistrate (s.175(3) [156(3)]), with an affidavit.
+- A copy of the FIR must be given free of cost to the informant or victim.
+
+CASE: Lalita Kumari v Government of Uttar Pradesh (2013) :: A Constitution Bench held that registration of an FIR is mandatory under s.154 CrPC if the information discloses a cognizable offence; no preliminary inquiry is permitted in such a situation. A preliminary inquiry may be conducted only in specified categories (matrimonial disputes, commercial offences, medical negligence, corruption, cases with abnormal delay), to determine whether a cognizable offence is disclosed. (Section 173(3) BNSS now provides a statutory preliminary enquiry for offences of three to seven years.)
+
+## 3.2 Evidentiary value of FIR
+- The FIR is not substantive evidence. It can be used to corroborate the informant (s.160 BSA [157 IEA]) or to contradict him (s.148 BSA [145 IEA]). If the informant dies, it may be admissible as a dying declaration (s.26 BSA [32 IEA]). An FIR by the accused that is confessional is inadmissible except for what is admissible under s.23(2) proviso BSA [27 IEA] (*Aghnoo Nagesia v State of Bihar*, 1966).
+- Delay in lodging an FIR is not fatal if explained, but unexplained delay may cast doubt on the prosecution case.
+
+## 3.3 Cognizance (ss.210 to 222 [190 to 199])
+- A Magistrate may take **cognizance** on (a) a complaint, (b) a police report, or (c) information from any person other than a police officer, or his own knowledge (s.210 [190]).
+- **Bars to cognizance**: offences against public justice and contempt of public servants require a complaint by the public servant or court (s.215 [195]); offences against the State require sanction (s.217 [196]); prosecution of public servants requires sanction (s.218 [197]); offences against marriage require a complaint by the aggrieved person (s.219 [198]); defamation requires a complaint by the person aggrieved, or the Public Prosecutor in the case of high constitutional functionaries (s.222 [199]).
+- Sanction under s.218 must be decided within 120 days; otherwise it is deemed granted (new).
+
+## 3.4 Electronically stored information
+- The BNSS allows summons, warrants and notices to be served electronically (s.64 and s.71), recording of statements by audio-video means (s.180 [161] and s.183 [164]), video recording of searches (s.105), production of electronic records by summons (s.94 [91]), and **trial and proceedings in electronic mode** (s.530).
+- Admissibility of electronic records is governed by s.63 of the BSA (Unit 8 of the Evidence book).
+
+CASE: State of Maharashtra v Dr Praful B. Desai (2003) :: Evidence recorded by video-conferencing was held to satisfy the requirement that evidence be taken "in the presence of the accused", because the accused can see, hear and react to the witness. "Presence" does not mean physical presence.
+
+## 3.5 Role of AI in criminal investigation
+- Uses: facial recognition (for example, the Automated Facial Recognition System of the NCRB), predictive policing, analysis of CCTV and phone data, voice and image analysis, detection of deepfakes, and crime pattern mapping.
+- **Mandatory forensics** (s.176(3) [new]): for offences punishable with seven years or more, a forensic expert must visit the crime scene and collect evidence, with video recording.
+- Concerns: privacy (*Puttaswamy*, 2017: legality, necessity and proportionality), algorithmic bias, the reliability of AI outputs, explainability, chain of custody, and the right against self-incrimination. Data processing for investigation is exempted from most DPDP Act obligations (s.17), which increases the need for safeguards.
+
+## 3.6 Recent judgments (2025–26)
+
+CASE: Kushal Kumar Agarwal v Directorate of Enforcement (2025) :: Under s.223 BNSS, the accused must be heard before a Magistrate takes cognizance of a complaint. This applies to complaints filed after 1 July 2024, including PMLA complaints.
+
+CASE: G. Ganesh v State of Tamil Nadu (2026) :: An FIR must be registered for every report of a missing person.
+
+* Pre-cognizance hearing under s.223 BNSS (Kushal Kumar Agarwal, 2025).
+* FIR: zero FIR and e-FIR; mandatory registration (Lalita Kumari); statutory preliminary enquiry for offences of three to seven years.
+* An FIR is not substantive evidence; it corroborates or contradicts (BSA ss.148 and 160).
+* Cognizance on a complaint, police report or information (s.210); bars (ss.215 to 222).
+* Electronic summons, recording and trials (s.530; Praful Desai).
+* AI tools need legality, proportionality and reliability; mandatory forensics for serious offences.
+
+QL: Is registration of an FIR mandatory? Discuss the law under the BNSS with reference to Lalita Kumari.
+QL: What is the evidentiary value of an FIR?
+QL: Discuss the use of electronically stored information and AI in criminal investigation and the legal safeguards required.
+QS: Zero FIR
+QS: Cognizance
+QS: Sanction for prosecution of public servants
+
+MCQ: Mandatory registration of FIR for cognizable offences was held in || Arnesh Kumar | *Lalita Kumari v Government of UP | Praful Desai | Aghnoo Nagesia || 2013.
+MCQ: A preliminary enquiry under s.173(3) BNSS is available for offences punishable with || less than three years | *three to seven years | more than seven years | any offence || With DSP's permission, within 14 days.
+MCQ: Video-conferencing evidence was held valid as "in the presence of the accused" in || Lalita Kumari | *State of Maharashtra v Praful B. Desai | Pooran Mal | Selvi || 2003.
+
+# 4 | Trial process and fair trial
+@topics Commencement of proceedings; Dismissal of complaint; Bail: bailable and non-bailable offences, cancellation, anticipatory bail, appellate bail, bonds, constitutional principles; Fair trial; Presumption of innocence; Venue; Right to know the accusation; Trial in the accused's presence; Cross-examination and defence evidence; Speedy trial
+>> Bail is the rule and jail the exception. The trial must be held in the right court, in the accused's presence, with full knowledge of the charge, an opportunity to cross-examine and to lead evidence, and without unreasonable delay.
+
+## 4.1 and 4.2 Commencement of proceedings and dismissal of complaint
+- On a complaint, the Magistrate examines the complainant and witnesses on oath (s.223 [200]). **New proviso**: the Magistrate must give the accused an opportunity to be heard before taking cognizance on a complaint. A complaint against a public servant requires the public servant's version and a report from his superior.
+- The Magistrate may postpone issue of process and inquire, or direct an investigation (s.225 [202]). Inquiry is mandatory where the accused resides outside the Magistrate's jurisdiction.
+- **Dismissal of complaint** (s.226 [203]) if there is no sufficient ground; otherwise **issue of process** (s.227 [204]).
+
+## 4.3 Bail
+### 4.3.1 Bailable and non-bailable offences
+- **Bailable offences** (s.478 [436]): bail is a right; the officer or court must release the person on bail.
+- **Non-bailable offences** (s.480 [437]): bail is discretionary. A Magistrate shall not release a person if there are reasonable grounds to believe he is guilty of an offence punishable with death or life imprisonment, except a child, a woman, or a sick or infirm person.
+- **Special powers of the High Court and Court of Session** (s.483 [439]).
+- **Maximum detention of undertrials** (s.479 [436A]): an undertrial who has served half the maximum sentence must be released on bail (except for offences punishable with death or life imprisonment). A **first-time offender** must be released after serving one-third of the maximum sentence (new).
+
+### 4.3.2 Cancellation of bail (s.480(5) [437(5)]; s.483(3) [439(2)])
+- Bail may be cancelled for supervening circumstances such as misuse of liberty, tampering with evidence, intimidating witnesses or absconding. Cancellation of bail already granted requires stronger grounds than refusal at the outset.
+
+### 4.3.3 Anticipatory bail (s.482 [438])
+- A person who apprehends arrest for a non-bailable offence may apply to the High Court or Court of Session for a direction that he be released on bail in the event of arrest. Section 482(4) excludes anticipatory bail for certain offences, such as rape of a woman under 18.
+
+CASE: Gurbaksh Singh Sibbia v State of Punjab (1980) :: A Constitution Bench held that the power to grant anticipatory bail is wide and should not be cut down by judicial limitations not found in the statute. The applicant must show reasonable grounds for apprehending arrest; the court may impose conditions.
+
+CASE: Sushila Aggarwal v State (NCT of Delhi) (2020) :: A five-judge bench held that anticipatory bail need not be limited to a fixed period. It may continue until the end of the trial unless the court decides otherwise, and is not automatically terminated by the filing of a charge sheet or the summoning of the accused.
+
+### 4.3.4 Appellate bail: suspension of sentence (s.430 [389])
+- An appellate court may suspend the sentence pending appeal and release the convict on bail, recording reasons. For sentences up to three years, the trial court itself may grant bail to enable an appeal.
+
+### 4.3.5 Bonds (ss.485 to 496 [441 to 450])
+- Bonds and sureties; the amount of bond must not be excessive (s.484 [440]); forfeiture of bond (s.491 [446]).
+
+### 4.3.6 Constitutional principles on bail
+CASE: Satender Kumar Antil v Central Bureau of Investigation (2022) :: The Court reiterated that bail is the rule and jail the exception, classified offences into categories for bail purposes, directed courts to follow s.41A (notice) and Arnesh Kumar, said bail applications should be decided within two weeks, and recommended a separate Bail Act.
+
+- Other principles: liberty under Art. 21; the presumption of innocence; the gravity of the offence and the likelihood of fleeing or tampering are relevant; inability to furnish sureties should not keep poor persons in jail (*Moti Ram v State of MP*, 1978).
+
+## 4.4 and 4.5 Fair trial and presumption of innocence
+- The accused is presumed innocent until proved guilty beyond reasonable doubt; the burden is on the prosecution (*Woolmington v DPP*, 1935). Statutory reverse burdens (for example, NDPS, POCSO, PMLA) are exceptions, upheld if reasonable.
+
+## 4.6 Venue of trial (ss.197 to 209 [177 to 189])
+- Ordinarily, every offence is inquired into and tried by a court within whose local jurisdiction it was committed (s.197 [177]). If the place is uncertain, or the offence is committed partly in several areas or is a continuing offence, any of those courts may try it (s.198 [178]). Offences may also be tried where the consequence ensues (s.199 [179]).
+- Offences committed outside India may be tried in India with the sanction of the Central Government (s.208 [188]).
+
+CASE: Rupali Devi v State of Uttar Pradesh (2019) :: A complaint of cruelty under s.498A IPC can be filed where the wife resides after leaving or being driven out of the matrimonial home, because the mental cruelty continues there.
+
+## 4.7 Right of the accused to know the accusation (ss.244 to 247; charge)
+- The accused must be informed of the charge in writing and in a language he understands (Unit 5).
+
+## 4.8 Trial in the accused's presence
+- Evidence must be taken in the presence of the accused or his pleader (s.308 [273]), now including by audio-video electronic means. The court may dispense with personal attendance (s.228 [205]; s.355 [317]). Trial in absentia of proclaimed offenders (s.356) is an exception.
+
+## 4.9 Right of cross-examination and defence evidence
+- The accused may cross-examine prosecution witnesses (s.143 BSA [138 IEA]), give evidence on oath as a defence witness at his own request (as under s.315 CrPC), and produce defence evidence (s.256 [233] in Sessions trials). The accused's statement under s.351 [313] is not on oath and is not evidence, but may be taken into consideration.
+
+## 4.10 Speedy trial under Art. 21
+CASE: Hussainara Khatoon v Home Secretary, State of Bihar (1979) :: Thousands of undertrials in Bihar jails had been detained for periods longer than the maximum sentence for their offences. The Court held that speedy trial is an essential part of Art. 21, and ordered their release and free legal aid.
+
+CASE: Abdul Rehman Antulay v R.S. Nayak (1992) :: A Constitution Bench laid down guidelines on speedy trial: it applies to all stages (investigation, inquiry, trial, appeal, revision); the court must balance the length of delay, the reasons, the accused's assertion of the right, and prejudice. No fixed time limit can be laid down (reaffirmed in *P. Ramachandra Rao v State of Karnataka*, 2002), but the accused may seek quashing for undue delay.
+
+## 4.11 Recent judgments (2025–26)
+
+CASE: Amlesh Kumar v State of Bihar (2025) :: Involuntary narco-analysis violates Arts. 20(3) and 21. Even a voluntary test cannot alone sustain a conviction.
+
+CASE: Syed Iftikhar Andrabi v NIA (2026) :: Even under special statutes, prolonged incarceration without trial justifies bail; K.A. Najeeb is binding and 'bail is the rule'.
+
+CASE: Sumit v State of UP (2026) :: Anticipatory bail ordinarily continues until the end of the trial without a fixed expiry date.
+
+* Involuntary narco tests unconstitutional (Amlesh Kumar, 2025); delay justifies bail even under special laws (Andrabi, 2026).
+* Complaints: hearing the accused before cognizance (new); inquiry; dismissal or process.
+* Bail: a right in bailable offences; discretionary in non-bailable; undertrial release after half or one-third; anticipatory bail (Sibbia; Sushila Aggarwal); appellate bail (s.430); bail is the rule (Satender Kumar Antil).
+* Presumption of innocence; venue (ss.197 to 209; Rupali Devi).
+* Trial in presence (s.308), cross-examination, defence evidence.
+* Speedy trial under Art. 21 (Hussainara Khatoon; A.R. Antulay 1992).
+
+QL: Discuss the law relating to bail under the BNSS. "Bail is the rule and jail the exception." Explain.
+QL: What is anticipatory bail? Discuss Gurbaksh Singh Sibbia and Sushila Aggarwal.
+QL: Explain the right to speedy trial as part of Art. 21 with reference to decided cases.
+QS: Section 479 BNSS
+QS: Cancellation of bail
+QS: Venue of trial
+
+MCQ: Anticipatory bail need not be limited in time, as held in || Gurbaksh Singh Sibbia | *Sushila Aggarwal v State (NCT of Delhi) | Satender Kumar Antil | Moti Ram || 2020.
+MCQ: A first-time offender undertrial must be released after serving || half | *one-third | one-fourth | two-thirds || Of the maximum sentence, s.479 BNSS.
+MCQ: Speedy trial was recognised as part of Art. 21 in || Maneka Gandhi | *Hussainara Khatoon v State of Bihar | Zahira Sheikh | Lalita Kumari || 1979.
+
+# 5 | Charge
+@topics Form and content of charge (ss.234, 235, 239); Separate charges for distinct offences and joinder (ss.241 to 246)
+>> The charge tells the accused precisely what he must meet. Each distinct offence needs a separate charge, with exceptions that allow joint trial where offences are connected.
+
+## 5.1 Form and content (ss.234 to 240 [211 to 217])
+- Every charge must state the offence, the law and section, and the name or description of the offence (s.234 [211]). It must contain particulars of time, place and person (s.235 [212]), and of the manner of committing the offence where necessary (s.236 [213]).
+- The court may alter or add to the charge at any time before judgment (s.239 [216]); witnesses may be recalled (s.240 [217]).
+- **Effect of errors** (s.238 [215]): no error or omission in stating the offence or particulars is material unless the accused was misled and a failure of justice occurred.
+
+CASE: Willie (William) Slaney v State of Madhya Pradesh (1955) :: A Constitution Bench held that a defect, irregularity or even absence of a charge does not vitiate a trial unless it has caused prejudice to the accused resulting in a failure of justice. The test is whether the accused knew what he was being tried for and had a fair chance to defend himself.
+
+## 5.2 Separate charges and joinder (ss.241 to 246 [218 to 223])
+- **Basic rule** (s.241 [218]): a separate charge for every distinct offence, tried separately, unless the accused applies for a joint trial and the Magistrate is satisfied that he will not be prejudiced.
+- **Exceptions**:
+  - three offences of the same kind within twelve months may be charged and tried together (s.242 [219]);
+  - offences in the same transaction (s.243 [220]);
+  - where it is doubtful which of several offences the facts constitute, the accused may be charged with all or in the alternative (s.244 [221]);
+  - a minor offence included in the offence charged may be convicted on (s.245 [222]);
+  - joint trial of persons accused of the same offence in the same transaction, abetment, and other cases (s.246 [223]).
+
+## 5.3 Recent judgments (2025–26)
+
+CASE: Sandeep Yadav v State (2026) :: An unsigned charge is a curable irregularity that does not vitiate the trial without prejudice.
+
+* Unsigned charge is a curable irregularity (2026).
+* The charge states the offence, law and particulars (ss.234 to 236); alteration (s.239); errors immaterial unless there is prejudice (s.238; Willie Slaney).
+* A separate charge for each offence (s.241), with exceptions (ss.242 to 246).
+
+QL: What are the contents of a charge? What is the effect of an error or omission in a charge?
+QL: "For every distinct offence there shall be a separate charge." Discuss the exceptions.
+QS: Alteration of charge
+QS: Joint trial
+
+MCQ: A defect in a charge does not vitiate the trial without prejudice, as held in || Rupali Devi | *Willie Slaney v State of MP | Pritam Singh | Maqbool Hussain || 1955.
+MCQ: Three offences of the same kind may be tried together if committed within || six months | *twelve months | two years | one month || s.242 BNSS.
+
+# 6 | Preliminary pleas to bar the trial
+@topics Jurisdiction; Time limitations; Autrefois acquit and autrefois convict; Issue estoppel
+>> Before trial, the accused may object that the court lacks jurisdiction, that cognizance is time-barred, or that he has already been tried for the same offence.
+
+## 6.1 Jurisdiction
+- Offences under the BNS are triable by the courts shown in the First Schedule (s.21 [26]); offences under other laws by the courts mentioned in those laws.
+- Irregularities that do and do not vitiate proceedings (ss.506 and 507 [460 and 461]); proceedings in the wrong place are not set aside unless there is a failure of justice (s.508 [462]).
+
+## 6.2 Time limitations (ss.513 to 519 [467 to 473])
+- **Section 514 [468]**: no court shall take cognizance after the limitation period: six months for offences punishable with fine only; one year for offences punishable with imprisonment up to one year; three years for offences punishable with imprisonment between one and three years. There is no limitation for offences punishable with more than three years.
+- The period runs from the date of the offence, or from when it became known (s.515 [469]). Courts may extend the period in the interests of justice (s.519 [473]).
+- Rationale: stale prosecutions are oppressive, evidence is lost, and the law should encourage prompt action.
+
+## 6.3 Autrefois acquit and autrefois convict (s.337 [300]; Art. 20(2))
+- A person once convicted or acquitted by a competent court for an offence cannot be tried again for the same offence, or on the same facts for any other offence for which a different charge might have been made (s.337 [300]).
+- **Art. 20(2)** is narrower: it bars a second prosecution and punishment for the same offence only after a previous prosecution and punishment.
+
+CASE: Maqbool Hussain v State of Bombay (1953) :: Confiscation of gold by customs authorities under the Sea Customs Act was held not to be a "prosecution and punishment" by a court or judicial tribunal. A later criminal prosecution under the Foreign Exchange Regulation Act was therefore not barred by Art. 20(2).
+
+## 6.4 Issue estoppel
+- Where an issue of fact has been tried by a competent court and found in favour of the accused, that finding cannot be disputed by the prosecution in a later trial of the accused for a different offence.
+
+CASE: Pritam Singh v State of Punjab (1956) :: Adopting the Privy Council's view in *Sambasivam v Public Prosecutor, Federation of Malaya* (1950), the Supreme Court held that an acquittal is binding and conclusive in later proceedings between the same parties. The prosecution could not rely on the recovery of a revolver in a later murder trial after the accused had been acquitted of the Arms Act charge relating to it. The rule was affirmed in *Manipur Administration v Thokchom Bira Singh* (1965).
+
+* Jurisdiction (s.21); irregularities and wrong place (ss.506 to 508).
+* Limitation for cognizance: six months, one year, three years; none above three years (s.514); extension (s.519).
+* Double jeopardy: s.337 (wider) and Art. 20(2) (narrower; Maqbool Hussain).
+* Issue estoppel (Pritam Singh; Thokchom Bira Singh).
+
+QL: Explain the plea of autrefois acquit and autrefois convict under the BNSS and Art. 20(2).
+QL: Discuss the bar of limitation on taking cognizance of offences.
+QS: Issue estoppel
+QS: Maqbool Hussain v State of Bombay
+
+MCQ: The period of limitation for taking cognizance of an offence punishable with imprisonment up to one year is || six months | *one year | three years | no limit || s.514 BNSS.
+MCQ: Issue estoppel was adopted in India in || Maqbool Hussain | *Pritam Singh v State of Punjab | Willie Slaney | Rupali Devi || 1956.
+
+# 7 | Trial before a Court of Session
+@topics Procedural steps and substantive rights under ss.248 to 260
+>> Serious offences are tried by the Court of Session after commitment. The trial passes through discharge or charge, prosecution evidence, the accused's statement, defence evidence, arguments, judgment and a hearing on sentence.
+
+## 7.1 Steps in a Sessions trial
+| Step | BNSS (CrPC) | Content |
+|---|---|---|
+| Commitment | s.232 (209) | Magistrate commits the case to the Court of Session, within 90 days of cognizance, extendable to 180 |
+| Prosecution by Public Prosecutor | s.248 (225) | Every trial is conducted by a Public Prosecutor |
+| Opening of case | s.249 (226) | PP describes the charge and the evidence |
+| Discharge | s.250 (227) | Accused may apply within 60 days of commitment; judge discharges if there is no sufficient ground, recording reasons |
+| Framing of charge | s.251 (228) | Within 60 days of the first hearing on charge; read and explained to the accused |
+| Plea of guilty | s.252 (229) | Judge may convict, in his discretion |
+| Prosecution evidence | ss.253 and 254 (230 and 231) | Witnesses examined; evidence may be recorded by video means |
+| Accused's examination | s.351 (313) | Court questions the accused on incriminating circumstances |
+| Acquittal | s.255 (232) | If there is no evidence that the accused committed the offence |
+| Defence | s.256 (233) | Accused enters on defence, adduces evidence |
+| Arguments | s.257 (234) | Prosecution sums up; defence replies |
+| Judgment | s.258 (235) | Within 30 days of arguments, extendable to 45 days for reasons; if convicted, hearing on sentence |
+| Previous conviction | s.259 (236) | Proved after conviction if charged |
+| Defamation of high functionaries | s.260 (237) | Procedure in cases instituted under s.222(2) |
+
+## 7.2 Substantive rights during the trial
+- The right to be heard at the stage of charge, to cross-examine, to a reasoned decision, to explain incriminating circumstances (s.351), to lead defence evidence, and to be heard on sentence.
+
+CASE: Bachan Singh v State of Punjab (1980) :: Upholding the death penalty, the Court required "special reasons" for imposing it and the "rarest of rare cases" test, which makes the hearing on sentence (s.235(2) CrPC, now s.258(2) BNSS) a substantive right. In *Manoj v State of Madhya Pradesh* (2022), the Court directed collection of mitigating information about the accused (psychological evaluation, background, conduct in prison) before sentencing in capital cases.
+
+* Commitment, discharge or charge, plea, prosecution evidence, s.351 examination, acquittal or defence, arguments, judgment.
+* Timelines: discharge application within 60 days; charge within 60 days; judgment within 30 to 45 days.
+* Hearing on sentence; rarest of rare (Bachan Singh); mitigation investigation (Manoj).
+
+QL: Describe the procedure for trial before a Court of Session under the BNSS.
+QS: Discharge under s.250 BNSS
+QS: Hearing on sentence
+
+MCQ: The "rarest of rare" test for the death penalty was laid down in || Manoj v State of MP | *Bachan Singh v State of Punjab | Zahira Sheikh | Maneka Gandhi || 1980.
+
+# 8 | Judgment
+@topics Form and content (s.393); Summary trials (ss.283 to 288); Post-conviction orders in lieu of punishment (ss.401 to 403); Compensation and costs (ss.395 and 399); Modes of delivering judgment
+>> A criminal judgment must be reasoned and pronounced in open court. Courts may release offenders on probation instead of sentencing them, and must consider compensation to victims.
+
+## 8.1 Form and content (s.393 [354])
+- The judgment must be written in the language of the court; contain the points for determination, the decision and the reasons; specify the offence and section; and state the punishment. For an offence punishable with death or life imprisonment, the judgment must state the reasons for the sentence, and **special reasons** for a death sentence (s.393(3)).
+
+## 8.2 Summary trials (ss.283 to 288 [260 to 265])
+- Chief Judicial Magistrates and First Class Magistrates may try summarily offences not punishable with death, life imprisonment or imprisonment exceeding two years, and specified petty offences (such as theft of property up to ₹20,000, receiving stolen property, and house trespass). The Magistrate may also try summarily an offence punishable with up to three years, after hearing the accused (s.283(2), new).
+- The procedure of summons cases is followed, an abbreviated record is kept, and no sentence of imprisonment above three months can be passed.
+
+## 8.3 Post-conviction orders in lieu of punishment (ss.401 to 403 [360 to 362])
+- **Section 401 [360]**: the court may release on probation of good conduct, instead of sentencing: a person aged 21 or above convicted of an offence punishable with fine or up to seven years; a person under 21 or a woman convicted of an offence not punishable with death or life imprisonment, if there is no previous conviction. It may also release first offenders after admonition for minor offences.
+- **Section 402 [361]**: where the court could have dealt with the offender under s.401 or the Probation of Offenders Act and does not, it must record special reasons.
+- **Section 403 [362]**: once signed, a court shall not alter or review its judgment except to correct a clerical or arithmetical error.
+- **Emerging penal policy**: the BNS introduces **community service** as a punishment for certain petty offences (s.4(f) BNS), which marks a move towards reformative and restorative sentencing.
+
+## 8.4 Compensation and costs (ss.395 to 399 [357 to 358])
+- **Section 395 [357]**: the court may order payment of compensation to the victim from the fine, or even where fine is not part of the sentence.
+- **Section 396 [357A]**: State victim compensation schemes, administered by Legal Services Authorities, even where the offender is not traced or is acquitted.
+- **Section 397 [357C]**: free medical treatment for victims of acid attacks and rape by all hospitals.
+- **Section 399 [358]**: compensation to persons groundlessly arrested.
+
+CASE: Ankush Shivaji Gaikwad v State of Maharashtra (2013) :: The Supreme Court held that s.357 CrPC confers a power coupled with a duty: courts must apply their minds to the question of compensation in every criminal case and record reasons for awarding or refusing it.
+
+## 8.5 Modes of delivering judgment (s.392 [353])
+- The judgment must be pronounced in open court, by delivering the whole judgment, reading it out, or reading out the operative part and explaining its substance. A copy must be given free to the accused (s.404 [363]). Judgments may be uploaded on the court portal.
+
+* Judgment: points, decision, reasons; special reasons for death (s.393).
+* Summary trials: offences up to two years and petty offences; up to three years with hearing; no imprisonment above three months.
+* Probation (s.401); special reasons if probation is not given (s.402); no alteration after signing (s.403); community service (BNS).
+* Compensation: s.395 (a duty to consider: Ankush Gaikwad), victim compensation schemes (s.396), free treatment (s.397), groundless arrest (s.399).
+
+QL: Discuss the provisions relating to compensation to victims of crime under the BNSS.
+QL: Explain the procedure for summary trials.
+QL: When may an offender be released on probation instead of being sentenced?
+QS: Victim compensation scheme
+QS: Section 403 BNSS
+
+MCQ: Courts must consider compensation to victims in every case, as held in || Bachan Singh | *Ankush Shivaji Gaikwad v State of Maharashtra | Hussainara Khatoon | Manoj || 2013.
+MCQ: The maximum imprisonment that can be awarded in a summary trial is || six months | *three months | one year | two years || BNSS summary trial provisions.
+
+# 9 | Appeals and revision
+@topics No appeal in certain cases; Rationale of appeals, review and revision; Appellate remedies: Supreme Court, High Court, Sessions Court; Special right of appeal; Government appeals against sentence and acquittal; Powers of appellate court; Legal aid in appeals
+>> No appeal lies unless the law provides it. The BNSS gives appeals against conviction, against inadequate sentence and against acquittal, a victim's right of appeal, and revision to correct errors.
+
+## 9.1 No appeal in certain cases
+- **Section 413 [372]**: no appeal lies from any judgment or order except as provided by the BNSS or another law. The **victim** has a right to appeal against an acquittal, conviction for a lesser offence or inadequate compensation (proviso).
+- **Section 416 [375]**: no appeal where the accused pleads guilty and is convicted, except as to the extent or legality of the sentence.
+- **Section 417 [376]**: no appeal in petty cases, where only a short term of imprisonment or a small fine (as specified in the section) is imposed.
+
+CASE: Mallikarjun Kodagali v State of Karnataka (2018) :: A victim may appeal against acquittal under the proviso to s.372 CrPC without seeking leave of the High Court (unlike the State, which needs leave under s.378). The victim's right is a substantive, independent right.
+
+## 9.2 Rationale of appeals, review and revision
+- **Appeal**: correction of errors of fact and law by a higher court; a statutory right.
+- **Revision** (ss.438 to 445 [397 to 402]): the High Court and Sessions Court may call for records to satisfy themselves of the correctness, legality or propriety of any finding, sentence or order, and of the regularity of proceedings. Revision does not lie against interlocutory orders (s.438(2)).
+- **Review**: criminal courts cannot review their judgments (s.403), except the Supreme Court under Art. 137 and the High Court's inherent powers (s.528 [482]) in very limited cases.
+
+## 9.3 Appellate remedies
+- **Supreme Court**: appeals from the High Court where it reversed an acquittal and sentenced the accused to death, life imprisonment or ten years or more (s.420 [379]; and the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970); Arts. 132 and 134 (certificate or death on reversal of acquittal); Art. 136 (special leave).
+- **High Court** (s.415 [374]): appeals from Sessions trials and from convictions with sentences above seven years by a Sessions Judge.
+- **Sessions Court** (s.415(3) [374(3)]): appeals from Magistrates' convictions.
+- **Special right of appeal** (s.421 [380]): where one of several accused convicted in the same trial appeals, the others may appeal even if their sentences are otherwise not appealable.
+- **Government appeal against inadequate sentence** (s.418 [377]) and **against acquittal** (s.419 [378], with leave of the High Court).
+- **Powers of the appellate court** (s.427 [386]): to reverse, alter, order retrial, enhance sentence after notice, or remit.
+- **Legal aid in appeals**: the right to appeal includes the right to a copy of the judgment and free legal assistance (*M.H. Hoskot v State of Maharashtra*, 1978).
+
+CASE: M.H. Hoskot v State of Maharashtra (1978) :: The Court held that the right to appeal is part of fair procedure under Art. 21. The State must furnish a free copy of the judgment to a prisoner in time to appeal, and provide free legal services to a prisoner who cannot afford a lawyer.
+
+## 9.4 Recent judgments (2025–26)
+
+CASE: Mukesh Kumar Yadav v State (2026) :: An appellate court that reverses an acquittal must itself hear the accused on sentence.
+
+CASE: Surendra Koli v State of UP (2025) :: In the Nithari cases, the Supreme Court allowed a curative petition and acquitted the accused in the remaining case, after he had been acquitted in the others.
+
+* Appellate court reversing acquittal must hear on sentence (2026).
+* No appeal except as provided (s.413); victim's appeal without leave (Mallikarjun Kodagali).
+* No appeal on guilty plea (s.416) or in petty cases (s.417).
+* Appeal, revision (not against interlocutory orders) and limited review.
+* Appeals to the Supreme Court, High Court and Sessions Court; special right of appeal (s.421); State appeals (ss.418 and 419).
+* Appellate powers (s.427); free copy and legal aid (M.H. Hoskot).
+
+QL: Discuss the various appellate remedies available under the BNSS, including the victim's right of appeal.
+QL: Distinguish between appeal and revision. Can a criminal court review its judgment?
+QS: Appeal against acquittal
+QS: Special right of appeal
+QS: M.H. Hoskot v State of Maharashtra
+
+MCQ: A victim may appeal against acquittal without leave, as held in || M.H. Hoskot | *Mallikarjun Kodagali v State of Karnataka | Bachan Singh | Ankush Gaikwad || 2018.
+MCQ: Revision does not lie against || final orders | *interlocutory orders | convictions | acquittals || s.438(2) BNSS.
+
+# 10 | Probation, parole and juvenile justice
+@topics Problems and principles; Suspension of sentence; Parole; Authority granting parole; Supervision; Conditional release; Juvenile Justice Act: procedure, system, treatment and rehabilitation; Juveniles in adult crimes; Protection of juvenile offenders; Juvenile delinquency
+>> Reformative measures (probation, parole, remission, juvenile justice) aim to rehabilitate offenders and reintegrate them into society, rather than only punish them.
+
+## 10.1 Problems and principles
+- Short-term imprisonment can harden first offenders; prisons are overcrowded (most inmates are undertrials). Reformative theory favours individualised treatment and community-based correction.
+
+## 10.2 Probation of Offenders Act, 1958
+- **Section 3**: release after admonition for certain offences (such as theft and some others punishable up to two years).
+- **Section 4**: release on probation of good conduct, on a bond, with or without supervision by a probation officer, for an offence not punishable with death or life imprisonment, having regard to the circumstances, nature of the offence and character of the offender.
+- **Section 5**: compensation and costs to the victim.
+- **Section 6**: a person under 21 must not be sentenced to imprisonment unless the court records reasons after considering the probation officer's report.
+- **Section 12**: no disqualification attaches to a conviction where the offender is dealt with under ss.3 or 4.
+- Section 401 BNSS operates in States where the Probation of Offenders Act is not in force.
+
+CASE: Rattan Lal v State of Punjab (1964) :: The Supreme Court held that the beneficial provisions of the Probation of Offenders Act (s.6, restricting imprisonment of persons under 21) could be applied by an appellate court even to an offence committed before the Act came into force in the area, because the Act is reformative and favours the accused.
+
+## 10.3 Suspension of sentence; remission
+- Suspension pending appeal (s.430 BNSS). Executive powers: the President (Art. 72) and Governor (Art. 161) may pardon, reprieve, respite, remit or commute; the appropriate government may suspend or remit sentences (s.473 [432]) and commute sentences (s.474 [433]). Section 475 [433A] requires 14 years' actual imprisonment before release for life convicts in capital-eligible offences. Mercy petition timelines in death cases (s.472, new).
+
+## 10.4 Parole and furlough
+- **Parole**: temporary release for a specific reason (illness, death or marriage in the family), granted by the government or prison authority under State prison rules; the period may not count towards the sentence.
+- **Furlough**: a release as a matter of good conduct after a fixed period of imprisonment, to maintain family ties; it counts towards the sentence.
+- **Supervision**: the released person must report to the police or probation officer and observe conditions.
+
+CASE: Asfaq v State of Rajasthan (2017) :: The Court explained the difference between parole and furlough: parole is granted for a specific reason and may not count as part of the sentence, while furlough is given periodically as a matter of right (subject to conditions) to break the monotony of imprisonment and counts as part of the sentence. Parole should not be denied mechanically.
+
+## 10.5 Conditional release
+- Premature release by remission boards on the basis of conduct and assessment; conditions may be imposed and breach leads to re-arrest (s.473(3) and (4)).
+
+## 10.6 to 10.10 Juvenile justice
+### The system
+- **Juvenile Justice (Care and Protection of Children) Act, 2015** (amended 2021), in line with the UN Convention on the Rights of the Child, the Beijing Rules and the Riyadh Guidelines. It distinguishes a **child in conflict with law** (s.2(13)) from a **child in need of care and protection** (s.2(14)).
+- **Juvenile Justice Board** (JJB: a Principal Magistrate and two social workers, at least one a woman) deals with children in conflict with law; the **Child Welfare Committee** deals with children in need of care and protection.
+
+### Procedure
+- A child may not be placed in a police lock-up or jail. A child must be produced before the JJB within 24 hours. Bail is the norm (s.12) unless release would expose the child to danger or defeat the ends of justice. The inquiry must be completed within four months (extendable by two months).
+- **Orders** (s.18): advice or admonition, group counselling, community service, fine, probation, or placement in a special home for up to three years. No death sentence or life imprisonment without release (s.21). No disqualification (s.24).
+
+### Juveniles in adult crimes
+- For **heinous offences** (minimum punishment of seven years or more) committed by a child aged 16 to 18, the JJB conducts a **preliminary assessment** of the child's mental and physical capacity, ability to understand the consequences and circumstances (s.15), within three months. It may transfer the child to the **Children's Court** for trial as an adult. The child is kept in a place of safety until 21 and then reviewed.
+
+CASE: Shilpa Mittal v State (NCT of Delhi) (2020) :: An offence with a maximum punishment above seven years but no minimum, or a minimum below seven years, is not a "heinous offence" under the JJ Act. It is to be treated as a "serious offence", so the child cannot be tried as an adult for it.
+
+CASE: Barun Chandra Thakur v Master Bholu (2022) :: The preliminary assessment under s.15 is a delicate task that must be done by the JJB with the help of experienced psychologists. It is not a trial, but an assessment of whether the child should be tried as an adult. The Court directed guidelines for the assessment.
+
+### Treatment, rehabilitation and juvenile delinquency
+- Rehabilitation through individual care plans, education, vocational training, adoption, foster care and sponsorship. Records of the child are destroyed after the specified period (s.24(2)).
+- **Juvenile delinquency** results from poverty, family breakdown, peer pressure, substance abuse, and lack of education; the law treats children as in need of reform rather than as criminals. The 2015 Act's transfer system was prompted by public debate after the December 2012 Delhi gang rape.
+
+## 10.7 Recent judgments (2025–26)
+
+CASE: X4 v State of Bihar (2026) :: Murder is a 'heinous offence' under the Juvenile Justice Act. The Board's preliminary assessment must be based on expert material on the child's mental capacity, not on the gravity of the offence alone.
+
+* Preliminary assessment of juveniles must use expert material (X4, 2026).
+* Reformative principles; prison overcrowding.
+* Probation of Offenders Act: ss.3, 4, 6 and 12 (Rattan Lal); s.401 BNSS.
+* Suspension, remission and commutation (ss.472 to 475; Arts. 72 and 161).
+* Parole versus furlough (Asfaq); supervision; conditional release.
+* JJ Act 2015: JJB and CWC; bail is the norm; orders under s.18; no death or life without release; heinous offences and preliminary assessment for 16 to 18 (Shilpa Mittal; Barun Chandra Thakur).
+
+QL: Explain the main provisions of the Probation of Offenders Act, 1958. How does it reflect the reformative theory of punishment?
+QL: Distinguish between parole and furlough with reference to decided cases.
+QL: Discuss the procedure under the Juvenile Justice Act, 2015 for a child in conflict with law, including the trial of children aged 16 to 18 as adults.
+QS: Preliminary assessment under s.15 JJ Act
+QS: Juvenile Justice Board
+QS: Rattan Lal v State of Punjab
+
+MCQ: A "heinous offence" under the JJ Act means an offence with || maximum punishment above seven years | *minimum punishment of seven years or more | any imprisonment | death only || Shilpa Mittal (2020).
+MCQ: The distinction between parole and furlough was explained in || Rattan Lal | *Asfaq v State of Rajasthan | Barun Chandra Thakur | Hussainara Khatoon || 2017.
+MCQ: A person under 21 should not be sentenced to imprisonment without recorded reasons under || s.3 | *s.6 of the Probation of Offenders Act | s.12 | s.18 JJ Act || After considering the probation officer's report.

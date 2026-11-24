@@ -1,0 +1,222 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Sapinda relationship
+Under s.3(f) of the Hindu Marriage Act, 1955, sapinda relationship extends:
+- three generations upwards through the mother; and
+- five generations upwards through the father,
+counting the person concerned as the first generation. Two persons are sapindas if one is a lineal ascendant of the other within these limits, or they share such a common ascendant.
+A marriage between sapindas is void (s.11 read with s.5(v)), unless a custom governing both parties permits it. It is punishable under s.18.
+
+Q: Restitution of conjugal rights
+Under s.9 HMA, when one spouse has withdrawn from the society of the other without reasonable excuse, the aggrieved spouse may petition for a decree of restitution. The burden of proving reasonable excuse lies on the withdrawing spouse.
+- The constitutional validity of s.9 was upheld in *Saroj Rani v Sudarshan Kumar Chadha* (1984), rejecting *T. Sareetha* (AP HC, 1983).
+- Non-compliance with the decree for one year is a ground for divorce for either spouse (s.13(1A)(ii)).
+- A fresh challenge to the provision is pending in the Supreme Court.
+
+Q: Judicial separation
+Under s.10 HMA, either spouse may seek judicial separation on any ground available for divorce under s.13(1), and the wife also on the grounds in s.13(2).
+- Effect: the parties are no longer bound to cohabit, but the marriage subsists.
+- The court may rescind the decree if just and reasonable.
+- If cohabitation is not resumed for one year after the decree, either party may seek divorce (s.13(1A)(i)).
+
+Q: Iddat
+Iddat is the waiting period a Muslim woman must observe after the dissolution of marriage before she can remarry.
+- On divorce after consummation: three menstrual courses, or three lunar months.
+- On the husband's death: four months and ten days.
+- If she is pregnant: until delivery.
+- No iddat is needed if the marriage was not consummated (except on death).
+During iddat, the woman is entitled to maintenance, and marriage with another during iddat is irregular (fasid).
+
+Q: Talaq-ul-biddat
+Talaq-ul-biddat is the instant, irrevocable pronouncement of triple talaq in one sitting.
+- It was declared unconstitutional and void in *Shayara Bano v Union of India* (2017, 3:2). The majority held it manifestly arbitrary and not protected by the Shariat Act.
+- The Muslim Women (Protection of Rights on Marriage) Act, 2019 declares any pronouncement of talaq-ul-biddat void and illegal, and makes it a cognizable offence punishable with up to three years.
+- The wife is entitled to a subsistence allowance and to custody of minor children.
+
+Q: Mehr (dower)
+Mehr is a sum of money or property that the husband pays or promises to pay the wife in consideration of marriage. It is an essential incident of a Muslim marriage; if it is not fixed, a "proper" dower is implied.
+- Prompt dower is payable on demand. Deferred dower is payable on dissolution of the marriage by death or divorce.
+- The wife may refuse cohabitation until prompt dower is paid (*Abdul Kadir v Salima*, 1886).
+- A widow may retain her husband's property until her dower is paid (the right of retention).
+- Unpaid dower is a debt against the husband's estate.
+
+Q: Conditions for a valid adoption under the Hindu Adoptions and Maintenance Act, 1956
+- The adopter must have capacity:
+  - A male needs the consent of his wife (s.7).
+  - A female may adopt in her own right; a married woman needs her husband's consent (s.8, as amended in 2010).
+- The person giving the child must be competent: the father, the mother or a guardian (s.9).
+- The child must be:
+  - a Hindu;
+  - not already adopted;
+  - unmarried, unless custom permits; and
+  - under 15, unless custom permits (s.10).
+- Section 11 conditions:
+  - no Hindu son, grandson or great-grandson living when adopting a son;
+  - no Hindu daughter or son's daughter living when adopting a daughter;
+  - an age gap of 21 years for a child of the opposite sex.
+- There must be an actual giving and taking (s.11(vi)).
+- The adoption cannot be cancelled (s.15).
+
+Q: Objectives of the Family Courts Act, 1984
+- To set up specialised courts for speedy, conciliatory settlement of family disputes, such as matrimonial causes, property between spouses, legitimacy, guardianship and maintenance (s.7).
+- The court must first attempt settlement (s.9), using counsellors and social welfare agencies.
+- Legal practitioners appear only with the court's leave (s.13).
+- The court may follow its own procedure and receive any evidence that will help (ss.10 and 14).
+- Proceedings may be held in camera (s.11).
+- Appeals lie to the High Court (s.19).
+
+Q: Live-in relationships
+- There is no statute in general, but courts recognise long cohabitation as giving rise to a presumption of marriage (*Badri Prasad v Dy. Director*, 1978).
+- *Indra Sarma v V.K.V. Sarma* (2013) laid down guidelines on "relationship in the nature of marriage" under s.2(f) of the Protection of Women from Domestic Violence Act, 2005.
+- Children of such relationships are legitimate for inheritance of their parents' property (*Revanasiddappa*, 2023).
+- Cruelty under s.85 BNS covers a man in a live-in relationship in the nature of marriage (*Lokesh B.H. v State of Karnataka*, 2026).
+- The Uttarakhand UCC (2024) requires registration of live-in relationships.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the conditions of a valid Hindu marriage and the consequences of their violation.
+### Section 5 of the Hindu Marriage Act, 1955
+A marriage may be solemnised between any two Hindus if:
+1. **Monogamy:** neither party has a living spouse (s.5(i)).
+2. **Mental capacity** (s.5(ii)): neither party is incapable of giving valid consent due to unsoundness of mind, or suffers from a mental disorder making them unfit for marriage and procreation, or from recurrent insanity.
+3. **Age** (s.5(iii)): the bridegroom is 21 and the bride 18. Child marriages are also governed by the Prohibition of Child Marriage Act, 2006.
+4. **Not within degrees of prohibited relationship** (s.5(iv)), unless custom permits.
+5. **Not sapindas** (s.5(v)), unless custom permits.
+### Ceremonies (s.7)
+The marriage must be solemnised according to the customary rites of either party. Where saptapadi is part of the rites, the marriage becomes complete with the seventh step. Registration (s.8) is evidence of marriage, not a condition of validity. *Dolly Rani v Manish Kumar Kanchan* (2024): without valid ceremonies there is no Hindu marriage, and a certificate alone is not enough.
+### Consequences of violation
+| Condition violated | Effect | Punishment |
+| s.5(i) bigamy | Void (s.11) | ss.82 and 83 BNS [494, 495 IPC] (s.17 HMA) |
+| s.5(ii) mental capacity | Voidable (s.12) | None |
+| s.5(iii) age | Valid under HMA but voidable at the child's option under the PCMA (s.3); punishable | s.18 HMA; PCMA |
+| s.5(iv) prohibited degrees | Void (s.11) | s.18 HMA |
+| s.5(v) sapinda | Void (s.11) | s.18 HMA |
+| Consent obtained by force or fraud | Voidable (s.12(1)(c)) | None |
+| Pre-marriage pregnancy by another | Voidable (s.12(1)(d)) | None |
+### Children of void and voidable marriages
+Section 16 confers legitimacy on such children. *Revanasiddappa v Mallikarjun* (2023): they may inherit their parents' share in coparcenary property on notional partition, but not independently in the coparcenary.
+### Conclusion
+The Act modernised Hindu marriage through monogamy, age limits and limited prohibited degrees, with a clear scheme of void and voidable marriages.
+
+Q: Explain the grounds of divorce under the Hindu Marriage Act. Is irretrievable breakdown of marriage a ground of divorce in India?
+### Fault grounds (s.13(1))
+Available to either spouse:
+- adultery after the marriage;
+- cruelty, physical or mental (*Dastane v Dastane*, 1975; *Samar Ghosh v Jaya Ghosh*, 2007, which gave illustrations; *V. Bhagat v D. Bhagat*, 1994);
+- desertion for two years without reasonable cause and against the will of the other spouse (*Bipinchandra v Prabhavati*, 1957: animus deserendi);
+- conversion to another religion;
+- incurable unsoundness of mind or mental disorder;
+- virulent and incurable leprosy (this ground was deleted in 2019);
+- venereal disease in a communicable form;
+- renunciation of the world; and
+- not heard of as alive for seven years.
+A wife's career choices are not cruelty (*Ann Saurabh Dutt*, 2026).
+### Breakdown grounds (s.13(1A))
+- No resumption of cohabitation for one year after a decree of judicial separation.
+- No restitution for one year after a decree of restitution of conjugal rights.
+### Wife's special grounds (s.13(2))
+- the husband's bigamy before the Act;
+- rape, sodomy or bestiality;
+- a decree or order for maintenance followed by no cohabitation for one year; and
+- a marriage before age 15, repudiated before 18.
+### Divorce by mutual consent (s.13B)
+- After one year of separation, a joint petition is filed, followed by a second motion after six months.
+- The cooling period can be waived (*Amardeep Singh v Harveen Kaur*, 2017).
+- Under s.14, no petition may be filed within one year of marriage, except in cases of exceptional hardship or depravity.
+### Irretrievable breakdown
+- It is not a statutory ground. The Law Commission (71st and 217th Reports) recommended adding it.
+- *Shilpa Sailesh v Varun Sreenivasan* (2023, Constitution Bench): the Supreme Court may dissolve a marriage on irretrievable breakdown under Art. 142 to do complete justice. This can be done even if one party opposes, and the six-month period can be waived.
+- High Courts and family courts cannot grant divorce on this ground.
+- It has been applied in cases such as *Gopalakrishna Surapaneni* (2026).
+- A foreign divorce decree on a ground unknown to the HMA is not valid in India (*Kishorekumar Kale*, 2026; *Y. Narasimha Rao v Y. Venkata Lakshmi*, 1991).
+### Conclusion
+Indian law has moved from fault to mutual consent. Irretrievable breakdown is available only through the Supreme Court under Art. 142, pending legislative reform.
+
+Q: Discuss the right of a wife to maintenance under different laws in India.
+### Section 144 BNSS [125 CrPC]
+A secular remedy available to all religions. A wife unable to maintain herself, including a divorced wife who has not remarried, may claim maintenance from a husband with sufficient means who neglects or refuses to maintain her.
+- There is no ceiling on the amount.
+- Interim maintenance is available.
+- A wife living in adultery, or refusing to live with her husband without sufficient reason, is disentitled.
+- *Rajnesh v Neha* (2020): guidelines on affidavits of assets and liabilities, and on avoiding overlapping awards.
+### Hindu law
+- **HMA ss.24 and 25:** maintenance pendente lite and permanent alimony for either spouse.
+- **HAMA s.18:** a Hindu wife's right to maintenance during the marriage, and to live separately without losing it on grounds such as cruelty, desertion or bigamy.
+- **HAMA ss.19 to 22:** maintenance of a widowed daughter-in-law and of dependants. A widowed daughter-in-law is a dependant (*Kanchana Rai v Geeta Sharma*, 2026).
+### Muslim law
+- **Personal law:** maintenance during the marriage and during iddat.
+- *Mohd Ahmed Khan v Shah Bano Begum* (1985) held s.125 CrPC applicable to divorced Muslim women. Parliament responded with the Muslim Women (Protection of Rights on Divorce) Act, 1986.
+- *Danial Latifi v Union of India* (2001): a "reasonable and fair provision" must be made within the iddat period, covering the woman's future.
+- *Mohd Abdul Samad v State of Telangana* (2024): a divorced Muslim woman can still claim under s.125 CrPC (now s.144 BNSS); the 1986 Act does not exclude it.
+### Other laws
+- Protection of Women from Domestic Violence Act, 2005 (s.20): monetary relief.
+- Special Marriage Act (ss.36 and 37).
+- Indian Divorce Act.
+- Parsi Marriage and Divorce Act.
+### Judicial trends
+- Maintenance should allow the wife to live with dignity, in a standard comparable to the matrimonial home.
+- A working mother's income does not halve the father's duty to maintain the children (*Sujata Kumari*, 2026).
+- Employers can be directed to deduct maintenance from the husband's salary (*D v N*, 2026).
+### Conclusion
+Maintenance is a measure of social justice. Section 144 BNSS provides a common secular floor across religions.
+
+Q: Discuss the constitutional mandate of a Uniform Civil Code and the developments towards it.
+### Article 44
+The State shall endeavour to secure for citizens a uniform civil code throughout the territory of India. It is a non-justiciable Directive Principle.
+### Arguments
+- **For:** equality and gender justice (Arts. 14 and 15), national integration, secularism, and simplification.
+- **Against:** religious freedom (Arts. 25 and 26), the cultural rights of minorities (Art. 29), diversity, and the risk of imposing majority norms. The Law Commission (21st, 2018) said a UCC was "neither necessary nor desirable" at that stage, and favoured reform within each personal law. The 22nd Law Commission sought fresh views in 2023.
+### Judicial observations
+- *Shah Bano* (1985): regret that Art. 44 remained a dead letter.
+- *Sarla Mudgal v Union of India* (1995): conversion to Islam to remarry; the second marriage is void and bigamy is punishable. The Court urged a UCC.
+- *John Vallamattom v Union of India* (2003) and *Jose Paulo Coutinho* (2019) cited Goa as an example of a uniform code.
+- The Court has stated that it cannot direct Parliament to enact a UCC (*Pannalal Bansilal Pitti*, 1996; *Ahmedabad Women Action Group*, 1997).
+### Existing uniform laws
+- the Special Marriage Act, 1954;
+- s.144 BNSS;
+- the Protection of Women from Domestic Violence Act, 2005;
+- the Prohibition of Child Marriage Act, 2006;
+- the Juvenile Justice Act, 2015 (adoption); and
+- the Goa Civil Code.
+### State initiative
+The Uniform Civil Code of Uttarakhand Act, 2024, in force from 27 January 2025, is the first post-independence State code. It:
+- applies to all residents except Scheduled Tribes;
+- prohibits polygamy and halala;
+- prescribes common grounds of divorce and equal inheritance; and
+- requires registration of marriages and live-in relationships.
+### Conclusion
+A UCC remains a goal. It is best achieved gradually and by consensus, through gender-just reform of personal laws and optional uniform laws.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: H, a Hindu, is married to W under the Hindu Marriage Act. H converts to Islam and marries M, without divorcing W. W seeks your advice.
+**Issue:** Is H's second marriage valid, and what are W's remedies?
+**Law:**
+- A Hindu marriage can be dissolved only on grounds under the HMA. Conversion by one spouse does not dissolve it (s.13(1)(ii) gives the other spouse a ground for divorce).
+- *Sarla Mudgal v Union of India* (1995) and *Lily Thomas v Union of India* (2000): a second marriage after conversion, without dissolving the first, is void, and the husband is guilty of bigamy under s.82 BNS [494 IPC].
+**Application:** H's Hindu marriage with W subsists. His marriage with M is void, and he is liable for bigamy.
+**Conclusion:**
+- W may file a criminal complaint for bigamy (s.82 BNS), seek divorce on the ground of conversion (s.13(1)(ii)), or seek a declaration that the second marriage is void.
+- She may claim maintenance (s.144 BNSS; s.18 HAMA) and relief under the Domestic Violence Act.
+
+Q: A Muslim husband divorces his wife by talaq. After iddat, she applies for maintenance under section 144 BNSS. The husband argues that only the Muslim Women (Protection of Rights on Divorce) Act, 1986 applies. Decide.
+**Issue:** Can a divorced Muslim woman claim maintenance under s.144 BNSS?
+**Law:**
+- *Danial Latifi* (2001) upheld the 1986 Act, reading it to require a fair provision for the woman's future.
+- *Mohd Abdul Samad v State of Telangana* (2024): s.125 CrPC (now s.144 BNSS) is a secular provision available to all women. The 1986 Act does not displace it, and the remedies are cumulative, subject to adjustment of amounts.
+**Application:** The divorced wife who has not remarried and cannot maintain herself may claim under s.144 BNSS.
+**Conclusion:** Her application is maintainable. The husband's objection fails, though any amount paid under the 1986 Act can be taken into account.
+
+Q: A Hindu husband files for divorce on the ground of cruelty only eight months after the marriage. Advise him on maintainability.
+**Issue:** Can a divorce petition be presented within one year of marriage?
+**Law:** Under s.14 HMA, no petition for divorce may be presented within one year of the marriage. The court may allow it, on application, if there is exceptional hardship to the petitioner or exceptional depravity of the respondent. A decree in such a case may take effect only after one year. Mutual consent under s.13B also needs one year of separation, though courts have treated that requirement flexibly.
+**Application:** The marriage is eight months old. Unless the husband shows exceptional hardship or depravity and obtains leave, the petition is premature.
+**Conclusion:** The petition will be returned or dismissed as premature, without prejudice to a fresh petition after one year. Meanwhile, he may seek judicial separation (s.10), which is not barred by s.14.
+
+Q: A Hindu couple has a biological daughter. They wish to adopt a girl from an orphanage. Advise them.
+**Issue:** Can a Hindu with a living Hindu daughter adopt a daughter?
+**Law:**
+- Under s.11(ii) HAMA, if a daughter is being adopted, the adoptive parent must not have a Hindu daughter or son's daughter living at the time of adoption.
+- The Juvenile Justice (Care and Protection of Children) Act, 2015 (ss.56 to 58) allows adoption by any prospective parents, irrespective of religion or the number of biological children, through CARA, subject to its rules.
+**Application:** Adoption under HAMA is barred because their daughter is living. Adoption under the JJ Act is open to them.
+**Conclusion:** They should register with CARA and adopt under the JJ Act and the Adoption Regulations. The adopted child will have the rights of a biological child (s.63, JJ Act).

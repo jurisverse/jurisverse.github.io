@@ -1,0 +1,614 @@
+@title Bail and Bail Conditions
+@subtitle A practical guide for young lawyers under the BNSS: kinds of bail, where to apply, how to argue, conditions, sureties, cancellation and special statutes
+@paper Companion
+@sem Practice guide
+@color #7a2e2e
+@dark #5e2323
+@marks1 Main provisions :: ss.478 to 496, 187(3), 430 and 482 BNSS
+@marks2 Read with :: Law of Crimes – II (BNSS) book, Units 2 and 4
+@intro Bail is the first and most frequent work a young criminal lawyer does, and the client's liberty depends on it. This guide covers the law of bail under the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), with the old CrPC numbers in brackets, and the practice: which court to approach, what to file, how to argue, which conditions are lawful, how to get the client out of jail after the order, and how bail is cancelled. Leading and recent Supreme Court decisions up to November 2026 are included. Always check the current position before relying on a point in court.
+@reading Bharatiya Nagarik Suraksha Sanhita, 2023 (bare act), Chapter XXXV
+@reading Ratanlal and Dhirajlal, The Code of Criminal Procedure (latest edition, with BNSS)
+@reading Sarkar, The Law of Criminal Procedure
+@reading Satender Kumar Antil v CBI, (2022) 10 SCC 51 (read the whole judgment)
+@reading NALSA, Standard Operating Procedure on undertrial review and legal aid at remand
+
+# 1 | Bail: meaning, purpose and kinds
+@topics Meaning of bail; constitutional basis; presumption of innocence; kinds of bail; BNSS provisions and CrPC equivalents
+>> Bail is release from custody on a promise, backed by security, to appear when required. It protects liberty under Article 21 while securing the accused's presence at trial. "Bail is the rule and jail the exception."
+
+## 1.1 Meaning
+The BNSS, for the first time, defines the key terms (s.2(1)):
+- **Bail:** release of a person accused of or suspected of an offence from the custody of the law, on conditions imposed by an officer or court, on execution of a bond or bail bond.
+- **Bail bond:** an undertaking for release with surety.
+- **Bond:** a personal bond or undertaking for release without surety.
+
+## 1.2 Why bail matters
+- **Article 21:** personal liberty can be taken away only by fair, just and reasonable procedure.
+- **Presumption of innocence:** an undertrial is not a convict. Detention before trial is not meant to punish.
+- **Practical reality:** most prisoners in India are undertrials, many held for long periods because they cannot afford sureties.
+- **Leading statements:** "the basic rule may perhaps be tersely put as bail, not jail" (*State of Rajasthan v Balchand*, 1977). Personal liberty deprived through refusal of bail is too precious a value to be dealt with casually (*Gudikanti Narasimhulu v Public Prosecutor*, 1978, an Andhra Pradesh case).
+
+## 1.3 Kinds of bail
+| Kind | When | Provision |
+| Bail in bailable offence | As of right | s.478 BNSS [436 CrPC] |
+| Regular bail in non-bailable offence | After arrest, at the court's discretion | ss.480 and 483 BNSS [437, 439] |
+| Anticipatory bail | Before arrest, on apprehension of arrest | s.482 BNSS [438] |
+| Interim bail | Temporary, pending decision of the main application | Inherent in ss.482 and 483 |
+| Default (statutory) bail | Charge-sheet not filed in 60 or 90 days | s.187(3) BNSS [167(2)] |
+| Release of undertrials | Half (one-third for first offenders) of maximum sentence served | s.479 BNSS [436A] |
+| Bail pending appeal (suspension of sentence) | After conviction, during appeal | s.430 BNSS [389] |
+| Bond for appearance before the appellate court | At the end of trial | s.481 BNSS [437A] |
+
+## 1.4 Bailable and non-bailable offences
+- The First Schedule to the BNSS classifies each BNS offence as bailable or non-bailable, and cognizable or non-cognizable. Special Acts state the classification, or the Schedule's Part II applies by punishment.
+- **Part II general rule:** offences punishable with imprisonment of three years or more are cognizable and non-bailable. Offences punishable with less than three years, or only with fine, are non-cognizable and bailable.
+- Always check the Schedule for the exact offence in the FIR. Many applications fail because counsel argued the wrong category.
+
+TIP: Before drafting anything, write down for each section in the FIR: the punishment, whether it is bailable, which court tries it, and whether a special statute applies. This decides everything that follows.
+
+* Bail, bail bond and bond are defined in s.2(1) BNSS.
+* Liberty (Art. 21) and the presumption of innocence: "bail, not jail" (Balchand; Gudikanti Narasimhulu).
+* Kinds: bailable, regular, anticipatory, interim, default, undertrial release, pending appeal.
+* Check the First Schedule for each section before arguing.
+
+QL: Explain the meaning of bail and its kinds under the BNSS, with reference to Article 21.
+QS: Bail, bail bond and bond under the BNSS
+QS: "Bail, not jail"
+
+MCQ: Anticipatory bail is now provided in || s.478 BNSS | s.480 BNSS | *s.482 BNSS | s.483 BNSS || CrPC s.438.
+MCQ: "The basic rule may perhaps be tersely put as bail, not jail" was said in || Gudikanti Narasimhulu | *State of Rajasthan v Balchand | Satender Kumar Antil | Moti Ram || 1977, Krishna Iyer J.
+
+# 2 | Arrest, first production and remand
+@topics When the police may arrest; notice of appearance; grounds of arrest; production within 24 hours; opposing remand; legal aid at remand
+>> The best bail argument often starts at the first production. An arrest made without legal grounds, or without written grounds, or a mechanical remand, can be challenged at once.
+
+## 2.1 Arrest only when necessary
+- For offences punishable with up to seven years, the police may arrest without warrant only if the conditions in s.35(1)(b) BNSS [41(1)(b) CrPC] are met, and must record reasons. These conditions are to prevent further offences, for proper investigation, to prevent tampering, to prevent inducement of witnesses, or to secure presence. Otherwise, a notice of appearance must issue (s.35(3) [41A]).
+- *Arnesh Kumar v State of Bihar* (2014): police officers must not arrest mechanically; Magistrates must not authorise detention without checking compliance.
+- *Satender Kumar Antil v CBI* (2022, and the follow-up order of 2026): non-compliance with s.41 and s.41A [now s.35] entitles the accused to bail. Notice of appearance is the rule for offences up to seven years.
+- Arresting a person who is infirm or above 60, for an offence punishable with less than three years, requires the prior permission of an officer of the rank of DSP or above (s.35(7)).
+- An accused who has joined the investigation need not be arrested merely because a charge-sheet is filed (*Siddharth v State of UP*, 2021).
+
+## 2.2 Grounds of arrest
+- Art. 22(1) and s.47 BNSS [50 CrPC] require the arrested person to be informed of the grounds of arrest. In bailable offences, he must also be told of his right to bail.
+- *Pankaj Bansal* (2023) and *Prabir Purkayastha* (2024): grounds must be given in writing.
+- *Vihaan Kumar v State of Haryana* (2025): failure to inform the grounds makes the arrest illegal.
+- *Mihir Rajesh Shah v State of Maharashtra* (2025): written grounds, in a language the person understands, are mandatory for every offence. If they are not given at the time of arrest, they must be supplied at least two hours before production for remand. Otherwise, the arrest and remand are illegal.
+
+## 2.3 First production and remand
+- The arrested person must be produced before the nearest Magistrate within 24 hours, excluding travel time (s.58 BNSS [57]; Art. 22(2)).
+- Remand is authorised under s.187 BNSS [167 CrPC]. Police custody may be authorised for up to 15 days in total, in parts. For offences in the 90-day category (death, life imprisonment or ten years or more), this may be at any time within the first 60 days; for other offences, within the first 40 days.
+- The Magistrate must apply his mind to the remand report, the case diary entries and the need for custody. Remand is not a formality.
+
+## 2.4 What to do at the first production
+1. Ask the client when and where he was arrested, and whether he received written grounds. Note the time of production.
+2. Check the arrest memo, the s.48 intimation to a relative, and the medical examination.
+3. Read the remand report and the FIR; check whether the offence is bailable and whether s.35 was complied with.
+4. Oppose police custody where it is not justified, and point out any illegality in the arrest.
+5. Apply for bail immediately if the offence is bailable or the arrest is illegal. In other cases, apply before the Magistrate (s.480) where the Magistrate has power, or prepare to move the Sessions Court.
+6. If the client cannot afford a lawyer, the remand advocate and the Legal Aid Defence Counsel system under NALSA are available (Art. 39A; s.341 BNSS).
+
+* Arrest only when the s.35 conditions are met; notice of appearance is the rule for offences up to seven years (Arnesh Kumar; Antil).
+* Written grounds of arrest for every offence, at least two hours before remand (Mihir Rajesh Shah, 2025).
+* Production within 24 hours; remand is not a formality.
+* Opposing remand and pointing out illegal arrest is the first bail argument.
+
+QL: What safeguards must be observed at arrest and first production? How can defence counsel use them to secure release?
+QS: Notice of appearance under s.35(3) BNSS
+QS: Written grounds of arrest
+
+MCQ: Under Mihir Rajesh Shah (2025), written grounds of arrest must, if not given at arrest, be supplied || within 24 hours | *at least two hours before production for remand | before the charge-sheet | at the first bail hearing || Otherwise the arrest and remand are illegal.
+MCQ: For offences punishable up to seven years, the rule under the BNSS and Antil is || immediate arrest | *a notice of appearance unless arrest conditions are met | anticipatory bail is barred | custody for 15 days || s.35(3) BNSS [41A CrPC].
+
+# 3 | Bail in bailable offences and release of undertrials
+@topics Right to bail in bailable offences; indigent accused; personal bond; release of undertrials under s.479
+>> In a bailable offence, bail is a right, and the police or court must grant it. An undertrial who has served half the maximum sentence, or one-third if a first offender, must ordinarily be released.
+
+## 3.1 Bail as of right (s.478 BNSS [436 CrPC])
+- A person accused of a bailable offence, arrested or appearing without warrant, shall be released on bail if he is prepared to give bail. The police officer in charge of the station or the court must grant it.
+- **Indigent accused:** if the person cannot furnish bail within a week of arrest, he is presumed indigent and is released on a personal bond without sureties (proviso to s.478(1)).
+- The court cannot impose conditions beyond securing appearance, and cannot refuse bail on merits.
+- If the person later fails to comply with the bond, the court may refuse bail in a later appearance in the same case (s.478(2)).
+
+## 3.2 Excessive bail amount
+- The amount of bail must be fixed with due regard to the circumstances and must not be excessive (s.484 BNSS [440]).
+- *Moti Ram v State of MP* (1978): fixing surety amounts beyond the accused's means denies bail in effect. The court may release on personal bond, and should not insist on local sureties.
+
+## 3.3 Release of undertrials (s.479 BNSS [436A CrPC])
+- An undertrial who has been detained for half of the maximum period of imprisonment for the offence must be released on bond, with or without sureties.
+- A **first-time offender** must be released after one-third of the maximum.
+- Not available where the offence is punishable with death or life imprisonment, or where more than one case is pending.
+- The jail superintendent must apply to the court when the period is completed (s.479(3)).
+- The Supreme Court applied s.479 to undertrials in pending cases and directed jail authorities to process applications (*In re Inhuman Conditions in 1382 Prisons*, 2024).
+
+* Bailable offence: bail is a right (s.478); indigent accused on personal bond after one week.
+* Amount must not be excessive (s.484; Moti Ram).
+* s.479: release after half, or one-third for first offenders; not for death or life offences.
+
+QL: Explain the right to bail in bailable offences and the provisions for release of undertrial prisoners under the BNSS.
+QS: Indigent accused and personal bond
+QS: Section 479 BNSS
+
+MCQ: Under s.479 BNSS, a first-time offender must be released after serving || half of the maximum | *one-third of the maximum | two-thirds of the maximum | 90 days || Not for offences punishable with death or life imprisonment.
+MCQ: An accused in a bailable offence who cannot furnish bail within a week of arrest || stays in custody | *is presumed indigent and released on personal bond | must apply to the High Court | must deposit cash || Proviso to s.478(1) BNSS.
+
+# 4 | Regular bail in non-bailable offences
+@topics Powers of the Magistrate and of the Sessions Court and High Court; factors for granting bail; Antil categories; economic offences; parity; successive applications; time limits
+>> In non-bailable offences, bail is discretionary but the discretion must be exercised judicially, weighing the nature of the accusation, the evidence, the risk of absconding or tampering, and the time already spent in custody.
+
+## 4.1 Which court?
+- **Magistrate (s.480 BNSS [437]):** may grant bail in non-bailable offences, except where there are reasonable grounds for believing the accused guilty of an offence punishable with death or life imprisonment, or where the accused has certain previous convictions. The proviso allows bail even then to:
+  - a person under 16;
+  - a woman; or
+  - a sick or infirm person.
+- **Sessions Court and High Court (s.483 [439]):** wider power in any case, including offences punishable with death or life. Notice to the Public Prosecutor is required in offences triable exclusively by the Court of Session or punishable with life imprisonment. The informant must be heard in bail hearings for specified sexual offences against girls.
+- **Concurrent jurisdiction:** the Sessions Court and High Court both have power, but practice and courtesy require approaching the Sessions Court first, except in special circumstances. Explain in the High Court why you came directly, if you do.
+
+## 4.2 Factors (*Prasanta Kumar Sarkar v Ashis Chatterjee*, 2010)
+1. whether there is a prima facie case or reasonable ground to believe the accused committed the offence;
+2. the nature and gravity of the accusation;
+3. the severity of the punishment on conviction;
+4. the danger of the accused absconding;
+5. the character, behaviour, means, position and standing of the accused;
+6. the likelihood of the offence being repeated;
+7. the reasonable apprehension of witnesses being influenced; and
+8. the danger of justice being thwarted.
+The court must not hold a mini-trial or record findings on the merits; it should give brief reasons.
+
+## 4.3 The Antil categories
+*Satender Kumar Antil v CBI* (2022) grouped offences to guide bail courts:
+| Category | Offences | Approach |
+| A | Punishable up to seven years, not in B or D | Summons or warrant; bail on appearance, without taking into custody |
+| B | Punishable with death, life or more than seven years | Bail on merits, after appearance |
+| C | Special Acts with stringent bail conditions (NDPS s.37, UAPA s.43D(5), PMLA s.45, Companies Act s.212(6)) | Merits, subject to the special conditions |
+| D | Economic offences not covered by special Acts | Merits; gravity alone is not enough |
+The Court also directed that bail applications be decided within two weeks, and anticipatory bail applications within six weeks, except where a statute provides otherwise.
+
+## 4.4 Economic offences
+- Economic offences are grave, but the gravity of the offence alone is no ground to refuse bail where the investigation is complete and the accused has cooperated (*Sanjay Chandra v CBI*, 2012; *P. Chidambaram v Directorate of Enforcement*, 2019).
+- The object of bail is to secure presence, not to punish.
+
+## 4.5 Parity and change of circumstances
+- **Parity:** where a co-accused with a similar role has been granted bail, the applicant may claim parity. Parity is not automatic; the role and antecedents of each accused must be similar.
+- **Successive applications:** permissible on a change of circumstances, such as filing of the charge-sheet, long custody, illness or delay in trial. As far as possible, they should go before the same judge who rejected the earlier application (*State of Maharashtra v Captain Buddhikota Subha Rao*, 1989).
+- **Disclosure:** every bail application must disclose the outcome of earlier applications in the same case. Concealment is a ground for rejection and costs (*Kusha Duruka v State of Odisha*, 2024).
+
+## 4.6 Long custody and delay
+- Prolonged incarceration without trial is itself a ground for bail, because it violates the right to a speedy trial (Art. 21; *Hussainara Khatoon*, 1979; *Union of India v K.A. Najeeb*, 2021).
+- Speedy-trial violation was again treated as a ground for bail in *Sahil Manoj Machare* (2026).
+
+DRAFT: Regular bail application under section 483 BNSS (Sessions Court)
+IN THE COURT OF THE PRINCIPAL SESSIONS JUDGE, NELLORE
+
+Crl. M.P. No. ... of 2026
+(Arising out of Crime No. ... of 2026 of ... Police Station)
+
+A. Ravi, S/o ..., aged ... years, residing at ..., Nellore (now in judicial custody at District Jail, Nellore)   ...Petitioner/Accused No. 1
+Versus
+State of Andhra Pradesh, represented by the Public Prosecutor   ...Respondent
+
+PETITION UNDER SECTION 483 OF THE BHARATIYA NAGARIK SURAKSHA SANHITA, 2023 FOR GRANT OF REGULAR BAIL
+
+The petitioner respectfully submits:
+
+1. The petitioner is Accused No. 1 in Crime No. ... registered under sections 318(4) and 316(2) of the Bharatiya Nyaya Sanhita, 2023. He was arrested on ... and has been in judicial custody since ... (... days).
+
+2. Previous applications: The petitioner's bail application in Crl. M.P. No. ... was dismissed by the learned Judicial Magistrate of First Class, Nellore on ... No other application is pending before any court.
+
+3. Grounds:
+   (a) The petitioner is innocent and has been falsely implicated in a civil dispute over a land transaction.
+   (b) The offences are punishable with imprisonment of up to seven years. Notice under section 35(3) BNSS was not issued before arrest (Satender Kumar Antil v CBI, (2022) 10 SCC 51).
+   (c) The investigation is substantially complete. The documents relied on are already seized, so there is no possibility of tampering.
+   (d) The petitioner is a permanent resident of Nellore, with a family and a business, and there is no risk of his absconding.
+   (e) The petitioner has no criminal antecedents.
+   (f) Co-accused No. 2, with a similar role, was granted bail on ... (parity).
+   (g) The petitioner undertakes to abide by any conditions this Court imposes.
+
+4. Prayer: The petitioner prays that this Court may enlarge him on bail on such conditions as it deems fit, and pass such other order as is just.
+
+Place: Nellore
+Date: ...                                   Counsel for the Petitioner
+
+(Accompanied by: certified copies of the FIR, the remand report, the order rejecting bail, and an affidavit of the petitioner's relative verifying the facts.)
+END
+
+* Magistrate (s.480) limited for death or life offences, with provisos for women, children and the sick; Sessions and High Court (s.483) wider.
+* Approach Sessions Court first; notice to the PP; victim to be heard in specified offences.
+* Prasanta Kumar Sarkar factors; no mini-trial; brief reasons.
+* Antil categories A to D; decide bail in two weeks, anticipatory bail in six weeks.
+* Economic offences: gravity alone is not enough (Sanjay Chandra).
+* Parity; successive applications on change of circumstances; disclose earlier applications (Kusha Duruka, 2024).
+* Long custody and delay are grounds for bail (Najeeb).
+
+QL: Explain the factors a court considers when granting bail in a non-bailable offence, with reference to Prasanta Kumar Sarkar and Satender Kumar Antil.
+QL: Compare the bail powers of a Magistrate and of the Court of Session and High Court under the BNSS.
+QS: Parity in bail
+QS: Successive bail applications
+QS: Antil categories
+
+MCQ: Concealing the rejection of an earlier bail application was condemned in || Moti Ram | *Kusha Duruka v State of Odisha | Sanjay Chandra | Siddharth || 2024.
+MCQ: In Antil (2022), economic offences not covered by special Acts fall in || Category A | Category B | Category C | *Category D || Gravity alone is not a ground to refuse bail.
+MCQ: A Magistrate may grant bail in an offence punishable with life imprisonment to || any accused | *a woman, a person under 16 or a sick or infirm person, under the proviso | only a first offender | nobody in any case || Proviso to s.480(1) BNSS.
+
+# 5 | Anticipatory bail
+@topics Who may apply and where; conditions under s.482(2); duration; exclusions; interim and transit anticipatory bail; recent rulings
+>> Anticipatory bail protects a person from humiliation and harassment through arrest, where there is reason to believe he may be arrested for a non-bailable offence. It is a direction that, if arrested, he shall be released on bail.
+
+## 5.1 Who, when and where
+- Any person with reason to believe that he may be arrested on an accusation of a non-bailable offence may apply to the High Court or the Court of Session (s.482 BNSS [438 CrPC]).
+- An FIR need not have been registered, but the apprehension must be based on concrete facts, not vague fear (*Gurbaksh Singh Sibbia v State of Punjab*, 1980).
+- It cannot be sought after arrest; then regular bail is the remedy.
+
+## 5.2 Conditions (s.482(2))
+The court may impose conditions, including that the applicant:
+1. makes himself available for interrogation by the police as and when required;
+2. does not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts;
+3. does not leave India without the court's permission; and
+4. any other condition that could be imposed under s.480(3).
+
+## 5.3 Duration
+- *Sushila Aggarwal v State (NCT of Delhi)* (2020, five judges): anticipatory bail need not be limited in time. It can continue until the end of the trial, unless the court restricts it for specific reasons. It does not end when the charge-sheet is filed or the court summons the accused.
+- *Sumit v State of UP* (2026): anticipatory bail ordinarily continues without a fixed expiry date.
+
+## 5.4 Exclusions and restrictions
+- **Rape of a woman under 18:** anticipatory bail is not available for offences under s.65 and s.70(2) BNS (s.482(4) BNSS).
+- **SC/ST (Prevention of Atrocities) Act, 1989, s.18:** anticipatory bail is barred, but courts may grant it where no prima facie case under the Act is made out on the face of the complaint (*Prathvi Raj Chauhan v Union of India*, 2020).
+- **Antecedents:** criminal antecedents can justify refusal (*Sharad Sehgal*, 2026).
+- **No direction to surrender:** a High Court that rejects anticipatory bail cannot direct the applicant to surrender (*Om Prakash Chhawnika*, 2026).
+
+## 5.5 Interim and transit anticipatory bail
+- Courts grant interim protection while an anticipatory bail application is pending, often with a direction to cooperate with the investigation.
+- **Transit anticipatory bail:** where the FIR is registered in another State, a Sessions Court or High Court where the applicant lives may grant limited interim protection to enable him to approach the competent court. It must record reasons and hear the investigating agency where possible (*Priya Indoria v State of Karnataka*, 2023).
+
+DRAFT: Anticipatory bail petition: grounds and prayer (extract)
+GROUNDS
+
+(a) The petitioner apprehends arrest in Crime No. ... registered under section 318(4) BNS on a complaint by a business rival, filed after the petitioner sued him for recovery of ₹12 lakh (O.S. No. ... of 2026).
+
+(b) The dispute is essentially civil and commercial. The complaint is an attempt to pressure the petitioner into withdrawing the suit.
+
+(c) The petitioner is a permanent resident of Nellore with no criminal antecedents, and will cooperate with the investigation.
+
+(d) The documents relied on are bank records already in the possession of the investigating officer, so custodial interrogation is not required.
+
+(e) The petitioner undertakes to abide by all conditions under section 482(2) BNSS.
+
+PRAYER
+
+It is prayed that this Court may direct that, in the event of the petitioner's arrest in Crime No. ..., he be released on bail on such conditions as this Court deems fit, and grant interim protection pending disposal of this petition.
+END
+
+* s.482: apprehension based on concrete facts (Gurbaksh Singh Sibbia); High Court or Sessions Court.
+* Conditions: available for interrogation, no influence on witnesses, not leave India.
+* No fixed time limit (Sushila Aggarwal, 2020; Sumit, 2026).
+* Barred: rape of a girl under 18 (s.482(4)); SC/ST Act s.18 subject to prima facie exception.
+* Interim and transit anticipatory bail (Priya Indoria, 2023).
+
+QL: Explain the law of anticipatory bail under the BNSS, with reference to Gurbaksh Singh Sibbia and Sushila Aggarwal.
+QS: Transit anticipatory bail
+QS: Section 18 of the SC/ST (Prevention of Atrocities) Act and anticipatory bail
+QS: Conditions of anticipatory bail
+
+MCQ: Anticipatory bail need not be limited in time, as held in || Gurbaksh Singh Sibbia only | *Sushila Aggarwal v State (NCT of Delhi) | Siddharth | Antil || Five-judge bench, 2020.
+MCQ: Anticipatory bail is barred under s.482(4) BNSS for || all offences under the BNS | *rape of a woman under 18 (ss.65 and 70(2) BNS) | economic offences | offences under special Acts || New exclusion in the BNSS.
+
+# 6 | Default bail
+@topics Time limits for investigation; indefeasible right; when the right accrues and is lost; incomplete charge-sheets
+>> If the police do not file a charge-sheet within 60 or 90 days, the accused gets an indefeasible right to bail. The right must be claimed by applying for it before the charge-sheet is filed.
+
+## 6.1 The rule (s.187(3) BNSS [167(2) CrPC])
+- **90 days:** for offences punishable with death, life imprisonment or imprisonment of ten years or more.
+- **60 days:** for any other offence.
+- If the investigation is not completed within the period, the accused shall be released on bail if he is prepared to and does furnish bail.
+- Special Acts extend the period: for example, UAPA (s.43D(2)) and NDPS (s.36A(4)) allow up to 180 days, and further in some cases, on a report by the Public Prosecutor.
+
+## 6.2 Nature of the right
+- It is an indefeasible right that is part of Art. 21. It is not a matter of discretion; the court cannot look at the merits (*Rakesh Kumar Paul v State of Assam*, 2017; *Bikramjit Singh v State of Punjab*, 2020).
+- **How the period is counted:** from the date of remand by the Magistrate, not the date of arrest.
+
+## 6.3 When the right accrues and when it is lost
+- The right accrues on the expiry of the period, but it must be **availed**: the accused must apply and be prepared to furnish bail.
+- If the charge-sheet is filed before the accused applies, the right is extinguished (*Uday Mohanlal Acharya v State of Maharashtra*, 2001; *M. Ravindran v DRI*, 2020).
+- An application filed while the period has expired and no charge-sheet is filed must be decided at once. The prosecution cannot defeat it by filing a charge-sheet afterwards.
+- Once a charge-sheet is filed within time, default bail is not available merely because investigation continues against other accused or the court has not yet taken cognizance (*CBI v Kapil Wadhawan*, 2024).
+
+TIP: Mark the 60th or 90th day on your calendar from the date of first remand. On day 61 or 91, check the court record and file the default bail application the same morning, before the prosecution can file a charge-sheet.
+
+DRAFT: Default bail application (essentials)
+PETITION UNDER SECTION 187(3) OF THE BHARATIYA NAGARIK SURAKSHA SANHITA, 2023
+
+1. The petitioner was arrested on ... and first remanded to judicial custody by this Court on ... in Crime No. ... under section 103 BNS (murder), an offence punishable with death or imprisonment for life.
+
+2. The period of 90 days from the date of first remand expired on ... As on the date of this petition, no police report under section 193 BNSS has been filed.
+
+3. The petitioner has therefore acquired an indefeasible right to be released on bail under section 187(3) BNSS (Rakesh Kumar Paul v State of Assam, (2017) 15 SCC 67; M. Ravindran v DRI, (2021) 2 SCC 485).
+
+4. The petitioner is prepared to and will furnish bail as directed by this Court.
+
+PRAYER: Release the petitioner on default bail on such bond as this Court deems fit.
+END
+
+* 60 or 90 days from first remand; special Acts may extend the time (UAPA, NDPS).
+* Indefeasible right under Art. 21; no merits inquiry (Rakesh Kumar Paul; Bikramjit Singh).
+* Must be availed before the charge-sheet is filed (Uday Mohanlal Acharya; M. Ravindran).
+* Charge-sheet filed in time defeats it, even if investigation continues (Kapil Wadhawan, 2024).
+
+QL: Explain the nature of the right to default bail and when it is acquired and lost.
+QS: Indefeasible right to default bail
+QS: Computation of the period under s.187(3) BNSS
+
+MCQ: The period for default bail is counted from || the date of the FIR | the date of arrest | *the date of first remand by the Magistrate | the date of the charge-sheet || Not the date of arrest.
+MCQ: If the charge-sheet is filed before the accused applies for default bail || he still gets default bail | *the right is extinguished | the court must hear him on merits only after 30 days | the period restarts || Uday Mohanlal Acharya (2001).
+
+# 7 | Conditions of bail
+@topics Mandatory conditions; permissible conditions; impermissible conditions; deposits and recovery; passport and travel; sureties and bonds; inability to furnish sureties; modification
+>> Bail conditions must serve the purpose of bail: to secure the accused's presence, protect the investigation and witnesses, and prevent further offences. Conditions that punish, humiliate, recover money or are impossible to meet are unlawful.
+
+## 7.1 Mandatory conditions (s.480(3) BNSS [437(3)])
+When a person accused of an offence punishable with seven years or more, or of offences under specified chapters of the BNS (such as offences against the State, the human body and property), or of abetment, conspiracy or attempt to commit them, is released on bail, the court shall impose conditions that the person:
+1. attends in accordance with the conditions of the bond;
+2. does not commit an offence similar to the one he is accused of; and
+3. does not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case, to dissuade him from disclosing the facts to the court or police, or tamper with evidence.
+The court may impose any other condition it considers necessary in the interests of justice.
+
+## 7.2 What makes a condition lawful
+- The power to impose "any condition" is not unlimited. A condition must be reasonable, connected to the purpose of bail, and proportionate to the facts (*Kunal Kumar Tiwari v State of Bihar*, 2017; *Parvez Noordin Lokhandwalla v State of Maharashtra*, 2020).
+- Conditions must not be so onerous that bail is defeated, and must respect the accused's fundamental rights, including privacy and dignity.
+
+## 7.3 Common lawful conditions
+- appearing on each hearing date, or before the investigating officer on specified days;
+- surrendering the passport, or not leaving the country without permission;
+- not leaving the district or State without informing the court or police;
+- not contacting the complainant or witnesses;
+- not committing any offence while on bail;
+- providing a mobile number and address, and informing the court of changes; and
+- in cases involving women, staying away from the complainant's residence or workplace.
+
+## 7.4 Conditions held unlawful
+| Condition | Why unlawful | Case |
+| Depositing or paying the disputed amount, or compensation, as a condition of bail in a cheating case | Bail is not a recovery proceeding | *Dilip Singh v State of MP* (2021); *Ramesh Kumar v State (NCT of Delhi)* (2023) |
+| A rapist accused tying a rakhi to the survivor, or meeting her | Trivialises the offence, re-traumatises the survivor | *Aparna Bhat v State of MP* (2021), which also laid down gender-sensitivity guidelines |
+| Sharing a live Google Maps location with the police | Constant surveillance violates privacy under Art. 21 | *Frank Vitus v Narcotics Control Bureau* (2024) |
+| Insisting on a certificate from a foreign embassy that the accused will not leave India | Not within the accused's control, so not mandatory | *Frank Vitus v NCB* (2024) |
+| Cleaning police stations or doing similar labour | Humiliating and punitive, so void | *In re Bail conditions (Odisha)* (2026) |
+| Very high or multiple sureties beyond the accused's means | In effect denies bail | *Moti Ram v State of MP* (1978); *Girish Gandhi v State of UP* (2024) |
+| Unreasonable restriction on foreign travel without regard to need | Must be proportionate to the risk of absconding | *Parvez Noordin Lokhandwalla* (2020) |
+
+## 7.5 Sureties and bonds (ss.484 to 496 BNSS [440 to 450 CrPC])
+- **Amount:** fixed with due regard to circumstances; not excessive (s.484).
+- **Bond:** the accused executes a personal bond; sureties execute a bail bond (s.485).
+- **Surety declaration:** each surety must declare how many persons he has stood surety for, including the accused, with particulars (s.486 [441A]).
+- **Sufficiency:** the court may inquire into the sufficiency of sureties, and order fresh sureties if they become insufficient (s.488).
+- **Discharge:** a surety may apply to be discharged, and the court then requires the accused to find fresh sureties (s.489).
+- **Cash deposit:** the court may accept a deposit instead of a bond, except for a bond for good behaviour (s.490).
+- **Forfeiture:** if the bond is forfeited, the court may call on the persons bound to pay the penalty, and may recover it as a fine (s.491). An appeal lies (s.495).
+
+## 7.6 When the accused cannot furnish sureties
+- *In re Policy Strategy for Grant of Bail* (2023): if an undertrial is not released within seven days of the bail order, the jail authority must inform the District Legal Services Authority (DLSA). A DLSA representative helps the prisoner, and the court may reduce the surety requirement or relax conditions.
+- *Girish Gandhi v State of UP* (2024): where an accused faces several FIRs and cannot produce separate sureties in each, the court may permit the same sureties to be accepted across cases, or reduce the requirement.
+- *Satender Kumar Antil* (2022): inability to furnish sureties must not keep a person in jail.
+
+## 7.7 Modification of conditions
+A person on bail may apply to the court that granted bail to modify a condition that has become onerous, for example to permit travel for work, medical treatment or a family event. Give specific reasons and supporting documents, and offer alternative safeguards.
+
+* Mandatory conditions under s.480(3) for serious offences.
+* Conditions must be reasonable, connected to the purpose and proportionate (Kunal Kumar Tiwari; Parvez Noordin).
+* Unlawful: recovery deposits (Dilip Singh), rakhi condition (Aparna Bhat), Google Maps pin (Frank Vitus), humiliating labour (2026), excessive sureties (Moti Ram).
+* Sureties and bonds: ss.484 to 496 BNSS; s.486 declaration; forfeiture under s.491.
+* Inability to furnish sureties: DLSA within seven days (Policy Strategy, 2023); Girish Gandhi (2024).
+* Apply to modify onerous conditions.
+
+QL: Discuss the law relating to conditions of bail. What conditions have the courts held to be impermissible?
+QL: Explain the provisions relating to sureties and bonds under the BNSS, and the remedies of an accused who cannot furnish sureties.
+QS: Mandatory conditions under s.480(3) BNSS
+QS: Aparna Bhat v State of Madhya Pradesh
+QS: Frank Vitus v Narcotics Control Bureau
+QS: Deposit of money as a condition of bail
+
+MCQ: A condition requiring the accused to share his live Google Maps location with the police was held invalid in || Aparna Bhat | *Frank Vitus v NCB | Dilip Singh | Kunal Kumar Tiwari || 2024; violates privacy.
+MCQ: A bail court directing payment of the cheated amount as a condition of bail was disapproved in || Moti Ram | *Dilip Singh v State of MP | Siddharth | Kusha Duruka || Bail is not a recovery proceeding.
+MCQ: If an undertrial is not released within seven days of a bail order, the jail must inform || the High Court | *the District Legal Services Authority | the police station | the complainant || In re Policy Strategy for Grant of Bail (2023).
+
+# 8 | Cancellation of bail
+@topics Power to cancel; grounds; cancellation distinguished from appeal against grant; breach of conditions; arrest after cancellation
+>> Bail once granted should not be cancelled mechanically. Cancellation needs supervening circumstances such as misuse of liberty, tampering, threats or absconding; an appeal against a perverse grant is a separate remedy.
+
+## 8.1 Power to cancel
+- The court that granted bail under s.480 may cancel it and direct arrest (s.480(5)).
+- The High Court or Court of Session may cancel bail granted by any court and direct the person to be arrested and committed to custody (s.483(3)).
+- A person released in a bailable offence who breaches the bond may be refused bail later (s.478(2)).
+
+## 8.2 Grounds for cancellation
+*Dolat Ram v State of Haryana* (1995): very cogent and overwhelming circumstances are needed. The grounds include:
+- interference or attempt to interfere with the course of justice;
+- evasion or attempt to evade the course of justice;
+- abuse of the concession of bail in any manner;
+- tampering with evidence, or threatening or influencing witnesses;
+- committing further offences while on bail; and
+- absconding or failing to appear.
+
+## 8.3 Cancellation versus appeal against grant
+- **Cancellation** looks at the accused's conduct after release.
+- **Setting aside bail** looks at whether the order granting bail was perverse, illegal or ignored relevant material, such as the gravity of the offence, criminal antecedents or a serious risk to witnesses (*Mahipal v Rajesh Kumar*, 2020; *Ajwar v Waseem*, 2024).
+- A superior court will interfere with a bail order only where it is perverse or based on irrelevant considerations; it does not substitute its own view merely because another view is possible.
+
+## 8.4 Practice
+- The prosecution, the complainant or the victim may apply. Victims have a right to be heard in specified offences.
+- The accused must be given notice and a hearing before cancellation, except in urgent situations where a hearing is given soon after.
+- Defence counsel should show that the alleged breach did not occur, was trivial, or was explained, and offer stricter conditions instead of cancellation.
+
+* Cancel under s.480(5) or s.483(3); refusal after breach in bailable offences (s.478(2)).
+* Grounds: interference, evasion, abuse, tampering, further offences, absconding (Dolat Ram).
+* Cancellation (post-release conduct) differs from setting aside a perverse grant (Mahipal; Ajwar v Waseem).
+* Notice and hearing; offer stricter conditions as an alternative.
+
+QL: Distinguish between cancellation of bail and setting aside an order granting bail. On what grounds is bail cancelled?
+QS: Dolat Ram v State of Haryana
+QS: Ajwar v Waseem
+
+MCQ: The leading case on grounds for cancellation of bail is || Gurbaksh Singh Sibbia | *Dolat Ram v State of Haryana | Moti Ram | Siddharth || 1995.
+
+# 9 | Bail under special statutes
+@topics NDPS s.37; UAPA s.43D(5); PMLA s.45; SC/ST Act s.18; POCSO; Companies Act s.212(6); speedy trial as an override
+>> Special statutes impose stricter conditions for bail, but they do not oust Article 21. Long incarceration and delay in trial justify bail even where the twin conditions cannot be met.
+
+## 9.1 NDPS Act, 1985 (s.37)
+- For offences involving commercial quantity, and offences under ss.19, 24 and 27A, bail requires that:
+  1. the Public Prosecutor is given an opportunity to oppose; and
+  2. where he opposes, the court is satisfied that there are reasonable grounds for believing the accused not guilty and not likely to commit an offence while on bail.
+- For small and intermediate quantities, ordinary bail principles apply.
+- Procedural lapses, such as non-compliance with s.50 for personal search, may support bail.
+
+## 9.2 UAPA, 1967 (s.43D(5))
+- Bail shall not be granted if, on perusing the case diary or the police report, the court is of the opinion that there are reasonable grounds for believing the accusation is prima facie true.
+- *NIA v Zahoor Ahmad Shah Watali* (2019): the court should not analyse the evidence in detail at this stage.
+- *Vernon Gonsalves v State of Maharashtra* (2023): the court must at least examine whether the evidence, taken at face value, supports the accusation.
+- *Gurwinder Singh v State of Punjab* (2024) took a strict view, while *Javed Gulam Nabi Shaikh v State of Maharashtra* (2024) granted bail for delay.
+- Bail was refused to some accused in the Delhi riots conspiracy case on the facts (*Gulfisha Fatima*, 2026).
+
+## 9.3 PMLA, 2002 (s.45)
+- **Twin conditions:** reasonable grounds for believing the accused not guilty, and not likely to commit an offence while on bail. These were upheld in *Vijay Madanlal Choudhary v Union of India* (2022), and are mandatory (*Union of India v Kanhaiya Prasad*, 2025).
+- **Exceptions:** women, persons under 16, and the sick or infirm, at the court's discretion.
+- **Recent approach:**
+  - long incarceration and slow trials justify bail; "bail is the rule" applies even under PMLA (*Manish Sisodia v Directorate of Enforcement*, 2024; *Prem Prakash v Union of India*, 2024);
+  - grounds of arrest must be given in writing (*Pankaj Bansal*, 2023).
+
+## 9.4 Speedy trial overrides stringent conditions
+- *Union of India v K.A. Najeeb* (2021): statutory restrictions do not exclude the constitutional courts' power to grant bail for violation of Art. 21, where the trial is unlikely to finish soon and the accused has spent a long time in custody.
+- *Syed Iftikhar Andrabi v NIA* (2026): Najeeb is binding; prolonged incarceration without trial justifies bail even under special statutes.
+
+## 9.5 Other special laws
+- **SC/ST Act, s.18:** bars anticipatory bail, subject to the prima facie exception (*Prathvi Raj Chauhan*, 2020). The victim has a right to be heard on bail (s.15A).
+- **POCSO Act:** presumptions under ss.29 and 30 affect bail, and the victim or support person must be heard. Courts have noted misuse in consensual adolescent relationships (*State of UP v Anurudh*, 2026).
+- **Companies Act, 2013, s.212(6):** twin conditions for fraud under s.447.
+- **Dowry death:** the presumption under s.118 BSA must be considered at the bail stage (*Mahesh Chand v State of UP*, 2026).
+
+* NDPS s.37: commercial quantity; twin conditions.
+* UAPA s.43D(5): prima facie true test (Watali; Vernon Gonsalves).
+* PMLA s.45: twin conditions (Vijay Madanlal; Kanhaiya Prasad); exceptions; delay (Sisodia; Prem Prakash).
+* Delay and long custody override statutory bars (Najeeb; Andrabi, 2026).
+* SC/ST Act s.18; POCSO; Companies Act s.212(6); dowry-death presumption at bail.
+
+QL: Discuss bail under special statutes such as the NDPS Act, UAPA and PMLA. How far does Article 21 override the statutory restrictions?
+QS: Twin conditions under s.45 PMLA
+QS: Union of India v K.A. Najeeb
+QS: Section 37 NDPS Act
+
+MCQ: That constitutional courts can grant bail despite UAPA restrictions where the trial is delayed was held in || Watali | *Union of India v K.A. Najeeb | Vijay Madanlal Choudhary | Gurwinder Singh || 2021.
+MCQ: The PMLA twin conditions were upheld in || Pankaj Bansal | *Vijay Madanlal Choudhary v Union of India | Manish Sisodia | Prem Prakash || 2022.
+
+# 10 | Bail after conviction: suspension of sentence pending appeal
+@topics Suspension of sentence by the appellate court; bail by the trial court for short sentences; serious offences; delay in hearing appeals
+>> After conviction, the presumption of innocence is gone, but an appeal is a continuation of the trial. Where the sentence is for a fixed term and the appeal will take time, suspension of sentence is ordinarily granted.
+
+## 10.1 Suspension by the appellate court (s.430 BNSS [389 CrPC])
+- Pending an appeal, the appellate court may, for reasons recorded in writing, order that the execution of the sentence be suspended and the convict released on bail or bond.
+- For offences punishable with death, life imprisonment or imprisonment of ten years or more, the Public Prosecutor must be given an opportunity to show cause in writing (proviso to s.430(1)).
+- **Fixed-term sentences:** suspension should ordinarily be granted where the appeal is not likely to be heard soon, unless there are exceptional circumstances (*Bhagwan Rama Shinde Gosai v State of Gujarat*, 1999).
+- **Life imprisonment:** the court considers the nature of the evidence, any glaring defects, and the time already spent in custody. Long pendency of the appeal is a strong ground.
+
+## 10.2 Bail by the trial court (s.430(3) [389(3)])
+Where the convict is on bail and is sentenced to imprisonment of up to three years, or for a bailable offence, and intends to appeal, the trial court shall release him on bail for a period sufficient to file the appeal and obtain orders from the appellate court.
+
+## 10.3 Bond for appearance before the appellate court (s.481 [437A])
+Before the conclusion of the trial or appeal, the court requires the accused to execute a bond with sureties to appear before the higher court if an appeal or petition is filed against the judgment. The bond is in force for six months.
+
+* s.430: suspension pending appeal; PP to be heard for serious offences.
+* Fixed-term sentences: suspension ordinarily granted (Bhagwan Rama Shinde Gosai).
+* Trial court releases convicts sentenced to up to three years to enable an appeal (s.430(3)).
+* s.481 bond to appear before the appellate court.
+
+QL: Explain the law relating to suspension of sentence and bail pending appeal.
+QS: Section 430(3) BNSS
+QS: Bond under section 481 BNSS
+
+MCQ: For a fixed-term sentence, suspension pending appeal should ordinarily be granted, as held in || Dolat Ram | *Bhagwan Rama Shinde Gosai v State of Gujarat | Siddharth | Sushila Aggarwal || 1999.
+
+# 11 | The young lawyer's practice guide
+@topics Taking instructions; the case file; choosing the forum; drafting; the hearing; after the order: bonds, sureties and release; follow-up; ethics; common mistakes
+>> Bail practice is won on preparation: the right forum, complete papers, an honest application, a short argument focused on the court's concerns, and quick follow-through after the order so the client actually walks out.
+
+## 11.1 Taking instructions
+Get these facts from the client and family:
+- full name, age, address, occupation and family situation;
+- the FIR number, police station and sections;
+- date and time of arrest, and whether written grounds and a s.35 notice were given;
+- previous bail applications and their results (all courts);
+- criminal antecedents, including pending cases;
+- health conditions (with records); and
+- the role alleged against the client, and what the client says about it.
+
+## 11.2 The case file
+- a certified copy or downloaded copy of the FIR;
+- the remand report and case diary extracts, if available;
+- the charge-sheet, if filed;
+- orders on earlier bail applications;
+- bail orders granted to co-accused (for parity);
+- medical records;
+- documents showing roots in the community: Aadhaar card, ration card, property papers, employment letters; and
+- surety documents: identity proof, address proof and proof of solvency (land documents, salary certificate), as required by the local court.
+
+## 11.3 Choosing the forum
+| Situation | Where to apply |
+| Bailable offence | Police station, or the Magistrate at production |
+| Non-bailable offence triable by a Magistrate | The Magistrate (s.480), then the Sessions Court (s.483) |
+| Offence punishable with death or life, or triable by Sessions | The Sessions Court (s.483), then the High Court |
+| Anticipatory bail | The Sessions Court, then the High Court (s.482) |
+| Special Acts (NDPS, UAPA, PMLA) | The Special Court designated under the Act, then the High Court |
+| Default bail | The court that is remanding the accused |
+| Suspension of sentence | The appellate court (s.430) |
+
+## 11.4 Drafting the application
+- Use the correct section and court. Mention the crime number, police station and sections in the title.
+- Disclose all earlier applications and their results (*Kusha Duruka*, 2024).
+- State the grounds as short, numbered points, strongest first: illegality of arrest, length of custody, nature of evidence, completion of investigation, roots in the community, no antecedents, parity, health.
+- Do not argue disputed facts at length, or attack the complainant or police.
+- Cite only a few, binding, verified authorities, with the correct citation.
+- Attach the documents relied on, and an affidavit as the local rules require.
+
+## 11.5 At the hearing
+1. Be ready when the case is called; check the cause list and the court's practice on bail matters.
+2. Start with your strongest point in one or two sentences: "The petitioner has been in custody for 140 days; the charge-sheet has been filed; the offence carries a maximum of seven years."
+3. Answer the court's concerns directly: risk of absconding, tampering, repetition.
+4. Offer suitable conditions that meet those concerns.
+5. Listen to the Public Prosecutor and reply briefly to the points that matter.
+6. If the court is not inclined to grant bail, consider seeking a direction for an expedited trial, liberty to apply again after a change of circumstances, or interim bail for a specific reason such as medical treatment.
+
+## 11.6 After the bail order
+1. Obtain the certified copy of the order, or the downloaded copy where the court permits.
+2. Prepare the bail bond and the surety bonds in the prescribed format; arrange for sureties to appear with documents.
+3. Have the sureties verified if the court requires it (by the police or the court).
+4. Ensure the court issues the release order and that it reaches the jail promptly. Courts use electronic transmission (the Supreme Court's FASTER system and State e-prison links) to avoid delay.
+5. Check with the jail that the client has been released the same day. If release is delayed for want of sureties, apply for modification and inform the DLSA (*In re Policy Strategy for Grant of Bail*, 2023).
+6. Explain every condition to the client in his language, in writing, and keep a copy of the bail order and conditions with the family.
+7. Diarise the next hearing dates and reporting dates, and remind the client.
+
+## 11.7 Ethics
+- Never misstate facts or conceal earlier applications. Candour to the court is a professional duty, and courts have imposed costs for concealment.
+- Do not engage in forum shopping by filing parallel applications in different courts.
+- Do not promise clients a result.
+- Fees are agreed in advance; contingency fees are prohibited.
+- Respect the victim; do not make personal attacks.
+
+## 11.8 Common mistakes young lawyers make
+- arguing that a non-bailable offence is bailable without checking the Schedule;
+- filing in the High Court without first approaching the Sessions Court, with no explanation;
+- not disclosing a previously rejected application;
+- missing the default bail window by filing after the charge-sheet;
+- citing cases from memory with wrong names or holdings;
+- accepting unlawful conditions without objection; and
+- leaving the court without making sure the client can actually furnish the sureties.
+
+* Instructions and a complete file, including previous orders and surety papers.
+* Right forum: Magistrate, Sessions, High Court, Special Court, appellate court.
+* Honest, numbered grounds; full disclosure; few verified authorities.
+* At the hearing: strongest point first; answer the court's concerns; offer conditions.
+* After the order: bonds, sureties, release order to jail, follow-up with DLSA if needed.
+* Ethics: candour, no forum shopping, no promises.
+
+QL: As a young advocate, describe the steps you would take from the arrest of a client to his release on bail.
+QS: Checklist for a bail application
+QS: Steps after a bail order is passed
+
+MCQ: Before filing a bail application in the High Court, counsel should ordinarily || file in the Supreme Court | *approach the Court of Session first, or explain why not | file a writ petition | wait for the charge-sheet || Concurrent jurisdiction under s.483 BNSS.

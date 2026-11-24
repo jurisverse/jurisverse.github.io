@@ -1,0 +1,428 @@
+@title Media Law with Right to Information Act
+@subtitle Press, films, broadcasting, constitutional limits, and the Right to Information Act, 2005
+@paper 5.5
+@sem V
+@color #5a2f5a
+@dark #4e2950
+@intro Covers press, film and broadcasting law under Art. 19(1)(a), and the Right to Information Act, 2005. Several statutes in the syllabus have been replaced: the Press and Registration of Periodicals Act, 2023 replaced the 1867 Act (in force March 2024); the Telecommunications Act, 2023 replaced the Indian Telegraph Act, 1885; and the BNS replaced the IPC offences of sedition, defamation, obscenity and blasphemy. Since 14 November 2025, s.44(3) of the Digital Personal Data Protection Act, 2023 has narrowed the personal information exemption in s.8(1)(j) of the RTI Act.
+@reading D.D. Basu, Law of the Press
+@reading M.P. Jain, Indian Constitutional Law
+@reading Madhavi Goradia Divan, Facets of Media Law
+@reading S.P. Sathe, Right to Information
+@reading The Right to Information Act, 2005
+
+# 1 | Mass media: types and ownership
+@topics Types of mass media: press, films, radio, television; Ownership patterns: private and public; Visual and non-visual media and their impact
+>> Each medium is owned and regulated differently: the press is privately owned and lightly regulated, while broadcasting began as a government monopoly. Visual media are thought to have a stronger impact, which has been used to justify stricter control.
+
+## 1.1 Types of mass media
+- **Press**: newspapers, periodicals, magazines; now also digital news portals.
+- **Films**: feature films, documentaries; exhibited in cinemas, on television and on OTT platforms.
+- **Radio**: All India Radio (Akashvani), private FM (since 2000), community radio (since 2006).
+- **Television**: Doordarshan (since 1959), private satellite channels (since 1991), cable and DTH, and now streaming.
+- **Digital media**: news websites, social media, OTT platforms, governed by the IT Act and the IT Rules, 2021.
+
+## 1.2 Ownership patterns
+| Medium | Ownership |
+|---|---|
+| Press | Predominantly private: family-owned groups, companies and trusts; a few government publications |
+| Films | Private producers; the State's role is through certification (CBFC), the National Film Development Corporation and Films Division (now merged into NFDC) |
+| Radio and television | Public broadcaster (Prasar Bharati: AIR and Doordarshan) and private broadcasters licensed by the Ministry of Information and Broadcasting |
+
+- **Concerns**: concentration of ownership and cross-media ownership, political ownership, paid news, and the TRAI's recommendations on cross-media ownership (2014), which have not been implemented.
+
+## 1.3 Visual and non-visual media
+- Visual media (films, television) combine sight and sound and reach illiterate audiences. Courts have accepted that they have a greater impact on the mind, which is why prior censorship of films has been upheld while prior censorship of the press has not (K.A. Abbas, Unit 3).
+
+* Press, films, radio, television and digital media.
+* Press: private ownership; broadcasting: public (Prasar Bharati) and private; films: private with State certification.
+* Concentration and cross-media ownership concerns.
+* Visual media have greater impact, justifying differential treatment.
+
+QL: Describe the types of mass media and their ownership patterns in India.
+QS: Cross-media ownership
+QS: Prasar Bharati
+
+MCQ: Private FM radio was opened in India in || 1991 | *2000 | 1977 | 2006 || Community radio in 2006.
+
+# 2 | The press and freedom of speech and expression
+@topics Art. 19(1)(a) includes freedom of the press; Laws of defamation, obscenity, blasphemy and sedition; Employees' wages and service conditions; Price and page schedule regulation; Newsprint control; Advertisement and free speech; Press and the MRTP Act
+>> Freedom of the press is part of the freedom of speech and expression in Art. 19(1)(a). It can be restricted only on the grounds in Art. 19(2), and laws that indirectly burden circulation are also tested against Art. 19(1)(a).
+
+## 2.1 Freedom of the press
+- Art. 19(1)(a) does not mention the press, but the Supreme Court has held that freedom of the press is included in freedom of speech and expression. Restrictions are permissible only under Art. 19(2): sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, and incitement to an offence.
+
+CASE: Romesh Thappar v State of Madras (1950) :: A ban on the entry and circulation of the journal "Cross Roads" in Madras was struck down. Freedom of speech includes freedom of propagation of ideas, which is secured by freedom of circulation. "Public safety" was not then a ground in Art. 19(2). (This led to the First Amendment, 1951, adding "public order".) On the same day, *Brij Bhushan v State of Delhi* (1950) struck down pre-censorship of an English weekly.
+
+CASE: Express Newspapers (Private) Ltd v Union of India (1958) :: The Working Journalists Act, 1955 was upheld, but the wage board's decision was set aside for not considering the capacity of the industry to pay. The Court held that a law imposing a direct burden on the press, or affecting its circulation, could violate Art. 19(1)(a), though a law of general application regulating employment does not by itself do so.
+
+## 2.2 Defamation, obscenity, blasphemy and sedition
+### Defamation
+- Criminal defamation under s.356 BNS (s.499 IPC); civil action in tort.
+
+CASE: Subramanian Swamy v Union of India (2016) :: Criminal defamation (ss.499 and 500 IPC) was upheld as a reasonable restriction under Art. 19(2). Reputation is part of the right to life under Art. 21, and the criminal law protects it.
+
+CASE: R. Rajagopal v State of Tamil Nadu (1994) :: The Court recognised the right to privacy against the press and held that the press may publish matters relating to public officials' official conduct based on public records, unless the official proves the publication was made with reckless disregard for the truth. Public officials cannot sue for damages for acts relating to their official duties unless the publication was false and made with malice (adopting *New York Times v Sullivan*).
+
+### Obscenity
+- Section 294 BNS (s.292 IPC); s.67 IT Act.
+
+CASE: Aveek Sarkar v State of West Bengal (2014) :: The Court abandoned the Hicklin test (*Ranjit D. Udeshi v State of Maharashtra*, 1965: whether the matter tends to deprave and corrupt those whose minds are open to such influences) and adopted the **community standards test**. The question is whether, judged by contemporary community standards, the material appeals to prurient interest, taking it as a whole. A photograph of Boris Becker with his fiancée published to oppose racism was not obscene.
+
+### Blasphemy (hurting religious feelings)
+- Section 299 BNS (s.295A IPC): deliberate and malicious acts intended to outrage religious feelings.
+
+CASE: Ramji Lal Modi v State of Uttar Pradesh (1957) :: Section 295A IPC was upheld because it punishes only the aggravated form of insult to religion, made with deliberate and malicious intent, which has a tendency to disrupt public order.
+
+### Sedition
+- Section 124A IPC was upheld in *Kedar Nath Singh v State of Bihar* (1962), but read down to cover only words with a tendency to incite violence or disorder. In *S.G. Vombatkere v Union of India* (2022), the Supreme Court kept s.124A in abeyance pending review by the Government.
+- The BNS has no offence called sedition. Section 152 BNS ("acts endangering sovereignty, unity and integrity of India") replaces it and covers secession, armed rebellion and subversive activities, including through electronic communication.
+
+## 2.3 Employees' wages and service conditions
+- The Working Journalists and Other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955 provided for wage boards and working conditions. The Majithia Wage Board award was upheld in *ABP Pvt Ltd v Union of India* (2014).
+- **Current law**: the Act has been subsumed into the Labour Codes (in force from 21 November 2025). The OSH Code and the Code on Wages contain specific provisions for working journalists, and gratuity is payable to them after three years.
+
+## 2.4 Price and page schedule regulation
+CASE: Sakal Papers (P) Ltd v Union of India (1962) :: The Newspaper (Price and Page) Act, 1956 and the Daily Newspaper (Price and Page) Order, 1960, which fixed the number of pages according to price, were struck down. Freedom of speech cannot be curtailed to place restrictions on the business activities of a newspaper; the State cannot restrict circulation by regulating price and pages, since this directly affects the right to disseminate.
+
+## 2.5 Newsprint control
+CASE: Bennett Coleman and Co v Union of India (1973) :: The Newsprint Control Policy, which fixed a ceiling of ten pages and prevented common ownership units from starting new editions, was struck down as violating Art. 19(1)(a). The Court held that the test is the direct effect of the law on the fundamental right, not its form. Mathew J dissented.
+
+CASE: Indian Express Newspapers (Bombay) Pvt Ltd v Union of India (1985) :: Import duty on newsprint was examined. Newspapers are not immune from taxation, but a tax on newsprint must not be so excessive as to curtail circulation. The Court directed the Government to reconsider the levy.
+
+## 2.6 Advertisement and free speech
+CASE: Hamdard Dawakhana v Union of India (1960) :: An advertisement is a form of speech, but commercial advertisements for trade and commerce, here promoting "magic remedies" banned by the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954, were held not to be within freedom of speech and expression.
+
+CASE: Tata Press Ltd v Mahanagar Telephone Nigam Ltd (1995) :: The Court held that commercial speech (advertising) is part of freedom of speech and expression under Art. 19(1)(a), because it disseminates information and the public has a right to receive it. It can be restricted only under Art. 19(2). Hamdard Dawakhana was distinguished as applying to advertisements that are objectionable.
+
+## 2.7 Press and the MRTP Act
+- The Monopolies and Restrictive Trade Practices Act, 1969 applied to newspaper companies as undertakings, raising concern about concentration. It was repealed in 2009 and replaced by the **Competition Act, 2002**, which applies to media companies (mergers and abuse of dominance).
+- **Press Council of India** (Press Council Act, 1978) is a statutory self-regulatory body that hears complaints against and by the press. It can warn, admonish or censure, but cannot impose penalties.
+- **Press and Registration of Periodicals Act, 2023** replaced the Press and Registration of Books Act, 1867, simplifying online registration of periodicals with the Press Registrar General.
+
+## 2.8 Recent judgments (2025–26)
+
+CASE: Imran Pratapgarhi v State of Gujarat (2025) :: An FIR over a poem was quashed; police must judge speech by the standard of reasonable, strong-minded people and respect Art. 19(1)(a).
+
+* Speech judged by reasonable persons' standards (Imran Pratapgarhi, 2025).
+* Freedom of the press is part of Art. 19(1)(a) (Romesh Thappar; Brij Bhushan); laws burdening circulation are tested (Express Newspapers).
+* Defamation upheld (Subramanian Swamy); public officials (Rajagopal); community standards for obscenity (Aveek Sarkar); s.295A upheld (Ramji Lal Modi); sedition in abeyance and replaced by s.152 BNS.
+* Wage boards; price and page regulation struck down (Sakal); newsprint control struck down (Bennett Coleman); import duty must not curtail circulation (Indian Express).
+* Commercial speech protected (Tata Press) except objectionable advertisements (Hamdard).
+* MRTP replaced by the Competition Act; Press Council; PRP Act 2023.
+
+QL: "Freedom of the press is implicit in Art. 19(1)(a)." Discuss with reference to decided cases.
+QL: Discuss the law of defamation, obscenity and sedition as restrictions on freedom of the press.
+QL: Is commercial advertisement protected by Art. 19(1)(a)? Compare Hamdard Dawakhana and Tata Press.
+QL: Can the State regulate the price, pages and newsprint of newspapers? Discuss Sakal Papers and Bennett Coleman.
+QS: Press Council of India
+QS: Community standards test
+QS: Section 152 BNS
+
+MCQ: The community standards test for obscenity was adopted in || Ranjit Udeshi | *Aveek Sarkar v State of West Bengal | Ramji Lal Modi | Subramanian Swamy || 2014.
+MCQ: Commercial speech was held to be protected by Art. 19(1)(a) in || Hamdard Dawakhana | *Tata Press v MTNL | Sakal Papers | Bennett Coleman || 1995.
+MCQ: Price and page regulation of newspapers was struck down in || Bennett Coleman | *Sakal Papers v Union of India | Express Newspapers | Indian Express || 1962.
+
+# 3 | Films and freedom of expression
+@topics How far films are included in freedom of speech and expression; Censorship of films: constitutionality, the Abbas case; Films and press compared: why pre-censorship is valid for films but not for the press; Censorship under the Cinematograph Act
+>> Films are a form of expression protected by Art. 19(1)(a), but because of their impact they may be subjected to prior certification. Once certified, a film cannot be stopped because of threats of violence.
+
+## 3.1 Films and Art. 19(1)(a)
+- Films are a medium of expression of ideas, and their exhibition is protected by Art. 19(1)(a), subject to Art. 19(2).
+
+## 3.2 Constitutionality of film censorship
+CASE: K.A. Abbas v Union of India (1970) :: The filmmaker challenged censorship of his documentary "A Tale of Four Cities". The Court held that pre-censorship of films under the Cinematograph Act is valid, because films have a greater capacity to stir emotions and can be viewed by audiences of all ages and backgrounds. Films must be treated separately from other forms of art. But censorship must be governed by clear principles; vague guidelines would be invalid.
+
+## 3.3 Why pre-censorship is valid for films and not the press
+- The motion picture is able to stir up emotions more deeply than any other art form; its impact is instantaneous and on a mass audience; it combines sight and sound; and it reaches illiterate viewers.
+- The press appeals to the intellect, and prior restraint of it is presumptively invalid (Brij Bhushan; Romesh Thappar).
+
+CASE: S. Rangarajan v P. Jagjivan Ram (1989) :: The Madras High Court had revoked the certificate of the Tamil film "Ore Oru Gramathiley", which criticised the reservation policy. The Supreme Court restored it, holding that a film that legitimately criticises government policy cannot be banned. The State cannot plead inability to handle hostile audiences; the anticipated danger must be proximate and direct, like a "spark in a powder keg", not remote or conjectural.
+
+CASE: Bobby Art International v Om Pal Singh Hoon (1996) :: The film "Bandit Queen", depicting the life of Phoolan Devi with scenes of rape and nudity, was held not obscene. The scenes, viewed in the context of the whole film and its message about the brutality of caste and gender oppression, were not intended to arouse prurient interest.
+
+CASE: Viacom 18 Media Pvt Ltd v Union of India (2018) :: Once the CBFC had certified the film "Padmaavat", States could not ban its exhibition on the ground of law and order. The Court stayed the State notifications banning the film and held that it is the State's duty to maintain law and order.
+
+## 3.4 Censorship under the Cinematograph Act, 1952
+- The **Central Board of Film Certification** (CBFC) examines and certifies films for public exhibition (s.4).
+- Categories after the **Cinematograph (Amendment) Act, 2023**: "U" (unrestricted), "UA 7+", "UA 13+", "UA 16+" (unrestricted but with parental guidance for children below that age), "A" (adults only), and "S" (specialised audiences). Certificates are now valid in perpetuity, and separate certificates may be given for television.
+- **Principles** (s.5B): a film shall not be certified if it is against the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency or morality, or involves defamation, contempt of court or incitement to an offence. Guidelines are issued by the Central Government.
+- **Revisional power**: the Central Government's power under s.6(1) to re-examine films already certified was struck down in *Union of India v K.M. Shankarappa* (2001) as an encroachment on the quasi-judicial function of the Tribunal. The Film Certification Appellate Tribunal was abolished in 2021 (Tribunals Reforms Act), and appeals now lie to the High Court.
+- **Piracy** (2023 amendment): unauthorised recording and exhibition are offences (ss.6AA and 6AB), with imprisonment of three months to three years and a fine of up to 5% of the audited gross production cost.
+- OTT platforms are not covered by the Cinematograph Act; they follow the Code of Ethics under the IT Rules, 2021 (self-classification and grievance redressal).
+
+* Films are protected expression, but pre-censorship is valid because of their impact (K.A. Abbas).
+* A certified film cannot be stopped for fear of disorder (Rangarajan; Viacom 18 Padmaavat).
+* Obscenity judged in context (Bobby Art, Bandit Queen).
+* Cinematograph Act: CBFC, categories after the 2023 amendment, s.5B principles; s.6(1) revisional power struck down (Shankarappa); FCAT abolished; anti-piracy provisions; OTT under IT Rules.
+
+QL: Why is pre-censorship of films valid when pre-censorship of the press is not? Discuss with reference to K.A. Abbas and S. Rangarajan.
+QL: Discuss the system of film certification under the Cinematograph Act, 1952 as amended in 2023.
+QS: Bobby Art International v Om Pal Singh Hoon
+QS: Film certification categories
+QS: Regulation of OTT platforms
+
+MCQ: Pre-censorship of films was upheld in || S. Rangarajan | *K.A. Abbas v Union of India | Bobby Art | Viacom 18 || 1970.
+MCQ: The Central Government's revisional power over certified films under s.6(1) was struck down in || K.A. Abbas | *Union of India v K.M. Shankarappa | Viacom 18 | Rangarajan || 2001.
+MCQ: The "spark in a powder keg" test was laid down in || K.A. Abbas | *S. Rangarajan v P. Jagjivan Ram | Bobby Art | Romesh Thappar || 1989.
+
+# 4 | Radio and television
+@topics Government monopoly; Why a government department? Should there be an autonomous corporation? Effect of television on people; Chanda Committee; Government policy; Commercial advertisement; Judicial review of Doordarshan decisions; Freedom to telecast
+>> Broadcasting was a government monopoly for decades. The Supreme Court held that airwaves are public property to be used for the public good and that a government monopoly is inconsistent with free speech, which led to an autonomous public broadcaster and private broadcasting.
+
+## 4.1 Government monopoly
+- All India Radio (1936) and Doordarshan (1959) were departments of the Ministry of Information and Broadcasting. The Indian Telegraph Act, 1885 (s.4) gave the Government exclusive privilege over telegraphs, interpreted to include broadcasting.
+- **Arguments for a government department**: national integration, development communication, security, and the scarcity of frequencies.
+- **Arguments for an autonomous corporation**: credibility, independence from the party in power, professional management, and pluralism.
+
+## 4.2 Committees
+- **Chanda Committee** (1966, chaired by Asok Kumar Chanda): criticised government control of AIR, recommended that AIR and television be separated and converted into autonomous corporations, and that television expand with commercial advertising to raise revenue.
+- **Verghese Working Group** (1978): proposed an autonomous National Broadcasting Trust (Akash Bharati).
+- **Joshi Working Group** (1985): software for Doordarshan.
+- The **Prasar Bharati (Broadcasting Corporation of India) Act, 1990**, brought into force in 1997, created an autonomous corporation to run AIR and Doordarshan. Its autonomy is limited by government funding and control over appointments.
+
+## 4.3 Effect of television and commercial advertisement
+- Concerns: the effect of violence and consumerism, the impact on children, superstition, and the commercialisation of content. Commercial advertisements on Doordarshan began in 1976. Advertising is regulated by the Advertising Code under the Cable Television Networks (Regulation) Act, 1995 and by the Advertising Standards Council of India (self-regulation).
+
+## 4.4 Judicial review of Doordarshan decisions
+CASE: Odyssey Communications Pvt Ltd v Lokvidayan Sanghatana (1988) :: A citizens' group sought to stop the telecast of the serial "Honi Anhonee" on the ground that it promoted superstition. The Supreme Court held that the right of citizens to exhibit films on Doordarshan, subject to the terms and conditions imposed by Doordarshan, is part of freedom of speech under Art. 19(1)(a). The telecast could not be stopped without evidence that it was prejudicial to the public.
+
+CASE: Life Insurance Corporation of India v Manubhai D. Shah (1993) :: The Court held that State bodies controlling a medium of communication (here, LIC's in-house magazine, which had published an article but refused to publish a rejoinder) must act fairly and cannot refuse space arbitrarily. The right to reply is part of free speech in State-controlled media.
+
+## 4.5 Freedom to telecast
+CASE: Secretary, Ministry of Information and Broadcasting v Cricket Association of Bengal (1995) :: The Court held that airwaves are public property, to be used for the public good. Freedom of speech includes the right to telecast and to receive information. Government monopoly over broadcasting is not consistent with Art. 19(1)(a); there should be an independent public authority to regulate the airwaves. The Cricket Association was entitled to choose the agency to telecast its matches.
+
+- Following this, private broadcasting was regulated through uplinking and downlinking guidelines, the Cable Television Networks (Regulation) Act, 1995, and TRAI (tariff and interconnection).
+
+* AIR and Doordarshan began as government departments; arguments for and against autonomy.
+* Chanda (1966), Verghese (1978) and Joshi (1985) reports; Prasar Bharati Act (1990, in force 1997).
+* Concerns about television's effects; advertising codes.
+* Freedom to exhibit on Doordarshan (Odyssey); fairness in State media (Manubhai Shah).
+* Airwaves are public property; government monopoly is inconsistent with Art. 19(1)(a) (Cricket Association of Bengal).
+
+QL: "Airwaves are public property." Discuss the right to broadcast with reference to the Cricket Association of Bengal case.
+QL: Should broadcasting be controlled by a government department or by an autonomous corporation? Discuss the Chanda Committee recommendations and the Prasar Bharati Act.
+QS: Chanda Committee
+QS: Odyssey Communications case
+
+MCQ: Airwaves were held to be public property in || Odyssey Communications | *Secretary, Ministry of I&B v Cricket Association of Bengal | Manubhai Shah | K.A. Abbas || 1995.
+MCQ: The Chanda Committee on broadcasting reported in || 1978 | *1966 | 1985 | 1990 || Recommended autonomous corporations.
+
+# 5 | Constitutional restrictions on broadcasting
+@topics Radio and television subject to defamation and obscenity laws; Power to legislate: Art. 246 and the Seventh Schedule; Power to impose tax: licensing and licence fee
+>> Broadcasting is subject to the same restrictions as other speech. Parliament has exclusive legislative power over broadcasting and communications, and the State may license broadcasters and charge fees for the use of spectrum.
+
+## 5.1 Defamation and obscenity
+- Broadcast content is subject to defamation (s.356 BNS), obscenity (s.294 BNS; s.67 IT Act), and the Programme and Advertising Codes under the Cable Television Networks Rules, 1994.
+- Self-regulation: the News Broadcasting and Digital Standards Authority (for news channels) and the Broadcasting Content Complaints Council (for general entertainment).
+
+## 5.2 Power to legislate
+- **Entry 31, List I**: posts and telegraphs, telephones, wireless, broadcasting and other like forms of communication. Parliament has exclusive power.
+- **Entry 60, List II** (taxes on entertainment) was subsumed into GST in 2016, except for taxes levied by local bodies.
+- Laws: the **Telecommunications Act, 2023** (replacing the Indian Telegraph Act, 1885 and the Indian Wireless Telegraphy Act, 1933), the Cable Television Networks (Regulation) Act, 1995, the Prasar Bharati Act, 1990, the TRAI Act, 1997, and the IT Act, 2000 with the IT Rules, 2021.
+- A draft Broadcasting Services (Regulation) Bill (2023 and 2024) proposing to bring OTT and digital news under a single broadcasting law was withdrawn for further consultation in 2024.
+
+## 5.3 Power to tax; licensing and licence fees
+- Spectrum is a scarce public resource; it is allocated by licence and auction, and licence fees and spectrum charges are levied.
+
+CASE: Centre for Public Interest Litigation v Union of India (2G spectrum case) (2012) :: The Court cancelled 122 telecom licences granted on a "first come, first served" basis, holding that natural resources such as spectrum must be allocated by a fair, transparent and non-discriminatory method, preferably by auction. (In *Natural Resources Allocation, In re* (2012, Presidential Reference), the Court clarified that auction is not a constitutional mandate for all natural resources.)
+
+- **Taxation of media**: the media are not exempt from general taxes (Indian Express, 1985), but discriminatory or excessive taxes that curtail circulation are invalid. Taxes on advertisements in newspapers (Entry 92, List I) and other advertisements (Entry 55, List II) were omitted by the 101st Amendment and subsumed into GST.
+- **Fact-checking and online content**: the Bombay High Court in *Kunal Kamra v Union of India* (2024) struck down the 2023 amendment to the IT Rules that allowed a government Fact Check Unit to identify "fake or false" information about the Central Government's business, as violating Arts. 14 and 19(1)(a).
+
+* Broadcast content is subject to defamation and obscenity law, Programme and Advertising Codes, and self-regulation.
+* Parliament's exclusive power (Entry 31, List I); the Telecommunications Act 2023; Cable Act; TRAI; IT Rules.
+* Spectrum must be allocated fairly (2G case); auction is not mandatory for all resources.
+* Media are subject to general taxes, not discriminatory ones; advertisement taxes subsumed into GST.
+* The government Fact Check Unit rule was struck down (Kunal Kamra, 2024).
+
+QL: Discuss the legislative competence and constitutional restrictions governing broadcasting in India.
+QL: Examine the law on licensing and allocation of spectrum with reference to the 2G case.
+QS: Telecommunications Act, 2023
+QS: Kunal Kamra v Union of India
+
+MCQ: Broadcasting falls under || List II, entry 60 | *List I, entry 31 | List III | List I, entry 92 || Parliament has exclusive power.
+MCQ: The Indian Telegraph Act, 1885 was replaced by || the Cable TV Act 1995 | *the Telecommunications Act, 2023 | the IT Act 2000 | the TRAI Act 1997 || Also replacing the Wireless Telegraphy Act, 1933.
+
+# 6 | Right to information: development in India
+@topics Development of RTI in India
+>> The right to information grew from Supreme Court decisions reading it into Art. 19(1)(a), grassroots campaigns, and State laws, before the national RTI Act of 2005.
+
+## 6.1 Judicial recognition
+CASE: State of Uttar Pradesh v Raj Narain (1975) :: The Court held that the people have a right to know every public act and everything that is done in a public way by their public functionaries. The right to know, derived from freedom of speech, is not absolute, but secrecy should be the exception, justified only by the strictest requirements of public interest.
+
+CASE: S.P. Gupta v Union of India (Judges' Transfer case) (1981) :: The Court held that disclosure of information about the functioning of government must be the rule, and secrecy an exception justified only where the strictest requirement of public interest demands it. The concept of an open government is the direct emanation of the right to know, implicit in Art. 19(1)(a).
+
+- Other cases: *Secretary, Ministry of I&B v Cricket Association of Bengal* (1995: right to receive information); *Union of India v Association for Democratic Reforms* (2002) and *PUCL v Union of India* (2003: voters' right to know candidates' criminal antecedents, assets and education).
+
+## 6.2 Movements and State laws
+- The **Mazdoor Kisan Shakti Sangathan** (MKSS) in Rajasthan, from 1990, used public hearings (jan sunwais) to demand access to records of public works, exposing corruption.
+- The National Campaign for People's Right to Information (1996) and the Press Council's draft law (1996).
+- State RTI laws: Tamil Nadu (1997), Goa (1997), Rajasthan (2000), Karnataka (2000), Delhi (2001), Maharashtra (2003), and others.
+- The **Freedom of Information Act, 2002** was passed by Parliament but never brought into force.
+- The National Advisory Council's recommendations led to the **Right to Information Act, 2005**, passed in June 2005 and fully in force from 12 October 2005.
+
+* Judicial recognition: right to know (Raj Narain); open government (S.P. Gupta); voters' right to know (ADR; PUCL).
+* MKSS and the national campaign; State laws from 1997.
+* The FOI Act 2002 was never notified; the RTI Act 2005 came into force on 12 October 2005.
+
+QL: Trace the development of the right to information in India before the RTI Act, 2005.
+QS: MKSS
+QS: State of UP v Raj Narain
+
+MCQ: The right to know was recognised as derived from freedom of speech in || Cricket Association of Bengal | *State of UP v Raj Narain | ADR | PUCL || 1975.
+MCQ: The RTI Act came fully into force on || 15 June 2005 | *12 October 2005 | 1 January 2006 | 26 January 2005 || Passed in June 2005.
+
+# 7 | Right to Information Act, 2005 and its implementation
+@topics Right to Information Act, 2005; Its implementation
+>> The RTI Act gives every citizen a right to information held by public authorities, sets time limits, lists exemptions, and creates Information Commissions with power to penalise defaulting officers.
+
+## 7.1 Key definitions
+- **Information** (s.2(f)): any material in any form, including records, documents, memos, emails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, samples, models and electronic data, and information relating to a private body that can be accessed by a public authority under any law.
+- **Public authority** (s.2(h)): any authority or body established by the Constitution, by Parliamentary or State law, or by government notification, including bodies owned, controlled or substantially financed by the Government, and NGOs substantially financed by the Government.
+- **Right to information** (s.2(j)): the right to inspect works, documents and records, take notes, extracts or certified copies, take samples of material, and obtain information in electronic form.
+
+## 7.2 Obligations of public authorities
+- **Section 4**: maintain records, and publish suo motu (proactive disclosure) particulars of organisation, functions, powers, decision-making, norms, rules, budgets, subsidies, concessions, and the names of Public Information Officers.
+- **Section 5**: designate Central or State Public Information Officers (PIOs) and Assistant PIOs.
+
+## 7.3 Procedure
+- **Request** (s.6): in writing or electronically, with the prescribed fee (₹10 for the Central Government); no reasons need be given. Requests may be transferred to the proper authority within 5 days.
+- **Time limit** (s.7): 30 days; **48 hours** where the information concerns the life or liberty of a person; 40 days where third-party information is involved. Failure to decide within the time is deemed refusal; information is then supplied free of charge (s.7(6)).
+- **Third-party information** (s.11): notice to the third party, who may make a representation.
+- **Severability** (s.10): the non-exempt part of a record may be disclosed.
+
+## 7.4 Exemptions (ss.8 and 9)
+- **Section 8(1)**: (a) sovereignty, security, strategic and economic interests, relations with foreign States, or incitement to an offence; (b) forbidden by a court; (c) breach of privilege of Parliament or a legislature; (d) commercial confidence, trade secrets and intellectual property, unless the larger public interest warrants disclosure; (e) fiduciary relationship; (f) information received in confidence from foreign governments; (g) endangering life or physical safety, or identifying sources; (h) impeding investigation, apprehension or prosecution; (i) Cabinet papers (until the decision is taken); (j) personal information.
+- **Section 8(2)**: a public authority may allow access if the public interest in disclosure outweighs the harm to protected interests, notwithstanding the Official Secrets Act.
+- **Section 8(3)**: information about events that occurred 20 years earlier is to be provided, subject to some exemptions.
+- **Section 9**: refusal where disclosure would infringe copyright of a person other than the State.
+- **Section 24**: intelligence and security organisations in the Second Schedule are excluded, except for information about corruption and human rights violations.
+
+NOTE: Current law. Section 8(1)(j) originally exempted personal information having no relationship to public activity or interest, or causing unwarranted invasion of privacy, unless the larger public interest justified disclosure. It also provided that information which cannot be denied to Parliament or a State legislature shall not be denied to any person. Section 44(3) of the DPDP Act, 2023 replaced this with a simple exemption for "information which relates to personal information". It came into force with the DPDP Rules on 13 and 14 November 2025. Critics say it removes the public interest test and has been used to deny information about public officials. The government says s.8(2) still allows disclosure in the public interest.
+
+## 7.5 Information Commissions
+- The **Central Information Commission** (s.12) and **State Information Commissions** (s.15): a Chief Information Commissioner and up to ten Information Commissioners, appointed on the recommendation of a committee of the Prime Minister (or Chief Minister), the Leader of the Opposition and a Union (or State) Cabinet Minister.
+- **RTI (Amendment) Act, 2019**: the term of office, salaries and conditions of service of Information Commissioners are now prescribed by the Central Government (previously fixed by the Act at five years and on par with the Election Commission). The RTI Rules, 2019 fixed the term at three years.
+
+## 7.6 Appeals, complaints and penalties
+- **First appeal** (s.19(1)): to an officer senior to the PIO within 30 days. **Second appeal** (s.19(3)): to the Information Commission within 90 days.
+- **Complaints** (s.18): directly to the Commission for refusal to accept a request, non-response, excessive fees, or incomplete, misleading or false information. The Commission has the powers of a civil court for inquiries.
+- **Penalty** (s.20): ₹250 a day, up to ₹25,000, on the PIO for refusing to receive an application, not furnishing information within time without reasonable cause, malafide denial, knowingly giving false information, or destroying information. The Commission may recommend disciplinary action.
+- **Bar of jurisdiction** (s.23): no court shall entertain any suit or application regarding orders under the Act, but writ jurisdiction under Arts. 226 and 32 remains.
+
+## 7.7 Implementation
+- Strengths: millions of applications every year; exposure of corruption in public distribution, public works and welfare schemes; empowerment of citizens.
+- Problems: vacancies and pendency in Information Commissions (directions in *Anjali Bhardwaj v Union of India*, 2019, and *Kishan Chand Jain v Union of India*, 2023), poor proactive disclosure under s.4, attacks on RTI activists (the Whistle Blowers Protection Act, 2014 has not been operationalised), rare imposition of penalties, the 2019 amendment's effect on independence, and the 2025 change to s.8(1)(j).
+
+* Information (s.2(f)), public authority (s.2(h)), right (s.2(j)).
+* Suo motu disclosure (s.4); PIOs (s.5); request (s.6); 30 days or 48 hours (s.7); third parties (s.11); severability (s.10).
+* Exemptions (s.8(1)); public interest override (s.8(2)); 20-year rule (s.8(3)); copyright (s.9); excluded organisations (s.24).
+* Section 8(1)(j) amended by DPDP s.44(3) from November 2025.
+* Information Commissions; the 2019 amendment; appeals (30 and 90 days); complaints; penalty of ₹250 a day up to ₹25,000.
+* Implementation problems: vacancies (Anjali Bhardwaj; Kishan Chand Jain), weak s.4 compliance, safety of activists.
+
+QL: Explain the procedure for obtaining information under the RTI Act, 2005, and the time limits for disposal.
+QL: Discuss the exemptions from disclosure under s.8 of the RTI Act. What is the effect of the 2023 amendment to s.8(1)(j)?
+QL: Describe the constitution, powers and functions of the Central Information Commission. How did the 2019 amendment affect it?
+QS: Suo motu disclosure under s.4
+QS: Penalties under s.20
+QS: Public authority
+
+MCQ: Information concerning the life or liberty of a person must be provided within || 30 days | *48 hours | 7 days | 15 days || s.7(1) proviso.
+MCQ: The maximum penalty on a PIO under s.20 is || ₹10,000 | *₹25,000 | ₹50,000 | ₹1 lakh || At ₹250 a day.
+MCQ: Section 8(1)(j) of the RTI Act was amended by || the RTI (Amendment) Act 2019 | *s.44(3) of the DPDP Act, 2023 | the IT Act | the Official Secrets Act || In force from November 2025.
+
+# 8 | RTI decisions of the judiciary
+@topics Right to information decisions of the judiciary
+>> Courts have defined who is a public authority, what is personal or fiduciary information, and how privacy and transparency are balanced.
+
+## 8.1 Leading decisions
+CASE: Central Board of Secondary Education v Aditya Bandopadhyay (2011) :: An examinee has a right to inspect his evaluated answer books; they are "information", and the examining body does not hold them in a fiduciary capacity towards the examinee. The Court also cautioned that RTI should not be used to demand information in a manner that obstructs administration, and that s.4 disclosure should be strengthened.
+
+CASE: Girish Ramchandra Deshpande v Central Information Commissioner (2012) :: Details of a public servant's service record, show-cause notices, disciplinary action, and assets and income tax returns were held to be "personal information" exempt under s.8(1)(j), unless the larger public interest justified disclosure.
+
+CASE: Thalappalam Service Cooperative Bank Ltd v State of Kerala (2013) :: Cooperative societies registered under State laws are not "public authorities" merely because they are regulated by the Registrar. They are public authorities only if owned, controlled or substantially financed by the Government. Information about them may still be accessed through the Registrar to the extent the law permits.
+
+CASE: Reserve Bank of India v Jayantilal N. Mistry (2015) :: The RBI does not hold inspection reports and information about banks in a fiduciary relationship with them; its duty is to the public. It cannot withhold such information under s.8(1)(e) and must disclose it, subject to other exemptions.
+
+CASE: Central Public Information Officer, Supreme Court of India v Subhash Chandra Agarwal (2019) :: A Constitution Bench held that the office of the Chief Justice of India is a "public authority" under the RTI Act. Information on judges' assets can be disclosed; information on collegium deliberations and correspondence is to be decided case by case, balancing judicial independence, privacy and the public interest under s.8(1)(j) and s.11.
+
+CASE: Namit Sharma v Union of India (2012 and review 2013) :: In 2012 the Court held that Information Commissions perform quasi-judicial functions and directed that they include judicial members. On review in 2013, it recalled these directions, holding that the Commissions perform administrative functions and that persons from various fields listed in the Act may be appointed. It directed that appointments be made transparently.
+
+CASE: Anjali Bhardwaj v Union of India (2019) :: The Court directed the Central and State Governments to fill vacancies in Information Commissions in a time-bound and transparent manner, publish the criteria and names of the search committee and shortlisted candidates, and noted that non-functional Commissions defeat the right to information.
+
+## 8.2 Recent judgments (2025–26)
+
+CASE: Muppathadam Service Co-operative Bank Ltd v State Chief Information Commissioner (2026) :: Even if a co-operative society is not a public authority (Thalappalam), information about it that the Registrar can access under law is 'information' under s.2(f). The Registrar must obtain and supply such records (here, a construction agreement and general body minutes) to a member who applies.
+
+* Records a Registrar can access are 'information' under s.2(f) (Muppathadam, 2026).
+* Answer books are information (Aditya Bandopadhyay); service records and assets are personal (Girish Deshpande).
+* Cooperative societies are not public authorities unless substantially financed (Thalappalam); but records the Registrar can access are 'information' (Muppathadam, 2026).
+* No fiduciary relationship between the RBI and banks (Jayantilal Mistry).
+* The CJI's office is a public authority (Subhash Chandra Agarwal, 2019).
+* Information Commissions and appointments (Namit Sharma; Anjali Bhardwaj).
+
+QL: Discuss the important judicial decisions on the scope of "public authority" and the exemptions under the RTI Act.
+QL: Is the office of the Chief Justice of India a public authority under the RTI Act? Discuss.
+QS: CBSE v Aditya Bandopadhyay
+QS: Thalappalam Service Cooperative Bank case
+
+MCQ: The office of the CJI was held to be a public authority in || Namit Sharma | *CPIO, Supreme Court v Subhash Chandra Agarwal | Thalappalam | Aditya Bandopadhyay || 2019.
+MCQ: Answer books were held to be information accessible under RTI in || Girish Deshpande | *CBSE v Aditya Bandopadhyay | Jayantilal Mistry | Anjali Bhardwaj || 2011.
+MCQ: In Muppathadam Service Co-operative Bank (2026), the Supreme Court held that || co-operative societies are always public authorities | *information the Registrar can access under law is 'information' under s.2(f) | Thalappalam was overruled | RTI does not apply to co-operatives || The Registrar must obtain and supply it.
+
+# 9 | RTI decisions of the Central and State Information Commissions
+@topics RTI and decisions of the Central Information Commission and State Information Commissions
+>> Information Commissions decide most RTI disputes. Their decisions have extended transparency to political parties, file notings and public-private partnerships, though compliance is not always secured.
+
+## 9.1 Notable CIC decisions and principles
+- **File notings** (early CIC decisions): file notings are part of "information" under s.2(f) and can be disclosed, subject to exemptions. The Government's attempt to exclude them through an amendment was abandoned after public opposition.
+- **Political parties** (CIC Full Bench, June 2013): six national political parties were declared "public authorities" under s.2(h), because they are substantially financed indirectly (land, buildings, tax exemptions, free airtime) and perform public functions. The parties did not comply, and a petition seeking enforcement has been pending in the Supreme Court.
+- **Public-private partnerships**: the CIC has held that information about PPP projects held by the public authority (concession agreements, revenue sharing) must be disclosed, subject to commercial confidence.
+- **Third-party information and the public interest**: Commissions apply a balancing test under s.8(1)(d) and (j), considering whether the larger public interest outweighs harm.
+- **Penalties**: Commissions have imposed penalties on PIOs for delay and malafide denial, though the rate of penalties remains low.
+
+## 9.2 State Information Commissions
+- The Andhra Pradesh State Information Commission (constituted under s.15, and reconstituted after bifurcation in 2014) hears appeals from AP public authorities. State Commissions face similar problems: vacancies, pendency and limited enforcement powers.
+
+## 9.3 Assessment
+- Commissions have been effective in expanding disclosure, but face challenges: backlog, vacancies, lack of enforcement mechanisms (they cannot punish contempt), dependence on the Government after 2019, and High Court stays of their orders.
+
+* File notings are information; political parties declared public authorities (CIC 2013, not complied with); PPP information.
+* Balancing tests for third-party and personal information; penalties.
+* State Commissions, including Andhra Pradesh; problems of backlog and enforcement.
+
+QL: Discuss the role of the Central Information Commission in expanding the right to information, with reference to its important decisions.
+QS: Political parties and the RTI Act
+QS: File notings
+
+MCQ: The CIC Full Bench declared six national political parties public authorities in || 2006 | *2013 | 2019 | 2005 || Not complied with by the parties.
+
+# 10 | Law reforms in India
+@topics Law reforms in media law and RTI
+>> Recent reforms have modernised media registration and telecommunications law, extended regulation to digital media, and altered the RTI regime. Debates continue about press freedom, platform regulation and transparency.
+
+## 10.1 Recent changes
+| Area | Reform |
+|---|---|
+| Press registration | Press and Registration of Periodicals Act, 2023 (in force March 2024): online registration; decriminalisation of most violations |
+| Telecommunications | Telecommunications Act, 2023: replaces colonial telegraph laws; spectrum allocation; interception powers; satellite spectrum by administrative allocation |
+| Films | Cinematograph (Amendment) Act, 2023: age-based categories, perpetual certificates, anti-piracy |
+| Digital media | IT Rules, 2021: Code of Ethics for digital news and OTT; three-tier grievance redressal; fact-check unit amendment struck down (Kunal Kamra, 2024) |
+| Criminal law | BNS (2024): sedition removed, replaced by s.152; defamation (s.356) and obscenity (s.294) retained; community service as punishment for defamation in some cases |
+| Data protection | DPDP Act, 2023 and Rules, 2025: amended s.8(1)(j) RTI; no exemption for journalism |
+| RTI | RTI (Amendment) Act, 2019: tenure and salaries of Commissioners prescribed by the Government |
+
+## 10.2 Issues for reform
+- An independent media regulator for broadcasting and digital news; reforms to cross-media ownership; protection of journalists (shield laws for sources); decriminalisation of defamation; a clear statutory basis for internet shutdowns (*Anuradha Bhasin v Union of India*, 2020, required proportionality and publication of orders); a journalistic exemption in the DPDP Act; restoring the public interest test in s.8(1)(j); and operationalising the Whistle Blowers Protection Act.
+
+* Reforms in press registration, telecommunications, films, digital media, criminal law, data protection and RTI.
+* Pending issues: an independent regulator, ownership, shield laws, decriminalising defamation, internet shutdowns (Anuradha Bhasin), and DPDP and RTI concerns.
+
+QL: Critically examine the recent reforms in media law and the right to information in India, and suggest further reforms.
+QS: Press and Registration of Periodicals Act, 2023
+QS: Anuradha Bhasin v Union of India
+
+MCQ: The Press and Registration of Books Act, 1867 was replaced by || the Press Council Act 1978 | *the Press and Registration of Periodicals Act, 2023 | the IT Act 2000 | the Telecommunications Act 2023 || In force March 2024.
+MCQ: Proportionality and publication of internet shutdown orders were required in || Kunal Kamra | *Anuradha Bhasin v Union of India | Cricket Association of Bengal | Shreya Singhal || 2020.

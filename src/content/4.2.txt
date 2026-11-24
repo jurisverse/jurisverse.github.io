@@ -1,0 +1,477 @@
+@title Family Law – II
+@subtitle Joint Hindu family, Hindu succession, Muslim inheritance and wills, and the Indian Succession Act
+@paper 4.2
+@sem IV
+@color #6b3a5a
+@dark #5d3250
+@intro Covers property and succession in personal law. The Hindu Succession Act, 1956 (as amended in 2005), the Muslim law of inheritance and wills, and the Indian Succession Act, 1925 are the main texts. Note that s.213 of the Indian Succession Act (compulsory probate in the old presidency towns) was omitted by the Repealing and Amending Act, 2025.
+@reading Mulla, Principles of Hindu Law
+@reading Paras Diwan, Modern Hindu Law
+@reading Mulla, Principles of Mahomedan Law
+@reading A.A.A. Fyzee, Outlines of Muhammadan Law
+@reading Paras Diwan, Law of Intestate and Testamentary Succession
+@reading The Hindu Succession Act, 1956; The Indian Succession Act, 1925
+
+# 1 | Joint Hindu family: Mitakshara and Dayabhaga
+@topics Mitakshara joint family; Coparcenary: formation and incidents; Separate and coparcenary property; Dayabhaga coparcenary; Karta: position, powers and obligations; Alienation; Debts: pious obligation and antecedent debt; Partition and reunion
+>> The joint Hindu family is a group of persons descended from a common ancestor; the coparcenary is a narrower body within it that holds joint property by birth. Mitakshara and Dayabhaga differ on how that right arises.
+
+## 1.1 Mitakshara joint family and coparcenary
+- **Joint Hindu family**: all persons lineally descended from a common male ancestor, with their wives and unmarried daughters. It is a creature of law, not of contract.
+- **Coparcenary**: the common ancestor and his lineal descendants up to three degrees (four generations including himself), who acquire an interest in coparcenary property by birth.
+- **Incidents**: community of interest and unity of possession; no coparcener can claim a definite share until partition; the interest fluctuates with births and deaths; devolution was by survivorship (now modified by s.6 HSA); the right to demand partition; the right to restrain unauthorised acts.
+- Since the **Hindu Succession (Amendment) Act, 2005**, a daughter is a coparcener by birth in her own right, with the same rights and liabilities as a son (s.6).
+
+CASE: Vineeta Sharma v Rakesh Sharma (2020) :: A three-judge bench held that a daughter is a coparcener by birth, and her rights under the amended s.6 do not depend on her father being alive on 9 September 2005. It overruled Prakash v Phulavati (2016) and Danamma v Amar (2018) on this point. A partition is recognised only if it is registered or decreed before 20 December 2004, or proved by public documents.
+
+## 1.2 Separate and coparcenary property
+- **Coparcenary (ancestral) property**: property inherited by a Hindu from his father, father's father or father's father's father; property acquired with the aid of joint family funds; property thrown into the common stock (blending); and property obtained on partition (vis-à-vis the sons).
+- **Separate property**: self-acquisitions, gifts from strangers, property inherited from collaterals or from females, the share on partition (for a sole surviving coparcener), and gains of learning.
+
+CASE: Commissioner of Wealth Tax v Chander Sen (1986) :: Property inherited by a son from his father under s.8 of the Hindu Succession Act is his separate property and not HUF property in his hands vis-à-vis his own sons, because s.8 makes the son take as a Class I heir in his individual capacity.
+
+CASE: Arshnoor Singh v Harpal Kaur (2019) :: Property inherited from a paternal ancestor before 1956 (when the HSA came into force) is ancestral property in which the descendants acquire an interest by birth. Inheritance after 1956 under s.8 is separate property.
+
+## 1.3 Dayabhaga coparcenary
+- A son acquires no right by birth; the father is the absolute owner of ancestral property during his lifetime. A coparcenary arises only on the father's death, among the heirs (sons, and in some cases widow or daughter).
+- Each coparcener holds a definite share and can alienate it; devolution is by succession, not survivorship; females can be coparceners.
+
+| Point | Mitakshara | Dayabhaga |
+|---|---|---|
+| Right by birth | Yes | No; arises on father's death |
+| Share | Fluctuating, undefined until partition | Definite share |
+| Devolution | Survivorship (now modified) | Succession |
+| Alienation of share | Restricted (gift barred; sale permitted in some States) | Free |
+| Area | Most of India | Bengal and Assam |
+
+## 1.4 The Karta
+- The senior-most male member, or since 2005 the senior-most coparcener, which may be a daughter: the Delhi High Court held in *Sujata Sharma v Manu Gupta* (2016) that the eldest female coparcener can be Karta.
+- **Position**: sui generis; not an agent or trustee; manages the family with wide discretion; not liable to account except on partition (unless fraud or misappropriation).
+- **Powers**: management, income and expenditure, representing the family in suits, compromising disputes, contracting debts for family purposes, and alienating joint property for legal necessity, benefit of the estate or indispensable duties.
+- **Obligations**: maintain members, arrange marriages of unmarried daughters, perform religious duties, account on partition.
+
+## 1.5 Alienation of property
+- Joint family property may be alienated by the Karta for: (1) **legal necessity**, (2) **benefit of the estate**, or (3) **indispensable duties** (shraddha, marriage).
+
+CASE: Hunoomanpersaud Panday v Mussumat Babooee Munraj Koonweree (1856) :: The Privy Council held that a manager's power to charge an estate is limited to cases of need or benefit to the estate. A lender is not required to see to the application of the money, but must show that he made a bona fide inquiry and was reasonably satisfied that the necessity existed.
+
+- A coparcener's undivided interest: sale is permitted in Madras, Bombay and Madhya Pradesh, but not in Bengal-influenced or North Indian schools; gift of an undivided interest is void without the consent of the others. A coparcener can dispose of his interest by will (s.30 HSA).
+
+CASE: Sunil Kumar v Ram Prakash (2003) :: A coparcener cannot sue for an injunction to restrain the Karta from alienating joint family property, because the Karta has the power to alienate for legal necessity. The remedy is to challenge the alienation after it is made.
+
+## 1.6 Debts: pious obligation and antecedent debt
+- **Pious obligation**: under Mitakshara, a son was under a pious duty to pay his father's debts (not tainted by illegality or immorality, avyavaharika) out of his share of joint property.
+- **Antecedent debt**: the father may sell or mortgage joint property, including his sons' interest, to discharge an antecedent debt, that is, a debt prior in time and independent of the transaction.
+
+CASE: Brij Narain v Mangla Prasad (1923) :: The Privy Council laid down five propositions. The Karta cannot alienate except for necessity. If the father is the manager, he can alienate for the payment of antecedent debt. "Antecedent debt" means antecedent in fact as well as time, truly independent of and not part of the transaction impeached. A mortgage by the father to secure an antecedent debt is valid. If the father is not the manager, the mortgage binds his own interest only.
+
+- **2005 amendment** (s.6(4)): the doctrine of pious obligation is abolished for debts contracted after 9 September 2005; earlier debts are still recoverable.
+
+## 1.7 Partition and reunion
+- **Partition** is severance of status (a definite intention to separate, communicated) and division by metes and bounds. It may be by agreement, unilateral declaration, suit, arbitration, or conversion.
+- Who may demand partition: every adult coparcener (including daughters after 2005). A minor may sue through a next friend if it is for his benefit.
+- Shares on partition: father and each son equally; the wife and mother were given shares under the old law in some schools; under s.6(3) HSA, a daughter gets the same share as a son.
+
+CASE: Raghavamma v Chenchamma (1964) :: Severance of status takes place by an unequivocal declaration by a coparcener of his intention to separate, communicated to the other members. Division by metes and bounds is not necessary for severance of status.
+
+- **Reunion**: after partition, members may reunite by agreement. Only the persons who were parties to the partition can reunite (a father with his sons, brothers, or a paternal uncle and nephew). It requires a clear intention to reunite in estate and interest.
+
+CASE: Bhagwan Dayal v Mst Reoti Devi (1962) :: Reunion must be proved by clear evidence of an agreement, express or implied, to reunite in estate and interest; mere living together or joint enjoyment is not enough.
+
+* A coparcenary of four generations holds property by birth; daughters are coparceners since 2005 (Vineeta Sharma).
+* Property inherited under s.8 is separate (Chander Sen); pre-1956 inheritance is ancestral (Arshnoor Singh).
+* Dayabhaga: no right by birth; definite shares; succession.
+* The Karta alienates for legal necessity or benefit (Hunoomanpersaud); a coparcener cannot get an injunction (Sunil Kumar).
+* Pious obligation and antecedent debt (Brij Narain), abolished for debts after 2005.
+* Partition by unequivocal declaration (Raghavamma); reunion needs a clear agreement (Bhagwan Dayal).
+
+QL: What is a Mitakshara coparcenary? Discuss the changes made by the Hindu Succession (Amendment) Act, 2005 with reference to Vineeta Sharma.
+QL: Discuss the position and powers of the Karta, particularly regarding alienation of joint family property.
+QL: Explain the doctrine of pious obligation and antecedent debt. What is its present position?
+QL: Distinguish between Mitakshara and Dayabhaga schools.
+QS: Severance of status
+QS: Reunion
+QS: Blending of separate property
+
+MCQ: A daughter's coparcenary right does not depend on the father being alive on 9 September 2005, as held in || Prakash v Phulavati | *Vineeta Sharma v Rakesh Sharma | Danamma v Amar | Chander Sen || 2020.
+MCQ: The five propositions on antecedent debt were laid down in || Hunoomanpersaud | *Brij Narain v Mangla Prasad | Raghavamma | Bhagwan Dayal || 1923.
+MCQ: Under the Dayabhaga school, a son acquires interest in ancestral property || by birth | *on the father's death | on marriage | on attaining majority || No right by birth.
+
+# 2 | Joint Hindu family as a social security institution; gains of learning; tax
+@topics Joint Hindu family as a social security institution; Hindu Gains of Learning Act, 1930; Tax laws and the HUF
+>> The joint family traditionally supported its old, sick, widowed and unemployed members. Modern law has loosened the family's claim on individual earnings and treats the HUF as a separate taxable unit.
+
+## 2.1 The joint family as social security
+- It provided maintenance, shelter, marriage expenses and care for widows, the aged and the disabled, and pooled labour and resources in agrarian society.
+- Decline: urbanisation, nuclear families, individual employment, the HSA (which treats inherited property as separate), and State social security schemes.
+
+## 2.2 Hindu Gains of Learning Act, 1930
+- Under classical law, gains made through learning acquired at family expense were joint property.
+- The Act (s.3) provides that gains of learning are not to be held non-separate property merely because the learning was acquired with the aid of joint family funds, or the member or his family was maintained or supported by the family during the period. So a doctor's or engineer's earnings are his separate property even if the family paid for his education.
+
+## 2.3 Tax laws and the HUF
+- The HUF is a distinct "person" and assessee under income tax law (s.2(31) of the 1961 Act, and the definition of "person" in the Income-tax Act, 2025). It gets its own basic exemption and deductions, which creates an incentive to keep property in the HUF.
+- Partition of an HUF must be recognised by the assessing officer; only total partition is recognised for HUFs that were assessed as undivided; partial partitions after 31 December 1978 are not recognised for tax purposes (s.171 of the 1961 Act, carried into the 2025 Act).
+- Clubbing: income from property converted by an individual into HUF property is clubbed with the individual's income.
+- The Wealth Tax Act (abolished from 2015) also treated the HUF as an assessee.
+
+* The joint family as social security, now in decline.
+* Gains of Learning Act: gains of learning are separate property despite family funding.
+* The HUF is a separate tax entity; only total partition is recognised; clubbing on conversion.
+
+QL: Discuss the joint Hindu family as a social security institution and the impact of the Hindu Gains of Learning Act and tax laws on it.
+QS: Hindu Gains of Learning Act, 1930
+QS: HUF as an assessee
+
+MCQ: Under the Hindu Gains of Learning Act, gains of learning acquired with family funds are || joint property | *separate property | partly joint | Stridhana || s.3.
+
+# 3 | Inheritance among Hindus
+@topics Historical perspective; Succession to a Hindu male dying intestate; Devolution of interest in Mitakshara coparcenary; Succession to a Hindu female dying intestate; Disqualifications; General rules; Marumakkattayam and Aliyasantana
+>> The Hindu Succession Act, 1956 replaced the old texts with a uniform scheme. It gives the male's property to Class I heirs equally and has separate rules for property of females.
+
+## 3.1 Historical perspective
+- Classical Mitakshara gave preference to sapindas (blood relations through males), with females having only limited rights. Dayabhaga based heirship on spiritual benefit (pinda offering).
+- Reform statutes before 1956: the Hindu Law of Inheritance (Amendment) Act 1929 and the Hindu Women's Rights to Property Act 1937 (widow's limited estate). The Hindu Code Bill led to the HSA 1956.
+
+## 3.2 Succession to a male dying intestate (ss.8 to 13)
+- **Class I** heirs (Schedule): son, daughter, widow, mother, and the children and widows of predeceased sons and daughters (and of a predeceased son of a predeceased son). They take **simultaneously** and to the exclusion of all others.
+- Then **Class II** heirs in nine entries, the earlier entry excluding the later; then **agnates**; then **cognates**.
+- Distribution among Class I heirs (s.10): the widow (or all widows together) one share; each surviving son and daughter and the mother one share each; the heirs in the branch of each predeceased son or daughter take one share between them.
+- Agnates and cognates are ranked by degrees of ascent and descent (s.12 and s.13).
+
+## 3.3 Devolution of interest in Mitakshara coparcenary (s.6)
+- Before 2005, a male's coparcenary interest passed by survivorship, but if he left a female Class I heir, it passed by succession, determined by a **notional partition** just before death.
+- After 2005, on a coparcener's death, his interest passes by testamentary or intestate succession, not survivorship. A daughter takes the same share as a son, and the notional partition rule applies.
+
+CASE: Gurupad Khandappa Magdum v Hirabai Khandappa Magdum (1978) :: In computing the share of a widow under the proviso to old s.6, the notional partition must be treated as real. The widow gets her share on the notional partition plus her share as a Class I heir in the deceased's notional share.
+
+CASE: Uttam v Saubhag Singh (2016) :: Where a coparcener's interest devolved under the proviso to old s.6 (read with s.8) because he left a female Class I heir, the property ceased to be joint family property in the hands of the heirs, who take as tenants-in-common.
+
+## 3.4 Succession to a female dying intestate (ss.14 to 16)
+- **Section 14(1)**: property possessed by a female Hindu, however acquired, is held by her as **full owner**, not as a limited owner. Section 14(2) excludes property acquired under a gift, will, instrument, decree or award that prescribes a restricted estate.
+
+CASE: V. Tulasamma v Sesha Reddy (1977) :: Property given to a widow in lieu of her pre-existing right to maintenance is covered by s.14(1) and becomes her absolute property, even if the instrument gives her a limited estate. Section 14(2) applies only where the instrument creates a new right, not where it recognises a pre-existing one.
+
+- **Section 15(1) order**: (a) sons, daughters (and children of predeceased ones) and husband; (b) heirs of the husband; (c) mother and father; (d) heirs of the father; (e) heirs of the mother.
+- **Section 15(2) exceptions**: property inherited from her father or mother goes, if she has no son or daughter, to the heirs of her father. Property inherited from her husband or father-in-law goes, if she has no son or daughter, to the heirs of her husband.
+
+CASE: Omprakash v Radhacharan (2009) :: A widow who had been thrown out of her matrimonial home after her husband's death acquired self-earned property and died intestate without issue. Under s.15(1)(b), her property went to her husband's heirs, not to her mother's family. The Court applied the statute despite sympathy, noting it was for Parliament to amend.
+
+## 3.5 Disqualifications
+- **Murderer** (s.25): a person who commits murder or abets it is disqualified from inheriting from the victim.
+- **Convert's descendants** (s.26): children born to a convert after conversion, and their descendants, are disqualified unless they are Hindus when succession opens. The convert himself is not disqualified.
+- Omitted provisions: s.23 (dwelling house restriction on females) and s.24 (remarriage of certain widows) were omitted by the 2005 amendment. Disease, defect or deformity is not a disqualification (s.28).
+
+## 3.6 General rules of succession
+- Full blood preferred to half blood (s.18); heirs succeed as tenants-in-common (s.19); a child in the womb inherits (s.20); presumption in cases of simultaneous death that the younger survived the elder (s.21); preferential right of acquisition by co-heirs (s.22); escheat to the government if there is no heir (s.29).
+
+## 3.7 Marumakkattayam and Aliyasantana
+- Matrilineal systems in Kerala (Marumakkattayam, among the Nairs) and South Canara (Aliyasantana, among the Bunts and others). Descent is traced through females; property is held by the tarwad or kutumba, managed by the senior male (karnavan) or female.
+- Section 7 HSA dealt with devolution of interest in a tarwad and similar units; s.17 modified the order of succession for persons governed by these laws.
+- The **Kerala Joint Hindu Family System (Abolition) Act, 1975** abolished the joint family system (both Mitakshara and Marumakkattayam) in Kerala; members hold as tenants-in-common.
+
+## 3.8 Recent judgments (2025–26)
+
+CASE: Mahinder v Puran Singh (2026) :: The preferential right of co-heirs to acquire a share under s.22 of the Hindu Succession Act applies to inherited agricultural land too.
+
+CASE: Darubai v Kamalabai (2026) :: Property inherited by a son under s.8 of the Hindu Succession Act is his individual property, not coparcenary property, in the hands of his own heirs.
+
+* s.22 HSA applies to agricultural land (Mahinder, 2026); s.8 inheritance is individual property.
+* Class I heirs take simultaneously; then Class II, agnates, cognates (ss.8 to 13).
+* Section 6: notional partition (Gurupad), heirs take as tenants-in-common (Uttam); post-2005 succession instead of survivorship.
+* Section 14(1): full ownership; property in lieu of maintenance becomes absolute (Tulasamma).
+* Section 15: special order for females (Omprakash).
+* Disqualifications: murderer, convert's descendants; ss.23 and 24 omitted.
+* Matrilineal systems abolished in Kerala (1975).
+
+QL: Discuss the scheme of succession to the property of a Hindu male dying intestate under the Hindu Succession Act, 1956.
+QL: Explain the rules of succession to the property of a Hindu female dying intestate. Discuss Omprakash v Radhacharan.
+QL: "Section 14 of the HSA converts limited estates into absolute estates." Discuss with reference to Tulasamma.
+QL: Explain the devolution of interest in Mitakshara coparcenary before and after 2005.
+QS: Notional partition
+QS: Disqualifications under the HSA
+QS: Marumakkattayam law
+
+MCQ: Property given to a widow in lieu of maintenance becomes her absolute property under s.14(1), as held in || Gurupad | *V. Tulasamma v Sesha Reddy | Omprakash | Uttam || 1977.
+MCQ: Class I heirs of a Hindu male take || in order of priority | *simultaneously | only if no Class II heir exists | per stirpes only || s.9.
+MCQ: The murderer's disqualification is in || s.24 | *s.25 | s.26 | s.28 || HSA.
+
+# 4 | New property concepts
+@topics Skill, job and similar new forms of property
+>> Modern wealth often lies not in land but in jobs, skills, pensions, licences and professional qualifications. These raise new questions about family claims and division.
+
+## 4.1 The new property
+- Charles Reich, in "The New Property" (1964), argued that government largesse (jobs, licences, benefits, franchises, contracts) had become a major form of wealth and deserved legal protection similar to traditional property.
+- In family law, the question is whether a spouse or family member has a claim to the value of a career, degree, goodwill or pension built with family support.
+
+## 4.2 Indian position
+- Earnings and gains of learning are separate property (Gains of Learning Act), so the family has no claim to a member's skill or job.
+- Pension and gratuity: these are not bounty but earned property (Deokinandan Prasad v State of Bihar, 1971), so they cannot be withheld arbitrarily; nominees collect them, but heirs take under succession law.
+- Compassionate appointment is not a heritable right; it is an exception to equal opportunity, given to relieve a family in sudden financial crisis (Umesh Kumar Nagpal v State of Haryana, 1994).
+- Some foreign jurisdictions (for example, New York in O'Brien v O'Brien, 1985) treat professional degrees earned during marriage as marital property; India has not followed this approach.
+
+* Reich's "new property": jobs, licences, benefits.
+* In India, skills and earnings are separate; pension is property (Deokinandan Prasad); compassionate appointment is not heritable (Umesh Kumar Nagpal).
+
+QL: Discuss "new property" such as skill and job in the context of family law.
+QS: Charles Reich's "New Property"
+
+MCQ: Pension was held to be property and not a bounty in || Umesh Kumar Nagpal | *Deokinandan Prasad v State of Bihar | Tulasamma | Chander Sen || 1971.
+
+# 5 | Settlement of spousal property
+@topics Settlement of spousal property: need for development
+>> Indian law has no general regime for dividing matrimonial property on divorce. A spouse, usually the wife, gets maintenance and Stridhana but no share in property acquired during marriage.
+
+## 5.1 Present position
+- Separate property regime: each spouse owns what is in his or her name. On divorce, the wife gets maintenance and permanent alimony (s.25 HMA; s.37 Special Marriage Act), Stridhana (s.27 HMA), and rights to reside in the shared household under the Protection of Women from Domestic Violence Act, 2005 (s.17).
+
+CASE: Satish Chander Ahuja v Sneha Ahuja (2020) :: A three-judge bench overruled S.R. Batra v Taruna Batra (2007) and held that a "shared household" under s.2(s) of the Domestic Violence Act includes a household where the woman lived in a domestic relationship, even if it belongs to the in-laws and the husband has no right in it. The wife's right of residence is not dependent on ownership.
+
+CASE: Rajnesh v Neha (2020) :: The Supreme Court laid down guidelines for maintenance: mandatory affidavits of disclosure of assets and liabilities, criteria for quantum, overlapping jurisdictions, and the date from which maintenance is payable (date of application).
+
+- **Goa** follows a community of property regime under the Portuguese Civil Code (continued in the Goa Civil Code): property acquired by either spouse after marriage is held jointly and divided equally on divorce.
+
+## 5.2 Need for reform
+- The 2010 Marriage Laws (Amendment) Bill proposed a share for the wife in the husband's residential property on divorce under "irretrievable breakdown"; it lapsed.
+- The Law Commission (Consultation Paper on Reform of Family Law, 2018) recommended recognising community of self-acquired property acquired after marriage, and valuing unpaid domestic work.
+- The Uttarakhand Uniform Civil Code, 2024 (in force from January 2025) is the first State law for all communities, but does not introduce matrimonial property division.
+
+* Separate property regime; maintenance, Stridhana and residence rights only.
+* Shared household includes in-laws' house (Satish Chander Ahuja); maintenance guidelines (Rajnesh).
+* Goa has community of property; reform has been proposed but not enacted.
+
+QL: "India needs a law on division of matrimonial property." Discuss.
+QS: Shared household under the DV Act
+QS: Community of property in Goa
+
+MCQ: S.R. Batra v Taruna Batra on shared household was overruled in || Rajnesh v Neha | *Satish Chander Ahuja v Sneha Ahuja | Prabha Tyagi | Vineeta Sharma || 2020.
+
+# 6 | Muslim law of inheritance and succession
+@topics Rules of Sunni and Shia law of inheritance; Differences between Shia and Sunni laws; Administration of estates
+>> Muslim inheritance follows fixed Quranic shares. Sunni law adds agnatic residuaries; Shia law groups heirs into three classes by nearness. In both, the estate vests in the heirs on death, after debts and bequests.
+
+## 6.1 General principles
+- Applies by the Muslim Personal Law (Shariat) Application Act, 1937 (s.2).
+- No distinction between movable and immovable, or ancestral and self-acquired property; no right by birth (the heir-apparent has only a spes successionis); no joint family.
+- The estate is applied in order: funeral expenses; debts; legacies up to one-third of the remainder; then distribution to heirs.
+- A child in the womb inherits if born alive; a person who causes the death of another is excluded (Sunni: any homicide; Shia: only intentional homicide).
+- Difference of religion excludes (a non-Muslim cannot inherit from a Muslim), but the Caste Disabilities Removal Act, 1850 protects a convert from Islam.
+
+## 6.2 Sunni (Hanafi) law
+- **Sharers** (12 Quranic heirs with fixed shares): husband, wife, father, true grandfather, mother, true grandmother, daughter, son's daughter (how low soever), full sister, consanguine sister, uterine brother and uterine sister.
+- **Residuaries** (agnates): take what remains after sharers, in order: descendants, ascendants, descendants of the father, descendants of the true grandfather.
+- **Distant kindred**: relations who are neither sharers nor residuaries, such as daughter's children.
+- Examples of shares: husband 1/2 (1/4 if there is a child); wife 1/4 (1/8 with a child); daughter alone 1/2, two or more 2/3 (with a son, she becomes a residuary taking half a son's share).
+- **Aul (increase)**: if shares add up to more than unity, each share is reduced proportionally.
+- **Radd (return)**: if shares are less than unity and there are no residuaries, the surplus returns to sharers other than the spouse (the spouse takes return only if there is no other heir).
+
+## 6.3 Shia (Ithna Ashari) law
+- Heirs are grouped in **three classes** by nearness, each with sharers and residuaries:
+  1. parents, and children and lower descendants;
+  2. grandparents (how high soever), and brothers and sisters and their descendants;
+  3. paternal and maternal uncles and aunts and their descendants.
+- The spouse inherits along with any class.
+- No distinction between agnates and cognates; representation applies (the descendants take the share of the person through whom they claim).
+
+## 6.4 Differences between Sunni and Shia law
+| Point | Sunni | Shia |
+|---|---|---|
+| Classification | Sharers, residuaries, distant kindred | Three classes by nearness |
+| Agnates and cognates | Agnates preferred | No distinction |
+| Representation | Not recognised (per capita among residuaries) | Recognised (per stirpes) |
+| Aul (increase) | Applied | Not applied; deficit borne by daughters and sisters |
+| Radd (return) to spouse | Only if no other heir | Husband takes return; wife does not (under most views) |
+| Homicide | Any homicide excludes | Only intentional homicide excludes |
+| Childless widow | Inherits from all property | Does not inherit from land (only movables and value of buildings) |
+| Bequest to heir | Needs consent of other heirs | Valid within one-third without consent |
+
+## 6.5 Administration of estates
+- On death, the estate vests immediately in the heirs in their specific shares, subject to debts. The heirs are liable for debts only to the extent of the estate they receive.
+- An executor (wasi) may be appointed by will. Letters of administration and probate under the Indian Succession Act are available but not compulsory for Muslims.
+- A creditor may sue the heirs, and the heirs may sell their shares; a sale by one heir to pay debts binds others only if the heir is in possession and acts bona fide.
+
+* The 1937 Shariat Act applies; no right by birth; the estate goes to funeral costs, debts, legacies (one-third), then heirs.
+* Sunni: 12 sharers, residuaries, distant kindred; aul and radd.
+* Shia: three classes; representation; no aul.
+* Key differences are in the table above.
+* The estate vests in heirs immediately; liability for debts is limited to the estate received.
+
+QL: Explain the classification of heirs under Sunni law. How do aul and radd operate?
+QL: Discuss the principal differences between the Sunni and Shia laws of inheritance.
+QL: Explain the rules regarding administration of the estate of a deceased Muslim.
+QS: Doctrine of aul (increase)
+QS: Doctrine of radd (return)
+QS: Distant kindred
+
+MCQ: The number of Quranic sharers under Sunni law is || 9 | *12 | 3 | 15 || Including husband, wife and parents.
+MCQ: The doctrine of aul (increase) is applied in || Shia law only | *Sunni law | both equally | neither || Shia law does not apply aul.
+MCQ: Under Shia law, heirs are grouped into || two classes | *three classes | sharers only | five classes || By nearness.
+
+# 7 | Wills under Muslim law
+@topics Wills under Muslim law
+>> A Muslim may bequeath only one-third of the estate (after funeral costs and debts). Bequests beyond one-third, or to an heir (under Sunni law), need the heirs' consent.
+
+## 7.1 Essentials
+- **Testator**: a Muslim of sound mind who has attained majority. Under Shia law, a will made by a person who has taken poison or wounded himself with intent to commit suicide is invalid.
+- **Legatee**: any person capable of holding property, including a non-Muslim, an institution, and (under Sunni law) a child in the womb if born within six months.
+- **Subject**: property existing at the testator's death.
+- **Form**: no formalities. A will may be oral or written; a written will need not be signed or attested, but the intention must be clear.
+
+## 7.2 Limits on testamentary power
+- **One-third rule**: a bequest beyond one-third of the net estate is valid only if the heirs consent after the testator's death (Sunni), or before or after death (Shia).
+- **Bequest to an heir**: Sunni law requires the consent of the other heirs after death. Shia law permits it within one-third without consent.
+- **Abatement**: if bequests exceed one-third and heirs do not consent, they abate rateably (Sunni); under Shia law, earlier bequests take priority.
+- **Revocation**: a will may be revoked expressly or impliedly, for example by selling or gifting the property.
+- **Death-bed gift (marz-ul-maut)**: a gift during the last illness, made under apprehension of death, operates as a will and is limited to one-third.
+
+## 7.3 Comparison with gift (hiba)
+- A hiba transfers present ownership and requires delivery of possession; a will operates only on death.
+- Hiba has no one-third limit; a will has.
+
+* Muslims may bequeath one-third; more requires heirs' consent.
+* A bequest to an heir needs consent (Sunni), not within one-third (Shia).
+* No formalities; revocable; death-bed gifts are treated as wills.
+
+QL: Discuss the essentials and limitations of a will under Muslim law. How does the Shia law differ?
+QS: Marz-ul-maut
+QS: Bequest to an heir
+
+MCQ: A Muslim can bequeath, without the heirs' consent, up to || one-half | *one-third | one-fourth | the whole || After funeral costs and debts.
+
+# 8 | Indian succession law: domicile and intestate succession
+@topics Domicile; Intestate succession
+>> The Indian Succession Act, 1925 governs succession for Christians, Parsis and others not covered by the HSA or Muslim law, and wills by Hindus (with modifications). Domicile decides which law applies to movables.
+
+## 8.1 Domicile (ss.4 to 19)
+- Succession to **immovable property** in India is governed by Indian law wherever the deceased was domiciled. Succession to **movable property** is governed by the law of the deceased's domicile at death (s.5).
+- **Domicile of origin** (s.7): the father's domicile at birth (or the mother's, for an illegitimate child, s.8). It prevails until a new domicile is acquired.
+- **Domicile of choice** (s.10): by taking up fixed habitation in another country with intention of permanent residence. Domicile of origin revives if a domicile of choice is abandoned (s.13).
+- Domicile of a minor follows the parent (s.14); a wife acquires the husband's domicile on marriage (s.15) (a rule criticised as discriminatory).
+
+## 8.2 Intestate succession
+### Christians and others (ss.31 to 49)
+- **Widow** with lineal descendants: one-third; the rest to lineal descendants. With only kindred: one-half; the rest to kindred. If there is no kindred: the whole.
+- **Lineal descendants**: equally among children; children of predeceased children take their parent's share (per stirpes).
+- **No lineal descendants**: the father takes; if no father, the mother, brothers and sisters equally; and so on.
+- Sons and daughters take equally.
+
+CASE: Mary Roy v State of Kerala (1986) :: The Travancore Christian Succession Act, 1916, which gave a daughter only a quarter of a son's share or ₹5,000, whichever was less, was held to have been superseded by the Indian Succession Act, 1925 when Part B States laws were replaced in 1951. Christian daughters in the former Travancore area were therefore entitled to equal shares.
+
+### Parsis (ss.50 to 56)
+- Since the 1991 amendment, sons and daughters take equal shares; the widow or widower takes a share equal to a child's share; parents take half a child's share each where the deceased leaves children.
+
+* Immovables go by Indian law; movables by the law of domicile (s.5).
+* Domicile of origin and domicile of choice.
+* Christians: widow takes one-third with descendants; children take equally (Mary Roy).
+* Parsis: equal shares for sons and daughters since 1991.
+
+QL: Explain the rules of domicile under the Indian Succession Act, 1925.
+QL: Discuss the rules of intestate succession for Christians. Discuss Mary Roy's case.
+QS: Domicile of choice
+QS: Parsi intestate succession
+
+MCQ: Succession to movable property is governed by || lex situs | *the law of the deceased's domicile at death | the law of the heir's domicile | Indian law always || s.5 ISA.
+MCQ: Equal shares for Christian daughters in former Travancore were recognised in || John Vallamattom | *Mary Roy v State of Kerala | Clarence Pais | Navneet Lal || 1986.
+
+# 9 | Wills, codicils, probate and administration
+@topics Interpretation and revocation of wills; Conditional, contingent or void bequests; Legacies; Probate and letters of administration; Executors and administrators; Succession certificate
+>> A will lets a person direct how property passes after death. The law requires due execution and proof, construes the will to find the testator's intention, and provides machinery (probate, letters of administration, succession certificates) to administer the estate.
+
+## 9.1 Will and codicil
+- A **will** is a legal declaration of the testator's intention about his property, to take effect after death (s.2(h)). A **codicil** is an instrument explaining, altering or adding to a will, and is deemed part of it (s.2(b)).
+- **Capacity** (s.59): a person of sound mind, not a minor.
+- **Execution of unprivileged wills** (s.63): signed by the testator (or by someone in his presence and by his direction), and attested by two or more witnesses who saw him sign or received his acknowledgment. Privileged wills (soldiers, airmen and mariners on actual service) may be oral or informal (s.65 and s.66).
+- **Proof**: the propounder must prove due execution and remove suspicious circumstances; at least one attesting witness must be examined (s.68 of the Evidence Act, now s.67 of the Bharatiya Sakshya Adhiniyam).
+
+CASE: H. Venkatachala Iyengar v B.N. Thimmajamma (1959) :: The propounder must prove that the testator signed the will, was of sound mind and understood its contents. Where there are suspicious circumstances (such as the propounder taking a prominent part in execution, unnatural dispositions, or a shaky signature), the propounder must remove them to the satisfaction of the court.
+
+## 9.2 Interpretation and revocation
+- The court must ascertain the testator's intention from the words used, read as a whole, placing itself in the testator's position (the "armchair rule"). Sections 74 to 111 contain detailed rules.
+
+CASE: Navneet Lal v Gokul (1976) :: The Court laid down principles for construing wills: the intention is to be gathered primarily from the language; the court may look at surrounding circumstances; a later clause prevails over an earlier inconsistent clause; and effect must be given to every disposition as far as possible.
+
+- **Revocation** (s.70): by marriage (except for Hindus and some others), by another will or codicil, by a written declaration executed like a will, or by burning, tearing or destroying the will with intention to revoke. A will is always revocable (s.62).
+
+## 9.3 Bequests: conditional, contingent and void
+- **Vested and contingent legacies** (s.119 and s.120): a legacy vests on the testator's death unless the will postpones it; a contingent legacy depends on an uncertain event.
+- **Conditional bequests**: a condition precedent that is impossible or illegal makes the bequest void (s.126); a condition subsequent that is invalid is ignored.
+- **Void bequests**: to a person not in existence at the testator's death, subject to a prior bequest (s.113); one that violates the rule against perpetuity (s.114); a bequest void for uncertainty (s.89).
+
+CASE: John Vallamattom v Union of India (2003) :: Section 118 of the Indian Succession Act, which restricted Christians with a nephew or niece from bequeathing property for religious or charitable purposes, was struck down as violating Art. 14, being arbitrary and discriminatory against Christians.
+
+## 9.4 Legacies
+- **Specific legacy**: a particular thing, distinguished from the rest of the estate (s.142).
+- **Demonstrative legacy**: payable out of a specified fund (s.150).
+- **General legacy**: payable out of the general estate.
+- **Ademption** (s.152): a specific legacy fails if the subject is not part of the estate at death. Abatement of general legacies happens when assets are insufficient.
+
+## 9.5 Probate and letters of administration
+- **Probate** (s.2(f)): a copy of the will certified by a competent court, granting administration of the estate to the executor named in it.
+- **Letters of administration**: granted where there is no executor, or for an intestate's estate.
+- Probate is conclusive as to the due execution and validity of the will (it operates in rem).
+- Section 213 required probate or letters of administration before an executor or legatee could establish rights in court under wills made by Hindus, Buddhists, Sikhs and Jains in the old presidency towns (Calcutta, Madras and Bombay), and by all Christians and Parsis there.
+
+NOTE: Current law. Section 213 was omitted by the Repealing and Amending Act, 2025, which received assent on 20 December 2025. Probate is no longer a precondition to enforcing rights under a will anywhere in India. The probate and letters of administration procedure remains available, and is often still demanded in practice by banks and registrars. Earlier, *Clarence Pais v Union of India* (2001) had upheld s.213 against an Art. 14 challenge.
+
+## 9.6 Executors and administrators
+- An executor is appointed by the will; an administrator by the court. The estate vests in the executor or administrator (s.211).
+- Duties: funeral expenses, collecting assets, paying debts, distributing legacies, filing inventory and accounts within prescribed time (s.317).
+
+## 9.7 Succession certificate (ss.370 to 390)
+- A succession certificate is issued by the District Judge to collect **debts and securities** of the deceased (not immovable property). It protects debtors who pay the certificate holder, and the inquiry is summary; it does not decide title finally.
+- The 2025 amendment also changed s.370 to remove references to s.213.
+
+## 9.8 Recent judgments (2025–26)
+
+CASE: Ramesh Chand v Suresh Chand (2025) :: A will must be proved under s.63 of the Indian Succession Act and s.68 of the Evidence Act. Unexplained exclusion of natural heirs is a suspicious circumstance that the propounder must remove.
+
+CASE: Parvathi Nairthi v Laxmi Nairthy (2026) :: A will that excludes natural heirs is not invalid for that reason alone, if it is duly proved and free of suspicion.
+
+CASE: Dhiraj Dutta v Anirban Sen (2026) :: An application to revoke probate is governed by Art. 137 of the Limitation Act (three years).
+
+* Proof of wills and suspicious circumstances (2025-26); revocation of probate within three years (Art. 137).
+* Wills require capacity and due execution (s.59, s.63); suspicious circumstances must be removed (Venkatachala Iyengar).
+* Construction follows the testator's intention (Navneet Lal); wills are revocable (s.62, s.70).
+* Vested, contingent, conditional and void bequests; s.118 struck down (John Vallamattom).
+* Legacies: specific, demonstrative, general; ademption and abatement.
+* Probate and letters of administration; s.213 omitted in December 2025.
+* Succession certificates cover debts and securities.
+
+QL: What are the essentials of a valid will? How is a will proved? Discuss Venkatachala Iyengar.
+QL: Explain the different kinds of legacies and the doctrine of ademption.
+QL: Distinguish between probate, letters of administration and succession certificate. What is the effect of the omission of s.213?
+QS: Codicil
+QS: Privileged wills
+QS: John Vallamattom v Union of India
+
+MCQ: Section 213 of the Indian Succession Act was omitted by || the Hindu Succession (Amendment) Act 2005 | *the Repealing and Amending Act, 2025 | the Succession (Amendment) Act 2002 | Clarence Pais (2001) || Assent on 20 December 2025.
+MCQ: The principles for proof of a will and suspicious circumstances were laid down in || Navneet Lal | *H. Venkatachala Iyengar v B.N. Thimmajamma | Mary Roy | Clarence Pais || 1959.
+MCQ: A succession certificate is granted for collecting || immovable property | *debts and securities | all property | only agricultural land || ss.370 to 390.
+
+# 10 | Law reforms
+@topics Law reforms in succession and family property
+>> Succession law reform has moved towards gender equality and uniformity, but plural personal laws remain, and the debate over a Uniform Civil Code continues.
+
+## 10.1 Major reforms so far
+- **Hindu Succession (Amendment) Act, 2005**: daughters as coparceners; abolition of pious obligation; omission of ss.23 and 24; agricultural land brought under the HSA by omitting s.4(2).
+- State amendments before 2005 had already made daughters coparceners: Kerala (abolished the joint family, 1975), Andhra Pradesh (1986, for daughters unmarried at commencement), Tamil Nadu (1989), Maharashtra and Karnataka (1994).
+- **Parsi law**: equal shares (1991).
+- **Christian law**: Mary Roy (1986); s.118 struck down (2003).
+- **Indian Succession Act**: s.213 omitted (2025).
+
+## 10.2 Issues for further reform
+- **Section 15 HSA**: the preference for the husband's heirs over the woman's own parents (Omprakash).
+- **Muslim inheritance**: unequal shares for women (generally half of the male counterpart); the debate over codification within personal law.
+- **Matrimonial property**: no division regime outside Goa.
+- **Uniform Civil Code**: Art. 44; the Law Commission's 2018 consultation paper said a UCC was "neither necessary nor desirable at this stage" and recommended reforms within each personal law. The 22nd Law Commission invited fresh views in 2023. **Uttarakhand** enacted the Uniform Civil Code, 2024 (in force from January 2025) with equal succession rights for sons and daughters for those it covers (Scheduled Tribes are excluded).
+
+* The 2005 HSA amendment and earlier State amendments (including Andhra Pradesh, 1986).
+* Parsi, Christian and Indian Succession Act reforms.
+* Open issues: s.15 HSA, Muslim women's shares, matrimonial property, Uniform Civil Code (Uttarakhand, 2024).
+
+QL: Trace the reforms in the law of succession in India towards gender equality. What further reforms are needed?
+QS: Uttarakhand Uniform Civil Code
+QS: Andhra Pradesh amendment of 1986 to the HSA
+
+MCQ: Andhra Pradesh made daughters coparceners by State amendment in || 1975 | *1986 | 1994 | 2005 || For daughters unmarried at commencement.
+MCQ: The first State to enact a Uniform Civil Code after independence was || Goa | *Uttarakhand | Gujarat | Assam || 2024 (Goa's code is pre-independence Portuguese law).

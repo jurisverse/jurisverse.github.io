@@ -1,0 +1,127 @@
+@title Viva-voce practice with model answers
+@toc Viva practice
+@label This paper is assessed on record work (90 marks: moot court, trial observation, and interviewing and pre-trial preparation) and a viva-voce (10 marks), not a written exam. These are the questions most often asked in the viva, with model answers.
+
+PART: A | Moot court | Questions on the memorial and oral rounds. | Viva
+
+Q: What are the parts of a moot memorial?
+1. cover page: the court, the case name, the side, and the team code;
+2. table of contents;
+3. list of abbreviations;
+4. index of authorities: cases, statutes and books;
+5. statement of jurisdiction;
+6. statement of facts;
+7. issues raised (questions presented);
+8. summary of arguments;
+9. arguments advanced, issue by issue, using the rule, application and conclusion structure; and
+10. prayer.
+
+Q: How should you structure an argument?
+Use the "IRAC" or "CRAC" structure:
+- state the conclusion or proposition;
+- set out the rule (statute and binding precedent);
+- apply the rule to the facts; and
+- conclude.
+Lead with your strongest point. Anticipate and answer the other side's best argument. Cite binding authority first: the Supreme Court, then the High Court of your jurisdiction, then persuasive authority.
+
+Q: How do you verify authorities?
+Check every case in a reliable source: SCC, AIR, SCC Online, Manupatra, or the court's website and neutral citation. Read the judgment to confirm that the holding supports your point, and check whether the decision was later overruled or modified.
+AI tools can invent cases, and courts have set aside orders relying on fake, AI-generated precedents (*Pooja Ramesh Singh v J&K Bank*, 2026). Never cite what you have not read.
+
+Q: How do you address the bench and handle questions?
+- Address the Supreme Court and High Courts as "My Lord / Your Lordship" or "Your Honour", following the court's practice. Address subordinate courts as "Your Honour" or "Sir/Madam".
+- Begin with "May it please the Court".
+- Seek permission before proceeding, and manage time.
+- When a judge asks a question, stop, listen, answer directly, and then link back to your argument.
+- Concede weak points gracefully.
+- Never interrupt the bench or opposing counsel.
+
+Q: What is the difference between the statement of jurisdiction and the issues?
+- The statement of jurisdiction states the provision under which the court hears the matter, for example Art. 32, Art. 136 or s.96 CPC, and the respondent may reserve the right to contest it.
+- The issues are the precise legal questions the court must decide, framed neutrally or persuasively, and they mirror the structure of the arguments.
+
+Q: What is rebuttal?
+Rebuttal is the short reply by the petitioner or appellant after the respondent's arguments. It is limited to points raised by the respondent. It should be crisp, on two or three key points. No new arguments may be raised.
+
+PART: B | Trial observation | Questions on civil and criminal trials you observed. | Viva
+
+Q: Describe the stages of a civil suit you observed.
+1. institution of the plaint;
+2. summons to the defendant;
+3. appearance and written statement (30 days, extendable to 90; strict in commercial suits);
+4. documents: admission and denial;
+5. framing of issues (Order XIV);
+6. referral to ADR under s.89, where suitable;
+7. plaintiff's evidence: examination-in-chief by affidavit, then cross-examination;
+8. defendant's evidence;
+9. arguments;
+10. judgment and decree; and
+11. execution.
+Mention the case you observed, its stage and what you learnt.
+
+Q: Describe the stages of a criminal trial in a sessions case.
+1. FIR and investigation;
+2. police report (chargesheet);
+3. cognizance;
+4. committal to the Sessions Court;
+5. hearing on charge: discharge (s.250 BNSS) or framing of charge (s.251), within 60 days;
+6. plea of the accused;
+7. prosecution evidence;
+8. examination of the accused (s.351 [313]);
+9. defence evidence;
+10. arguments;
+11. judgment;
+12. hearing on sentence (s.258); and
+13. sentence.
+Mention the safeguards you observed, such as legal aid counsel, interpreters and video-conferencing.
+
+Q: What is examination-in-chief, cross-examination and re-examination?
+- **Examination-in-chief:** the party calling the witness examines him. Leading questions are not allowed, except on undisputed matters.
+- **Cross-examination:** by the adverse party, to test credibility and elicit facts. Leading questions are permitted.
+- **Re-examination:** to explain matters arising in cross-examination. New matters may be introduced only with permission.
+The order is laid down in the Evidence Act (s.138 IEA, carried into the BSA). A hostile witness may be cross-examined by the party calling him, with the court's permission.
+
+Q: What did you learn about court etiquette?
+- dress code: black coat and gown, white bands;
+- punctuality;
+- bowing to the court;
+- standing while addressing the court;
+- not speaking out of turn;
+- respect for opposing counsel; and
+- keeping mobile phones silent.
+Mention the practices you observed, such as passovers, adjournment requests and the cause list.
+
+PART: C | Client interviewing and pre-trial preparation | Questions on interviewing and case preparation. | Viva
+
+Q: What are the stages of a client interview?
+1. **Preparation:** review documents and keep a checklist.
+2. **Greeting and rapport:** introduce yourself and explain confidentiality and fees.
+3. **Narrative:** let the client tell the story with open questions.
+4. **Clarification:** closed questions, a timeline and documents.
+5. **Identifying the client's goals.**
+6. **Legal analysis and options:** explain the options with pros, cons, costs and time.
+7. **Decision:** the client decides.
+8. **Closing:** next steps, documents needed and the engagement letter.
+9. **Record:** a file note.
+
+Q: What ethical rules apply in client interviews?
+- confidentiality and privilege (s.132 BSA);
+- no conflict of interest, including with former clients (*Rehana Khan*, 2026);
+- honest advice and no false promises;
+- no contingency fees;
+- act only on the client's instructions; and
+- informed consent for settlement.
+Respect the client's autonomy and dignity, and use an interpreter if needed.
+
+Q: What steps are involved in pre-trial preparation in a civil case?
+- collect and organise documents and evidence;
+- check limitation and jurisdiction;
+- send a legal notice (s.80 CPC for the government; pre-institution mediation in commercial suits);
+- draft the plaint and interlocutory applications;
+- prepare a list of witnesses and documents;
+- consider ADR; and
+- prepare a case file with chronology and issues.
+Assess the risks and costs with the client.
+
+Q: What is a case theory?
+A case theory is a coherent, persuasive account of the facts and law that explains why your client should win. It must be consistent with the undisputed facts and the evidence. Every step, from pleading and evidence to cross-examination and argument, should support it.

@@ -1,0 +1,238 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Lifting the corporate veil
+The court disregards the separate personality of a company and looks at the persons behind it. This happens in cases of:
+- fraud or improper conduct;
+- evasion of legal obligations (*Gilford Motor Co v Horne*, 1933);
+- determining enemy character (*Daimler v Continental Tyre*, 1916);
+- tax evasion (*Dinshaw Maneckjee Petit*, 1927);
+- sham companies (*Jones v Lipman*, 1962); and
+- groups acting as a single economic unit (*DHN Food Distributors*, 1976).
+Statutory instances in the Companies Act, 2013 include misstatement in a prospectus (s.34), fraudulent conduct of business (s.339) and liability of officers in default (s.2(60)). In India, see *Tata Engineering v State of Bihar* (1965) and *Delhi Development Authority v Skipper Construction* (1996).
+
+Q: Doctrine of indoor management
+Outsiders dealing with a company are entitled to assume that its internal requirements and procedures have been complied with (*Royal British Bank v Turquand*, 1856). The doctrine limits constructive notice.
+Exceptions:
+- knowledge of the irregularity;
+- negligence, or suspicious circumstances calling for inquiry;
+- forgery, which is void (*Ruben v Great Fingall Consolidated*, 1906); and
+- acts outside the apparent authority of the officer.
+
+Q: Doctrine of ultra vires
+An act beyond the objects in the memorandum of association is ultra vires the company and void. It cannot be ratified even by all shareholders (*Ashbury Railway Carriage v Riche*, 1875). Acts within the company's objects but beyond the directors' powers may be ratified.
+- In India: *A. Lakshmanaswami Mudaliar v LIC* (1963) (a donation beyond powers).
+- Under the 2013 Act, the objects clause is required (s.4(1)(c)), but companies may adopt broad objects. Shareholders may restrain ultra vires acts by injunction.
+
+Q: One Person Company
+An OPC is defined in s.2(62) of the Companies Act, 2013: a company with only one member, who must be a natural person and an Indian citizen. Residency was relaxed in 2021 to 120 days.
+- It must nominate a person to take over on the member's death or incapacity.
+- There is no requirement to hold an AGM, and it has fewer compliance requirements.
+- Since 2021, there are no paid-up capital or turnover limits for conversion.
+- It combines limited liability with sole ownership.
+
+Q: Promoter
+A promoter is the person who takes the steps to form a company and set it going (s.2(69)). The promoter stands in a fiduciary position towards the company and must disclose secret profits (*Erlanger v New Sombrero Phosphate*, 1878).
+- **Pre-incorporation contracts:** the company is not bound in common law (*Kelner v Baxter*, 1866). Under ss.15(h) and 19(e) of the Specific Relief Act, the company may adopt the contract if it is warranted by the terms of incorporation.
+- **Liability:** for misstatements in a prospectus (ss.34 and 35) and fraud (s.447).
+
+Q: Misstatement in a prospectus
+**Civil liability (s.35):** every director, promoter, expert and person authorising the issue is liable to compensate subscribers for loss caused by untrue or misleading statements, or omissions.
+Defences:
+- withdrawal of consent;
+- the issue was made without the person's knowledge; and
+- reasonable grounds for belief in the statement.
+**Criminal liability (s.34):** punishment as for fraud under s.447, unless the statement was immaterial or the person had reasonable grounds.
+Remedies include rescission of the allotment and damages. Classic case: *Derry v Peek* (1889).
+
+Q: Independent directors
+Under s.149(6), an independent director is a director other than a managing or whole-time director, who has integrity and expertise and no pecuniary relationship with the company.
+- Listed companies must have at least one-third independent directors (s.149(4)).
+- Tenure is up to two terms of five years.
+- They are subject to a code of conduct (Schedule IV).
+- They have limited liability, only for acts with their knowledge or consent (s.149(12)).
+- They are part of the audit and nomination committees.
+
+Q: Corporate social responsibility
+Under s.135, companies with a net worth of ₹500 crore or more, turnover of ₹1,000 crore or more, or net profit of ₹5 crore or more must:
+- spend at least 2% of the average net profit of the preceding three years on CSR activities listed in Schedule VII; and
+- constitute a CSR Committee (not required where the obligation is up to ₹50 lakh).
+Unspent amounts must be transferred to a Schedule VII fund or an unspent CSR account (2019 amendment). Non-compliance is a civil penalty after the 2020 amendment.
+
+Q: Class action
+Under s.245, members or depositors may file an application before the NCLT on behalf of a class, where the affairs of the company are conducted prejudicially. Thresholds: at least 100 members, or a prescribed percentage.
+Reliefs include:
+- restraining ultra vires acts and breaches of the articles;
+- declaring resolutions void; and
+- claiming damages against the company, directors, auditors and advisers.
+It was introduced after the Satyam fraud.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: "A company is a legal person distinct from its members." Discuss with reference to Salomon v Salomon and the exceptions.
+### Corporate personality
+On incorporation (s.9), a company becomes a body corporate, with:
+- perpetual succession;
+- a common seal (now optional);
+- the power to hold property; and
+- the capacity to sue and be sued.
+### Salomon v A. Salomon & Co Ltd (1897, House of Lords)
+Salomon transferred his boot business to a company in which he held almost all the shares, and took secured debentures. When the company was wound up, he was paid first as a secured creditor, ahead of the unsecured creditors. The House of Lords held that the company was a different person from its members. It was not Salomon's agent or trustee, and the debentures were valid.
+### Consequences of separate personality
+- limited liability;
+- the company's property is not the members' property (*Macaura v Northern Assurance*, 1925: a shareholder had no insurable interest in company timber);
+- a company can contract with its members (*Lee v Lee's Air Farming*, 1961);
+- transferable shares; and
+- the company's debts are not the members' debts.
+### Exceptions: lifting the veil
+**Judicial:**
+- fraud;
+- evasion of obligations (*Gilford Motor*);
+- sham (*Jones v Lipman*);
+- enemy character (*Daimler*);
+- tax evasion;
+- groups as single economic units, applied cautiously (*Adams v Cape Industries*, 1990);
+- public interest.
+- In India: *LIC v Escorts* (1986); *Skipper Construction* (1996); *Vodafone International v Union of India* (2012), on looking at the whole transaction; *Balwant Rai Saluja v Air India* (2014).
+- *Prest v Petrodel Resources* (2013): the evasion versus concealment principle; the veil is lifted only as a last resort.
+- Recent tax cases look at substance over form (*Tiger Global*, 2026).
+**Statutory:**
+- reduction of members below the statutory minimum (s.3A);
+- misdescription of name;
+- fraudulent conduct (s.339);
+- prospectus misstatements; and
+- liability of officers in default.
+### Conclusion
+*Salomon* remains the foundation of company law. The veil is lifted only where the corporate form is abused.
+
+Q: Explain the duties of directors under the Companies Act, 2013.
+### Position of directors
+Directors are agents, trustees of the company's money and powers, and managing partners in a broader sense. They owe duties to the company, not to individual shareholders (*Percival v Wright*, 1902). Section 166 codifies these duties.
+### Statutory duties (s.166)
+1. Act in accordance with the articles.
+2. Act in good faith to promote the objects of the company for the benefit of its members as a whole, and in the best interests of the company, its employees, shareholders, the community and the environment. This is the stakeholder model.
+3. Exercise due and reasonable care, skill and diligence, and independent judgement.
+4. Avoid situations of direct or indirect conflict of interest.
+5. Not achieve or attempt any undue gain or advantage. Any gain must be paid to the company.
+6. Not assign their office; any assignment is void.
+The penalty for breach is ₹1 lakh to ₹5 lakh (s.166(7)).
+### Other duties
+- disclosure of interest (s.184);
+- restrictions on loans to directors (s.185);
+- related-party transactions, with approval (s.188);
+- the directors' responsibility statement (s.134(5));
+- the duty to attend meetings (s.167(1)(b): vacation of office for absence for 12 months);
+- not to engage in insider trading (SEBI regulations); and
+- duties of independent directors (Schedule IV).
+### Liability
+- breach of trust;
+- misfeasance (s.340);
+- fraud (s.447);
+- disqualification (s.164); and
+- personal liability under the IBC for fraudulent or wrongful trading (s.66 IBC).
+### Judicial approach
+- The business judgment rule: courts do not interfere with honest commercial decisions.
+- Standards of care have increased: *Re City Equitable Fire Insurance* (1925) has given way to modern objective standards.
+### Conclusion
+Section 166 codifies the fiduciary duties and adds stakeholder interests, with stronger enforcement mechanisms.
+
+Q: Discuss the remedies against oppression and mismanagement under the Companies Act, 2013.
+### Rule in Foss v Harbottle (1843)
+The proper plaintiff for a wrong to the company is the company itself, and the majority rules. The exceptions are:
+- ultra vires or illegal acts;
+- fraud on the minority;
+- special majority requirements; and
+- personal rights.
+### Statutory protection (ss.241 to 246)
+**Who may apply (s.244):**
+- for a company with share capital: at least 100 members, or one-tenth of members, or holders of one-tenth of the issued share capital;
+- for other companies: one-fifth of members.
+The NCLT may waive these requirements. A person absent from the register may in some cases be treated as a member (*Dr Bais Surgical*, 2026).
+**Grounds (s.241):**
+- the affairs of the company are conducted in a manner prejudicial to public interest, or oppressive to members, or prejudicial to the company; or
+- a material change in management or control is likely to cause prejudice.
+**Meaning of oppression:** burdensome, harsh and wrongful conduct, a lack of probity and fair dealing (*Shanti Prasad Jain v Kalinga Tubes*, 1965; *Needle Industries v Needle Industries Newey*, 1981). Mere loss of confidence or a single act is not enough; there must be a continuous course of conduct.
+**Powers of the NCLT (s.242):**
+- regulate the conduct of affairs;
+- purchase of shares;
+- restrictions on transfer;
+- termination or modification of agreements;
+- removal of directors; and
+- recovery of undue gains.
+It may also pass interim orders.
+### Leading case
+*Tata Consultancy Services v Cyrus Investments* (2021): the removal of an executive chairman is not oppression. The NCLAT cannot reinstate a person. Just and equitable winding up must be justified.
+### Other remedies
+- class action (s.245);
+- investigation (ss.210 to 213); and
+- the government's power to apply (s.241(2)).
+### Conclusion
+Sections 241 to 246 give minority shareholders effective protection, balancing majority rule with fairness.
+
+Q: Explain winding up under the Companies Act, 2013 and the Insolvency and Bankruptcy Code, 2016.
+### Changes after the IBC
+Since 2016, winding up for inability to pay debts is governed by the IBC. The Companies Act (ss.270 to 365) covers winding up by the Tribunal on other grounds.
+### Winding up by the Tribunal (s.271, Companies Act)
+- a special resolution;
+- acts against sovereignty or security;
+- fraudulent conduct of affairs;
+- default in filing financial statements for five years; and
+- just and equitable grounds (*Hind Overseas v Raghunath Prasad Jhunjhunwala*, 1976: deadlock).
+A company liquidator is appointed, assets are realised, and distribution follows s.326 and s.53 IBC.
+### Corporate Insolvency Resolution Process (IBC)
+- **Initiation:** by a financial creditor (s.7), an operational creditor (s.9, after a demand notice), or the corporate debtor (s.10). The minimum default is ₹1 crore.
+- **Admission:** on proof of default (*Innoventive Industries v ICICI Bank*, 2017). The record of an information utility is sufficient (*Deepak Raheja v Omkara ARC*, 2026).
+- **Moratorium (s.14):** protects only the corporate debtor, not guarantors (*Tejas Shah*, 2026).
+- **Process:** an interim resolution professional, then the Committee of Creditors, then a resolution plan approved by 66%.
+- **Commercial wisdom:** the CoC's commercial wisdom is paramount, with review limited to ss.30(2) and 61(3) (*Essar Steel v Satish Kumar Gupta*, 2019; *Torrent Power v Ashish Rathi*, 2026).
+- **Time limit:** 180 days, extendable, up to 330 days.
+- **Purpose:** the IBC aims at revival, and liquidation is a last resort (*Kalyani Transco v Bhushan Power and Steel*, 2025, which upheld JSW's plan). It is not a recovery tool.
+### Liquidation (ss.33 to 54, IBC)
+This follows if no plan is approved. Distribution follows the waterfall in s.53:
+1. insolvency costs;
+2. workmen's dues for 24 months and secured creditors;
+3. employees' dues;
+4. unsecured financial creditors;
+5. government dues and remaining secured debt;
+6. other debts; and
+7. equity.
+### Voluntary liquidation (s.59, IBC)
+For solvent companies.
+### Conclusion
+The IBC has replaced the old, slow winding-up regime with a time-bound, creditor-driven process that favours revival.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: M, a former employee of AB Ltd, agreed not to solicit its customers after leaving. He forms a company, M Ltd, owned by his wife, through which he solicits AB's customers. AB Ltd seeks an injunction against M and M Ltd. Decide.
+**Issue:** Can the corporate veil of M Ltd be lifted?
+**Law:** The court lifts the veil where a company is a "mere cloak or sham" to evade a legal obligation (*Gilford Motor Co v Horne*, 1933; *Jones v Lipman*, 1962). In India, the non-solicitation covenant is enforceable to the extent it protects trade secrets and customer connections without restraining trade (s.27 of the Contract Act; *Niranjan Shankar Golikari*, 1967).
+**Application:** M Ltd was formed to evade M's covenant and is controlled by M.
+**Conclusion:** The court will lift the veil and grant an injunction against both M and M Ltd, provided the covenant is a valid non-solicitation clause and not a general restraint.
+
+Q: The secretary of X Ltd issues a share certificate to P by forging the signatures of two directors. P claims to be a shareholder relying on the doctrine of indoor management. Decide.
+**Issue:** Does the doctrine of indoor management protect a holder of a forged document?
+**Law:** *Turquand*'s rule protects outsiders against internal irregularities. Forgery is an exception: a forged document is a nullity and cannot bind the company (*Ruben v Great Fingall Consolidated*, 1906).
+**Application:** The share certificate was forged. It is not a mere internal irregularity.
+**Conclusion:** P is not a shareholder. He may sue the secretary for fraud, and possibly the company if the secretary acted within the scope of his employment.
+
+Q: The majority shareholders of a private company, who are also directors, divert its business to another firm they own, and refuse to declare dividends for years. Minority shareholders holding 15% of the shares seek your advice.
+**Issue:** Do the facts amount to oppression or mismanagement?
+**Law:**
+- Sections 241 and 242: conduct of affairs in a manner oppressive to members, or prejudicial to the company's interests.
+- Diversion of business by those in control is a breach of fiduciary duty (s.166(4) and (5)), and a continuous course of conduct can be oppressive (*Needle Industries*, 1981).
+- Members with one-tenth of the issued share capital may apply (s.244).
+**Application:** Diverting business to the directors' own firm is a breach of duty and harms the minority. Withholding dividends while siphoning profits is unfair.
+**Conclusion:** The minority (15%) may file a petition before the NCLT. They may seek:
+- regulation of the company's affairs;
+- recovery of diverted profits;
+- removal of the directors; or
+- a buy-out of their shares at fair value.
+They may also bring a derivative claim for breach of duty.
+
+Q: A bank files a section 7 IBC petition against a company. The CIRP is initiated, and the Committee of Creditors approves a resolution plan by 70%. A dissenting creditor asks the NCLT to reject the plan as commercially unfair. Decide.
+**Issue:** Can the Adjudicating Authority interfere with the CoC's commercial decision?
+**Law:**
+- The CoC's commercial wisdom is non-justiciable. Review is limited to compliance with s.30(2) (payment of CIRP costs, liquidation value to dissenting creditors, and compliance with law) and s.61(3) (*K. Sashidhar v Indian Overseas Bank*, 2019; *Essar Steel*, 2019).
+- This was reaffirmed in *Torrent Power v Ashish Rathi* (2026).
+- Dissenting financial creditors must receive at least their liquidation value (s.30(2)(b)).
+**Application:** The plan was approved by more than 66%. Unless it violates s.30(2) or the law, the NCLT cannot reject it as commercially unfair.
+**Conclusion:** The objection fails if the dissenting creditor receives at least its liquidation value, and the NCLT should approve the plan.

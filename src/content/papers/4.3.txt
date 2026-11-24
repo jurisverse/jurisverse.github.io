@@ -1,0 +1,238 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Article 265
+"No tax shall be levied or collected except by authority of law." The tax must be imposed by a valid law made by a competent legislature, and must not violate fundamental rights or any constitutional provision. Executive action alone cannot impose a tax.
+- Tax collected without authority of law must be refunded (*Mafatlal Industries v Union of India*, 1997, subject to unjust enrichment).
+- Art. 265 extends to both the levy and the collection of tax.
+
+Q: Residential status of an individual
+Under s.6 of the Income-tax Act, 1961, an individual is resident if he:
+- is in India for 182 days or more in the previous year; or
+- is in India for 60 days or more in the year and 365 days or more in the preceding four years.
+The 60 days is extended to 182 days, or 120 days in some cases, for Indian citizens and persons of Indian origin visiting India.
+- "Not ordinarily resident" status applies in specified cases.
+- Deemed residency applies to Indian citizens with income over ₹15 lakh who are not liable to tax elsewhere (2020).
+- Scope of income (s.5): residents are taxed on world income; non-residents only on income received or accruing in India.
+- The Income-tax Act, 2025 (from 1 April 2026) retains these tests.
+
+Q: Agricultural income
+Agricultural income is exempt from central income tax (s.10(1)). Under s.2(1A), it includes:
+- rent or revenue from agricultural land in India;
+- income from agriculture, or from processes to make the produce marketable; and
+- income from farm buildings.
+Agricultural income is a State subject (Entry 46, List II). Partial integration with non-agricultural income determines the rate. Example: *CIT v Raja Benoy Kumar Sahas Roy* (1957), which required basic operations on the land.
+
+Q: Capital and revenue receipts
+- Capital receipts are not taxable unless specifically taxed, for example as capital gains. Revenue receipts are taxable as income.
+- Tests:
+  - fixed versus circulating capital;
+  - the "enduring benefit" test;
+  - whether the receipt replaces a source of income or income itself.
+- For subsidies, the **purpose test** applies (*Sahney Steel and Press Works*, 1997; *CIT v Ponni Sugars*, 2008). An electricity subsidy to meet operating costs is revenue (*MEPCO Industries v CIT*, 2026).
+
+Q: Tax avoidance and tax evasion
+- **Evasion:** illegal, by concealment, false records or suppression; it is punishable.
+- **Avoidance:** using legal means to reduce tax. It was traditionally permitted (*IRC v Duke of Westminster*, 1936; *Azadi Bachao Andolan*, 2003). Colourable devices are not (*McDowell & Co*, 1985).
+- **Planning:** legitimate tax planning within the law.
+- **GAAR (ss.95 to 102):** denies benefits of impermissible avoidance arrangements lacking commercial substance. Applied in *AAR v Tiger Global* (2026).
+
+Q: GAAR
+The General Anti-Avoidance Rule (Chapter X-A, 1961 Act, effective 1 April 2017) applies to impermissible avoidance arrangements. These are arrangements whose main purpose is a tax benefit and which:
+- create rights not at arm's length;
+- misuse the provisions of the Act;
+- lack commercial substance; or
+- are carried out by means not ordinarily used for bona fide purposes.
+Consequences include disregarding entities, re-characterising transactions and denying treaty benefits (s.98). Approving Panel procedure applies. There is a threshold of a ₹3 crore tax benefit.
+- *Tiger Global* (2026): a Tax Residency Certificate does not bar a GAAR inquiry.
+
+Q: GST Council
+Art. 279A, inserted by the 101st Amendment (2016), creates the GST Council: the Union Finance Minister as chair, the Union Minister of State for Finance, and the State Finance Ministers. It recommends:
+- taxes to be subsumed;
+- rates and exemptions;
+- model laws;
+- threshold limits; and
+- special provisions.
+Voting: the Centre holds one-third of the weight and the States two-thirds; decisions need a three-fourths majority.
+- *Union of India v Mohit Minerals* (2022): recommendations are persuasive, not binding, and Parliament and the States have simultaneous legislative power (Art. 246A).
+
+Q: Input tax credit
+Input tax credit is credit for GST paid on inputs, input services and capital goods used in the course of business. It is set off against output tax (ss.16 to 21, CGST Act).
+Conditions:
+- possession of a tax invoice;
+- receipt of the goods or services;
+- the tax actually paid to the government by the supplier; and
+- a return filed.
+It is blocked for certain items (s.17(5)), such as motor vehicles and food.
+- *Chief Commissioner of CGST v Safari Retreats* (2024): construction of a building used for leasing may be "plant" (the functionality test).
+
+Q: Abolition of wealth tax
+The Wealth Tax Act, 1957 levied tax on the net wealth of individuals, HUFs and companies above a threshold, on specified unproductive assets. It was abolished by the Finance Act, 2015, from the 2015-16 financial year (assessment year 2016-17), and replaced by a 2% surcharge on super-rich incomes, because it yielded little revenue. Its purposes were equity and discouraging the hoarding of idle assets.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the constitutional framework of taxation in India, including the changes made by the 101st Amendment.
+### Basic provisions
+- **Art. 265:** no tax without authority of law.
+- **Art. 246 and the Seventh Schedule:** taxing entries are separate from general entries. Union taxes include income other than agricultural income (Entry 82), customs and corporation tax. State taxes include agricultural income, land and buildings, alcoholic liquor, and entertainment by local bodies.
+- **Taxes versus fees:** the quid pro quo test for fees (*Commissioner, HRE v Sri Lakshmindra Thirtha Swamiar*, 1954).
+### Limitations
+- **Art. 285:** Union property is exempt from State taxes.
+- **Art. 289:** State property is exempt from Union taxes, except trade.
+- **Art. 286:** States cannot tax inter-State sales or imports and exports.
+- **Arts. 301 to 304:** freedom of trade, commerce and intercourse (*Jindal Stainless v State of Haryana*, 2016, nine judges: non-discriminatory taxes are not hit by Art. 301).
+- Taxes are subject to Arts. 14 and 19.
+### Distribution of revenue
+- the Finance Commission (Art. 280);
+- sharing of taxes (Art. 270);
+- grants-in-aid (Art. 275); and
+- the divisible pool.
+### The 101st Amendment (2016): GST
+- **Art. 246A:** concurrent power of Parliament and the States to levy GST. Parliament alone legislates on inter-State supply.
+- **Art. 269A:** IGST on inter-State supply, apportioned between the Union and the States.
+- **Art. 279A:** the GST Council.
+- **Art. 366(12A):** "goods and services tax" means a tax on supply, except alcoholic liquor for human consumption.
+- **Petroleum products:** GST from a date to be notified.
+- **Compensation:** to States for five years (the GST Compensation Act).
+- **Entries amended or deleted:** Entries 92 and 92C (List I) and 52 and 55 (List II) were deleted, and Entry 54 (List II) was restricted.
+### Judicial interpretation
+- *Mohit Minerals* (2022): Council recommendations are persuasive; cooperative federalism.
+- *Mineral Area Development Authority v SAIL* (2024, nine judges): royalty is not a tax, and States can tax mineral rights.
+### Conclusion
+The framework balances federal fiscal autonomy with a common market. GST pooled sovereignty through the Council, with ongoing debates on fiscal federalism.
+
+Q: Explain the heads of income under the Income-tax Act and the concept of total income.
+### Scheme
+Income tax is charged on the total income of the previous year (s.4). Under the Income-tax Act, 2025, from 1 April 2026, this becomes the "tax year". Section 14 classifies income into five heads.
+1. **Salaries (ss.15 to 17):** salary, perquisites and profits in lieu of salary. There must be an employer–employee relationship. A standard deduction is available.
+2. **Income from house property (ss.22 to 27):** annual value of property owned and not used for one's own business. Deductions are a 30% standard deduction and interest on borrowed capital.
+3. **Profits and gains of business or profession (ss.28 to 44):** deductions for expenditure wholly and exclusively for business (s.37) and depreciation (s.32). Disallowances apply (s.40). Presumptive taxation is available (ss.44AD and 44ADA).
+4. **Capital gains (ss.45 to 55A):**
+   - the transfer of a capital asset (s.2(47));
+   - short-term and long-term gains;
+   - indexation, now largely removed after 2024;
+   - exemptions for reinvestment (ss.54 to 54F); and
+   - deemed income for indirect transfers (s.9(1)(i), Explanation 5, after Vodafone).
+5. **Income from other sources (s.56):** dividends, interest, lottery winnings, and gifts above ₹50,000 from non-relatives.
+### Computation of total income
+- clubbing of income (ss.60 to 64);
+- set-off and carry-forward of losses (ss.70 to 80);
+- deductions under Chapter VI-A (ss.80C onwards); and
+- rebates.
+The new regime (s.115BAC) is the default, with lower rates and fewer deductions.
+### Principles
+- The real income theory.
+- Diversion of income by overriding title is not income (*CIT v Sitaldas Tirathdas*, 1961).
+- Income is taxed in the year of accrual or receipt, depending on the method of accounting.
+- Capital versus revenue: the purpose test for subsidies (*MEPCO Industries v CIT*, 2026).
+- Business income versus capital gain: substitution of shares on amalgamation was taxed as business income in *Jindal Equipment Leasing* (2026).
+### Conclusion
+Total income is the aggregate of the five heads, computed under the specific rules of each head. The 2025 Act reorganises but keeps this structure.
+
+Q: Explain the scheme of assessment, appeals and penalties under the Income-tax Act.
+### Returns (s.139)
+Returns must be filed by the due dates, with revised and updated returns allowed (s.139(8A)).
+### Kinds of assessment
+- **Summary processing (s.143(1)):** arithmetical adjustments.
+- **Scrutiny assessment (s.143(3)):** after notice under s.143(2), conducted as faceless assessment (s.144B).
+- **Best-judgement assessment (s.144):** where there is non-compliance.
+- **Reassessment (ss.147 to 151):** where income has escaped assessment. Under the 2021 regime, there is a s.148A inquiry, and time limits of three years, or up to five years for escaped income above ₹50 lakh (*Union of India v Ashish Agarwal*, 2022; *Union of India v Rajeev Bansal*, 2024).
+- **Search assessments.**
+### Authorities
+- the Central Board of Direct Taxes;
+- Principal Chief Commissioners and Commissioners; and
+- Assessing Officers and faceless units.
+### Appeals
+1. **Commissioner (Appeals) (s.246A):** within 30 days, now faceless; also the Joint Commissioner (Appeals).
+2. **Income Tax Appellate Tribunal (s.253):** within 60 days. It is the final fact-finding body.
+3. **High Court (s.260A):** on a substantial question of law.
+4. **Supreme Court (s.261).**
+- **Revision:** by the Commissioner, prejudicial to revenue (s.263) or in favour of the assessee (s.264).
+- **Dispute Resolution Panel:** for transfer pricing and foreign companies.
+- **Settlement:** the Interim Board for Settlement (after 2021); Vivad se Vishwas schemes (2020, 2024).
+### Penalties
+- under-reporting and misreporting of income (s.270A): 50% or 200% of the tax;
+- failure to maintain accounts and audit;
+- penalties in search cases; and
+- immunity on conditions (s.270AA).
+### Prosecution (ss.275A to 280)
+Wilful evasion (s.276C), failure to file returns, and compounding.
+### Conclusion
+The system has moved to faceless, technology-driven processes, with a multi-tier appeal structure. The 2025 Act restructures the provisions, but the architecture continues.
+
+Q: Explain the main features of the Goods and Services Tax.
+### Concept
+GST is a destination-based, multi-stage, comprehensive tax on the supply of goods and services, with seamless input tax credit. It replaced excise, service tax, VAT, CST, entry tax and others from 1 July 2017.
+### Structure (dual GST)
+- **CGST and SGST/UTGST:** on intra-State supply.
+- **IGST:** on inter-State supply and imports (apportioned under Art. 269A).
+- **Compensation cess:** on specified goods, being wound down after the compensation period.
+### Taxable event
+Supply (s.7, CGST Act), including:
+- sale, transfer, barter, exchange, licence, rental, lease or disposal;
+- imports of services; and
+- deemed supplies (Schedule I).
+Schedule III lists activities that are neither goods nor services.
+### Key concepts
+- time of supply (ss.12 and 13);
+- place of supply (IGST Act);
+- valuation (s.15);
+- composite and mixed supply (s.8);
+- input tax credit (ss.16 to 21);
+- reverse charge (s.9(3) and (4));
+- registration threshold: ₹40 lakh for goods (most States) and ₹20 lakh for services;
+- composition scheme (s.10);
+- e-way bills and e-invoicing.
+### Rates
+Under GST 2.0 (from 22 September 2025), there are two main rates (5% and 18%) and a special 40% rate for luxury and sin goods. There are also special rates for gold and other items.
+### Administration
+- the GST Council (Art. 279A);
+- the GST Network;
+- returns (GSTR-1 and GSTR-3B);
+- assessments, demands (s.73 for non-fraud, s.74 for fraud) and appeals to the GST Appellate Tribunal; and
+- arrest powers (s.69). Arrest needs "reasons to believe", and safeguards apply (*Radhika Agarwal v Union of India*, 2025). The grounds of arrest must be communicated (*Union of India v Sunil Biyani*, 2026).
+### Exclusions
+Alcoholic liquor for human consumption. Petroleum products await notification.
+### Conclusion
+GST created a national common market and reduced cascading of taxes. Issues remain over input tax credit, compliance burdens and Centre–State fiscal relations.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: Mauritius-based companies with valid Tax Residency Certificates invested in a Singapore company whose value came mainly from Indian assets. In 2018, they sold the shares and claimed exemption from Indian capital gains tax under the India–Mauritius treaty. The Revenue alleges that the companies were controlled from the USA and lacked substance. Decide.
+**Issue:** Is a TRC conclusive for treaty benefits, and can GAAR deny them?
+**Law:**
+- *Azadi Bachao Andolan* (2003) treated a TRC as sufficient evidence.
+- After amendments (indirect transfer provisions, s.90(4), GAAR, and the 2016 protocol to the India–Mauritius treaty), the Supreme Court in *AAR v Tiger Global International II Holdings* (15 January 2026) held:
+  - a TRC is not conclusive;
+  - the tax authorities may examine commercial substance and control;
+  - the gains from an indirect transfer of Indian assets were taxable; and
+  - the Delhi High Court decision was set aside, and the AAR's rejection was upheld.
+**Application:** The companies were controlled from the USA and were conduits lacking substance.
+**Conclusion:** Treaty exemption is denied, and the gains are taxable in India.
+
+Q: The State gives an industrial unit a subsidy on electricity charges for five years, to support its running costs during operations. The assessee claims it is a capital receipt, not taxable. Decide.
+**Issue:** Is the subsidy a capital or revenue receipt?
+**Law:**
+- The purpose test: the character of a subsidy depends on its purpose, not its source, form or timing (*Sahney Steel*, 1997; *Ponni Sugars*, 2008).
+- A subsidy to set up or expand the business is capital. A subsidy to meet running expenses is revenue.
+- *MEPCO Industries v CIT* (2026) applied this test to an electricity subsidy.
+**Application:** The subsidy reduces operating costs during running operations.
+**Conclusion:** It is a revenue receipt and is taxable.
+
+Q: GST officers arrest the director of a company for alleged fake invoicing. They give him no written grounds of arrest. He is produced before a magistrate the next day. Advise him.
+**Issue:** The validity of a GST arrest without written grounds.
+**Law:**
+- Section 69 of the CGST Act: arrest requires the Commissioner's "reasons to believe" of a specified offence.
+- *Radhika Agarwal v Union of India* (2025): the safeguards of criminal procedure apply to GST and customs arrests.
+- *Union of India v Sunil Biyani* (2026): grounds of arrest under s.69 must be communicated to the arrested person.
+- Art. 22(1); *Mihir Rajesh Shah* (2025): written grounds are required.
+**Application:** No written grounds were supplied.
+**Conclusion:** The arrest is vitiated. The director may seek release and bail, and challenge the arrest under Art. 226, while the proceedings may continue lawfully.
+
+Q: A State levies sales tax on a sale of goods in the course of inter-State trade. The dealer challenges the levy. Decide.
+**Issue:** Can a State tax inter-State sales?
+**Law:**
+- Art. 286 bars a State from taxing sales outside the State, or in the course of import or export.
+- Before GST, only Parliament could tax inter-State sales (Entry 92A, List I; the CST Act).
+- After GST: Art. 269A (IGST) and Art. 246A(2) give Parliament exclusive power over inter-State supplies of goods and services. The CST survives only for petroleum and liquor.
+**Application:** A State levy on an inter-State sale is beyond its competence.
+**Conclusion:** The levy is unconstitutional, and the tax is refundable (subject to unjust enrichment).

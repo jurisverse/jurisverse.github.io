@@ -1,0 +1,666 @@
+@title Contracts – II
+@subtitle Special contracts: indemnity, guarantee, bailment, pledge, agency, sale of goods, partnership and negotiable instruments
+@paper 2.1
+@sem II
+@color #8a3a1c
+@dark #7a3318
+@intro Covers sections 124 to 238 of the Indian Contract Act, 1872, the Sale of Goods Act, 1930, the Indian Partnership Act, 1932 and the Negotiable Instruments Act, 1881.
+@reading Indian Contract Act, 1872 (ss.124 to 238)
+@reading The Sale of Goods Act, 1930
+@reading The Indian Partnership Act, 1932
+@reading The Negotiable Instruments Act, 1881
+@reading Cheshire and Fifoot, The Law of Contract
+@reading Chitty on Contracts, Vol. II (Specific Contracts)
+@reading Pollock and Mulla, Indian Contract and Specific Relief Acts
+@reading Pollock and Mulla, Sale of Goods and Partnership Acts
+@reading Avtar Singh, Law of Contract and Specific Relief
+@reading Khergamvala, The Negotiable Instruments Act
+@reading S.T. Desai, Partnership
+@reading Bowstead and Reynolds on Agency
+@reading Indian Law Institute, Annual Survey of Indian Law (relevant volumes)
+
+# 1 | Indemnity and guarantee
+@topics Indemnity and guarantee (ss.124 to 147, Indian Contract Act); Contract of indemnity: definition, rights of indemnity holder, liability of indemnifier; Contract of guarantee: definition, essentials, distinction from indemnity, kinds, rights and liabilities of surety, discharge of surety
+>> Indemnity is a promise to save another from loss; guarantee is a promise to answer for another's default. Both are contracts of security, but they differ in the number of parties and the nature of liability.
+
+## Contract of indemnity
+SEC: s.124 :: A contract by which one party promises to save the other from loss caused to him by the conduct of the promisor himself, or by the conduct of any other person, is called a contract of indemnity.
+- The promisor is the **indemnifier**; the promisee is the **indemnity holder** (indemnified).
+- The Indian definition is narrower than English law: it covers loss caused by human conduct, not loss from accidents or natural events. Indian courts, however, apply wider equitable principles, and contracts of insurance (other than life) are contracts of indemnity.
+
+### Rights of the indemnity holder: s.125
+When sued, the indemnity holder is entitled to recover from the indemnifier:
+1. all damages he may be compelled to pay in any suit in respect of any matter covered by the promise;
+2. all costs he may be compelled to pay in such a suit, if he acted as a prudent person or with the indemnifier's authority;
+3. all sums he paid under a compromise of the suit, if the compromise was prudent or authorised.
+
+### When does the indemnifier's liability begin?
+CASE: Gajanan Moreshwar Parelkar v Moreshwar Madan Mantri (1942) :: Chagla J of the Bombay High Court held that an indemnity is not necessarily given by repayment after payment. If the indemnified person has incurred an absolute liability, he can call on the indemnifier to save him from it, even before he has paid anything. Otherwise an indemnity would often be worthless.
+
+## Contract of guarantee
+SEC: s.126 :: A contract of guarantee is a contract to perform the promise, or discharge the liability, of a third person in case of his default. The person who gives the guarantee is the surety; the person in respect of whose default it is given is the principal debtor; the person to whom it is given is the creditor. A guarantee may be oral or written.
+SEC: s.127 :: Anything done, or any promise made, for the benefit of the principal debtor may be a sufficient consideration to the surety for giving the guarantee.
+
+### Essentials
+- Three parties and three contracts (creditor and principal debtor; creditor and surety; surety and principal debtor, implied).
+- A primary liability of the principal debtor: if the principal's liability is void (other than for minority), the guarantee usually fails.
+- Consideration, which may be benefit to the principal debtor (s.127).
+- Consent of the surety must not be obtained by misrepresentation or concealment by the creditor (ss.142, 143).
+- All essentials of a valid contract.
+
+| Point | Indemnity | Guarantee |
+|---|---|---|
+| Parties | Two | Three |
+| Contracts | One | Three |
+| Liability | Primary and independent | Secondary, arises on default of the principal debtor |
+| Purpose | Protection against loss | Security for a debt or performance |
+| Right of recovery | Indemnifier cannot sue third parties in his own name (except by assignment) | Surety steps into the creditor's shoes on payment (subrogation, s.140) |
+| Request | Not necessary | Surety acts at the request of the principal debtor |
+
+### Kinds of guarantee
+- **Specific guarantee**: for a single debt or transaction; ends when that is discharged.
+- **Continuing guarantee** (s.129): extends to a series of transactions (for example, an overdraft limit). It may be revoked as to future transactions by notice (s.130), and is revoked by the surety's death as to future transactions unless the contract provides otherwise (s.131).
+- **Bank guarantees and performance guarantees**: independent contracts between the bank and the beneficiary.
+
+CASE: U.P. State Sugar Corporation v Sumac International Ltd (1997) :: A bank guarantee is an independent contract; the bank must honour it according to its terms, irrespective of disputes between the beneficiary and the party at whose instance it was given. Courts will restrain encashment only in cases of fraud of an egregious nature or irretrievable injustice.
+
+## Rights and liabilities of the surety
+### Liability: s.128
+SEC: s.128 :: The liability of the surety is co-extensive with that of the principal debtor, unless it is otherwise provided by the contract.
+- The creditor need not first exhaust remedies against the principal debtor.
+
+CASE: Bank of Bihar v Damodar Prasad (1969) :: The Supreme Court held that the surety's liability is immediate; the creditor can sue the surety without first suing the principal debtor, unless the contract says otherwise. Requiring the creditor to pursue the debtor first would defeat the purpose of a guarantee.
+
+CASE: Lalit Kumar Jain v Union of India (2021) :: Approval of a resolution plan for a corporate debtor under the Insolvency and Bankruptcy Code does not automatically discharge a personal guarantor's liability; the guarantor's liability arises from an independent contract.
+
+### Rights of the surety
+| Against | Right | Section |
+|---|---|---|
+| Creditor | Benefit of every security the creditor holds against the principal debtor at the time of the guarantee, whether the surety knew of it or not; surety discharged to the extent of loss of security | s.141 |
+| Principal debtor | Subrogation: on payment, the surety is invested with all the rights the creditor had against the principal debtor | s.140 |
+| Principal debtor | Implied promise to indemnify the surety for sums rightfully paid | s.145 |
+| Co-sureties | Contribution: co-sureties for the same debt bear equal shares, or shares proportionate to the amounts guaranteed if for different sums | ss.146, 147 |
+
+CASE: Amrit Lal Goverdhan Lalan v State Bank of Travancore (1968) :: The creditor bank lost goods held as security through its own negligence. Under s.141, the surety was discharged to the extent of the value of the security lost.
+
+### Discharge of the surety
+| Mode | Section |
+|---|---|
+| Revocation of continuing guarantee by notice, or by surety's death, as to future transactions | ss.130, 131 |
+| Variance in the terms of the contract between creditor and principal debtor without the surety's consent | s.133 |
+| Release or discharge of the principal debtor by the creditor, or any act or omission of the creditor which discharges him | s.134 |
+| Creditor compounding with, giving time to, or agreeing not to sue the principal debtor, without the surety's consent | s.135 (but not an agreement with a third person to give time: s.136; mere forbearance to sue does not discharge: s.137) |
+| Creditor's act or omission impairing the surety's eventual remedy against the principal debtor | s.139 |
+| Loss of security by the creditor | s.141 |
+| Guarantee obtained by misrepresentation or concealment | ss.142, 143 |
+| Failure of a condition that a co-surety would join | s.144 |
+
+TIP: In a problem on discharge of surety, check every section from s.133 to s.141 in turn. The most tested are variance (s.133), giving time (s.135) and loss of security (s.141).
+
+* Indemnity (s.124) is narrower in India: loss by human conduct; rights of the indemnity holder in s.125; liability may arise before payment (Gajanan Moreshwar).
+* Guarantee (s.126) has three parties; consideration may be benefit to the debtor (s.127).
+* Surety's liability is co-extensive and immediate (s.128; Bank of Bihar).
+* Rights: subrogation (s.140), securities (s.141), indemnity (s.145), contribution (ss.146, 147).
+* Discharge: variance, release, giving time, impairing remedy, loss of security, misrepresentation.
+* Bank guarantees are independent; injunction only for egregious fraud or irretrievable injustice (Sumac).
+
+QL: Distinguish between a contract of indemnity and a contract of guarantee. What are the rights of the indemnity holder?
+QL: "The liability of the surety is co-extensive with that of the principal debtor." Explain. When is a surety discharged?
+QL: Discuss the rights of a surety against the creditor, the principal debtor and co-sureties.
+QS: Continuing guarantee
+QS: Subrogation
+QS: Bank guarantee
+QS: Gajanan Moreshwar Parelkar case
+
+MCQ: The liability of a surety is || secondary and deferred until the creditor sues the debtor | *co-extensive with that of the principal debtor | limited to half the debt | contingent on the debtor's insolvency || s.128; Bank of Bihar (1969).
+MCQ: A contract of guarantee involves || one contract between two parties | *three parties and three contracts | two parties only | no consideration || Creditor, principal debtor and surety.
+MCQ: A surety is discharged by variance in the terms of the principal contract if || the variance benefits him | *it is made without the surety's consent | it is in writing | the debtor consents || s.133.
+MCQ: The surety's right to the benefit of the creditor's securities is in || s.140 | *s.141 | s.145 | s.128 || Discharged to the extent of loss of security.
+
+# 2 | Bailment and pledge
+@topics Definition; Essentials; Kinds; Rights and duties of bailor and bailee; Termination; Pledge: definition, rights and duties of pawnor and pawnee, pledge by non-owners
+>> In bailment, goods move from one person to another for a purpose, on the condition that they will be returned or disposed of as directed. Pledge is bailment as security for a debt.
+
+## Definition and essentials
+SEC: s.148 :: A bailment is the delivery of goods by one person to another for some purpose, upon a contract that they shall, when the purpose is accomplished, be returned or otherwise disposed of according to the directions of the person delivering them. The person delivering is the bailor; the person to whom they are delivered is the bailee. Explanation: if a person already in possession of goods of another contracts to hold them as bailee, he becomes the bailee though the goods were not delivered by way of bailment.
+Essentials:
+1. Delivery of possession (actual or constructive), not ownership.
+2. Of movable goods (not money, unless specific coins or notes).
+3. For a purpose.
+4. Under a contract (express or implied).
+5. Return of the same goods (in original or altered form) or disposal according to directions.
+
+- Delivery to a servant is not bailment (the master retains possession). Keeping a coat on a hook in a restaurant without handing it to a servant may not be bailment (Ultzen v Nicols, 1894, held the restaurant liable because a waiter took the coat).
+
+CASE: State of Gujarat v Memon Mahomed Haji Hasam (1967) :: Vehicles seized by customs officers and kept in their custody deteriorated and were later ordered to be returned. The Supreme Court held that the State was a bailee and liable to return them or pay their value; bailment can arise without a contract, from the possession of goods belonging to another.
+
+## Kinds of bailment
+| Basis | Kinds |
+|---|---|
+| Benefit | For the exclusive benefit of the bailor (safe custody without charge); of the bailee (lending a book free); mutual benefit (hire, repair, carriage) |
+| Reward | Gratuitous and non-gratuitous (for reward) |
+| Purpose | Deposit, loan for use, hire, pledge, carriage, repair |
+
+## Duties of the bailor
+- **Disclose known faults** in the goods that materially interfere with their use or expose the bailee to extraordinary risks (s.150). In bailment for hire, the bailor is liable for faults whether or not he knew of them.
+- **Bear necessary expenses** in gratuitous bailments (s.158).
+- **Indemnify the bailee** for loss due to the bailor's defective title (s.164).
+- **Receive back the goods** when the purpose is accomplished.
+
+## Duties of the bailee
+| Duty | Section |
+|---|---|
+| Take as much care of the goods as a man of ordinary prudence would take of his own goods of the same bulk, quality and value, in similar circumstances | s.151 |
+| Not liable for loss if he took that care, in the absence of a special contract | s.152 |
+| Not to make unauthorised use; liable for any damage from such use | s.154 |
+| Not to mix the bailor's goods with his own without consent | ss.155 to 157 |
+| Return the goods without demand on expiry of time or accomplishment of purpose; liable for loss after default even without negligence | ss.160, 161 |
+| Deliver any increase or profit (accretion) from the goods | s.163 |
+
+CASE: Union of India v Amar Singh (1960) :: The railway, as bailee of goods, failed to show that it had taken reasonable care of goods lost in transit. The Supreme Court held it liable under ss.151 and 152.
+
+## Rights of the bailee
+- **Particular lien** (s.170): where the bailee has rendered services involving labour or skill in respect of the goods, he may retain them until paid for those services.
+- **General lien** (s.171): bankers, factors, wharfingers, attorneys of a High Court and policy brokers may retain goods bailed to them as security for a general balance of account, unless there is a contract to the contrary.
+- Compensation from the bailor for faults and defective title; necessary expenses; right to sue third parties for wrongful deprivation or injury (s.180).
+
+## Termination of bailment
+- On expiry of the period or accomplishment of the purpose.
+- By an act of the bailee inconsistent with the conditions of the bailment: the bailor may terminate (s.153).
+- A gratuitous bailment may be terminated by the bailor at any time, and on the death of either party (s.159, s.162).
+
+## Finder of goods
+A finder is subject to the responsibility of a bailee (s.71). He may retain the goods until compensated for expenses (s.168) and may sell them if the owner cannot be found, or the goods are perishable, or lawful charges reach two-thirds of their value (s.169).
+
+## Pledge
+SEC: s.172 :: The bailment of goods as security for payment of a debt or performance of a promise is called "pledge". The bailor is the "pawnor" and the bailee the "pawnee".
+
+### Rights of the pawnee
+- **Retainer** for the debt, interest and necessary expenses (s.173); not for other debts unless agreed (s.174).
+- **Extraordinary expenses** incurred for preservation (s.175).
+- On default by the pawnor: sue on the debt and retain the goods as collateral, or **sell the goods after giving reasonable notice** of sale (s.176). He may recover any deficiency from the pawnor and must pay any surplus to him.
+
+CASE: Lallan Prasad v Rahmat Ali (1967) :: A pawnee who could not return the pledged goods (having disposed of them without notice) could not sue for the debt. A pawnee suing for the debt must be in a position to return the goods on payment.
+
+### Rights and duties of the pawnor
+- Right to redeem at any time before actual sale, on paying the debt and expenses (s.177).
+- Duties corresponding to those of a bailor (disclosure, compensation for defective title).
+
+### Pledge by non-owners
+| Case | Section | Rule |
+|---|---|---|
+| Mercantile agent in possession with owner's consent | s.178 | Valid pledge if the pawnee acts in good faith without notice of want of authority |
+| Person in possession under a voidable contract | s.178A | Valid if the contract has not been rescinded and the pawnee acts in good faith |
+| Person with a limited interest | s.179 | Valid to the extent of that interest |
+| Co-owner in sole possession, seller or buyer in possession after sale | Sale of Goods Act, ss.28, 30 | Valid if good faith |
+
+CASE: Morvi Mercantile Bank v Union of India (1965) :: Railway receipts are documents of title to goods; a pledge of the railway receipt is a pledge of the goods, and the pledgee can sue the railway for their loss.
+
+| Point | Bailment | Pledge |
+|---|---|---|
+| Purpose | Any purpose (custody, repair, carriage) | Security for a debt or promise |
+| Right of sale | Bailee cannot sell (except finder in limited cases) | Pawnee can sell on default after notice |
+| Use of goods | As agreed | Pawnee cannot use the goods |
+
+TIP: Bailment answers should always include s.148 essentials, the standard of care in ss.151 and 152, the lien distinction (s.170 particular vs s.171 general), and Memon Mahomed (bailment without contract by the State).
+
+* Bailment: delivery of goods for a purpose under a contract to return (s.148); possession passes, not ownership.
+* Bailee must take the care of a person of ordinary prudence (s.151); not liable if he did (s.152).
+* Particular lien (s.170) vs general lien for bankers, factors and others (s.171).
+* The State can be a bailee of seized goods (Memon Mahomed).
+* Pledge is bailment as security (s.172); pawnee may sell after reasonable notice (s.176).
+* Pledges by mercantile agents and persons with voidable title are protected in good faith (ss.178, 178A).
+
+QL: Define bailment. Discuss the duties of a bailee, with reference to the standard of care.
+QL: Distinguish between particular lien and general lien. Who may exercise a general lien?
+QL: What is pledge? Explain the rights of a pawnee and the law on pledge by non-owners.
+QS: Gratuitous bailment
+QS: Finder of goods
+QS: Accretion to goods bailed
+QS: Lallan Prasad v Rahmat Ali
+
+MCQ: Under s.151, the bailee must take the care that || a professional would take | *a man of ordinary prudence would take of his own goods of the same kind | the bailor directs | is the highest possible || Standard of ordinary prudence.
+MCQ: General lien is available to || every bailee | *bankers, factors, wharfingers, attorneys of a High Court and policy brokers | only pawnees | only finders || s.171.
+MCQ: A pawnee may sell the pledged goods on default after || court order | *reasonable notice to the pawnor | registration | the pawnor's death || s.176.
+MCQ: The State was held to be a bailee of seized vehicles in || Amar Singh | *State of Gujarat v Memon Mahomed Haji Hasam | Morvi Mercantile Bank | Lallan Prasad || 1967.
+
+# 3 | Contract of agency
+@topics Definition of agent; Creation of agency; Rights and duties of agent; Delegation of authority; Personal liability of agent; Relations of principal with third parties; Termination of agency (ss.182 to 238)
+>> An agent brings his principal into legal relations with third persons. What the agent does within his authority, the principal does himself.
+
+## Definition
+SEC: s.182 :: An "agent" is a person employed to do any act for another, or to represent another in dealings with third persons. The person for whom such act is done, or who is so represented, is called the "principal".
+- Any person of age of majority and sound mind may employ an agent (s.183); any person may become an agent, but a minor or person of unsound mind agent is not responsible to the principal (s.184).
+- No consideration is necessary to create an agency (s.185).
+
+| Point | Agent | Servant |
+|---|---|---|
+| Control | Principal directs what to do; agent decides how | Master controls what and how |
+| Third parties | Brings principal into contracts with third parties | Generally does not |
+| Remuneration | Commission | Wages or salary |
+| Liability of employer | For acts within authority | For torts in the course of employment |
+
+CASE: Lakshminarayan Ram Gopal and Son v Government of Hyderabad (1954) :: The distinction between an agent and a servant was explained: an agent is subject to the principal's directions but not to his control as to the manner of doing the work; a servant acts under the direct control and supervision of the master.
+
+## Creation of agency
+1. **Express agreement**: oral or written, for example a power of attorney.
+2. **Implied agency** (s.187): inferred from the circumstances, conduct or relationship. Includes agency by **holding out** and by **estoppel** (s.237): where the principal by his words or conduct induces third persons to believe that acts were within the agent's authority, he is bound.
+3. **Agency of necessity** (s.189): an agent has authority, in an emergency, to do all acts to protect his principal from loss as would be done by a person of ordinary prudence in his own case under similar circumstances.
+4. **Ratification** (ss.196 to 200): where acts are done by one person on behalf of another without his knowledge or authority, the latter may ratify or disown them. Ratification relates back to the date of the act.
+
+CASE: Great Northern Railway Co v Swaffield (1874) :: A horse sent by rail was not collected at the destination. The railway paid for its stabling. Held: the railway was an agent of necessity and could recover the charges from the owner.
+
+### Conditions for valid ratification
+- The act must have been done on behalf of the principal (Keighley, Maxsted and Co v Durant, 1901: an undisclosed principal cannot ratify).
+- The principal must have been in existence and competent at the time of the act and at ratification.
+- Ratification must be with full knowledge of the facts (s.198).
+- The whole transaction must be ratified, not a part (s.199).
+- It cannot subject a third person to damages or terminate his rights (s.200).
+- A void or illegal act cannot be ratified.
+
+## Delegation of authority: sub-agents (ss.190 to 195)
+- *Delegatus non potest delegare*: an agent cannot delegate acts he has expressly or impliedly undertaken to perform personally, unless by custom of trade or the nature of the agency (s.190).
+- **Sub-agent** (s.191): a person employed by and acting under the control of the original agent. If properly appointed, the principal is bound by his acts; the agent is responsible to the principal for him, and the sub-agent is responsible to the agent (s.192).
+- **Substituted agent** (s.194): a person named by the agent with the express or implied authority of the principal to act for the principal; he becomes the principal's agent directly.
+
+## Duties of the agent (ss.211 to 218)
+- Act according to the principal's directions or, in their absence, according to custom (s.211).
+- Act with reasonable skill and diligence (s.212).
+- Render proper accounts (s.213).
+- Communicate with the principal in cases of difficulty (s.214).
+- Not deal on his own account without the principal's consent; the principal may repudiate such a transaction and claim any benefit (ss.215, 216).
+- Pay to the principal sums received on his account (s.218).
+
+## Rights of the agent
+- Remuneration, which becomes due on completion of the act (ss.219, 220; no remuneration for misconduct in the business).
+- Lien on the principal's property received by him, for remuneration and expenses (s.221).
+- Indemnity for lawful acts done in exercise of authority (s.222), for acts done in good faith (s.223), but not for criminal acts (s.224).
+- Compensation for injury caused by the principal's neglect (s.225).
+
+## Relations of principal with third parties
+- Contracts entered into by an agent within his authority bind the principal as if he had made them himself (s.226).
+- Where the agent exceeds authority and the excess is separable, only the authorised part binds the principal (s.227); if not separable, the principal is not bound (s.228).
+- Notice to the agent in the course of business is notice to the principal (s.229).
+- Misrepresentation or fraud by the agent in the course of business has the same effect as if made by the principal (s.238).
+
+## Personal liability of the agent
+SEC: s.230 :: In the absence of any contract to that effect, an agent cannot personally enforce contracts entered into by him on behalf of his principal, nor is he personally bound by them. Such a contract is presumed to exist where the contract is made by an agent for the sale or purchase of goods for a merchant resident abroad; where the agent does not disclose the name of his principal; or where the principal, though disclosed, cannot be sued.
+- An agent is also personally liable when he acts without authority (breach of warranty of authority, s.235), when he signs a negotiable instrument without indicating he signs as agent (s.28, NI Act), and when the principal is undisclosed (the third party may sue either, s.233).
+
+### Undisclosed principal
+Where the agent contracts without disclosing that he is an agent, the principal may require performance, but the third party has the same rights against the principal as he would have had against the agent (s.231). The third party may elect to hold either the agent or the principal liable (s.233).
+
+## Termination of agency
+SEC: s.201 :: An agency is terminated by the principal revoking his authority; by the agent renouncing the business of the agency; by the business of the agency being completed; by either the principal or agent dying or becoming of unsound mind; or by the principal being adjudicated an insolvent.
+- **Irrevocable agency**: where the agent has himself an interest in the property forming the subject-matter of the agency, the agency cannot, in the absence of an express contract, be terminated to the prejudice of that interest (s.202), for example where an agent is authorised to sell goods and pay himself out of the proceeds a debt owed to him.
+
+CASE: Syed Abdul Khader v Rami Reddy (1979) :: The Supreme Court held that where an agency is created for securing a benefit to the agent (agency coupled with interest), it cannot be revoked by the principal to the prejudice of the agent's interest, under s.202.
+
+- Revocation after partial exercise of authority is not effective as to acts already done (s.204); compensation is payable for revocation without sufficient cause before the end of a fixed period (s.205); reasonable notice is required (s.206).
+- Termination takes effect, as regards the agent, when it becomes known to him, and as regards third persons, when it becomes known to them (s.208).
+
+TIP: In a question on creation of agency, list all five modes (express, implied, holding out or estoppel, necessity, ratification) and give one case each. For termination, always mention s.202 irrevocable agency.
+
+## Recent judgments (2025–26)
+
+CASE: Ramesh Chand v Suresh Chand (2025) :: A General Power of Attorney only creates an agency; it does not transfer title. A GPA without an interest of the agent is revocable and ends on the principal's death.
+
+* A GPA creates agency, not title (Ramesh Chand, 2025).
+* Agent defined in s.182; no consideration needed (s.185).
+* Agency arises by express or implied agreement, estoppel (s.237), necessity (s.189; Swaffield) and ratification (ss.196 to 200).
+* Sub-agent (s.191) vs substituted agent (s.194).
+* Duties: follow directions, skill, accounts, not deal on own account; rights: remuneration, lien, indemnity.
+* Agent generally not personally liable (s.230), except foreign principal, undisclosed principal, principal who cannot be sued.
+* Agency coupled with interest is irrevocable (s.202; Syed Abdul Khader).
+
+QL: Define an agent. Discuss the different modes of creation of agency.
+QL: Explain the rights and duties of an agent. When is an agent personally liable on contracts made for his principal?
+QL: Discuss the doctrine of ratification and its conditions.
+QL: How is an agency terminated? When is an agency irrevocable?
+QS: Agency of necessity
+QS: Sub-agent and substituted agent
+QS: Undisclosed principal
+QS: Agency by estoppel
+
+MCQ: No consideration is necessary to create an agency under || s.182 | *s.185 | s.187 | s.201 || s.185.
+MCQ: Great Northern Railway v Swaffield is a case on || ratification | *agency of necessity | sub-agency | irrevocable agency || Railway paid for stabling a horse.
+MCQ: An agency coupled with interest is || revocable at will | *irrevocable to the prejudice of the agent's interest | void | terminated by death of principal only || s.202.
+MCQ: An undisclosed principal || can ratify | *cannot ratify an act not done on his behalf | is never bound | must register the agency || Keighley, Maxsted v Durant (1901).
+
+# 4 | Contract of sale of goods
+@topics Formation; Subject-matter; Conditions and warranties; Express and implied conditions and warranties; Caveat emptor; Property, possession and risk; Passing of property; Sale by non-owners; Delivery; Rights and duties of seller and buyer; Rights of unpaid seller (Sale of Goods Act, 1930)
+>> The Sale of Goods Act governs when ownership and risk pass, what the seller impliedly promises about the goods, and how an unpaid seller can protect himself.
+
+## Formation: s.4
+SEC: s.4 :: A contract of sale of goods is a contract whereby the seller transfers or agrees to transfer the property in goods to the buyer for a price. Where the property passes at once, it is a sale; where it is to pass at a future time or on a condition, it is an agreement to sell, which becomes a sale when the time elapses or the condition is fulfilled.
+Essentials: two parties; goods; transfer of general property; price in money; all essentials of a contract.
+
+| Point | Sale | Agreement to sell |
+|---|---|---|
+| Property | Passes at once | Passes in future |
+| Nature | Executed contract; creates jus in rem | Executory; creates jus in personam |
+| Risk | With buyer | With seller |
+| Remedy on buyer's default | Suit for price | Suit for damages |
+| Seller's insolvency | Buyer can claim goods | Buyer can only claim a dividend |
+
+## Subject-matter: goods
+- "Goods" means every kind of movable property other than actionable claims and money, including stock and shares, growing crops, grass and things attached to land which are agreed to be severed before sale (s.2(7)).
+- Existing (specific or ascertained, or unascertained), future and contingent goods (s.6). A sale of future goods operates only as an agreement to sell.
+- If specific goods have perished without the seller's knowledge at the time of the contract, the contract is void (s.7); if they perish before risk passes, the agreement to sell is avoided (s.8).
+- Price may be fixed by the contract, by a course of dealing, or be a reasonable price (s.9); or fixed by valuation of a third party (s.10).
+
+## Conditions and warranties: s.12
+- **Condition**: a stipulation essential to the main purpose of the contract, the breach of which gives a right to treat the contract as repudiated.
+- **Warranty**: a stipulation collateral to the main purpose, the breach of which gives a right to damages but not to reject the goods.
+- Whether a stipulation is a condition or warranty depends on the construction of the contract, not on the words used.
+- **s.13**: the buyer may waive a condition or treat its breach as a breach of warranty; where the contract is not severable and the buyer has accepted the goods, breach of condition can only be treated as breach of warranty.
+
+## Implied conditions and warranties
+| Implied term | Section | Content |
+|---|---|---|
+| Condition as to title | 14(a) | Seller has a right to sell |
+| Warranty of quiet possession | 14(b) | Buyer shall have and enjoy quiet possession |
+| Warranty against encumbrances | 14(c) | Goods free from charges not disclosed |
+| Condition as to description | 15 | Goods correspond with description; if by sample and description, with both |
+| Condition as to fitness for purpose | 16(1) | Where the buyer makes known the purpose and relies on the seller's skill, and the goods are of a description the seller deals in |
+| Condition as to merchantable quality | 16(2) | Where goods are bought by description from a seller who deals in such goods; not as regards defects which examination ought to have revealed |
+| Condition implied by trade usage | 16(3) | |
+| Sale by sample | 17 | Bulk corresponds with sample; reasonable opportunity to compare; free from latent defects not apparent on examination |
+
+CASE: Rowland v Divall (1923) :: A buyer used a car for four months before discovering that the seller had no title (it was stolen). Held: the buyer could recover the full price; there was a total failure of consideration for breach of the condition as to title.
+
+CASE: Varley v Whipp (1900) :: A second-hand reaping machine described as "new the previous year and only used to cut 50 acres" turned out to be old and much used. Held: breach of the condition that goods correspond with description.
+
+CASE: Priest v Last (1903) :: A hot water bottle bought from a chemist burst and injured the buyer's wife. Held: the purpose was obvious from the nature of the goods, so the condition as to fitness for purpose was implied.
+
+CASE: Grant v Australian Knitting Mills (1936) :: Woollen underwear containing excess sulphite caused dermatitis. Held: breach of the condition of merchantable quality and fitness; the defect was not discoverable by reasonable examination.
+
+## Caveat emptor
+SEC: s.16 (opening words) :: Subject to the provisions of this Act and of any other law for the time being in force, there is no implied warranty or condition as to the quality or fitness for any particular purpose of goods supplied under a contract of sale.
+Exceptions: fitness for purpose (s.16(1)), merchantable quality (s.16(2)), trade usage (s.16(3)), sale by sample (s.17), fraud or misrepresentation by the seller, and statutory protection under the Consumer Protection Act, 2019. Courts and consumer laws have largely shifted the rule towards caveat venditor.
+
+## Property, possession and risk
+- Property (ownership) and possession are different; risk follows property (s.26: *res perit domino*), unless otherwise agreed, though a party at fault for delay bears the risk.
+
+## Passing of property (ss.18 to 24)
+| Situation | Rule |
+|---|---|
+| Unascertained goods | No property passes until the goods are ascertained (s.18) |
+| Specific goods: intention | Property passes when the parties intend it to pass (s.19) |
+| Specific goods in deliverable state, unconditional contract | Property passes when the contract is made, even if payment and delivery are postponed (s.20) |
+| Specific goods, seller must do something to put them in a deliverable state | When it is done and the buyer has notice (s.21) |
+| Specific goods, to be weighed, measured or tested to ascertain price | When that is done and the buyer has notice (s.22) |
+| Unascertained or future goods by description | When goods of that description in a deliverable state are unconditionally appropriated to the contract by one party with the assent of the other (s.23) |
+| Goods on approval or sale or return | When the buyer signifies approval, does an act adopting the transaction, or retains the goods beyond the fixed or a reasonable time (s.24) |
+| Reservation of right of disposal | Property does not pass until conditions are fulfilled (s.25) |
+
+## Sale by non-owners: nemo dat quod non habet
+SEC: s.27 :: Where goods are sold by a person who is not their owner and who does not sell them under the authority or with the consent of the owner, the buyer acquires no better title than the seller had, unless the owner is by his conduct precluded from denying the seller's authority to sell.
+Exceptions:
+1. Estoppel of the owner (s.27).
+2. Sale by a mercantile agent in possession with the owner's consent, to a buyer in good faith (s.27 proviso).
+3. Sale by one of several joint owners in sole possession (s.28).
+4. Sale by a person in possession under a voidable contract not yet rescinded (s.29).
+5. Seller in possession after sale (s.30(1)).
+6. Buyer in possession before property passes (s.30(2)).
+7. Sale by an unpaid seller under s.54(3), by a pawnee (s.176, ICA), by a finder (s.169, ICA), and under orders of court.
+
+## Delivery (ss.31 to 44)
+- Delivery means voluntary transfer of possession (s.2(2)): actual, symbolic (handing over keys) or constructive (attornment).
+- Seller must deliver and buyer must accept and pay, concurrently, unless otherwise agreed (s.32).
+- Place: where the goods are at the time of sale, or where they are produced (s.36). Time: within a reasonable time.
+- Delivery of wrong quantity (s.37): the buyer may reject the whole or accept the contract quantity, or accept all and pay pro rata.
+- The buyer has a right to examine goods (s.41); acceptance occurs when he intimates acceptance, does an act inconsistent with the seller's ownership, or retains goods beyond a reasonable time (s.42).
+
+## 4.10 Rights and duties of seller and buyer
+| Seller | Buyer |
+|---|---|
+| Deliver goods according to the contract | Accept delivery and pay the price |
+| Suit for price (s.55) where property has passed or price is payable on a day certain | Suit for damages for non-delivery (s.57) |
+| Damages for non-acceptance (s.56) | Specific performance (s.58) for specific or ascertained goods |
+| Interest and special damages (s.61) | Suit for breach of warranty (s.59); repudiation before due date (s.60) |
+
+## 4.11 Rights of the unpaid seller
+An unpaid seller (s.45) is one who has not been paid the whole price, or who received a negotiable instrument that has been dishonoured.
+
+| Right | Section | Content |
+|---|---|---|
+| Lien | 47 to 49 | Retain goods in his possession until payment, where sold without credit, credit has expired, or the buyer becomes insolvent; lost on delivery to a carrier without reserving the right of disposal, on the buyer lawfully obtaining possession, or on waiver |
+| Stoppage in transit | 50 to 52 | When the buyer becomes insolvent, the seller may resume possession of goods in transit with a carrier and retain them until payment |
+| Resale | 54 | Where goods are perishable, or after notice of intention to resell if the buyer does not pay within a reasonable time; the seller may recover loss from the buyer |
+| Personal remedies | 55, 56, 61 | Suit for price, damages for non-acceptance, interest |
+
+TIP: The passing of property rules (ss.18 to 25) are frequently asked as problems. Identify first whether the goods are specific or unascertained, and whether they are in a deliverable state, then apply the matching section.
+
+* Sale vs agreement to sell (s.4): passing of property is the key.
+* Conditions (essential) vs warranties (collateral) (s.12); breach of condition may be treated as warranty (s.13).
+* Implied terms: title (s.14), description (s.15), fitness and merchantable quality (s.16), sample (s.17).
+* Caveat emptor (s.16) has wide exceptions; consumer law moves towards caveat venditor.
+* Risk follows property (s.26); rules for passing property in ss.18 to 25.
+* Nemo dat (s.27) with exceptions (ss.27 to 30).
+* Unpaid seller: lien, stoppage in transit, resale (ss.45 to 54).
+
+QL: Distinguish between a condition and a warranty. Explain the implied conditions in a contract of sale of goods.
+QL: "Caveat emptor." Explain the rule and its exceptions.
+QL: Discuss the rules relating to passing of property in specific and unascertained goods.
+QL: "No one can give a better title than he himself has." Explain the rule and its exceptions.
+QL: Who is an unpaid seller? Discuss his rights against the goods.
+QS: Sale and agreement to sell
+QS: Stoppage in transit
+QS: Sale on approval
+QS: Merchantable quality
+
+MCQ: Under s.26, unless otherwise agreed, risk passes || with possession | *with property | on payment | on delivery to the carrier always || Res perit domino.
+MCQ: Rowland v Divall concerned breach of the condition as to || description | quality | *title | sample || The car was stolen.
+MCQ: The right of stoppage in transit arises when the buyer || refuses delivery | *becomes insolvent | asks for credit | resells the goods || s.50.
+MCQ: In a sale of unascertained goods, property passes when || the contract is made | *goods are ascertained and unconditionally appropriated with assent | the price is paid | the goods are manufactured || ss.18 and 23.
+
+# 5 | Contract of partnership
+@topics Definition and nature; Formation; Test of partnership; Partnership and other associations; Registration of firms; Effect of non-registration; Relations of partners; Rights and duties; Property of the firm; Relations of partners to third parties; Implied authority; Kinds of partners; Minor as partner; Reconstitution; Dissolution (Indian Partnership Act, 1932)
+>> A partnership is not a legal person distinct from its partners; it is a relation based on agreement, profit-sharing and mutual agency.
+
+## Definition and nature
+SEC: s.4 :: "Partnership" is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all. Persons who have entered into partnership with one another are individually called "partners" and collectively "a firm", and the name under which their business is carried on is called the "firm name".
+Essentials:
+1. An **agreement** (partnership arises from contract, not from status: s.5).
+2. To carry on a **business** (every trade, occupation and profession: s.2(b)).
+3. To **share profits** (sharing losses is not essential to the definition).
+4. **Mutual agency**: the business is carried on by all or any of them acting for all. This is the true test.
+
+## Test of partnership: s.6
+In determining whether a group of persons is a firm, regard must be had to the real relation between the parties, as shown by all relevant facts taken together. Sharing of profits or gross returns is not by itself conclusive. Receipt of a share of profits by a lender, a servant or agent as remuneration, a widow or child of a deceased partner, or a seller of goodwill does not by itself make the recipient a partner.
+
+CASE: Cox v Hickman (1860) :: Creditors of a business who took over its management and shared profits were held not to be partners; the true test is whether the business was carried on on their behalf, that is, mutual agency.
+
+## Partnership and other associations
+| Point | Partnership | Company | Hindu Undivided Family business | Co-ownership |
+|---|---|---|---|---|
+| Creation | Agreement | Registration under the Companies Act | Status by birth | Agreement or operation of law |
+| Legal entity | Not separate | Separate legal person | Not separate | No |
+| Liability | Unlimited, joint and several | Limited (usually) | Karta unlimited; coparceners to their share | Each to own share |
+| Agency | Mutual agency | No agency among members | Karta manages | No agency |
+| Number | 2 to 50 (Companies (Miscellaneous) Rules, 2014) | Private up to 200; public no limit | No limit | Any |
+| Death | Dissolves unless contract otherwise | No effect | No effect | Interest passes to heirs |
+
+A **limited liability partnership** under the LLP Act, 2008 is a body corporate with separate legal personality and limited liability, distinct from a firm under the 1932 Act.
+
+## Registration and effect of non-registration
+- Registration is not compulsory, but a firm may be registered by sending a statement to the Registrar of Firms (s.58); entry in the Register of Firms (s.59).
+SEC: s.69 :: (1) No suit to enforce a right arising from a contract or conferred by the Act shall be instituted by a partner against the firm or any other partner unless the firm is registered and the person suing is shown as a partner. (2) No suit to enforce a right arising from a contract shall be instituted on behalf of a firm against any third party unless the firm is registered and the persons suing are shown as partners. (3) These apply also to claims of set-off and other proceedings, but do not affect the right to sue for dissolution, for accounts of a dissolved firm, or to realise the property of a dissolved firm, nor suits for sums up to one hundred rupees, nor the powers of an official assignee.
+
+CASE: Jagdish Chander Gupta v Kajaria Traders (India) Ltd (1964) :: An application under the Arbitration Act by a partner of an unregistered firm was held barred by s.69(3), because the words "other proceeding" are to be given their plain meaning and include such applications.
+
+- Third parties can sue an unregistered firm; non-registration affects only the firm's and partners' rights to sue.
+
+## Relations of partners to one another (ss.9 to 17)
+### Rights
+- To take part in the conduct of business (s.12(a)).
+- To be consulted; decisions on ordinary matters by majority; no change in the nature of business without the consent of all (s.12(c)).
+- To have access to and inspect books (s.12(d)).
+- To share profits equally, in the absence of agreement (s.13(b)).
+- Interest on advances beyond capital at 6% per annum (s.13(d)); no interest on capital unless agreed.
+- To be indemnified for payments made and liabilities incurred in the ordinary and proper conduct of business (s.13(e)).
+- No remuneration for taking part in business, unless agreed (s.13(a)).
+
+### Duties
+- To carry on business to the greatest common advantage, be just and faithful, and render true accounts (s.9).
+- To indemnify the firm for loss caused by fraud (s.10) and wilful neglect (s.13(f)).
+- To attend diligently to duties (s.12(b)).
+- Not to carry on competing business; to account for private profits from firm transactions, property or name (s.16).
+
+## Property of the firm: s.14
+All property, rights and interests originally brought into the stock of the firm, or acquired for the firm or in the course of its business, including goodwill, are firm property, held and used exclusively for the business (s.15).
+
+## Relations of partners to third parties
+- **Partner as agent**: every partner is an agent of the firm for the purpose of its business (s.18).
+- **Implied authority** (s.19(1)): the act of a partner done to carry on, in the usual way, business of the kind carried on by the firm binds the firm.
+- **Restrictions** (s.19(2)): in the absence of usage or custom, implied authority does not extend to submitting a dispute to arbitration, opening a bank account in his own name, compromising or relinquishing a claim, withdrawing a suit, admitting liability in a suit, acquiring or transferring immovable property of the firm, or entering into partnership on behalf of the firm.
+- **Liability**: every partner is liable, jointly with all other partners and also severally, for all acts of the firm done while he is a partner (s.25); for wrongful acts of a partner in the ordinary course of business (s.26); and for misapplication of money (s.27).
+- **Holding out** (s.28): anyone who represents himself, or knowingly permits himself to be represented, as a partner is liable to anyone who has on the faith of that representation given credit to the firm.
+
+## Kinds of partners
+| Kind | Description |
+|---|---|
+| Active or working | Takes active part in business |
+| Sleeping or dormant | Shares profits but does not take part; liable to third parties; not required to give public notice on retirement |
+| Nominal | Lends his name; no share in profits; liable to third parties as if a partner |
+| Partner in profits only | Shares profits but not losses; still liable to third parties |
+| Partner by estoppel or holding out | Liable under s.28 |
+| Sub-partner | Shares a partner's profits under an agreement with him; not a partner of the firm |
+| Incoming and outgoing | Joining or leaving the firm |
+
+## Minor as partner: s.30
+- A minor cannot be a partner, but may, with the consent of all partners, be **admitted to the benefits** of partnership.
+- He has a right to his agreed share of property and profits and to inspect accounts; his share is liable for the firm's acts, but he is not personally liable.
+- Within six months of attaining majority (or of learning of his admission, whichever is later), he must give public notice whether he elects to become or not to become a partner; if he fails, he becomes a partner and is personally liable from the date of admission.
+
+## Reconstitution of a firm
+- **Introduction of a partner** (s.31): only with the consent of all; the incoming partner is not liable for acts done before he joined.
+- **Retirement** (s.32): with consent, by agreement, or by notice in a partnership at will; the retiring partner remains liable to third parties for acts before retirement and, until public notice is given, for acts after.
+- **Expulsion** (s.33): only in good faith under powers conferred by contract.
+- **Insolvency** (s.34) and **death** (s.35): the estate is not liable for acts after death.
+- **Rights of outgoing partner** to carry on competing business (s.36) and to a share of subsequent profits (s.37).
+
+## Dissolution of the firm
+| Mode | Section |
+|---|---|
+| By agreement of all partners | 40 |
+| Compulsory: insolvency of all or all but one partner; business becoming unlawful | 41 |
+| On contingencies: expiry of fixed term; completion of adventure; death or insolvency of a partner (subject to contract) | 42 |
+| By notice, in a partnership at will | 43 |
+| By the court, on a partner's suit: unsoundness of mind, permanent incapacity, misconduct, wilful or persistent breach of agreement, transfer of whole interest, business can only be carried on at a loss, or any other just and equitable ground | 44 |
+- After dissolution, partners remain liable to third parties until public notice (s.45); each partner can insist on winding up (s.46); accounts settled by the rules of s.48 (losses paid first out of profits, then capital, then by partners individually in profit-sharing ratio; assets applied to outside debts, then partners' advances, then capital).
+
+TIP: Mutual agency, not profit-sharing, is the true test of partnership (s.6; Cox v Hickman). For non-registration, quote s.69 in full with its exceptions and Jagdish Chander Gupta.
+
+* Partnership: agreement, business, profit-sharing, mutual agency (s.4).
+* s.6: real relation; profit-sharing alone not conclusive (Cox v Hickman).
+* Registration optional but s.69 bars suits by unregistered firms and their partners (Jagdish Chander Gupta).
+* Implied authority (s.19(1)) and its restrictions (s.19(2)); joint and several liability (s.25).
+* Holding out (s.28); minor admitted to benefits (s.30).
+* Dissolution by agreement, compulsorily, on contingencies, by notice, or by court (ss.40 to 44).
+
+QL: Define partnership. Explain the essential elements and the test of partnership.
+QL: Discuss the effects of non-registration of a firm under s.69 of the Indian Partnership Act.
+QL: Explain the implied authority of a partner and its limits.
+QL: Discuss the position of a minor admitted to the benefits of partnership.
+QL: Explain the modes of dissolution of a firm.
+QS: Partnership by holding out
+QS: Sleeping partner
+QS: Partnership at will
+QS: Limited liability partnership
+
+MCQ: The true test of partnership is || sharing of losses | *mutual agency | registration | capital contribution || s.6; Cox v Hickman.
+MCQ: A minor admitted to the benefits of partnership is || personally liable for losses | *not personally liable; only his share is liable | a full partner | barred from inspecting accounts || s.30.
+MCQ: Under s.69, an unregistered firm || cannot be sued by third parties | *cannot sue third parties to enforce contractual rights | is illegal | is automatically dissolved || s.69(2).
+MCQ: Which act is outside a partner's implied authority under s.19(2)? || Buying goods for the business | *Submitting a dispute to arbitration | Receiving payment | Hiring a clerk || Unless usage permits.
+
+# 6 | Negotiable Instruments Act, 1881
+@topics Negotiable instruments: promissory notes, bills of exchange and cheques; holder and holder in due course; negotiation and endorsement; crossing; dishonour; s.138 and penal provisions
+>> A negotiable instrument transfers money claims by delivery or endorsement, and gives a holder in due course a title better than his transferor's. Section 138 adds criminal liability for dishonoured cheques.
+
+## Meaning and features
+A negotiable instrument is a written document by which a right is created in favour of some person and which is freely transferable. Features: transferable by delivery (bearer) or endorsement and delivery (order); the holder in due course gets a good title free from defects of prior parties; the holder can sue in his own name; certain presumptions apply (s.118).
+
+## Kinds
+SEC: s.4 :: A promissory note is an instrument in writing (not being a bank note or currency note) containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer of the instrument.
+SEC: s.5 :: A bill of exchange is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.
+SEC: s.6 :: A cheque is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand, and it includes the electronic image of a truncated cheque and a cheque in electronic form.
+- A promissory note payable to bearer cannot be made by anyone except the RBI or the Central Government (s.31, RBI Act, 1934).
+
+| Point | Promissory note | Bill of exchange | Cheque |
+|---|---|---|---|
+| Parties | Maker and payee | Drawer, drawee and payee | Drawer, drawee bank and payee |
+| Nature | Promise to pay | Order to pay | Order to a bank to pay on demand |
+| Acceptance | Not needed | Needed if payable after sight or a period | Not needed |
+| Days of grace | Three days if not on demand | Three days if not on demand | None |
+| Crossing | Not possible | Not possible | Possible |
+
+## Holder and holder in due course
+- **Holder** (s.8): the person entitled in his own name to possession of the instrument and to receive or recover the amount due.
+- **Holder in due course** (s.9): a person who, for consideration, became the possessor of a bearer instrument or the payee or endorsee of an order instrument, before the amount became payable, without sufficient cause to believe that any defect existed in the title of the person from whom he derived his title.
+- **Privileges** of a holder in due course: he takes free from defects of title of prior parties (s.53); every prior party is liable to him until the instrument is duly satisfied (s.36); estoppel against denying the original validity of the instrument (s.120) and the payee's capacity to endorse (s.121).
+
+## Presumptions: ss.118 and 139
+- s.118: until the contrary is proved, it is presumed that every instrument was made for consideration, on the date it bears, accepted within a reasonable time, transferred before maturity, endorsed in the order they appear, stamped, and that the holder is a holder in due course.
+- s.139: the holder of a cheque is presumed to have received it in discharge of a debt or other liability.
+
+CASE: Rangappa v Sri Mohan (2010) :: A three-judge bench held that the presumption under s.139 includes the existence of a legally enforceable debt or liability. It is rebuttable, and the accused may rebut it on a preponderance of probabilities, including by relying on the complainant's own materials.
+
+## Negotiation and endorsement
+- **Negotiation** (s.14): transfer to any person so as to constitute him the holder.
+- Bearer instruments are negotiated by delivery (s.47); order instruments by endorsement and delivery (s.48).
+- **Endorsement** (s.15): signature of the maker or holder on the instrument (or an allonge) for the purpose of negotiation.
+- Kinds: blank, special (in full), restrictive, partial (not valid as negotiation), conditional, sans recours (without recourse to the endorser).
+
+## Crossing of cheques (ss.123 to 131)
+- **General crossing** (s.123): two transverse parallel lines, with or without "and company"; payable only through a bank.
+- **Special crossing** (s.124): the name of a banker added; payable only to that banker.
+- **"Not negotiable" crossing** (s.130): the holder cannot give a better title than he has.
+- **Account payee**: payable only to the payee's account; developed by banking practice and recognised by s.123A.
+- A paying banker who pays a crossed cheque in good faith and without negligence according to the crossing is protected (s.128); a collecting banker who receives payment in good faith without negligence for a customer is protected (s.131).
+
+## Dishonour
+- **By non-acceptance** (s.91) or **by non-payment** (s.92).
+- Notice of dishonour must be given to prior parties to make them liable (s.93), except in cases where it is dispensed with (s.98).
+- **Noting and protest** (ss.99, 100): certification of dishonour by a notary public.
+
+## Dishonour of cheque for insufficiency of funds: s.138
+SEC: s.138 :: Where a cheque drawn by a person on an account maintained by him with a banker for payment of money to another, for the discharge of any debt or other liability, is returned unpaid because the amount of money standing to the credit of that account is insufficient or it exceeds the arrangement made with the bank, such person shall be deemed to have committed an offence and shall be punished with imprisonment up to two years, or fine up to twice the amount of the cheque, or both, provided (a) the cheque has been presented within its validity period (three months); (b) the payee has made a demand in writing within thirty days of receiving information of dishonour; and (c) the drawer has failed to pay within fifteen days of receiving the notice.
+
+- Complaint must be filed within one month of the cause of action (after expiry of the fifteen days) (s.142(1)(b)); delay may be condoned.
+- **Jurisdiction** (s.142(2), added 2015): the court within whose local limits the payee's bank branch where the cheque was delivered for collection is situated. This reversed **Dashrath Rupsingh Rathod v State of Maharashtra (2014)**, which had held the drawee bank's location decisive.
+- **Offences by companies** (s.141): every person in charge of and responsible for the conduct of business is liable.
+- **Interim compensation** (s.143A, 2018): up to 20% of the cheque amount during trial; and on appeal, the appellate court may order deposit of at least 20% of the fine or compensation (s.148).
+- Offence is compoundable (s.147); summary trial (s.143).
+
+CASE: Bir Singh v Mukesh Kumar (2019) :: A person who signs a blank cheque and hands it to the payee is liable under s.138 if it is filled in later and dishonoured, unless he proves it was not issued in discharge of a debt; the presumption under s.139 applies.
+
+CASE: In re Expeditious Trial of Cases under Section 138 of NI Act (2021) :: A Constitution Bench issued directions to reduce the huge pendency of cheque-dishonour cases: summary trials, one trial for multiple cheques arising from the same transaction within twelve months, issue of summons by email, and more courts.
+
+TIP: For s.138, list the ingredients in order: legally enforceable debt, cheque drawn on own account, presentation within validity, dishonour for insufficiency, notice within 30 days, failure to pay within 15 days, complaint within one month. Add s.139 presumption and Rangappa.
+
+## Recent judgments (2025–26)
+
+CASE: Canara Bank v Kavita Chowdhary (2026) :: A collecting bank that delays presenting a cheque is liable for deficiency in service.
+
+* Collecting bank's delay is deficiency in service (2026).
+* Promissory note (s.4), bill of exchange (s.5) and cheque (s.6, including electronic cheques).
+* Holder in due course (s.9) takes free of prior defects (s.53).
+* Presumptions under ss.118 and 139 include a legally enforceable debt (Rangappa).
+* Crossings: general, special, not negotiable, account payee; protection of paying and collecting bankers (ss.128, 131).
+* s.138: dishonour for insufficient funds is an offence, with notice and timelines; jurisdiction at the payee's bank (s.142(2)); interim compensation (s.143A).
+
+QL: Define and distinguish a promissory note, a bill of exchange and a cheque.
+QL: Who is a holder in due course? Explain his privileges.
+QL: Discuss the offence of dishonour of cheque under s.138 of the Negotiable Instruments Act with reference to the presumptions and procedure.
+QL: Explain the different kinds of crossing and endorsement.
+QS: Not negotiable crossing
+QS: Noting and protest
+QS: Interim compensation under s.143A
+QS: Rangappa v Sri Mohan
+
+MCQ: Notice of demand under s.138 must be given within || 15 days | *30 days of information of dishonour | 3 months | 1 year || s.138 proviso (b).
+MCQ: The privileges of a holder in due course include || no right to sue | *taking free of defects in prior parties' title | liability only to the drawee | a duty to note and protest || s.53.
+MCQ: After the 2015 amendment, a s.138 complaint lies where || the drawer resides | *the payee's bank branch where the cheque was delivered for collection is located | the drawee bank is located | the cheque was signed || s.142(2).
+MCQ: A cheque is a || promissory note payable on demand | *bill of exchange drawn on a specified banker payable on demand | bank note | negotiable bond || s.6.

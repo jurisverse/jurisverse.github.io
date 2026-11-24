@@ -1,0 +1,1192 @@
+@title Law of Crimes – I
+@subtitle The Bharatiya Nyaya Sanhita, 2023: general principles and specific offences
+@paper 1.4
+@sem I
+@color #34404f
+@dark #2c3744
+@intro Covers the Bharatiya Nyaya Sanhita, 2023, in force from 1 July 2024. Every provision is given with its BNS section and, in brackets, the corresponding IPC section, because most leading cases were decided under the IPC.
+@reading K.D. Gaur, Criminal Law: Cases and Materials
+@reading Ratanlal and Dhirajlal, Law of Crimes
+@reading S.S. Huda, The Principles of the Law of Crimes in British India
+@reading Kenny, Outlines of Criminal Law (Chapters 1 to 3)
+@reading Ratanlal and Dhirajlal, The Indian Penal Code (now with the BNS)
+@reading P.S. Achuthan Pillai, Criminal Law
+@reading R.C. Nigam, Law of Crimes in India, Vol. I
+@reading S.W. Stewart, A Modern View of the Criminal Law
+@reading Hari Singh Gour, Penal Law of India
+@reading V.R. Bhatt, Essays in Criminal Law
+@reading Indian Law Institute, Annual Survey of Indian Law (relevant volumes)
+
+# 1 | General: crime, the State and the Bharatiya Nyaya Sanhita
+@topics Conception of crime; State's power to declare acts or omissions crimes; State's responsibility to detect, control and punish crime; Crime distinguished from other wrongs; Short title, commencement and application of the BNS; Salient features of the BNS
+>> A crime is conduct the State forbids on pain of punishment because it harms society. The BNS, which replaced the IPC on 1 July 2024, is India's general penal code.
+
+## 1.1 Conception of crime
+There is no single definition. Common approaches:
+- **Legal**: a crime is an act or omission prohibited by law and punishable by the State (Kenny: wrongs whose sanction is punitive and not remissible by any private person).
+- **Blackstone**: an act committed or omitted in violation of a public law forbidding or commanding it.
+- **Social**: conduct that offends the collective conscience or threatens social order.
+- **Procedural**: conduct that leads to criminal proceedings and possible punishment.
+
+Under the BNS, "offence" means a thing made punishable by the Sanhita (s.2(24)); illegal, act and omission are defined in s.2.
+
+## 1.2 State's power to declare crimes
+- Parliament and State legislatures declare acts criminal under Entry 1 of List III (Concurrent List): "Criminal law, including all matters included in the Indian Penal Code at the commencement of this Constitution".
+- The power is limited by Fundamental Rights: Art. 14 (no arbitrary classification), Art. 19 (reasonable restrictions only), Art. 20 (no retrospective offences, no double jeopardy, no self-incrimination) and Art. 21 (fair procedure and substantive fairness). Courts have struck down vague or arbitrary offences: s.66A of the IT Act (Shreya Singhal, 2015), s.303 IPC mandatory death sentence (Mithu, 1983), s.497 IPC adultery (Joseph Shine, 2018), and read down s.377 IPC (Navtej Johar, 2018).
+
+## 1.3 State's responsibility to detect, control and punish crime
+- The State maintains police, prosecution, courts and prisons.
+- Procedure is now governed by the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) and evidence by the Bharatiya Sakshya Adhiniyam, 2023 (BSA), both also in force from 1 July 2024.
+- The State also owes duties to victims: compensation (s.395 and the victim compensation scheme under s.396 BNSS) and a fair investigation.
+
+## 1.4 Crime distinguished from other wrongs
+| Point | Crime | Tort | Breach of contract |
+|---|---|---|---|
+| Nature | Public wrong against society | Private wrong against an individual | Violation of a right created by agreement |
+| Who proceeds | State prosecutes | Victim sues | Party sues |
+| Object | Punishment, deterrence, reform | Compensation | Compensation or performance |
+| Mental element | Usually essential (mens rea) | Usually not essential | Not relevant |
+| Settlement | Only compoundable offences can be compromised | Can be settled | Can be settled |
+| Standard of proof | Beyond reasonable doubt | Preponderance of probabilities | Preponderance of probabilities |
+
+## 1.5 Short title, commencement and application
+SEC: s.1, BNS :: (1) This Act may be called the Bharatiya Nyaya Sanhita, 2023. (2) It shall come into force on such date as the Central Government may notify. (3) Every person shall be liable to punishment under this Sanhita for every act or omission contrary to its provisions of which he is guilty within India. (4) Any person liable by any law in force in India to be tried for an offence committed beyond India shall be dealt with according to this Sanhita as if the act had been committed within India. (5) The provisions also apply to any offence committed by any citizen of India outside India, by any person on any ship or aircraft registered in India, and by any person in any place outside India committing an offence targeting a computer resource located in India.
+- The BNS was notified to come into force on **1 July 2024**, repealing the Indian Penal Code, 1860 (s.358). Offences committed before that date continue to be governed by the IPC (s.358(2)).
+- **Intra-territorial jurisdiction**: every person, citizen or foreigner, for offences within India. Exceptions: the President and Governors (Art. 361), foreign sovereigns, ambassadors and diplomats, alien enemies in war, and foreign armed forces and warships with permission.
+- **Extra-territorial jurisdiction**: Indian citizens anywhere; persons on Indian ships or aircraft; and offences targeting computer resources in India.
+
+CASE: Mobarik Ali Ahmed v State of Bombay (1957) :: A Pakistani national in Karachi made false representations to a firm in Bombay by letters, telegrams and phone calls and obtained money. He was held liable for cheating under the IPC though he was physically outside India, because the offence was committed in Bombay where the representations were received and acted upon.
+
+## 1.6 Salient features of the BNS
+- **Structure**: 358 sections in 20 chapters (the IPC had 511 sections in 23 chapters).
+- **Reorganisation**: offences against women and children brought together in Chapter V, placed before offences against the human body; offences against the State and public tranquillity reorganised.
+- **New offences**: organised crime (s.111); petty organised crime (s.112); terrorist act (s.113); murder by a mob on grounds of race, caste, community and similar grounds (s.103(2)); snatching (s.304); acts endangering sovereignty, unity and integrity of India (s.152, replacing sedition); sexual intercourse by deceitful means including a false promise to marry (s.69); hiring or employing a child to commit an offence (s.95).
+- **Omitted offences**: sedition (s.124A IPC) as such; adultery (s.497 IPC, already struck down); unnatural offences (s.377 IPC); attempt to commit suicide as a general offence (s.309 IPC); thug (ss.310, 311 IPC).
+- **New punishment**: community service (s.4(f)).
+- **Gender**: "gender" includes transgender (s.2(10)); several provisions are made gender-neutral (for example, offences against children).
+- **Higher fines** and mandatory minimum sentences for some offences; extra-territorial reach for offences targeting Indian computer resources.
+- Many sections are re-numbered without change of substance, so IPC case law continues to apply.
+
+TIP: In every answer on the BNS, give the BNS section first and the old IPC section in brackets, for example "murder (s.101 BNS; s.300 IPC)". This shows the examiner you know both and lets you use IPC case law.
+
+* Crime is a public wrong punished by the State; tort and breach of contract are private wrongs.
+* Criminal law is in the Concurrent List; Fundamental Rights limit what can be made a crime.
+* BNS in force from 1 July 2024; 358 sections; repealed the IPC (s.358).
+* Jurisdiction is intra-territorial and extra-territorial (s.1(3) to (5)); Mobarik Ali Ahmed.
+* New offences: organised crime, terrorist act, mob lynching, snatching, s.152; community service added; sedition, adultery, s.377 and s.309 dropped.
+
+QL: What is crime? Distinguish crime from tort and breach of contract.
+QL: Discuss the territorial and extra-territorial application of the Bharatiya Nyaya Sanhita, 2023.
+QL: Examine the salient features of the Bharatiya Nyaya Sanhita, 2023. How does it differ from the Indian Penal Code?
+QS: Mobarik Ali Ahmed v State of Bombay
+QS: Community service
+QS: Extra-territorial jurisdiction
+QS: Constitutional limits on the power to create offences
+
+MCQ: The BNS came into force on || 1 January 2024 | *1 July 2024 | 25 December 2023 | 26 January 2025 || Notified along with the BNSS and BSA.
+MCQ: How many sections does the BNS have? || 511 | *358 | 531 | 170 || The IPC had 511.
+MCQ: Which is a new punishment under s.4 of the BNS? || Forfeiture | Fine | *Community service | Simple imprisonment || s.4(f).
+MCQ: Mobarik Ali Ahmed is a leading case on || mens rea | *jurisdiction over a foreigner for an offence committed in India | private defence | insanity || The cheating was complete in Bombay.
+
+# 2 | Elements of criminal liability
+@topics Author of crime: natural person, fit subject for punishment, companies and corporations; Mens rea; Importance of mens rea; Recent trend of strict liability in socio-economic offences; Injury to another
+>> Actus non facit reum nisi mens sit rea: an act does not make a person guilty unless the mind is also guilty. Liability normally needs a human being (or a company), a guilty act, a guilty mind and injury.
+
+## The four elements
+1. A **human being** (or legal person) under a legal obligation and capable of being punished.
+2. **Mens rea**: a guilty mind (intention, knowledge, recklessness, negligence, or a specified state such as dishonesty).
+3. **Actus reus**: a voluntary act or illegal omission, with its circumstances and consequences.
+4. **Injury** to another person or to society. Under s.2(14) BNS (s.44 IPC), "injury" means any harm illegally caused to any person in body, mind, reputation or property.
+
+## 2.1 Author of crime: natural persons and corporations
+- "Person" includes any company or association or body of persons, whether incorporated or not (s.2(26) BNS; s.11 IPC).
+- Children below seven are incapable of crime (s.20); between seven and twelve, liability depends on maturity of understanding (s.21) (Unit 5).
+- Animals and inanimate objects cannot commit crimes in modern law.
+
+### Corporate criminal liability
+Earlier courts held that a company could not be prosecuted for offences carrying mandatory imprisonment, because it cannot be imprisoned.
+
+CASE: Standard Chartered Bank v Directorate of Enforcement (2005) :: A Constitution Bench held that a company can be prosecuted and convicted for an offence carrying mandatory imprisonment and fine; the court will impose the fine on the company. It cannot escape liability merely because imprisonment cannot be imposed.
+
+CASE: Iridium India Telecom Ltd v Motorola Inc (2011) :: A company can be held liable for offences requiring mens rea (here cheating). The mens rea of the persons who are its "directing mind and will" (alter ego) is attributed to the company.
+
+- But directors are not automatically vicariously liable for a company's offence under the general penal law, unless the statute so provides (Sunil Bharti Mittal v CBI, 2015).
+
+## 2.2 and 2.3 Mens rea and its importance
+- The maxim *actus non facit reum nisi mens sit rea* comes from English common law.
+- The IPC and BNS do not use the term "mens rea"; instead, each offence states the required mental element: "intentionally", "knowingly", "voluntarily", "dishonestly" (s.2(7)), "fraudulently" (s.2(9)), "rashly or negligently", "reason to believe" (s.2(29)), "corruptly", "maliciously".
+- The General Exceptions (ss.14 to 44) also reflect the need for a guilty mind: mistake of fact, accident, infancy, insanity, involuntary intoxication.
+
+| Mental state | Meaning | Example offence |
+|---|---|---|
+| Intention | Aim or purpose to bring about a result | Murder (s.101) |
+| Knowledge | Awareness that the result is likely | Culpable homicide (s.100, second and third limbs) |
+| Recklessness or rashness | Conscious taking of an unjustified risk | Rash driving (s.281) |
+| Negligence | Failure to take care a reasonable person would take | Death by negligence (s.106) |
+| Dishonestly | Intention to cause wrongful gain or wrongful loss | Theft (s.303), cheating (s.318) |
+| Fraudulently | Intention to defraud | Forgery (s.336) |
+
+CASE: Nathulal v State of Madhya Pradesh (1966) :: A food-grain dealer stored grain beyond the licensed quantity while his licence application was pending, honestly believing he would get it. The Supreme Court held that mens rea is an essential ingredient of a criminal offence unless the statute expressly or by necessary implication excludes it. He was acquitted.
+
+CASE: R v Prince (1875) :: Prince took a girl under sixteen out of her father's custody, honestly and reasonably believing she was eighteen. He was convicted, because the statute was read as not requiring knowledge of her age; the act of taking a girl from her father was itself wrong. Compare R v Tolson (1889), where a woman who remarried believing on reasonable grounds that her husband was dead was acquitted of bigamy: an honest and reasonable mistake of fact negatived mens rea.
+
+CASE: Sherras v De Rutzen (1895) :: Wright J held that there is a presumption that mens rea is an essential ingredient of every offence; it may be displaced by the words of the statute or its subject-matter.
+
+## 2.4 Strict liability in socio-economic offences
+In public welfare and socio-economic legislation (food adulteration, foreign exchange, customs, environmental protection, drugs), statutes often dispense with mens rea, because:
+- the harm to society is great and widespread;
+- proof of the mental state is very difficult;
+- penalties are usually moderate;
+- businesses can be expected to take care.
+
+CASE: State of Maharashtra v Mayer Hans George (1965) :: A German smuggler passing through Bombay on a flight from Zurich to Manila carried gold in breach of an RBI notification published only days earlier, of which he claimed ignorance. The Supreme Court (majority) convicted him under the Foreign Exchange Regulation Act and the Sea Customs Act. Mens rea was excluded by necessary implication, given the object of the statute; ignorance of the notification was no defence. Subba Rao J dissented, holding mens rea should not be excluded.
+
+The **Santhanam Committee (1964)** and the **Law Commission's 47th Report (1972)** recommended stricter liability for socio-economic offences. Such offences often place a reverse burden on the accused, for example presumptions under the NDPS Act (ss.35, 54).
+
+## 2.5 Actus reus and injury to another
+- **Actus reus** includes the act, its circumstances and its consequences. An "act" includes a series of acts (s.2(1)); "omission" includes a series of omissions; an illegal omission can be an offence where there is a legal duty to act.
+- **Voluntarily** (s.2(33) BNS, s.39 IPC): a person causes an effect voluntarily when he causes it by means he intended, or by means which he knew or had reason to believe were likely to cause it.
+- **Causation**: the act must be the legal cause of the result; an intervening independent act may break the chain.
+- **Injury**: harm illegally caused to body, mind, reputation or property. Offences against the State or public tranquillity injure society even without an individual victim.
+
+TIP: For mens rea essays, show three things: (1) the BNS uses specific words instead of "mens rea"; (2) courts presume mens rea unless excluded (Nathulal; Sherras v De Rutzen); (3) socio-economic laws may exclude it (Mayer Hans George), with reasons for and against.
+
+* Liability needs a human or legal person, actus reus, mens rea and injury.
+* Companies can be prosecuted even for offences with mandatory imprisonment (Standard Chartered) and can have mens rea through their directing mind (Iridium).
+* The BNS states mental elements through words such as intentionally, knowingly, dishonestly, fraudulently.
+* Mens rea is presumed unless excluded expressly or by necessary implication (Nathulal).
+* Socio-economic offences often impose strict liability (Mayer Hans George).
+
+QL: "Actus non facit reum nisi mens sit rea." Discuss the place of mens rea in Indian criminal law.
+QL: Discuss the trend towards strict liability in socio-economic offences, with reference to State of Maharashtra v Mayer Hans George.
+QL: Can a corporation be held criminally liable? Discuss with reference to Standard Chartered Bank and Iridium India Telecom.
+QS: Actus reus
+QS: Dishonestly and fraudulently
+QS: R v Prince
+QS: Nathulal v State of MP
+QS: Voluntarily
+
+MCQ: Mens rea was held to be an essential ingredient unless excluded by statute in || Mayer Hans George | *Nathulal v State of MP | R v Prince | Standard Chartered Bank || 1966.
+MCQ: A company can be prosecuted for an offence with mandatory imprisonment and fine, and fined, as held in || Iridium India | *Standard Chartered Bank v Directorate of Enforcement | Sunil Bharti Mittal | Mobarik Ali Ahmed || Constitution Bench, 2005.
+MCQ: "Dishonestly" means doing anything with intention of causing || deceit | *wrongful gain to one person or wrongful loss to another | injury to reputation | fraud on the State || s.2(7) BNS.
+MCQ: The Mayer Hans George case involved || murder | *smuggling of gold contrary to an RBI notification | defamation | sedition || Strict liability under FERA and the Sea Customs Act.
+
+# 3 | Group liability
+@topics Combination of persons attempting to disturb peace; Common intention; Abetment: instigation, aiding, conspiracy; Mere abetment punishable; Unlawful assembly and basis of liability; Organised crime; Criminal conspiracy; Rioting; Cyber offences: meaning, nature and types
+>> When several people act together, the law may hold each of them liable for what the group does: through common intention, common object, abetment, conspiracy and organised crime.
+
+## 3.1 Why stringent provisions for groups
+Combinations of persons are more dangerous than individuals: they increase the likelihood of the crime, make resistance harder, and threaten public peace. So the law punishes agreement, assembly and participation, sometimes before the main crime occurs.
+
+## 3.2 Common intention: s.3(5) BNS (s.34 IPC)
+SEC: s.3(5), BNS :: When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.
+- It is a rule of evidence and liability, not a separate offence; it must be read with a substantive offence.
+- Elements: (1) a criminal act; (2) done by several persons; (3) in furtherance of the common intention of all; (4) participation by each accused in some form.
+
+CASE: Barendra Kumar Ghosh v King-Emperor (1925) :: In the Shankaritola post office robbery, several men attacked the postmaster; one fired and killed him. Barendra stood outside the door. The Privy Council held him liable for murder: "they also serve who only stand and wait". Participation need not be in the actual killing.
+
+CASE: Mahbub Shah v Emperor (1945) :: The Privy Council held that common intention implies a pre-arranged plan and a prior meeting of minds; it is different from similar intention. Mahbub Shah was acquitted of murder because the fatal shot was fired by another person on the spur of the moment, not shown to be in furtherance of a pre-arranged plan.
+
+CASE: Pandurang v State of Hyderabad (1955) :: The Supreme Court held that common intention may develop on the spot, but there must be a prior meeting of minds; several persons acting with the same or similar intention independently are not liable under this rule.
+
+## 3.3 Abetment: ss.45 to 60 BNS (ss.107 to 120 IPC)
+SEC: s.45, BNS :: A person abets the doing of a thing who (a) instigates any person to do that thing; or (b) engages with one or more other persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy; or (c) intentionally aids, by any act or illegal omission, the doing of that thing.
+
+Three forms:
+1. **Instigation**: goading, urging, provoking or encouraging. Wilful misrepresentation or concealment of a material fact is also instigation (Explanation 1).
+2. **Conspiracy**: agreement plus an act in pursuance.
+3. **Intentional aiding**: facilitating the commission of the act.
+
+CASE: Ramesh Kumar v State of Chhattisgarh (2001) :: Words uttered in a fit of anger or emotion, without intending the consequences, do not amount to instigation. Instigation requires goading or urging forward with intent.
+
+### 3.3.2 Mere abetment is punishable
+- Abetment is punishable even if the act abetted is not committed, or the person abetted is not capable of committing it (s.46, Explanations).
+- Abetment of abetment is an offence.
+- Punishments depend on whether the offence is committed (s.49: same punishment as the offence), and on the gravity of the offence abetted (for example, ss.55, 56 for offences punishable with death, life imprisonment or imprisonment).
+- Abetment in India of offences outside India (s.47) and abetment outside India of offences in India (s.48) are covered.
+
+## 3.4 Unlawful assembly: ss.189 and 190 BNS (ss.141 to 149 IPC)
+SEC: s.189(1), BNS :: An assembly of five or more persons is an unlawful assembly if the common object of the persons composing it is (a) to overawe by criminal force the Central or State Government or Legislature or any public servant; (b) to resist the execution of any law or legal process; (c) to commit any mischief, criminal trespass or other offence; (d) by criminal force, to take possession of property or deprive any person of an incorporeal right; or (e) by criminal force to compel any person to do what he is not legally bound to do.
+
+### 3.4.1 Basis of liability: common object
+SEC: s.190, BNS :: If an offence is committed by any member of an unlawful assembly in prosecution of the common object, or such as the members knew to be likely to be committed in prosecution of that object, every person who, at the time of the offence, is a member of that assembly is guilty of that offence.
+
+| Point | Common intention, s.3(5) | Common object, s.190 |
+|---|---|---|
+| Number | Two or more | Five or more |
+| Mental element | Prior meeting of minds, pre-arranged plan | Common object; no prior concert needed |
+| Participation | Active participation required | Mere membership of the unlawful assembly suffices |
+| Nature | Rule of liability, not an offence | Creates a specific offence by membership |
+
+CASE: Masalti v State of Uttar Pradesh (1965) :: Where a large crowd commits an offence, every member who shares the common object is guilty, even without an overt act. But courts must be cautious and may require consistent testimony of at least two or more witnesses to convict members of a large mob.
+
+## 3.5 Organised crime: s.111 BNS (new)
+SEC: s.111(1), BNS :: Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, trafficking in persons, drugs, weapons or illicit goods or services, human trafficking for prostitution or ransom, by any person or a group of persons acting in concert, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, coercion, or by any other unlawful means to obtain direct or indirect material benefit including a financial benefit, constitutes organised crime.
+- "Continuing unlawful activity" means activity prohibited by law, a cognizable offence punishable with three years or more, undertaken by a person or as a member of a syndicate, in respect of which more than one charge-sheet has been filed in the preceding ten years and cognizance taken.
+- Punishment: if the offence results in death, death or life imprisonment and fine not less than ₹10 lakh; otherwise, imprisonment not less than five years extending to life.
+- **Petty organised crime** (s.112): theft, snatching, cheating, unauthorised sale of tickets, betting, sale of public examination papers and similar crimes by groups or gangs, punishable with one to seven years.
+- Modelled on State laws such as the Maharashtra Control of Organised Crime Act, 1999 (MCOCA).
+
+## 3.5 Criminal conspiracy: s.61 BNS (ss.120A, 120B IPC)
+SEC: s.61(1), BNS :: When two or more persons agree with the common object to do, or cause to be done, (a) an illegal act; or (b) an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy. Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties in pursuance thereof.
+- The essence is the agreement. For conspiracy to commit an offence, no overt act is needed; for other illegal acts, an overt act is required.
+- Punishment (s.61(2)): for conspiracy to commit an offence punishable with death, life imprisonment or rigorous imprisonment of two years or more, as if the conspirator abetted the offence; in other cases, up to six months, fine or both.
+
+CASE: Topandas v State of Bombay (1955) :: Two or more persons are needed for a conspiracy. Where four persons were charged and three were acquitted, the fourth could not be convicted of conspiracy with them alone.
+
+CASE: Kehar Singh v State (Delhi Administration) (1988) :: In the Indira Gandhi assassination case, the Court held that conspiracy is generally proved by circumstantial evidence; the agreement need not be proved by direct evidence, and conspirators need not know all details or all members.
+
+CASE: State (NCT of Delhi) v Navjot Sandhu (2005) :: In the Parliament attack case, the Court explained that conspiracy can be inferred from circumstances and conduct, but suspicion is not enough; the circumstances must point unerringly to an agreement.
+
+| Point | Abetment by conspiracy (s.45(b)) | Criminal conspiracy (s.61) |
+|---|---|---|
+| Essence | Agreement plus an act or illegal omission in pursuance | Agreement itself (plus overt act if not to commit an offence) |
+| Object | Doing of a "thing" | Illegal act or legal act by illegal means |
+
+## 3.6 Rioting: s.191 BNS (ss.146, 147 IPC)
+Whenever force or violence is used by an unlawful assembly or any member of it in prosecution of the common object, every member is guilty of rioting (s.191(1)). Punishment is up to two years, or up to five years if armed with a deadly weapon (s.191(2), (3)). **Affray** (s.194): two or more persons fighting in a public place and disturbing the public peace.
+
+## 3.7 Cyber offences: meaning, nature and types
+Cyber offences are crimes in which a computer, network or electronic device is the target or the tool. They are mostly covered by the Information Technology Act, 2000, with general offences in the BNS applying where computers are used as a means.
+
+| Type | Provision |
+|---|---|
+| Hacking and unauthorised access, data theft, damage to computer systems | s.43 (civil) and s.66 (criminal), IT Act |
+| Identity theft (fraudulent use of password, e-signature) | s.66C, IT Act |
+| Cheating by personation using a computer (phishing) | s.66D, IT Act; s.319 BNS |
+| Violation of privacy (capturing and publishing private images) | s.66E, IT Act; voyeurism s.77 BNS |
+| Cyber terrorism | s.66F, IT Act; terrorist act s.113 BNS |
+| Publishing obscene or sexually explicit material electronically | ss.67, 67A, 67B (child sexual abuse material), IT Act |
+| Cyber stalking | s.78 BNS (monitoring a woman's use of the internet, email or electronic communication) |
+| Online fraud and cyber-crime by syndicates | s.318 BNS (cheating); s.111 BNS (organised crime includes cyber-crimes) |
+| Electronic records as documents | "Document" includes electronic and digital records (s.2(8) BNS), so forgery provisions apply |
+
+CASE: Shreya Singhal v Union of India (2015) :: Section 66A of the IT Act, which punished sending "grossly offensive" or "menacing" messages through a computer, was struck down as vague and violating Art. 19(1)(a).
+
+TIP: Examiners frequently ask for the difference between common intention and common object. Use the table above and cite Mahbub Shah for prior meeting of minds and Masalti for liability of mob members.
+
+* Common intention (s.3(5)): pre-arranged plan and participation (Barendra Kumar Ghosh; Mahbub Shah).
+* Abetment (s.45): instigation, conspiracy, intentional aiding; punishable even if the offence is not committed.
+* Unlawful assembly needs five or more persons with a common object (s.189); every member is liable under s.190.
+* Criminal conspiracy (s.61): agreement is the essence; needs two or more persons (Topandas); proved by circumstances (Kehar Singh).
+* Organised crime (s.111) and petty organised crime (s.112) are new BNS offences.
+* Cyber offences are mainly under the IT Act; BNS covers cyber stalking, cheating, forgery of electronic records and organised cyber-crime.
+
+QL: Distinguish between common intention under s.3(5) and common object under s.190 of the BNS, with the help of decided cases.
+QL: Define abetment. Explain the different forms of abetment and when abetment is punishable even if the offence is not committed.
+QL: What is criminal conspiracy? How does it differ from abetment by conspiracy?
+QL: Discuss the offence of organised crime under s.111 of the BNS.
+QL: Explain the meaning, nature and types of cyber offences under Indian law.
+QS: Barendra Kumar Ghosh v King-Emperor
+QS: Unlawful assembly
+QS: Rioting
+QS: Petty organised crime
+QS: Instigation
+
+MCQ: "They also serve who only stand and wait" was said in || Mahbub Shah | *Barendra Kumar Ghosh | Pandurang | Kehar Singh || Privy Council, 1925.
+MCQ: An unlawful assembly requires at least || two persons | three persons | *five persons | ten persons || s.189(1) BNS.
+MCQ: Common intention requires || five or more persons | *a prior meeting of minds | mere membership | an overt act by all || Mahbub Shah v Emperor (1945).
+MCQ: Criminal conspiracy is now in || s.120B IPC only | *s.61 BNS | s.111 BNS | s.45 BNS || s.61(1) defines, s.61(2) punishes.
+MCQ: Organised crime is defined in || s.61 BNS | *s.111 BNS | s.113 BNS | s.189 BNS || A new offence under the BNS.
+
+# 4 | Stages of crime
+@topics Guilty intention: mere intention not punishable; Preparation; Terrorist act; Exceptions: offences of grave nature or peculiar kind, such as possession of counterfeit coins; Attempt; When attempt is punishable: specific BNS provisions
+>> A crime passes through four stages: intention, preparation, attempt and commission. The law generally punishes only the last two.
+
+## The four stages
+| Stage | Meaning | Punishable? |
+|---|---|---|
+| Intention | Mental resolve to commit a crime | No: "the thought of man is not triable" |
+| Preparation | Arranging means or measures for the commission | Generally no, with exceptions |
+| Attempt | A direct movement towards commission after preparation | Yes |
+| Commission | The offence is completed | Yes |
+
+## 4.1 Mere intention is not punishable
+The law does not punish thoughts alone. Intention is hard to prove and the person may change his mind. Exceptions where agreement or intent combined with minimal conduct is punished: criminal conspiracy (s.61), and sedition-type offences (s.152).
+
+## 4.2 Preparation
+Preparation is generally not punishable because it is difficult to prove that preparations were made to commit a crime, and the person may still abandon the plan (*locus poenitentiae*).
+
+### Exceptions: preparation punishable
+| Offence | BNS section (IPC) |
+|---|---|
+| Collecting men, arms or ammunition with intention of waging war against the Government of India | s.149 (s.122) |
+| Preparation to commit depredation on territories of a power at peace with India | s.154 (s.126) |
+| Making or possessing instruments or materials for forging or counterfeiting coins, stamps or currency notes | s.181 (ss.233 to 235, 489D IPC) |
+| Possession of forged or counterfeit currency notes or coins with knowledge | s.180 (ss.242, 243, 489C IPC) |
+| Making preparation to commit dacoity | s.310(4) (s.399) |
+
+These are offences of a grave nature (against the State) or of a peculiar kind (possession offences, where possession itself shows the criminal purpose).
+
+### 4.2.1 Terrorist act: s.113 BNS (new)
+SEC: s.113(1), BNS :: Whoever does any act with the intent to threaten or likely to threaten the unity, integrity, sovereignty, security or economic security of India, or with the intent to strike terror or likely to strike terror in the people or any section of the people in India or in any foreign country, by using bombs, dynamite or other explosive substances, firearms, lethal weapons, poisonous or noxious gases, chemicals, biological, radioactive or nuclear substances or other means, causing death, injury, damage to property, disruption of essential supplies, damage to currency or monetary stability, or overawing any public functionary, commits a terrorist act.
+- Punishment: death or life imprisonment without parole if death results; otherwise, five years to life.
+- The BNS also punishes **conspiracy, attempt, abetment, advocating, incitement and knowingly facilitating** a terrorist act or "any act preparatory to" it (s.113(3)), and organising or recruiting for terrorist camps (s.113(4)). This is a clear example of preparation being punished.
+- An officer not below the rank of Superintendent of Police decides whether to register a case under the BNS or under the Unlawful Activities (Prevention) Act, 1967 (Explanation to s.113).
+
+## 4.3 Attempt
+SEC: s.62, BNS (s.511 IPC) :: Whoever attempts to commit an offence punishable by this Sanhita with imprisonment for life or imprisonment, or to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made for the punishment of such attempt, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or one-half of the longest term provided for that offence, or with fine provided for the offence, or with both.
+
+### Distinguishing preparation from attempt: tests
+| Test | Content |
+|---|---|
+| Proximity test | The act must be sufficiently proximate to the intended crime; acts remotely leading towards it are preparation |
+| Equivocality test | An act is an attempt if it unequivocally shows the intention to commit the crime (the act "speaks for itself") |
+| Locus poenitentiae test | So long as the accused may still voluntarily withdraw before the final act, it is preparation |
+| Impossibility test | Attempt is punishable even if the offence was impossible to complete (illustrations to s.62: picking an empty pocket) |
+| Social danger test | The seriousness of the harm and apprehension caused |
+
+CASE: Abhayanand Mishra v State of Bihar (1961) :: The accused applied to Patna University for permission to sit for the MA exam as a private candidate, supported by forged certificates of being a graduate and a headmaster. Admit card was issued but the fraud was discovered. The Supreme Court held this was an attempt to cheat, not mere preparation. Preparation was complete when he prepared the application; the attempt began when he sent it to the University. An attempt need not be the penultimate act; it is an act done towards the commission after preparation, during the course of committing the offence.
+
+CASE: State of Maharashtra v Mohd. Yakub (1980) :: The accused brought silver bars in a truck to a lonely spot near the sea coast at night, waiting for a launch, and the sound of a boat's engine was heard. Held: attempt to export silver illegally, not preparation. Sarkaria J said an attempt begins where preparation ends, and is a direct movement towards commission; it need not be the last act.
+
+CASE: Aman Kumar v State of Haryana (2004) :: The Court distinguished attempt to rape from indecent assault: to constitute attempt, the accused must have gone beyond preparation with determination to commit the offence at all events, notwithstanding resistance.
+
+CASE: R v Taylor (1859) :: An accused who lit a match intending to set fire to a haystack, but blew it out when he saw he was observed, was held guilty only of preparation in England; the test of locus poenitentiae applied.
+
+### 4.3.1 When attempt is punishable: specific BNS provisions
+Several attempts are made separate offences with their own punishments, so s.62 does not apply to them:
+| Attempt | BNS section (IPC) |
+|---|---|
+| Attempt to murder | s.109 (s.307) |
+| Attempt to commit culpable homicide | s.110 (s.308) |
+| Attempt to wage war against the Government of India | s.147 (s.121) |
+| Attempt to commit robbery | s.309(5) (s.393) |
+| Attempt to throw acid | s.124(2) (s.326B) |
+| Attempt to commit suicide to compel or restrain exercise of lawful power by a public servant | s.226 (new) |
+| Attempt in offences against the State, such as assaulting the President with intent | s.151 (s.124) |
+In other offences, s.62 is the general provision.
+
+CASE: Om Prakash v State of Punjab (1961) :: A husband deprived his wife of food intending to starve her to death; she escaped. He was convicted of attempt to murder. A person commits an attempt when he does an act towards the commission of the offence with intent, even if it is not the last act needed.
+
+TIP: Every "stages of crime" answer should: (1) list the four stages; (2) explain why intention and preparation are generally not punished; (3) give the exceptions (s.149, s.310(4), counterfeiting, terrorist act preparatory acts); (4) give the tests for attempt with Abhayanand Mishra and Mohd. Yakub.
+
+* Stages: intention, preparation, attempt, commission; usually only the last two are punished.
+* Preparation is punished for grave offences (waging war, s.149), possession offences (counterfeiting) and dacoity (s.310(4)), and preparatory acts to terrorism (s.113(3)).
+* Terrorist act is a new BNS offence (s.113).
+* s.62 BNS (s.511 IPC) punishes attempts to commit offences punishable with imprisonment, up to half the maximum, where no specific provision exists.
+* An attempt need not be the penultimate act (Abhayanand Mishra; Mohd. Yakub).
+
+QL: Explain the various stages of a crime. When is preparation punishable?
+QL: Distinguish between preparation and attempt with reference to the tests laid down by the courts.
+QL: Discuss the general provision for punishing attempts under s.62 of the BNS and the specific provisions for attempt.
+QL: Write a note on the offence of terrorist act under s.113 of the BNS.
+QS: Abhayanand Mishra v State of Bihar
+QS: Locus poenitentiae
+QS: Preparation to commit dacoity
+QS: Proximity test
+QS: Attempt to murder
+
+MCQ: The general provision for punishing attempts under the BNS is || s.109 | *s.62 | s.511 | s.61 || s.511 IPC is now s.62 BNS.
+MCQ: In Abhayanand Mishra, the act was held to be || mere preparation | *attempt to cheat | completed cheating | no offence || The attempt began when the application was sent.
+MCQ: Preparation is punishable for || theft | murder | *dacoity | cheating || s.310(4) BNS.
+MCQ: Attempt to murder is punishable under || s.62 | *s.109 | s.101 | s.110 || s.307 IPC.
+
+# 5 | Factors negativing guilty intention: general exceptions
+@topics Mental incapacity: minority, insanity (cognitive impairment, emotional imbalance), medical and legal insanity; Involuntary intoxication; Private defence: justification and limits, when it extends to causing death (body and property); Necessity; Mistake of fact
+>> The General Exceptions (ss.14 to 44 BNS) describe situations in which an act that would otherwise be an offence is excused or justified, because the guilty mind is absent or the act is lawful.
+
+## Burden of proof
+Under s.108 of the Bharatiya Sakshya Adhiniyam, 2023 (s.105 of the Evidence Act), the burden of proving that the case falls within a General Exception is on the accused, and the court shall presume its absence. But the accused need only establish it on a preponderance of probabilities, not beyond reasonable doubt.
+
+## 5.1 Mental incapacity
+### 5.1.1 Minority (doli incapax)
+SEC: s.20, BNS (s.82 IPC) :: Nothing is an offence which is done by a child under seven years of age.
+SEC: s.21, BNS (s.83 IPC) :: Nothing is an offence which is done by a child above seven years of age and under twelve, who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion.
+- Below seven: conclusive presumption of incapacity.
+- Seven to twelve: rebuttable; the prosecution must show maturity of understanding from conduct (for example, concealing the act).
+- Children in conflict with law (below 18) are dealt with under the Juvenile Justice (Care and Protection of Children) Act, 2015, which allows children of 16 to 18 accused of heinous offences to be tried as adults after preliminary assessment.
+
+### 5.1.2 and 5.1.3 Insanity (unsoundness of mind)
+SEC: s.22, BNS (s.84 IPC) :: Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
+
+The section is based on the **McNaghten Rules (1843)**. Daniel McNaghten, under a delusion of persecution, shot and killed Edward Drummond, secretary to the British Prime Minister, believing him to be Peel. He was acquitted, causing public outcry. The House of Lords put questions to the judges, whose answers became the rules:
+1. Every person is presumed sane until the contrary is proved.
+2. To establish insanity, it must be clearly proved that at the time of the act the accused was labouring under such a defect of reason, from disease of the mind, as not to know the nature and quality of the act, or, if he did know it, that he did not know he was doing what was wrong.
+3. A person under a partial delusion is judged as if the facts in his delusion were real.
+
+### Medical and legal insanity
+- **Medical insanity**: any mental illness recognised by psychiatry.
+- **Legal insanity**: only that unsoundness which destroys the cognitive faculty (knowledge of the nature of the act, or of its wrongness or illegality) at the time of the act. Emotional imbalance, uncontrollable impulse, or loss of self-control alone is not enough.
+
+CASE: Dahyabhai Chhaganbhai Thakker v State of Gujarat (1964) :: The Supreme Court held that the accused must prove legal insanity at the time of the offence on a preponderance of probabilities. Even if he fails to prove it fully, if the evidence raises a reasonable doubt about mens rea, he is entitled to acquittal, because the general burden of proving mens rea stays on the prosecution.
+
+CASE: Surendra Mishra v State of Jharkhand (2011) :: Every person suffering from a mental disease is not exempted. The accused must prove legal insanity, not merely medical insanity, at the time of the act; abnormal behaviour or treatment for mental illness is not enough.
+
+CASE: Ratan Lal v State of Madhya Pradesh (1971) :: The accused set fire to a haystack and, when asked why, said he burnt it; a psychiatrist had found him a lunatic. He was acquitted under s.84, since he was incapable of knowing the nature of the act at the time.
+
+Criticism: the McNaghten test ignores volitional insanity (irresistible impulse). Other tests: the irresistible impulse test, the Durham "product" test (US, 1954), and the diminished responsibility test (UK Homicide Act, 1957).
+
+## 5.2 Intoxication
+SEC: s.23, BNS (s.85 IPC) :: Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of intoxication, incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law; provided that the thing which intoxicated him was administered to him without his knowledge or against his will.
+SEC: s.24, BNS (s.86 IPC) :: In cases where an act is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.
+- Only **involuntary** intoxication is a complete defence.
+- Voluntary intoxication: the law presumes the knowledge of a sober man, but not intention. So intention may be negatived by evidence of extreme intoxication.
+
+CASE: Basdev v State of PEPSU (1956) :: A retired army officer, drunk at a wedding, shot a boy who would not move aside. The Court held that voluntary drunkenness is no excuse; he is presumed to have the knowledge of a sober man. Intention may be inferred from the circumstances, and since he was not so drunk as to be incapable of forming intent, he was guilty of murder.
+
+CASE: Director of Public Prosecutions v Beard (1920) :: Drunkenness is a defence only if it renders the accused incapable of forming the specific intent essential to the crime; evidence of drunkenness falling short of this does not rebut the presumption that a man intends the natural consequences of his acts.
+
+## 5.3 Private defence: ss.34 to 44 BNS (ss.96 to 106 IPC)
+SEC: s.34, BNS (s.96 IPC) :: Nothing is an offence which is done in the exercise of the right of private defence.
+SEC: s.35, BNS (s.97 IPC) :: Every person has a right, subject to the restrictions in s.37, to defend (a) his own body, and the body of any other person, against any offence affecting the human body; (b) the property, movable or immovable, of himself or of any other person, against an act which is an offence falling under theft, robbery, mischief or criminal trespass, or an attempt to commit such offences.
+
+### Justification and limits
+- The right is defensive, not punitive or retaliatory; it arises only against an offence.
+- It is available against acts of persons of unsound mind, children and intoxicated persons too (s.36).
+- **Restrictions (s.37, s.99 IPC)**: no right (a) against acts of public servants acting in good faith under colour of office, unless reasonable apprehension of death or grievous hurt; (b) where there is time to have recourse to public authorities; (c) the harm inflicted must not be more than necessary for defence.
+- **Commencement and continuance**: for the body, it begins as soon as a reasonable apprehension of danger arises and continues as long as the apprehension continues (s.40); for property, specified in s.43.
+
+### 5.3.1 When private defence extends to causing death
+SEC: s.38, BNS (s.100 IPC) :: The right of private defence of the body extends to voluntarily causing death or any other harm to the assailant if the offence occasioning the exercise of the right is of any of the following descriptions: (a) an assault reasonably causing apprehension of death; (b) an assault reasonably causing apprehension of grievous hurt; (c) an assault with intention of committing rape; (d) an assault with intention of gratifying unnatural lust; (e) an assault with intention of kidnapping or abducting; (f) an assault with intention of wrongfully confining a person, in circumstances causing reasonable apprehension that he will be unable to have recourse to public authorities for release; (g) an act of throwing or administering acid, or attempt to do so, causing reasonable apprehension of grievous hurt.
+SEC: s.41, BNS (s.103 IPC) :: The right of private defence of property extends to causing death if the offence is (a) robbery; (b) house-breaking after sunset and before sunrise; (c) mischief by fire or any explosive substance committed on any building, tent or vessel used as a human dwelling or as a place for custody of property; (d) theft, mischief or house-trespass in circumstances reasonably causing apprehension that death or grievous hurt will be the consequence if the right is not exercised.
+- In other cases, the right extends only to causing harm other than death (ss.39, 42).
+- s.44: in defending against a deadly assault, the defender may run the risk of harming an innocent person, if there is no other way.
+
+CASE: Darshan Singh v State of Punjab (2010) :: The Supreme Court laid down principles: self-preservation is a basic instinct; the right is available when there is reasonable apprehension; a person under threat cannot be expected to weigh with "golden scales" the precise force needed; the accused need not prove the right beyond reasonable doubt; and the right is not available to an aggressor.
+
+CASE: Deo Narain v State of Uttar Pradesh (1973) :: The right of private defence arises as soon as a reasonable apprehension of danger arises; one need not wait to be actually injured first.
+
+## 5.4 Necessity
+SEC: s.19, BNS (s.81 IPC) :: Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
+Illustration: a captain who, to avoid a collision with a crowded boat, steers into a smaller boat with fewer people, acting in good faith, commits no offence.
+
+CASE: R v Dudley and Stephens (1884) :: Shipwrecked sailors killed and ate the cabin boy to survive. Held: necessity is no defence to murder; one cannot take an innocent life to save one's own. Their death sentences were commuted.
+
+## 5.5 Mistake of fact
+SEC: s.14, BNS (s.76 IPC) :: Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
+SEC: s.17, BNS (s.79 IPC) :: Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be justified by law, in doing it.
+- The mistake must be of fact, not of law (*ignorantia juris non excusat*); it must be in good faith, meaning with due care and attention (s.2(11)).
+
+CASE: Chirangi v State of Nagpur (1952) :: Under a temporary delusion, the accused killed his son with an axe, believing he was attacking a tiger. He was acquitted under s.79 IPC (now s.17 BNS), as he acted under a mistake of fact in good faith believing he was justified.
+
+CASE: R v Tolson (1889) :: An honest and reasonable belief in the death of her husband was a good defence to bigamy.
+
+## Other general exceptions in brief
+| Section (BNS) | IPC | Exception |
+|---|---|---|
+| 15 | 77 | Act of judge acting judicially |
+| 16 | 78 | Act done pursuant to judgment or order of court |
+| 18 | 80 | Accident in doing a lawful act |
+| 25 to 30 | 87 to 92 | Consent and acts done in good faith for benefit |
+| 31 | 93 | Communication made in good faith |
+| 32 | 94 | Act to which a person is compelled by threats of instant death (not murder or offences against the State) |
+| 33 | 95 | Act causing slight harm (de minimis) |
+
+TIP: For an insanity answer, set out s.22, then the McNaghten Rules, then the distinction between medical and legal insanity (Surendra Mishra), then burden of proof (Dahyabhai). For private defence, list the s.38 and s.41 circumstances where death may be caused, then the limits in s.37.
+
+* Child under 7: no offence (s.20); 7 to 12: depends on maturity (s.21).
+* Insanity (s.22) follows the McNaghten Rules; only legal insanity at the time of the act counts (Surendra Mishra); burden on accused on preponderance (Dahyabhai).
+* Only involuntary intoxication is a full defence (s.23); voluntary intoxication presumes knowledge, not intent (s.24; Basdev).
+* Private defence (ss.34 to 44) is defensive, proportionate and arises on reasonable apprehension; death may be caused only in s.38 and s.41 cases.
+* Necessity (s.19) excuses harm to prevent greater harm, but not murder (Dudley and Stephens).
+* Mistake of fact in good faith excuses (ss.14, 17; Chirangi); mistake of law does not.
+
+QL: Discuss the defence of insanity under s.22 of the BNS with reference to the McNaghten Rules. Distinguish medical from legal insanity.
+QL: Explain the right of private defence of body and property. When does it extend to causing death?
+QL: Discuss intoxication as a defence under the BNS, with reference to Basdev v State of PEPSU.
+QL: Explain mistake of fact as a defence. Why is mistake of law no defence?
+QS: McNaghten Rules
+QS: Doli incapax
+QS: Necessity
+QS: Limits on the right of private defence
+QS: Chirangi v State of Nagpur
+
+MCQ: Nothing is an offence done by a child under || 10 years | 12 years | *7 years | 14 years || s.20 BNS (s.82 IPC).
+MCQ: Insanity under s.22 BNS is based on || the Durham rule | *the McNaghten Rules | irresistible impulse | diminished responsibility || 1843 rules of the House of Lords.
+MCQ: Voluntary intoxication || is a complete defence | *is no defence, and the accused is presumed to have a sober man's knowledge | negates all intention conclusively | reduces murder to hurt || s.24 BNS; Basdev (1956).
+MCQ: The right of private defence of property extends to causing death in a case of || simple theft | criminal trespass by day | *house-breaking after sunset and before sunrise | mischief to a fence || s.41(b) BNS.
+MCQ: R v Dudley and Stephens held that || necessity justifies killing to survive | *necessity is no defence to murder | insanity was proved | the boy consented || Shipwrecked sailors killed the cabin boy.
+
+# 6 | Types of punishment
+@topics Death: social relevance of capital punishment and alternatives; Imprisonment: life, rigorous, simple; Forfeiture of property; Fine; Community service
+>> The BNS provides six kinds of punishment. Death is reserved for the rarest of rare cases; community service is the newest addition.
+
+SEC: s.4, BNS (s.53 IPC) :: The punishments to which offenders are liable under the provisions of this Sanhita are: (a) death; (b) imprisonment for life; (c) imprisonment, which is of two descriptions, namely rigorous (with hard labour) and simple; (d) forfeiture of property; (e) fine; (f) community service.
+
+## 6.1 Death
+Offences punishable with death under the BNS include: murder (s.103); murder by a life convict (s.104); murder by a mob on grounds of race, caste and similar grounds (s.103(2)); rape causing death or persistent vegetative state (s.66); gang rape of a woman under 18 (s.70(2)); rape of a girl under 12 (s.65(2)); repeat offenders of rape (s.71); waging war (s.147); abetment of mutiny actually committed (s.160); giving false evidence leading to conviction and execution of an innocent person (s.230(2)); kidnapping for ransom (s.140(2)); dacoity with murder (s.310(3)); organised crime resulting in death (s.111(2)(a)); terrorist act resulting in death (s.113(2)(a)); abetment of suicide of a child or person of unsound mind (s.107).
+
+### Constitutional validity and the "rarest of rare" doctrine
+CASE: Jagmohan Singh v State of Uttar Pradesh (1973) :: The death penalty was held not violative of Arts. 14, 19 and 21; the discretion of the judge in sentencing is guided by judicial principles.
+
+CASE: Bachan Singh v State of Punjab (1980) :: A Constitution Bench (4:1) upheld the death penalty for murder, but held it should be imposed only in the "rarest of rare cases", when the alternative option is unquestionably foreclosed. Life imprisonment is the rule, death the exception. Courts must weigh aggravating and mitigating circumstances relating to both the crime and the criminal. Bhagwati J dissented.
+
+CASE: Machhi Singh v State of Punjab (1983) :: The Court gave guidance on the rarest of rare cases by reference to the manner of commission, motive, anti-social or abhorrent nature of the crime, magnitude, and personality of the victim.
+
+CASE: Mithu v State of Punjab (1983) :: Section 303 IPC, which made death the mandatory punishment for murder by a life convict, was struck down as violating Arts. 14 and 21, because it took away judicial discretion. (BNS s.104 now provides death or life imprisonment for the remainder of natural life, not a mandatory death sentence.)
+
+CASE: Manoj v State of Madhya Pradesh (2022) :: The Court required the trial court to collect material on mitigating circumstances (psychological evaluation, background, conduct in prison) before considering a death sentence.
+
+CASE: Shatrughan Chauhan v Union of India (2014) :: Unexplained and inordinate delay in deciding mercy petitions, solitary confinement, and mental illness of the convict are grounds for commuting the death sentence to life imprisonment.
+
+### 6.1.1 Social relevance: arguments for and against capital punishment
+| For retention | For abolition |
+|---|---|
+| Deterrence for the gravest crimes | No conclusive evidence of greater deterrence than life imprisonment |
+| Retribution and public sense of justice | Irreversible; risk of executing the innocent |
+| Incapacitation of dangerous offenders | Arbitrariness and inconsistency in sentencing; falls on the poor and marginalised |
+| Needed for terrorism and heinous crimes against children | Against human dignity; most countries have abolished it |
+
+The **Law Commission's 262nd Report (2015)** recommended abolition of the death penalty for all crimes except terrorism and waging war.
+
+### 6.1.2 Alternatives to capital punishment
+- Imprisonment for life meaning the remainder of natural life.
+- Special category of life imprisonment without remission for a fixed long term (for example, 20, 25 or 30 years), or for the whole of life: **Swamy Shraddananda v State of Karnataka (2008)**, upheld by a Constitution Bench in **Union of India v V. Sriharan (2016)**.
+- The BNS itself provides "imprisonment for life, which shall mean imprisonment for the remainder of that person's natural life" for many offences.
+
+## 6.2 Imprisonment
+- **Imprisonment for life**: means imprisonment for the whole of the remaining natural life, unless commuted or remitted by the appropriate government: **Gopal Vinayak Godse v State of Maharashtra (1961)**. For calculating fractions of terms, life imprisonment is reckoned as equivalent to 20 years (s.6 BNS; s.57 IPC).
+- **Rigorous imprisonment**: with hard labour (for example, agricultural work, carpentry).
+- **Simple imprisonment**: without hard labour; some offences are punishable only with simple imprisonment (for example, defamation, s.356(2)).
+- Commutation by the appropriate government is governed by s.5 BNS and ss.474 to 477 BNSS.
+
+## 6.3 Forfeiture of property
+Forfeiture is ordered for offences such as committing depredation on territories of such a power (s.154) and receiving property taken by such war or depredation (s.155). General forfeiture of all property (once in s.62 IPC) was abolished in 1921. Other laws provide for confiscation: the Prevention of Money Laundering Act, 2002, the NDPS Act, 1985 and the BNSS (attachment and forfeiture of proceeds of crime, s.107 BNSS).
+
+## 6.4 Fine
+- Where no sum is expressed, the amount of fine is unlimited but must not be excessive (s.8(1) BNS).
+- In default of payment of fine, imprisonment may be ordered, not exceeding one-fourth of the maximum term for the offence (s.8(2) to (6)); for offences punishable with fine only, default imprisonment is simple, up to two months, four months, one year or as specified according to the amount.
+- The BNS has raised fines for many offences.
+
+## 6.5 Community service
+- A new punishment in s.4(f) BNS. The Explanation to s.23 BNSS defines it as work which the court may order a convict to perform as a form of punishment that benefits the community, for which he is not entitled to any remuneration.
+- Offences for which community service is provided include: public servant unlawfully engaging in trade (s.202); non-appearance in response to a proclamation (s.209); attempt to commit suicide to compel or restrain exercise of lawful power (s.226); theft of property worth less than ₹5,000 by a first-time offender who returns or restores the property (s.303(2) proviso); misconduct in public by a drunken person (s.355); and defamation (s.356(2)).
+- It aims at reformation and reduces prison overcrowding for petty offences.
+
+TIP: For a capital punishment essay, cover: constitutional validity (Jagmohan, Bachan Singh), rarest of rare (Bachan Singh, Machhi Singh), mandatory death struck down (Mithu), procedural safeguards (Manoj, Shatrughan Chauhan), arguments for and against, Law Commission's 262nd Report, and alternatives (Swamy Shraddananda, V. Sriharan).
+
+* Six punishments under s.4 BNS: death, life imprisonment, rigorous or simple imprisonment, forfeiture, fine, community service.
+* Death only in the rarest of rare cases (Bachan Singh); mandatory death unconstitutional (Mithu).
+* Life imprisonment means the whole of natural life (Gopal Godse); reckoned as 20 years for fractions.
+* Special life sentences without remission are an alternative to death (Swamy Shraddananda; V. Sriharan).
+* Community service is new; applies to petty offences such as first-time theft below ₹5,000 with restitution.
+
+QL: Discuss the constitutional validity of the death penalty and the "rarest of rare" doctrine.
+QL: Explain the various punishments under s.4 of the BNS. Evaluate community service as a new form of punishment.
+QL: "Capital punishment should be abolished." Discuss with arguments for and against, and suggest alternatives.
+QS: Bachan Singh v State of Punjab
+QS: Mithu v State of Punjab
+QS: Imprisonment for life
+QS: Imprisonment in default of fine
+QS: Community service
+
+MCQ: The "rarest of rare" doctrine was laid down in || Jagmohan Singh | *Bachan Singh | Machhi Singh | Mithu || 1980 Constitution Bench.
+MCQ: Mandatory death sentence under s.303 IPC was struck down in || Bachan Singh | *Mithu v State of Punjab | Shatrughan Chauhan | Swamy Shraddananda || 1983.
+MCQ: For calculating fractions of terms, imprisonment for life is reckoned as || 14 years | *20 years | 25 years | 30 years || s.6 BNS (s.57 IPC).
+MCQ: Community service is a punishment for || murder | *theft below ₹5,000 by a first offender who restores the property | robbery | rape || s.303(2) proviso BNS.
+
+# 7 | Offences against the human body
+@topics Culpable homicide; Murder; Distinction between culpable homicide and murder; Mental element in murder; Exceptions: grave and sudden provocation, exceeding private defence, public servant exceeding powers, sudden fight, consent (euthanasia), death of person other than intended; Miscarriage; Rash and negligent act causing death; Hurt and grievous hurt; Assault and criminal force; Wrongful restraint and confinement; Kidnapping; Abduction; Acid attack
+>> All murder is culpable homicide, but not all culpable homicide is murder. The difference lies in the degree of probability of death that the offender intended or knew.
+
+## 7.1.1 Culpable homicide: s.100 BNS (s.299 IPC)
+SEC: s.100, BNS :: Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.
+Explanations: (1) a person who causes bodily injury to another who is labouring under a disorder or infirmity, and thereby accelerates death, is deemed to have caused death; (2) where death is caused by bodily injury, the person who caused it is deemed to have caused death though recourse to proper remedies might have prevented it; (3) causing death of a child in the mother's womb is not homicide, but causing death of a living child, any part of which has been brought forth, may be.
+
+## 7.1.2 Murder: s.101 BNS (s.300 IPC)
+SEC: s.101, BNS :: Except in the cases hereinafter excepted, culpable homicide is murder (a) if the act by which death is caused is done with the intention of causing death; or (b) if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or (c) if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or (d) if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury.
+
+Punishment for murder (s.103(1)): death or imprisonment for life, and fine. **Mob lynching** (s.103(2)): when a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member is punished with death or life imprisonment and fine.
+
+## 7.1.2.1 Distinction between culpable homicide and murder
+Melvill J in **Reg v Govinda (1876)** set the two sections side by side:
+
+| Culpable homicide (s.100) | Murder (s.101) |
+|---|---|
+| (a) Intention of causing death | (a) Intention of causing death |
+| (b) Intention of causing such bodily injury as is likely to cause death | (b) Intention of causing such bodily injury as the offender knows to be likely to cause death of the particular person harmed; (c) intention of causing bodily injury sufficient in the ordinary course of nature to cause death |
+| (c) Knowledge that the act is likely to cause death | (d) Knowledge that the act is so imminently dangerous that it must in all probability cause death |
+
+The key is the degree of probability of death: "likely" (culpable homicide) versus "sufficient in the ordinary course of nature" or "in all probability" (murder).
+
+CASE: Reg v Govinda (1876) :: The accused knocked his wife down, put a knee on her chest and struck her two or three times on the face with his fist, causing extravasation of blood on the brain; she died. Melvill J held that the injury was likely to cause death but not sufficient in the ordinary course of nature to cause death, and convicted him of culpable homicide not amounting to murder.
+
+CASE: State of Andhra Pradesh v Rayavarapu Punnayya (1976) :: The Supreme Court explained that culpable homicide is the genus and murder its species. There are three degrees: culpable homicide of the first degree (murder, s.300); of the second degree (punishable under the first part of s.304); and of the third degree (the lowest, punishable under the second part of s.304). It is the degree of probability of death that decides.
+
+## 7.2 The mental element in murder: clause (c)
+CASE: Virsa Singh v State of Punjab (1958) :: The accused thrust a spear into the deceased's abdomen, causing an injury that was sufficient in the ordinary course of nature to cause death. Vivian Bose J laid down four steps for clause thirdly of s.300: the prosecution must prove (1) that a bodily injury is present; (2) the nature of the injury; (3) that there was an intention to inflict that particular injury, that is, it was not accidental or unintentional, or some other kind of injury was intended; (4) that the injury of the type described is sufficient to cause death in the ordinary course of nature. Once these are proved, it is murder, whether or not the accused intended to kill.
+
+Clause (d) covers acts of imminent danger without excuse, for example firing into a crowd or driving a car at high speed into people on a footpath knowing it will in all probability kill.
+
+## 7.3 Exceptions: when culpable homicide is not murder
+Culpable homicide is not murder in the five Exceptions to s.101, punishable under s.105 (s.304 IPC): imprisonment for life or 5 to 10 years and fine (if done with intent), or up to 10 years or fine or both (if done with knowledge only).
+
+### 7.3.1 Grave and sudden provocation (Exception 1)
+The offender, deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation, or of any other person by mistake or accident. Provisos: the provocation must not be sought or voluntarily provoked; not given by anything done in obedience to law or by a public servant lawfully exercising powers; nor by a lawful act of private defence.
+
+CASE: K.M. Nanavati v State of Maharashtra (1962) :: A naval commander learned from his wife that she was having an affair with Ahuja. He took his revolver from his ship, went to Ahuja's flat and shot him dead some three hours later. The Court held that the provocation was not "sudden", since he had time to cool down; the test is whether a reasonable man of the same class of society, placed in the situation, would be so provoked as to lose self-control. He was convicted of murder. The Court also recognised that words and gestures may, under certain circumstances, amount to grave and sudden provocation, and that the mental background created by previous acts may be considered.
+
+### 7.3.2 Exceeding the right of private defence (Exception 2)
+The offender, in good faith exercising the right of private defence, exceeds the power given by law and causes death without premeditation and without intention of doing more harm than necessary.
+
+### 7.3.3 Public servant exceeding legitimate force (Exception 3)
+A public servant, or a person aiding a public servant, acting for the advancement of public justice, exceeds his lawful powers and causes death by an act he in good faith believes lawful and necessary, without ill-will.
+
+### 7.3.4 Death in a sudden fight (Exception 4)
+Without premeditation, in a sudden fight in the heat of passion upon a sudden quarrel, without the offender having taken undue advantage or acted in a cruel or unusual manner. It is immaterial which party offered the provocation or committed the first assault.
+
+### 7.3.5 Consent of the deceased and euthanasia (Exception 5)
+The person whose death is caused, being above eighteen years of age, suffers death or takes the risk of death with his own consent.
+
+Euthanasia:
+- **Active euthanasia** (a positive act to end life, such as a lethal injection) is murder or culpable homicide; consent at most brings it within Exception 5.
+- **Passive euthanasia** (withdrawing or withholding life support) is permitted under court-approved safeguards.
+
+CASE: Aruna Ramchandra Shanbaug v Union of India (2011) :: A nurse in a persistent vegetative state for 37 years after a sexual assault. The Court rejected active euthanasia but permitted passive euthanasia with the approval of the High Court in each case.
+
+CASE: Common Cause v Union of India (2018) :: A Constitution Bench held that the right to die with dignity is part of Art. 21; it recognised advance medical directives (living wills) and laid down guidelines for passive euthanasia, which were simplified by the Court in January 2023.
+
+### 7.3.6 Death of a person other than the person intended
+SEC: s.102, BNS (s.301 IPC) :: If a person, by doing anything which he intends or knows to be likely to cause death, commits culpable homicide by causing the death of any person whose death he neither intends nor knows himself to be likely to cause, the culpable homicide is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself likely to cause.
+This is the doctrine of **transferred malice**: A aims at B but kills C; A is guilty of murdering C if killing B would have been murder.
+
+### 7.3.7 Miscarriage
+| Offence | BNS section (IPC) |
+|---|---|
+| Voluntarily causing a woman with child to miscarry (not in good faith to save her life) | s.88 (s.312) |
+| Causing miscarriage without the woman's consent | s.89 (s.313) |
+| Death caused by an act done with intent to cause miscarriage | s.90 (s.314) |
+| Act done with intent to prevent a child being born alive or to cause it to die after birth | s.91 (s.315) |
+| Causing death of a quick unborn child by an act amounting to culpable homicide | s.92 (s.316) |
+These are subject to the Medical Termination of Pregnancy Act, 1971 (as amended in 2021), which permits termination by registered medical practitioners on specified grounds up to 20 weeks, and up to 24 weeks for specified categories of women. In **X v Principal Secretary, Health and Family Welfare Department (2022)**, the Supreme Court held that unmarried women are also entitled to terminate pregnancies up to 24 weeks on the same terms as married women.
+
+## 7.4 Rash or negligent act causing death: s.106 BNS (s.304A IPC)
+SEC: s.106(1), BNS :: Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment of either description for a term which may extend to five years, and also with fine; and if such act is done by a registered medical practitioner while performing a medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and also with fine.
+SEC: s.106(2), BNS :: Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.
+- The IPC maximum was two years. The BNS raised it to five years generally, and created a separate, lower ceiling for doctors.
+- s.106(2) (hit and run) has **not been brought into force**. After a nationwide transporters' strike, the government announced in January 2024 that it would not be implemented without further consultation, and it was excluded from the commencement notification of 1 July 2024. The Gauhati High Court (December 2024) directed police not to register cases under it. Until it is notified, such cases fall under s.106(1).
+- **Rashness** means acting with consciousness of the risk but hoping no harm will follow; **negligence** means failure to take care that a reasonable person would take.
+
+CASE: Jacob Mathew v State of Punjab (2005) :: For criminal liability of a doctor under s.304A, negligence must be gross or of a very high degree; mere lack of care or error of judgment is not enough.
+
+CASE: Alister Anthony Pareira v State of Maharashtra (2012) :: The accused, driving drunk at high speed, ran over people sleeping on a footpath in Mumbai, killing seven. The Court upheld his conviction for culpable homicide not amounting to murder (s.304 Part II), not merely s.304A, since he had knowledge that his act was likely to cause death.
+
+## 7.5 Hurt and grievous hurt
+SEC: s.114, BNS (s.319 IPC) :: Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.
+SEC: s.116, BNS (s.320 IPC) :: The following kinds of hurt only are designated as grievous: (a) emasculation; (b) permanent privation of the sight of either eye; (c) permanent privation of the hearing of either ear; (d) privation of any member or joint; (e) destruction or permanent impairing of the powers of any member or joint; (f) permanent disfiguration of the head or face; (g) fracture or dislocation of a bone or tooth; (h) any hurt which endangers life or which causes the sufferer to be, during the space of fifteen days, in severe bodily pain, or unable to follow his ordinary pursuits.
+- The IPC period in clause (h) was twenty days; the BNS reduced it to fifteen days.
+- Voluntarily causing hurt (s.115); voluntarily causing grievous hurt (s.117); by dangerous weapons or means (s.118, ss.324 and 326 IPC); grievous hurt causing permanent disability or persistent vegetative state (s.117(3)); grievous hurt by a group of five or more on grounds of race, caste and similar grounds (s.117(4)).
+
+## 7.6 Assault and criminal force
+- **Force** (s.128): causing motion, change of motion or cessation of motion to another, or to any substance in contact with his body or senses.
+- **Criminal force** (s.129): intentional use of force without consent, to commit an offence or intending or knowing it is likely to cause injury, fear or annoyance.
+- **Assault** (s.130): a gesture or preparation intending or knowing it likely to cause any person present to apprehend that criminal force is about to be used against him. Mere words do not amount to assault, but words may give meaning to gestures.
+- Punishment (s.131): up to three months, or fine up to ₹1,000, or both, except on grave and sudden provocation.
+
+## 7.7 Wrongful restraint, wrongful confinement and kidnapping
+- **Wrongful restraint** (s.126, s.339 IPC): voluntarily obstructing a person so as to prevent him from proceeding in any direction in which he has a right to proceed.
+- **Wrongful confinement** (s.127, s.340 IPC): wrongfully restraining a person so as to prevent him from proceeding beyond certain circumscribing limits.
+
+### Kidnapping: s.137 BNS (ss.359 to 361 IPC)
+SEC: s.137(1), BNS :: Kidnapping is of two kinds: (a) kidnapping from India: conveying any person beyond the limits of India without the consent of that person or of some person legally authorised to consent on his behalf; (b) kidnapping from lawful guardianship: taking or enticing any child or any person of unsound mind out of the keeping of the lawful guardian of such child or person, without the consent of such guardian.
+- Under the BNS, "child" means a person below eighteen (s.2(3)), so the age is uniform for both sexes; the IPC had 16 for boys and 18 for girls.
+- Punishment: up to seven years and fine (s.137(2)).
+- Aggravated forms: kidnapping or maiming a child for begging (s.139); kidnapping or abducting in order to murder, or for ransom (s.140); importation of a girl or boy from a foreign country (s.141).
+
+CASE: S. Varadarajan v State of Madras (1965) :: A girl nearly eighteen, of her own accord, left her father's house and joined the accused, who married her. The Court held that "taking" requires some active part by the accused in causing the minor to leave; where the minor voluntarily leaves the guardian's protection and the accused merely facilitates it, it is not kidnapping.
+
+CASE: State of Haryana v Raja Ram (1973) :: The accused, through a go-between, persuaded a fourteen-year-old girl to leave her father's house. Held: kidnapping. Persuasion by the accused creating willingness in the minor to leave is "enticing"; the consent of the minor is immaterial.
+
+## 7.8 Abduction: s.138 BNS (s.362 IPC)
+Whoever by force compels, or by any deceitful means induces, any person to go from any place, is said to abduct that person. Abduction is punishable only when done with a particular intent (for example, s.140 for murder or ransom; s.87 to compel a woman to marry).
+
+| Point | Kidnapping | Abduction |
+|---|---|---|
+| Victim | Child (under 18) or person of unsound mind (from lawful guardianship) | Any person of any age |
+| Means | Taking or enticing; force or deceit not necessary | Force or deceitful means |
+| Consent of victim | Immaterial | Free consent of victim is a defence |
+| Nature | Substantive offence | Auxiliary act, punishable only with specific intent |
+| Continuing | Complete when the victim is removed from guardianship | Continuing offence while the person is moved from place to place |
+
+## 7.9 Acid attack: s.124 BNS (ss.326A and 326B IPC)
+SEC: s.124(1), BNS :: Whoever causes permanent or partial damage or deformity to, or burns or maims or disfigures or disables, any part of the body of a person, or causes grievous hurt, by throwing acid on or administering acid to that person, or by using any other means, with the intention of causing or with the knowledge that he is likely to cause such injury or hurt, or causes a person to be in a permanent vegetative state, shall be punished with imprisonment of either description for not less than ten years but which may extend to imprisonment for life, and with fine, which shall be just and reasonable to meet the medical expenses of the victim and shall be paid to the victim.
+- s.124(2): attempt to throw acid: five to seven years and fine.
+- These provisions came into the IPC by the Criminal Law (Amendment) Act, 2013, after the Justice J.S. Verma Committee report.
+
+CASE: Laxmi v Union of India (2014) :: On a petition by an acid attack survivor, the Supreme Court directed regulation of over-the-counter sale of acid, a minimum compensation of ₹3 lakh to victims by State governments, and free medical treatment by private hospitals.
+
+TIP: In a homicide problem, always ask in order: (1) Was death caused? (2) Was it culpable homicide under s.100? (3) Does it fall within one of the four clauses of s.101? (4) Does any Exception apply? (5) If not culpable homicide, is it s.106 (rash or negligent)?
+
+## 7.10 Recent judgments (2025–26)
+
+CASE: Harish Rana v Union of India (2026) :: The Court permitted withdrawal of life support for a patient in a persistent vegetative state for about 13 years, the first case in which passive euthanasia was actually allowed under the Common Cause guidelines. Active euthanasia remains an offence.
+
+* Passive euthanasia actually allowed (Harish Rana, 2026); active euthanasia still an offence.
+* Culpable homicide (s.100) is the genus; murder (s.101) is the species. The difference is the degree of probability of death (Govinda; Punnayya).
+* Clause (c) of s.101: intended injury sufficient in the ordinary course of nature (Virsa Singh four steps).
+* Five exceptions: grave and sudden provocation (Nanavati: no time to cool), private defence exceeded, public servant, sudden fight, consent over 18.
+* Transferred malice: s.102.
+* s.106: rash or negligent death, up to 5 years (doctors 2 years); s.106(2) hit and run.
+* Grievous hurt period reduced to 15 days (s.116(h)); acid attack s.124.
+* Kidnapping (s.137) protects guardianship of children under 18; abduction (s.138) needs force or deceit.
+
+QL: Distinguish between culpable homicide and murder. Refer to Reg v Govinda and State of AP v Rayavarapu Punnayya.
+QL: Explain the exceptions under which culpable homicide is not murder, with special reference to grave and sudden provocation and K.M. Nanavati's case.
+QL: Discuss the law relating to euthanasia in India.
+QL: Distinguish between kidnapping and abduction. Discuss the meaning of "taking" and "enticing".
+QL: Write a note on rash and negligent acts causing death under s.106 of the BNS.
+QS: Virsa Singh v State of Punjab
+QS: Transferred malice
+QS: Grievous hurt
+QS: Mob lynching under s.103(2)
+QS: Acid attack
+QS: Sudden fight
+
+MCQ: The four steps for clause thirdly of murder were laid down in || Reg v Govinda | *Virsa Singh v State of Punjab | Nanavati | Punnayya || Vivian Bose J, 1958.
+MCQ: In Nanavati's case, the defence of grave and sudden provocation failed because || there was no provocation | *there was time for the accused to cool down | the deceased was armed | the accused was insane || About three hours passed.
+MCQ: Under the BNS, hurt causing severe pain or inability to follow ordinary pursuits is grievous if it lasts || 20 days | *15 days | 30 days | 7 days || s.116(h) reduced the IPC's 20 days.
+MCQ: The maximum punishment for causing death by negligence under s.106(1) BNS (non-doctors) is || 2 years | *5 years | 7 years | 10 years || Raised from 2 years under s.304A IPC.
+MCQ: In kidnapping from lawful guardianship, the consent of the minor is || a complete defence | *immaterial | relevant only for girls | relevant if above 16 || Raja Ram (1973).
+
+# 8 | Offences against women
+@topics Insulting modesty; Assault or criminal force to outrage modesty; Causing miscarriage without consent and death thereby; Kidnapping or abducting a woman to compel marriage or illicit intercourse; Buying a minor for prostitution; Dowry death; Rape; Custodial rape; Marital rape; Sexual harassment; Disrobing; Voyeurism; Stalking; Cruelty by husband or relatives; Remedies against indecent depiction of women
+>> Chapter V of the BNS groups offences against women and children together and places them first among offences against persons. Most of these provisions were shaped by the Criminal Law (Amendment) Acts of 1983, 2013 and 2018.
+
+## 8.1 Word, gesture or act intended to insult modesty: s.79 BNS (s.509 IPC)
+Uttering any word, making any sound or gesture, exhibiting any object in any form, intending that it be heard or seen by a woman, or intruding upon her privacy, with intent to insult her modesty. Punishment: simple imprisonment up to three years and fine.
+
+## 8.2 Assault or criminal force to outrage modesty: s.74 BNS (s.354 IPC)
+Punishment: one to five years and fine.
+
+CASE: Rupan Deol Bajaj v Kanwar Pal Singh Gill (1995) :: A senior police officer slapped a woman IAS officer on her posterior at a party. The Court held that the essence of a woman's modesty is her sex; the test is whether the act is capable of shocking the sense of decency of a woman. Outraging modesty was made out.
+
+## 8.3 and 8.4 Miscarriage without consent and death thereby
+Causing miscarriage without the woman's consent (s.89, s.313 IPC) is punishable with imprisonment for life or up to ten years and fine; death caused by an act done with intent to cause miscarriage (s.90, s.314 IPC) up to ten years, or life if done without consent (see Unit 7).
+
+## 8.5 Kidnapping or abducting a woman to compel marriage: s.87 BNS (s.366 IPC)
+Kidnapping or abducting any woman with intent that she may be compelled to marry any person against her will, or forced or seduced to illicit intercourse, or knowing it likely; also inducing a woman by criminal intimidation or abuse of authority to go from any place with such intent. Punishment: up to ten years and fine.
+
+## 8.6 Selling and buying a child for prostitution: ss.98 and 99 BNS (ss.372, 373 IPC)
+Selling, letting to hire or otherwise disposing of a child (under 18) with intent that the child shall be employed for prostitution or illicit intercourse (s.98), and buying, hiring or obtaining possession of a child for such purposes (s.99), are punishable with imprisonment up to ten years and fine (s.98) and with imprisonment of not less than seven years extending to fourteen years and fine (s.99). The BNS makes these gender-neutral by using "child".
+
+## 8.7 Dowry death: s.80 BNS (s.304B IPC)
+SEC: s.80(1), BNS :: Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called "dowry death", and such husband or relative shall be deemed to have caused her death.
+- Punishment: not less than seven years, which may extend to life imprisonment (s.80(2)).
+- "Dowry" has the meaning in s.2 of the Dowry Prohibition Act, 1961.
+- Presumption as to dowry death: s.118 of the Bharatiya Sakshya Adhiniyam, 2023 (s.113B Evidence Act).
+
+CASE: Kans Raj v State of Punjab (2000) :: "Soon before" is a relative term; there must be a proximate and live link between the cruelty for dowry and the death. It does not mean immediately before.
+
+CASE: Satbir Singh v State of Haryana (2021) :: The Supreme Court held "soon before" should not be read as "immediately before"; there must be a proximate and live link. Courts should first record the ingredients of s.304B before invoking the presumption under s.113B.
+
+## 8.8 Rape: ss.63 and 64 BNS (ss.375, 376 IPC)
+SEC: s.63, BNS (definition, in brief) :: A man is said to commit rape if he (a) penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a woman or makes her do so with him or any other person; or (b) inserts, to any extent, any object or a part of the body, not being the penis, into the vagina, urethra or anus of a woman; or (c) manipulates any part of her body so as to cause penetration; or (d) applies his mouth to the vagina, anus or urethra of a woman; under any of seven circumstances: (i) against her will; (ii) without her consent; (iii) with her consent obtained by putting her or any person in whom she is interested in fear of death or hurt; (iv) with her consent, when he knows he is not her husband and she consents believing he is; (v) with her consent when, at the time, she is of unsound mind or intoxicated and unable to understand the nature and consequences; (vi) with or without her consent, when she is under eighteen years of age; (vii) when she is unable to communicate consent.
+- Explanation 2: consent means an unequivocal voluntary agreement by words, gestures or any form of communication; a woman who does not physically resist is not, by that fact alone, regarded as consenting.
+- Punishment (s.64): rigorous imprisonment not less than ten years, extendable to life, and fine. Aggravated forms (by police, public servants, armed forces, jail or hospital staff, relatives, guardians, teachers, persons in a position of trust, during communal violence, on a pregnant woman, repeatedly) carry not less than ten years up to life imprisonment for the remainder of natural life (s.64(2)).
+- Rape of a woman under sixteen: not less than twenty years up to life for the remainder of natural life (s.65(1)); under twelve: not less than twenty years up to life for remainder of natural life, or death (s.65(2)).
+- Gang rape (s.70); death or persistent vegetative state (s.66); repeat offenders (s.71).
+- **Sexual intercourse by deceitful means** (s.69, new): sexual intercourse, not amounting to rape, by deceitful means or by making a promise to marry without any intention of fulfilling it; punishment up to ten years. "Deceitful means" includes false promise of employment or promotion, inducement, or marrying after suppressing identity.
+
+CASE: Tukaram v State of Maharashtra (1979) :: (the Mathura case) A young tribal girl was raped by two policemen in a police station. The Supreme Court acquitted them, holding that the absence of resistance and of injuries suggested consent. The decision caused national protest and led to the Criminal Law (Amendment) Act, 1983, which introduced custodial rape and a presumption of absence of consent in such cases.
+
+CASE: State of Punjab v Gurmit Singh (1996) :: The testimony of a rape victim does not require corroboration if it inspires confidence; courts must deal with such cases with sensitivity, and trials should be held in camera.
+
+## 8.9 Custodial rape
+Rape by a police officer within the limits of his police station or in his custody, by a public servant on a woman in his custody, by a member of the armed forces in an area of deployment, by management or staff of a jail, remand home, women's or children's institution, or hospital, is punished as aggravated rape under s.64(2). Under s.120 of the BSA (s.114A Evidence Act), where sexual intercourse is proved and the woman states she did not consent, the court presumes absence of consent in such prosecutions.
+
+## 8.10 Marital rape
+Exception 2 to s.63: sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape.
+- s.67 punishes sexual intercourse by a husband with his wife during judicial separation or while living separately under a custom or usage, without her consent (two to seven years).
+
+CASE: Independent Thought v Union of India (2017) :: The Court read down Exception 2 to s.375 IPC, holding that intercourse with a wife between fifteen and eighteen is rape. The BNS now reflects this by fixing the age at eighteen.
+
+- Petitions challenging the marital rape exception for adult wives (from the split decision of the Delhi High Court in RIT Foundation v Union of India, 2022, and other cases) are pending before the Supreme Court.
+- Arguments against the exception: violates Arts. 14, 15 and 21 (bodily autonomy, sexual privacy), consent is not irrevocable on marriage, and most democracies have removed it. Arguments offered for it: protection of the institution of marriage, availability of other remedies (s.85 cruelty, Protection of Women from Domestic Violence Act, 2005), and difficulty of proof.
+
+## 8.11 Sexual harassment: s.75 BNS (s.354A IPC)
+A man committing physical contact and advances involving unwelcome and explicit sexual overtures; a demand or request for sexual favours; showing pornography against the will of a woman; or making sexually coloured remarks. Punishment up to three years (or one year for sexually coloured remarks) and fine.
+
+CASE: Vishaka v State of Rajasthan (1997) :: After the gang rape of Bhanwari Devi, a social worker, the Court framed guidelines on prevention of sexual harassment at the workplace, treating it as a violation of Arts. 14, 15, 19(1)(g) and 21. These were replaced by the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+
+## 8.12 Assault with intent to disrobe: s.76 BNS (s.354B IPC)
+Assault or use of criminal force on a woman, or abetting it, with intent to disrobe or compel her to be naked: three to seven years and fine.
+
+## 8.13 Voyeurism: s.77 BNS (s.354C IPC)
+A man who watches or captures the image of a woman engaging in a private act, in circumstances where she would usually expect not to be observed, or disseminates such image. First conviction: one to three years and fine; second: three to seven years and fine. Explanation: dissemination without consent of images captured with consent is also covered.
+
+## 8.14 Stalking: s.78 BNS (s.354D IPC)
+A man who follows a woman and contacts or attempts to contact her to foster personal interaction repeatedly despite a clear indication of disinterest; or monitors her use of the internet, email or any other form of electronic communication. Exceptions: in pursuit of preventing or detecting crime under State authority, under law, or reasonable and justified in the particular circumstances. First conviction: up to three years and fine; subsequent: up to five years and fine.
+
+## 8.15 Cruelty by husband or relatives: ss.85 and 86 BNS (s.498A IPC)
+SEC: s.86, BNS :: "Cruelty" means (a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or (b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security, or is on account of failure by her or any person related to her to meet such demand.
+- Punishment (s.85): up to three years and fine.
+- Cognizable and non-bailable, but compoundable in some States by amendment.
+
+CASE: Arnesh Kumar v State of Bihar (2014) :: To prevent misuse of s.498A, the Court directed that police should not automatically arrest; they must satisfy themselves of the need for arrest under the conditions now in s.35 BNSS (s.41 CrPC), record reasons, and magistrates must not authorise detention mechanically.
+
+CASE: Sushil Kumar Sharma v Union of India (2005) :: The Court upheld s.498A, noting that the mere possibility of misuse is not a ground to strike down a provision; it is for courts to guard against frivolous complaints.
+
+## 8.16 Remedies against obscene or indecent depiction of women
+- **Indecent Representation of Women (Prohibition) Act, 1986**: prohibits indecent representation of women in advertisements, publications, writings, paintings and figures.
+- **Obscenity**: s.294 BNS (s.292 IPC) punishes sale and distribution of obscene books and objects, including in electronic form; s.296 (s.294 IPC) obscene acts and songs in public places.
+- **IT Act**: ss.67 and 67A (obscene and sexually explicit material), s.66E (privacy).
+- **Common law and civil remedies**: actions in tort for defamation and invasion of privacy; injunctions; and the right to privacy under Art. 21 (Puttaswamy).
+
+CASE: Aveek Sarkar v State of West Bengal (2014) :: A magazine published a photograph of Boris Becker with his fiancée, nude, to protest racism. The Court rejected the Hicklin test (tendency to deprave and corrupt those susceptible) and applied the "community standards" test, judging the work as a whole and in its context. Not obscene.
+
+TIP: For rape answers, structure: definition (four kinds of acts, seven circumstances), consent (Explanation 2), punishment and aggravated forms, marital rape exception (Independent Thought), and evidentiary rules (Gurmit Singh on corroboration; presumption in custodial cases).
+
+## 8.17 Recent judgments (2025–26)
+
+CASE: Lokesh B.H. v State of Karnataka (2026) :: Cruelty by a 'husband' under s.85 BNS [498A IPC] also covers a man in a live-in relationship in the nature of marriage.
+
+CASE: Mahesh Chand v State of UP (2026) :: The presumption of dowry death under s.118 BSA [113B IEA] must be kept in mind even at the stage of granting bail.
+
+CASE: State of UP v Anurudh (2026) :: In POCSO cases, determination of the victim's age is a matter for trial. The Court noted the misuse of POCSO in consensual adolescent relationships and suggested that Parliament consider a 'Romeo-Juliet' exception.
+
+* s.85 BNS covers live-in relationships (Lokesh, 2026); dowry-death presumption applies at bail stage (Mahesh Chand, 2026).
+* Outraging modesty (s.74): the test is whether the act shocks the sense of decency of a woman (Rupan Deol Bajaj).
+* Dowry death (s.80): within 7 years, unnatural death, cruelty for dowry soon before death; presumption under BSA s.118.
+* Rape (ss.63 to 71): wide definition, consent defined; minimum ten years; death possible for rape of girls under 12 and gang rape of girls under 18.
+* s.69 new offence: sexual intercourse by deceitful means or false promise to marry.
+* Marital rape exception remains for wives above 18; challenge pending.
+* Sexual harassment (s.75), disrobing (s.76), voyeurism (s.77), stalking (s.78).
+* Cruelty (ss.85, 86): Arnesh Kumar guidelines against automatic arrest.
+
+QL: Define rape under the BNS. Discuss the law relating to consent and the marital rape exception.
+QL: Discuss the offence of dowry death and the presumption attached to it.
+QL: Explain the offences of sexual harassment, voyeurism and stalking introduced by the Criminal Law (Amendment) Act, 2013, as re-enacted in the BNS.
+QL: Discuss s.85 and s.86 of the BNS (cruelty by husband or relatives). How have courts addressed its alleged misuse?
+QS: Mathura rape case
+QS: Custodial rape
+QS: Sexual intercourse by deceitful means (s.69)
+QS: Vishaka guidelines
+QS: Indecent representation of women
+QS: Outraging modesty
+
+MCQ: Dowry death requires the death to occur within || 5 years of marriage | *7 years of marriage | 10 years of marriage | 3 years of marriage || s.80(1) BNS.
+MCQ: The Criminal Law (Amendment) Act, 1983 introducing custodial rape followed || Vishaka | *Tukaram v State of Maharashtra (Mathura case) | Gurmit Singh | Independent Thought || 1979 acquittal led to national protest.
+MCQ: Under Exception 2 to s.63 BNS, a husband's intercourse with his wife is not rape if she is not under || 15 years | 16 years | *18 years | 21 years || Following Independent Thought (2017).
+MCQ: Sexual intercourse on a false promise of marriage is now specifically punished under || s.63 | s.64 | *s.69 | s.75 || A new BNS provision.
+MCQ: The "community standards" test for obscenity was adopted in || Ranjit Udeshi | *Aveek Sarkar | Rupan Deol Bajaj | Gurmit Singh || 2014, rejecting the Hicklin test.
+
+# 9 | Offences against property
+@topics Theft; Snatching; Cheating; Extortion; Robbery and dacoity; Mischief; Criminal misappropriation and criminal breach of trust; Criminal trespass; Forgery
+>> Offences against property protect possession and ownership from dishonest taking, deception, threats, misuse of trust and interference.
+
+## 9.1 Theft: s.303 BNS (ss.378, 379 IPC)
+SEC: s.303(1), BNS :: Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.
+Essentials:
+1. Dishonest intention (wrongful gain or wrongful loss) at the time of taking.
+2. Movable property (including things severed from the earth).
+3. Out of the possession of another.
+4. Without that person's consent (express or implied).
+5. Moving the property in order to such taking.
+
+- Punishment (s.303(2)): up to three years, fine, or both; for a second or subsequent conviction, one to five years and fine. **Proviso**: where the value of the stolen property is less than ₹5,000 and the person is convicted for the first time, he may be punished with community service on return of the value of the property or restoration of the property.
+- A person can commit theft of his own property if he takes it from someone who has lawful possession, such as a pledgee (Illustration (j)).
+- Aggravated forms: theft in a dwelling house or means of transport or place of worship (s.305), by a clerk or servant (s.306), after preparation for causing death or hurt (s.307).
+
+CASE: Pyare Lal Bhargava v State of Rajasthan (1963) :: A government official removed a file from his office, took it home, and returned it the next day after substituting some papers. Held: theft. Wrongful loss or gain need not be permanent; temporary dispossession with dishonest intention is enough.
+
+CASE: K.N. Mehra v State of Rajasthan (1957) :: A trainee air force cadet flew off in an aircraft without authority and landed in Pakistan. Held: theft. The intention to take dishonestly existed, even though he did not intend to deprive the owner permanently.
+
+## 9.2 Snatching: s.304 BNS (new)
+SEC: s.304(1), BNS :: Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.
+Punishment: up to three years and fine (s.304(2)). It fills the gap between theft and robbery for chain and phone snatching.
+
+## 9.3 Cheating: s.318 BNS (ss.415, 417, 420 IPC)
+SEC: s.318(1), BNS :: Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.
+- Punishment: up to three years (s.318(2)); cheating with knowledge of causing wrongful loss to a person whose interest the offender is bound to protect, up to five years (s.318(3)); cheating and dishonestly inducing delivery of property (the old s.420 IPC), up to seven years and fine (s.318(4)).
+- **Cheating by personation**: s.319 (s.416 IPC).
+
+CASE: Hridaya Ranjan Prasad Verma v State of Bihar (2000) :: To constitute cheating, the intention to deceive must exist at the time of making the inducement. A mere failure to keep a promise later is a breach of contract, not cheating.
+
+## 9.4 Extortion: s.308 BNS (ss.383 to 389 IPC)
+Intentionally putting any person in fear of any injury to that person or any other, and thereby dishonestly inducing the person so put in fear to deliver to any person any property, valuable security or anything signed or sealed that may be converted into a valuable security. Punishment: up to seven years and fine; higher for fear of death or grievous hurt, or accusation of offences.
+
+| Point | Theft | Extortion |
+|---|---|---|
+| Consent | Without consent | Consent obtained by fear |
+| Property | Only movable | Movable or immovable (valuable security) |
+| Delivery | Taken by offender | Delivered by victim |
+| Force | Not essential | Fear of injury is essential |
+
+## 9.5 Robbery and dacoity
+### Robbery: s.309 BNS (ss.390, 392 IPC)
+- **Theft is robbery** if, in order to commit theft, or in committing it, or in carrying away or attempting to carry away property obtained by theft, the offender voluntarily causes or attempts to cause death, hurt or wrongful restraint, or fear of instant death, hurt or wrongful restraint.
+- **Extortion is robbery** if the offender, at the time of committing extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, hurt or wrongful restraint, and so induces him to deliver the property then and there.
+- Punishment: rigorous imprisonment up to ten years and fine; up to fourteen years if on a highway between sunset and sunrise.
+
+### Dacoity: s.310 BNS (ss.391, 395 IPC)
+When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting it, and persons present and aiding, amount to five or more, every such person commits dacoity. Punishment: imprisonment for life or rigorous imprisonment up to ten years and fine. Dacoity with murder (s.310(3)): death, life or rigorous imprisonment not less than ten years and fine.
+
+## 9.6 Mischief: s.324 BNS (ss.425 to 440 IPC)
+Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in its situation as destroys or diminishes its value or utility, or affects it injuriously, commits mischief. The BNS includes aggravated forms based on value of damage, damage to public property, and mischief by fire or explosives.
+
+## 9.7 Criminal misappropriation and criminal breach of trust
+### Dishonest misappropriation of property: s.314 BNS (s.403 IPC)
+Dishonestly misappropriating or converting to one's own use any movable property. The initial possession is innocent (for example, finding property); the dishonest intention arises later. Punishment: six months to two years and fine.
+
+### Criminal breach of trust: s.316 BNS (ss.405 to 409 IPC)
+SEC: s.316(1), BNS :: Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode of discharge of the trust, or of any legal contract, or wilfully suffers any other person so to do, commits criminal breach of trust.
+- Entrustment is the essential ingredient.
+- Aggravated forms: by a carrier, wharfinger or warehouse-keeper; by a clerk or servant; by a public servant, banker, merchant or agent (s.316(5): life or up to ten years).
+
+CASE: R.K. Dalmia v Delhi Administration (1962) :: Directors who invested the funds of an insurance company in an unauthorised manner for their own benefit were held guilty of criminal breach of trust. "Property" includes funds; dominion over funds as directors amounts to entrustment.
+
+| Point | Criminal breach of trust | Cheating |
+|---|---|---|
+| Initial possession | Lawful, by entrustment | Obtained by deception |
+| Dishonest intention | Arises after entrustment | Exists from the start |
+
+## 9.8 Criminal trespass: s.329 BNS (ss.441 to 447 IPC)
+Entering into or upon property in the possession of another with intent to commit an offence, or to intimidate, insult or annoy any person in possession, or having lawfully entered, unlawfully remaining there with such intent. House-trespass is criminal trespass into a building, tent or vessel used as a human dwelling, place of worship or for custody of property. Lurking house-trespass and house-breaking (s.330) are aggravated forms, with higher punishment by night (s.331).
+
+## 9.9 Forgery: ss.335 to 340 BNS (ss.463 to 471 IPC)
+- **Making a false document** (s.335): dishonestly or fraudulently making, signing, sealing or executing a document or electronic record, or altering it, intending to cause it to be believed that it was made by or with the authority of a person by whom it was not made; or getting a person of unsound mind or intoxicated or deceived to sign it.
+- **Forgery** (s.336(1)): making a false document or electronic record, with intent to cause damage or injury to the public or any person, or to support any claim or title, or to cause any person to part with property, or to enter into any contract, or with intent to commit fraud. Punishment up to two years (s.336(2)); forgery for cheating, up to seven years; forgery to harm reputation, up to three years.
+- Forgery of valuable security, will, and similar documents (s.338): life or up to ten years.
+- Using a forged document as genuine (s.340).
+
+CASE: Mohammed Ibrahim v State of Bihar (2009) :: The accused executed sale deeds of land that did not belong to him. The Court held this was not "making a false document" because he did not claim to be someone else or that the deed was executed by someone else; executing a deed claiming property one does not own is not forgery (it may be cheating).
+
+TIP: The classic comparison questions are theft versus extortion, robbery versus dacoity, cheating versus criminal breach of trust, and criminal breach of trust versus criminal misappropriation. Prepare a two-column table for each.
+
+* Theft (s.303) requires dishonest intention, movable property, possession of another, no consent, and moving; temporary taking suffices (Pyare Lal Bhargava).
+* Snatching (s.304) is new.
+* Cheating (s.318) needs deception at inception (Hridaya Ranjan).
+* Extortion (s.308) involves delivery induced by fear; robbery (s.309) adds instant violence; dacoity (s.310) requires five or more.
+* Criminal breach of trust (s.316) requires entrustment (R.K. Dalmia); misappropriation (s.314) involves innocent initial possession.
+* Forgery (s.336) requires making a false document as defined in s.335 (Mohammed Ibrahim).
+
+QL: Define theft. Explain its essentials with reference to decided cases. Can a person commit theft of his own property?
+QL: Distinguish between theft, extortion, robbery and dacoity.
+QL: Define criminal breach of trust. Distinguish it from cheating and criminal misappropriation.
+QL: What is forgery? When does a person make a false document?
+QS: Snatching
+QS: Cheating by personation
+QS: Mischief
+QS: House-breaking
+QS: Pyare Lal Bhargava v State of Rajasthan
+
+MCQ: For theft, the dishonest intention must exist || after taking | *at the time of moving the property | at the time of sale | at any time || s.303(1).
+MCQ: Robbery committed by five or more persons conjointly is || extortion | *dacoity | rioting | organised crime || s.310(1) BNS.
+MCQ: Snatching is a new offence under || s.303 | *s.304 | s.309 | s.318 || BNS 2023.
+MCQ: The essential ingredient distinguishing criminal breach of trust is || deception | fear | *entrustment | force || s.316 BNS.
+MCQ: In Mohammed Ibrahim v State of Bihar, executing a sale deed of land not owned by the executant was held to be || forgery | *not forgery, as no false document was made | criminal breach of trust | theft || 2009.
+
+# 10 | Offences by or relating to public servants
+@topics Public servant taking gratification other than legal remuneration; Public servant induced by illegal or corrupt means; Public servant obtaining valuable thing without consideration; Public servant framing incorrect document; Unlawful buying or bidding by public servant; Prevention of Corruption Act: objective and scope; False evidence and offences against public justice
+>> Bribery offences moved out of the penal code into the Prevention of Corruption Act, 1988. The BNS keeps offences of abuse of office and of interference with public justice.
+
+## Who is a public servant?
+s.2(28) BNS (s.21 IPC) lists categories: commissioned officers of the armed forces, judges, officers of courts, jurors and assessors, arbitrators, persons holding office of authority to confine, government officers, persons in the service or pay of government or of local authorities or corporations established by law or government companies, and others. s.2(c) of the Prevention of Corruption Act, 1988 has an even wider definition, including any person who holds an office by virtue of which he is required to perform any public duty.
+
+## 10.1 to 10.3 Bribery and gratification
+Sections 161 to 165A of the IPC (gratification, obtaining valuable things without consideration) were repealed in 1988 and transferred to the **Prevention of Corruption Act, 1988** (amended in 2018). Under the amended Act:
+| Section (PC Act) | Offence |
+|---|---|
+| 7 | A public servant obtaining, accepting or attempting to obtain an undue advantage, with the intention to perform or cause performance of a public duty improperly or dishonestly, or as a reward for such performance; three to seven years and fine |
+| 7A | Taking undue advantage to influence a public servant by corrupt or illegal means or by personal influence |
+| 8 | Giving or promising undue advantage to a public servant (bribe-giving made a direct offence in 2018), with an exception for a person compelled to give who reports within seven days |
+| 9 and 10 | Offence by a commercial organisation for bribes given by persons associated with it; liability of persons in charge |
+| 11 | A public servant obtaining an undue advantage without consideration from a person concerned in proceedings or business transacted by him |
+| 13 | Criminal misconduct: fraudulent misappropriation of property entrusted, and intentional illicit enrichment (disproportionate assets) |
+| 17A | Prior approval of the competent authority needed before inquiry or investigation into decisions taken by a public servant in discharge of official functions |
+| 19 | Previous sanction necessary for prosecution |
+
+### 10.6 Objective and scope of the PC Act
+- To consolidate and amend the law on prevention of corruption, widen the definition of public servant, make bribe-giving an offence, and provide for attachment of property.
+- Special Judges try offences (s.3); trials are to be completed within two years ordinarily (s.4(5)).
+
+CASE: Neeraj Dutta v State (Govt of NCT of Delhi) (2022) :: A Constitution Bench held that demand and acceptance of illegal gratification can be proved by circumstantial evidence where direct evidence of the complainant is not available (for example, if he turns hostile or dies).
+
+CASE: Sita Soren v Union of India (2024) :: A seven-judge bench overruled P.V. Narasimha Rao v State (1998) and held that members of Parliament and State legislatures do not enjoy immunity under Arts. 105 and 194 from prosecution for bribery in connection with a vote or speech in the House. The offence of bribery is complete on acceptance.
+
+## BNS offences by or relating to public servants (Chapter XII)
+| BNS section (IPC) | Offence |
+|---|---|
+| 198 (166) | Public servant disobeying law with intent to cause injury to any person |
+| 199 (166A) | Public servant disobeying direction under law (for example, failing to record information on cognizable offences against women) |
+| 200 (166B) | Non-treatment of a victim of acid attack or rape by a hospital |
+| 201 (167) | Public servant framing an incorrect document with intent to cause injury: a public servant charged with preparing or translating a document or electronic record who frames or translates it incorrectly, knowing or believing it to be incorrect, intending or knowing it likely to cause injury to any person; up to three years |
+| 202 (168) | Public servant unlawfully engaging in trade; up to one year, fine, or community service |
+| 203 (169) | Public servant unlawfully buying or bidding for property which he is legally prohibited from buying, in his official capacity; up to two years, fine, and confiscation |
+| 204, 205 (170, 171) | Personating a public servant; wearing garb or carrying a token used by a public servant with fraudulent intent |
+
+## 10.7 False evidence and offences against public justice (Chapter XIV)
+- **Giving false evidence** (s.227, s.191 IPC): a person bound by oath or by law to state the truth, who makes a statement which is false and which he knows or believes to be false or does not believe to be true.
+- **Fabricating false evidence** (s.228, s.192 IPC): causing a circumstance to exist, making a false entry or false document, intending it to appear in evidence and cause a person to form an erroneous opinion.
+- **Punishment** (s.229, s.193 IPC): up to seven years and fine in a judicial proceeding; up to three years in other cases.
+- **Causing disappearance of evidence of an offence, or giving false information to screen an offender** (s.238, s.201 IPC).
+- Others: false certificates, false claims in court, false charges with intent to injure (s.248, s.211 IPC), harbouring offenders, resisting lawful apprehension, intentional insult or interruption to a public servant in a judicial proceeding.
+- Prosecution for these offences connected with court proceedings requires a complaint by the court (s.215 and s.379 BNSS; ss.195, 340 CrPC).
+
+TIP: Mention that ss.161 to 165A IPC were repealed in 1988 and that bribery is now under the PC Act, then list the BNS offences of public servants with their sections. Add Sita Soren to show you are current.
+
+## 10.8 Recent judgments (2025–26)
+
+CASE: Centre for Public Interest Litigation v Union of India (2026) :: A two-judge bench gave a split verdict on the validity of s.17A of the Prevention of Corruption Act (prior approval before investigating public servants); the question goes to a larger bench.
+
+CASE: State of Rajasthan v Dev Kant Meena (2026) :: Once sanction for prosecution is refused, the authority cannot review that decision under political pressure without fresh material.
+
+* s.17A PC Act: split verdict (CPIL, 2026); refused sanction cannot be reviewed without fresh material.
+* Bribery offences are in the PC Act, 1988 (amended 2018): ss.7, 7A, 8, 11, 13; prior approval (s.17A) and sanction (s.19).
+* Bribe-giving is a direct offence since 2018 (s.8).
+* Demand can be proved by circumstantial evidence (Neeraj Dutta).
+* Legislators have no immunity for bribery (Sita Soren, 2024, overruling P.V. Narasimha Rao).
+* BNS ss.198 to 205: disobeying law, incorrect documents, unlawful trade and bidding, personation.
+* False evidence (ss.227 to 229) and causing disappearance of evidence (s.238).
+
+QL: Discuss the offences relating to public servants under the BNS and the Prevention of Corruption Act, 1988.
+QL: Explain the objective and scope of the Prevention of Corruption Act, 1988 as amended in 2018.
+QL: Define giving false evidence and fabricating false evidence. How are these offences prosecuted?
+QS: Public servant
+QS: Section 17A of the PC Act
+QS: Sita Soren v Union of India
+QS: Public servant unlawfully buying or bidding for property
+QS: Causing disappearance of evidence
+
+MCQ: Bribery offences of public servants are now mainly punishable under || BNS ss.161 to 165 | *the Prevention of Corruption Act, 1988 | the IT Act | the BNSS || The IPC provisions were repealed in 1988.
+MCQ: Legislators do not enjoy immunity from prosecution for bribery, as held in || P.V. Narasimha Rao | *Sita Soren v Union of India | Neeraj Dutta | R.K. Dalmia || Seven-judge bench, 2024.
+MCQ: Public servant unlawfully buying or bidding for property is punished under || s.201 | s.202 | *s.203 | s.198 || s.169 IPC.
+MCQ: Giving false evidence is defined in || s.191 BNS | *s.227 BNS | s.238 BNS | s.229 BNS || s.191 IPC.
+
+# 11 | Offences against the State
+@topics Waging, attempting or conspiring to wage war, collecting arms to wage war; Assaulting the President or Governor with intent to compel or restrain lawful power; Sedition; War against a foreign State at peace with India; Permitting, aiding or negligently suffering escape of, rescuing or harbouring a State prisoner
+>> Offences against the State protect the existence, sovereignty and security of the nation and its constitutional authorities. The BNS replaced sedition with an offence of endangering the sovereignty, unity and integrity of India.
+
+## 11.1 Waging war: ss.147 to 150 BNS (ss.121 to 123 IPC)
+SEC: s.147, BNS :: Whoever wages war against the Government of India, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or imprisonment for life and shall also be liable to fine.
+- **Conspiracy** to commit offences under s.147 (s.148; s.121A IPC): life or up to ten years.
+- **Collecting arms**, men or ammunition with intention of waging war (s.149; s.122 IPC): life or up to ten years.
+- **Concealing** with intent to facilitate a design to wage war (s.150; s.123 IPC).
+- "War" is not limited to war in the international sense; it includes an organised attempt by force to overthrow the government or to compel it to change its policy. Numbers and arms are not decisive; the purpose and intention are.
+
+CASE: State (NCT of Delhi) v Navjot Sandhu (2005) :: The attack on Parliament in December 2001 was held to amount to waging war against the Government of India, since the object was to strike at the sovereign authority of the State and overawe the government.
+
+CASE: Mohd. Ajmal Mohd. Amir Kasab v State of Maharashtra (2012) :: The November 2008 Mumbai terror attacks were held to be waging war against the Government of India; the death sentence was upheld.
+
+## 11.2 Assaulting the President or Governor: s.151 BNS (s.124 IPC)
+Assaulting or wrongfully restraining, or attempting to do so, or overawing by criminal force, the President of India or the Governor of any State, with intent to induce or compel them to exercise or refrain from exercising any lawful power. Punishment: up to seven years and fine.
+
+## 11.3 Sedition and its replacement
+### The IPC offence
+Section 124A IPC punished bringing or attempting to bring into hatred or contempt, or exciting or attempting to excite disaffection towards, the Government established by law in India, by words, signs or visible representation.
+
+CASE: Kedar Nath Singh v State of Bihar (1962) :: A Constitution Bench upheld s.124A but read it down: only words or acts which have a tendency or intention to create public disorder or incite violence are punishable. Strong criticism of the government, without incitement to violence, is protected by Art. 19(1)(a).
+
+CASE: S.G. Vombatkere v Union of India (2022) :: The Supreme Court directed that s.124A be kept in abeyance while the government reconsidered it; no new FIRs should be registered and pending proceedings were to remain stayed.
+
+### The BNS offence: s.152
+SEC: s.152, BNS :: Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years and shall also be liable to fine. Explanation: comments expressing disapprobation of the measures, or administrative or other action of the Government with a view to obtain their alteration by lawful means without exciting or attempting to excite the activities referred to in this section do not constitute an offence.
+
+| Point | s.124A IPC (sedition) | s.152 BNS |
+|---|---|---|
+| Protected interest | Government established by law | Sovereignty, unity and integrity of India |
+| Conduct | Hatred, contempt, disaffection | Exciting secession, armed rebellion, subversive activities, separatist feelings |
+| Means | Words, signs, visible representation | Also electronic communication and financial means |
+| Mental element | Not expressly stated | "Purposely or knowingly" |
+| Punishment | Life or up to 3 years | Life or up to 7 years |
+
+Critics argue that terms like "subversive activities" and "encourages feelings of separatist activities" are vague and may be misused against dissent; supporters argue that the offence now protects the nation rather than the government. Courts are expected to apply Kedar Nath's requirement of incitement to violence or public disorder.
+
+## 11.4 Waging war against a foreign State at peace with India: s.153 BNS (s.125 IPC)
+Waging war against the government of any foreign State at peace with the Government of India, or attempting or abetting it. Punishment: imprisonment for life, or up to seven years, and fine. Related offences: committing depredation on the territories of such a power (s.154) and receiving property taken by such war or depredation (s.155), both with forfeiture of the property.
+
+## 11.5 Escape of State prisoners: ss.156 to 158 BNS (ss.128 to 130 IPC)
+| BNS section (IPC) | Offence | Punishment |
+|---|---|---|
+| 156 (128) | Public servant voluntarily allowing a State prisoner or prisoner of war in his custody to escape | Life or up to 10 years and fine |
+| 157 (129) | Public servant negligently suffering such a prisoner to escape | Simple imprisonment up to 3 years and fine |
+| 158 (130) | Any person knowingly aiding, rescuing or harbouring such a prisoner, or offering resistance to his recapture | Life or up to 10 years and fine |
+
+TIP: When asked about sedition now, explain s.124A, Kedar Nath, Vombatkere, and then the s.152 BNS offence with the comparison table. End with an evaluation of the vagueness criticism.
+
+* Waging war (s.147) includes any organised force against the State's sovereign authority (Navjot Sandhu; Kasab).
+* Collecting arms with intent to wage war (s.149) punishes preparation.
+* Assaulting the President or Governor to compel exercise of power (s.151).
+* Sedition (s.124A IPC) read down in Kedar Nath; kept in abeyance in Vombatkere; replaced by s.152 BNS.
+* Waging war against a friendly foreign State (s.153); escape of State prisoners (ss.156 to 158).
+
+QL: What is meant by "waging war against the Government of India"? Discuss with reference to the Parliament attack and Mumbai attack cases.
+QL: Trace the history of the law of sedition in India and examine s.152 of the BNS.
+QL: Discuss the offences relating to escape of State prisoners and prisoners of war.
+QS: Kedar Nath Singh v State of Bihar
+QS: Collecting arms to wage war
+QS: Assaulting the President or Governor
+QS: Depredation on territories of a friendly power
+
+MCQ: Sedition under s.124A IPC was read down to require tendency to public disorder or violence in || Romesh Thappar | *Kedar Nath Singh | Vombatkere | Shreya Singhal || 1962.
+MCQ: The BNS offence replacing sedition is in || s.147 | *s.152 | s.113 | s.196 || Acts endangering sovereignty, unity and integrity of India.
+MCQ: Waging war against the Government of India is punishable with || 7 years | 10 years | *death or life imprisonment, and fine | life only || s.147 BNS.
+MCQ: A public servant negligently allowing a State prisoner to escape is punished under || s.156 | *s.157 | s.158 | s.151 || s.129 IPC.
+
+# 12 | Defamation
+@topics Defamation; Punishment for defamation; Printing or engraving matter known to be defamatory; Sale of printed or engraved substance containing defamatory matter
+>> Criminal defamation protects reputation, which the Supreme Court treats as part of the right to life. Ten exceptions protect truth for the public good, fair comment and good faith communications.
+
+## 12.1 Definition: s.356(1) BNS (s.499 IPC)
+SEC: s.356(1), BNS :: Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes in any manner, any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.
+
+### Explanations
+1. Imputation concerning a deceased person may be defamation if it would harm his reputation if living and is intended to hurt the feelings of his family.
+2. Imputation concerning a company, association or collection of persons may be defamation.
+3. An imputation in the form of an alternative or expressed ironically may be defamation.
+4. An imputation harms reputation only if it directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or his character in respect of his caste or calling, or his credit, or causes it to be believed that his body is in a loathsome state or a state generally considered disgraceful.
+
+### Essentials
+1. Making or publishing an imputation concerning a person.
+2. By words, signs or visible representations.
+3. With intention or knowledge, or reason to believe, that it will harm reputation.
+4. Publication to a third person.
+
+### The ten exceptions
+| Exception | Content |
+|---|---|
+| 1 | Imputation of truth which public good requires to be made or published |
+| 2 | Public conduct of public servants, in good faith |
+| 3 | Conduct of any person touching any public question, in good faith |
+| 4 | Publication of substantially true reports of proceedings of courts |
+| 5 | Merits of a case decided in court, or conduct of witnesses and others concerned, in good faith |
+| 6 | Merits of a public performance (book, speech, play) submitted to public judgment, in good faith |
+| 7 | Censure passed in good faith by a person having lawful authority over another (teacher, employer) |
+| 8 | Accusation preferred in good faith to an authorised person (complaint to police or superior) |
+| 9 | Imputation made in good faith by a person for protection of his or another's interests |
+| 10 | Caution intended for the good of the person to whom conveyed or for the public good |
+
+Unlike civil law, truth alone is not a defence in criminal defamation: it must also be for the public good (Exception 1).
+
+## 12.2 Punishment: s.356(2) BNS (s.500 IPC)
+Simple imprisonment for a term which may extend to two years, or fine, or both, or community service. Defamation is non-cognizable and compoundable; a court takes cognizance only on a complaint by the person aggrieved (s.222 BNSS; s.199 CrPC), except where a public servant is defamed in respect of public functions, when the Public Prosecutor may file a complaint with sanction.
+
+CASE: Subramanian Swamy v Union of India (2016) :: The Supreme Court upheld the constitutional validity of criminal defamation (ss.499, 500 IPC and s.199 CrPC). Reputation is an integral part of the right to life and dignity under Art. 21; "defamation" in Art. 19(2) includes criminal defamation; the restriction is reasonable and proportionate. Magistrates should be careful in issuing summons.
+
+## 12.3 Printing or engraving matter known to be defamatory: s.356(3) BNS (s.501 IPC)
+Whoever prints or engraves any matter, knowing or having good reason to believe that such matter is defamatory of any person, shall be punished with simple imprisonment up to two years, or fine, or both.
+
+## 12.4 Sale of printed or engraved substance containing defamatory matter: s.356(4) BNS (s.502 IPC)
+Whoever sells or offers for sale any printed or engraved substance containing defamatory matter, knowing that it contains such matter, shall be punished with simple imprisonment up to two years, or fine, or both.
+
+## Civil and criminal defamation compared
+| Point | Civil defamation (tort) | Criminal defamation (s.356 BNS) |
+|---|---|---|
+| Object | Compensation | Punishment |
+| Truth | Complete defence | Must also be for public good |
+| Intention | Not necessary | Intention, knowledge or reason to believe harm needed |
+| Libel and slander | Distinction exists in England | No distinction; spoken and written both covered |
+| Standard of proof | Preponderance of probabilities | Beyond reasonable doubt |
+
+TIP: Always point out the difference on truth: in civil defamation truth is a complete defence, but in criminal defamation it must also be for the public good (Exception 1). Cite Subramanian Swamy for constitutional validity.
+
+* Defamation (s.356(1)): making or publishing an imputation intending or knowing it will harm reputation.
+* Four Explanations extend it to deceased persons, companies, ironical imputations, and define harm to reputation.
+* Ten exceptions: truth for public good, public conduct, court reports, fair comment, good faith accusations and cautions.
+* Punishment: simple imprisonment up to 2 years, fine, or community service (s.356(2)).
+* Printing (s.356(3)) and sale (s.356(4)) of defamatory matter are separate offences.
+* Criminal defamation is constitutional (Subramanian Swamy, 2016).
+
+QL: Define defamation under the BNS. Explain its essentials and the exceptions.
+QL: Distinguish between civil and criminal defamation.
+QL: Is criminal defamation a reasonable restriction on freedom of speech? Discuss with reference to Subramanian Swamy v Union of India.
+QS: Defamation of a deceased person
+QS: Truth as a defence in criminal defamation
+QS: Fair comment on public performances
+QS: Printing defamatory matter
+
+MCQ: Defamation is punishable under the BNS in || s.499 | *s.356 | s.351 | s.296 || ss.499 to 502 IPC are now s.356.
+MCQ: In criminal defamation, truth is a defence || always | *only if the imputation is for the public good | never | only for public servants || Exception 1.
+MCQ: Constitutional validity of criminal defamation was upheld in || Shreya Singhal | *Subramanian Swamy v Union of India | Kedar Nath | R. Rajagopal || 2016.
+MCQ: A new alternative punishment for defamation under the BNS is || forfeiture | *community service | rigorous imprisonment | death || s.356(2).

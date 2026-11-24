@@ -1,0 +1,435 @@
+@title Law of Banking
+@subtitle Banker and customer, Banking Regulation Act, RBI Act, nationalisation, foreign exchange, negotiable instruments and banking reform
+@paper 5.4
+@sem V
+@color #1f4a3a
+@dark #1b4033
+@intro Covers the syllabus with notes on the current law. The "Banking Companies Act, 1949" named in the syllabus was renamed the Banking Regulation Act in 1966. FERA, 1973 was replaced by FEMA, 1999 from 1 June 2000. The Banking Laws (Amendment) Act, 2025 came into force in two phases, on 1 August 2025 and 1 November 2025. It allows up to four nominees and raises the "substantial interest" threshold from ₹5 lakh to ₹2 crore.
+@reading M.L. Tannan, Banking Law and Practice in India
+@reading Sheldon, Law of Banking
+@reading Avtar Singh, Negotiable Instruments
+@reading The Banking Regulation Act, 1949; The Reserve Bank of India Act, 1934; The Negotiable Instruments Act, 1881
+
+# 1 | Nature and development of banking
+@topics History and evolution of banking in India; Constitutional perspectives: Union List entries 36, 37, 38, 43, 44, 45 and 46; State List entry 30
+>> Banking in India moved from indigenous bankers to presidency banks, then to the Reserve Bank and a regulated commercial banking system. Banking and currency are Union subjects, but money-lending is a State subject.
+
+## 1.1 History and evolution
+- **Indigenous bankers**: shroffs, seths, chettiars and mahajans financed trade with hundis (indigenous bills of exchange).
+- **Agency houses and early banks**: the Bank of Hindostan (1770); the presidency banks of Bengal (1806), Bombay (1840) and Madras (1843), merged into the **Imperial Bank of India** (1921), which became the **State Bank of India** (1955).
+- **Swadeshi banks**: Punjab National Bank (1894), Bank of India (1906), Canara Bank, Indian Bank and others.
+- **Reserve Bank of India** (1935, under the RBI Act, 1934), nationalised in 1949.
+- **Banking Companies Act, 1949** (renamed the Banking Regulation Act in 1966).
+- **Nationalisation** of 14 banks (1969) and 6 more (1980); entry of new private banks (1993 onwards); consolidation of public sector banks (2017 to 2020), leaving 12 public sector banks.
+- **Digital banking**: UPI (2016), payments banks, small finance banks, and the digital rupee (e₹, pilot from 2022).
+
+## 1.2 Constitutional perspectives
+| Entry | Subject |
+|---|---|
+| List I, 36 | Currency, coinage and legal tender; foreign exchange |
+| List I, 37 | Foreign loans |
+| List I, 38 | Reserve Bank of India |
+| List I, 43 | Incorporation, regulation and winding up of trading corporations, including banking, insurance and financial corporations (but not cooperative societies) |
+| List I, 44 | Incorporation, regulation and winding up of corporations with objects not confined to one State (excluding universities) |
+| List I, 45 | Banking |
+| List I, 46 | Bills of exchange, cheques, promissory notes and similar instruments |
+| List II, 30 | Money-lending and money-lenders; relief of agricultural indebtedness |
+| List II, 32 | Cooperative societies (incorporation, regulation and winding up) |
+
+CASE: Pandurang Ganpati Chaugule v Vishwasrao Patil Murgud Sahakari Bank Ltd (2020) :: A Constitution Bench held that cooperative banks are "banking companies" for the purpose of the SARFAESI Act, and that Parliament has power under Entry 45 of List I to legislate on the banking activities of cooperative banks, though their incorporation and regulation as societies falls under Entry 32 of List II.
+
+* From indigenous bankers to presidency banks, the RBI (1935), the BR Act (1949), nationalisation (1969 and 1980) and consolidation.
+* Banking is a Union subject (Entries 43 to 46 and 36 to 38 of List I); money-lending is in List II, entry 30.
+* Parliament can legislate on cooperative banks' banking activities (Pandurang Chaugule).
+
+QL: Trace the history of banking in India and the constitutional distribution of legislative power over banking.
+QS: Presidency banks
+QS: Entry 45 of List I
+
+MCQ: "Banking" is in || List II, entry 30 | *List I, entry 45 | List III | List I, entry 38 || Entry 38 is the RBI.
+MCQ: The Imperial Bank of India became the State Bank of India in || 1935 | *1955 | 1969 | 1921 || SBI Act, 1955.
+
+# 2 | Relationship of banker and customer
+@topics Banker, banking business, customer, types of accounts; Contract between banker and customer; Banker's lien; Banking instruments
+>> The relationship between banker and customer is primarily that of debtor and creditor, overlaid with special duties: to honour cheques, keep secrecy and follow the customer's mandate.
+
+## 2.1 Banker, banking and customer
+- **Banking** (s.5(b), BR Act): accepting deposits of money from the public for lending or investment, repayable on demand or otherwise, and withdrawable by cheque, draft, order or otherwise.
+- **Banking company** (s.5(c)): any company that transacts the business of banking in India.
+- **Customer**: a person who has an account with the bank; duration is not essential, but there must be some recognisable course of dealing in the nature of banking business (*Commissioners of Taxation v English, Scottish and Australian Bank*, 1920).
+- **Types of accounts**: savings, current, fixed and recurring deposit, joint accounts (either or survivor, former or survivor), accounts of minors, partnerships, companies, trusts, and NRI accounts (NRE, NRO, FCNR(B)).
+
+## 2.2 Contract between banker and customer
+- **General relationship**: debtor and creditor; the banker can use the money as he likes and need not account for its use (*Foley v Hill*, 1848). The customer must make a demand to recover the money (*Joachimson v Swiss Bank Corporation*, 1921).
+- **Other relationships**: trustee (money deposited for a specific purpose), agent (collecting cheques, paying bills), bailee (safe deposit), and lessor and lessee (lockers).
+- **Banker's duties**: to honour cheques when funds are available (wrongful dishonour gives rise to damages, especially for a trader); to maintain **secrecy** of the customer's affairs, subject to exceptions; to follow the mandate; to give notice before closing an account.
+
+CASE: Tournier v National Provincial and Union Bank of England (1924) :: The banker's duty of secrecy is a legal duty arising from contract, but it is not absolute. There are four exceptions: disclosure under compulsion of law; a duty to the public; where the bank's interests require disclosure; and disclosure with the customer's express or implied consent.
+
+- In India, the duty is also affected by statutes (Income-tax Act, PMLA, Bankers' Books Evidence Act, Credit Information Companies Act, and RBI KYC directions), and by the right to privacy (*Puttaswamy*, 2017).
+- **Banker's rights**: general lien, set-off, appropriation of payments, and charging interest and commission.
+- **Appropriation of payments**: the debtor may appropriate; failing him, the creditor; failing both, the rule in **Clayton's case** (1816): first in, first out, in a running account (ss.59 to 61 Contract Act).
+
+## 2.3 Banker's lien
+- A banker has a **general lien** on all goods and securities bailed to him as banker, in the absence of a contract to the contrary (s.171 Contract Act). It is an implied pledge: the banker can sell after reasonable notice.
+- No lien on articles in safe custody, documents deposited for a specific purpose, or money held in trust.
+
+CASE: Syndicate Bank v Vijay Kumar (1992) :: The Supreme Court held that a banker's general lien under s.171 is more than a mere right to retain; it is an implied pledge. The bank could retain fixed deposit receipts deposited as security for a guarantee and apply them towards other debts of the customer, since there was no contract to the contrary.
+
+## 2.4 Banking instruments
+- **Bank notes**: promissory notes issued by the RBI (s.26 RBI Act); legal tender.
+- **Banker's draft (demand draft)**: an order by one branch on another to pay; treated as a bill of exchange (s.85A NI Act).
+- **Deposit receipts**: acknowledgment of a fixed deposit; not negotiable.
+- **Letters of credit**: an undertaking by the issuing bank to pay the beneficiary against conforming documents; governed by UCP 600 (2007); autonomous from the underlying contract, except for fraud (*U.P. State Sugar Corporation v Sumac International*, 1997).
+- **Bank guarantees** and **indemnities**: an independent undertaking enforceable according to its terms.
+- **Travellers' cheques**, **postal orders**, **dividend warrants** (treated as cheques) and **bonds**.
+
+## 2.5 Recent judgments (2025–26)
+
+CASE: Canara Bank v Kavita Chowdhary (2026) :: A collecting bank that delays presenting a customer's cheque is liable for deficiency in service.
+
+* Collecting bank's delay is deficiency in service (2026).
+* Banking (s.5(b)) and banking company (s.5(c)); customer; types of accounts.
+* Debtor-creditor (Foley v Hill), demand needed (Joachimson); trustee, agent and bailee roles.
+* Duty of secrecy with exceptions (Tournier); statutory limits.
+* Appropriation; Clayton's case.
+* General lien is an implied pledge (s.171; Syndicate Bank v Vijay Kumar).
+* Instruments: notes, drafts, deposit receipts, letters of credit (UCP 600; Sumac), guarantees.
+
+QL: Explain the general and special relationships between banker and customer.
+QL: Discuss the banker's duty of secrecy and its exceptions.
+QL: What is a banker's lien? Discuss with reference to decided cases.
+QS: Letter of credit
+QS: Clayton's case
+QS: Who is a customer?
+
+MCQ: The four exceptions to the banker's duty of secrecy were laid down in || Foley v Hill | *Tournier v National Provincial Bank | Joachimson | Clayton's case || 1924.
+MCQ: A banker's lien was held to be an implied pledge in || Sumac International | *Syndicate Bank v Vijay Kumar | Tournier | Joachimson || 1992.
+MCQ: The basic relationship between banker and customer is || principal and agent | *debtor and creditor | trustee and beneficiary | bailor and bailee || Foley v Hill (1848).
+
+# 3 | Law relating to banking companies in India
+@topics Banking Companies Act, 1949: extent and application, business of banking companies, control and management by the RBI, suspension of business and winding up, speedy disposal of winding up
+>> The Banking Regulation Act (originally the Banking Companies Act, 1949) is the main law regulating banks. It controls entry, business, management, capital and exit, with the RBI as regulator.
+
+## 3.1 Extent and application
+- The Act applies to banking companies, and with modifications to corresponding new banks (nationalised banks), SBI and its subsidiaries (to the extent specified), regional rural banks and cooperative banks (Part V, s.56).
+- Renamed the **Banking Regulation Act** in 1966 when extended to cooperative banks.
+
+## 3.2 Business of banking companies
+- **Permitted business** (s.6): borrowing, lending, discounting, issuing letters of credit, collecting, acting as agents, guarantees, safe deposit, and other forms of business listed.
+- **Prohibited business** (s.8): trading in goods, except in connection with realisation of security.
+- **Restrictions**: on holding immovable property (s.9), on loans to directors and their concerns (s.20), on removal of records, and on payment of dividends (s.15).
+- **Capital and reserves** (ss.11 to 17): minimum paid-up capital; transfer of 20% of profits to a reserve fund (s.17).
+- **Cash reserve** (s.18) and **statutory liquidity ratio** (s.24).
+
+## 3.3 Control and management by the RBI
+- **Licensing** (s.22): no company may carry on banking business without an RBI licence.
+- **Management** (s.10A and s.10B): a majority of the board must have special knowledge in specified fields; chairman and whole-time directors need RBI approval (s.35B).
+- **Power to issue directions** (s.35A), inspection (s.35), control over advances (s.21), removal of managerial persons (s.36AA), supersession of the board (s.36ACA), and approval of amalgamations (s.44A).
+- **Section 35AA** (2017): the Central Government may authorise the RBI to direct banks to initiate insolvency proceedings against defaulters under the IBC.
+- **Banking Laws (Amendment) Act, 2025**: raised the "substantial interest" threshold to ₹2 crore, extended the tenure of directors in cooperative banks (other than chairman and whole-time directors) from 8 to 10 years, and allowed up to four nominees for deposits and lockers (simultaneous or successive).
+
+## 3.4 Suspension of business and winding up
+- **Moratorium and reconstruction** (s.45): on the RBI's application, the Central Government may impose a moratorium on a banking company and the RBI may prepare a scheme of reconstruction or amalgamation, as in the case of YES Bank (2020) and Lakshmi Vilas Bank's amalgamation with DBS Bank India (2020).
+- **Winding up** (Part III, ss.38 to 45): only by the High Court, on the RBI's application in specified cases (inability to pay debts, conduct detrimental to depositors, or failure to comply with the Act).
+
+## 3.5 Speedy disposal of winding up proceedings (Part IIIA, ss.45A to 45X)
+- The High Court has exclusive jurisdiction to decide all claims; the RBI may be appointed official liquidator; preferential payments to depositors; summary procedures; and time limits.
+- **Deposit insurance**: the DICGC Act, 1961 (amended 2021) insures deposits up to ₹5 lakh per depositor per bank, payable within 90 days of a moratorium.
+
+* The BR Act (1949, renamed 1966) applies to banking companies and, with modifications, to cooperative banks.
+* Business (s.6), prohibitions (s.8), capital and reserves, CRR (s.18) and SLR (s.24).
+* RBI control: licensing (s.22), directions (s.35A), management, IBC referral (s.35AA); 2025 amendments.
+* Moratorium and reconstruction (s.45: YES Bank); winding up by the High Court; speedy disposal (Part IIIA); deposit insurance of ₹5 lakh.
+
+QL: Explain the control exercised by the Reserve Bank over banking companies under the Banking Regulation Act.
+QL: Discuss the provisions relating to moratorium, reconstruction and winding up of banking companies.
+QS: Section 22 of the BR Act
+QS: Deposit insurance
+QS: Banking Laws (Amendment) Act, 2025
+
+MCQ: No company can carry on banking business without a licence from the RBI under || s.6 | *s.22 BR Act | s.35A | s.45 || Licensing.
+MCQ: The Banking Laws (Amendment) Act, 2025 raised the "substantial interest" threshold to || ₹50 lakh | *₹2 crore | ₹5 crore | ₹10 lakh || From ₹5 lakh, unchanged since 1968.
+MCQ: Deposit insurance under the DICGC Act covers up to || ₹1 lakh | *₹5 lakh | ₹10 lakh | ₹2 lakh || Per depositor per bank.
+
+# 4 | Banking Regulation Act: extent, business and winding up
+@topics Extent and application; Business of banking companies; Provisions for winding up
+>> This unit revisits the BR Act's structure in summary, with emphasis on how its provisions apply to different kinds of banks today.
+
+## 4.1 Application to different banks
+| Bank | Governing law | BR Act application |
+|---|---|---|
+| Private sector banks | Companies Act and BR Act | Full |
+| Nationalised banks | Banking Companies (Acquisition and Transfer of Undertakings) Acts 1970 and 1980 | Most provisions, by s.51 |
+| State Bank of India | SBI Act, 1955 | Specified provisions |
+| Regional rural banks | RRB Act, 1976 | Specified provisions |
+| Cooperative banks | State and Multi-State Cooperative Societies Acts | Part V, s.56; expanded by the 2020 amendment |
+| Small finance and payments banks | Companies Act and BR Act, with RBI licensing guidelines | Full |
+
+- The **Banking Regulation (Amendment) Act, 2020**, passed after the PMC Bank crisis (2019), brought urban and multi-State cooperative banks under RBI regulation for management, capital, audit and resolution, while leaving registration and elections to the cooperative registrars.
+
+## 4.2 Business and winding up
+- See Unit 3 for business (ss.6 to 24) and winding up (Part III and Part IIIA).
+- Banks are excluded from the Insolvency and Bankruptcy Code as corporate debtors (s.3(7) IBC excludes financial service providers, and a separate resolution framework applies). The Financial Resolution and Deposit Insurance Bill, 2017 was withdrawn in 2018.
+
+* The BR Act applies differently to private, nationalised, SBI, RRBs and cooperative banks.
+* The 2020 amendment brought cooperative banks under RBI regulation after the PMC crisis.
+* Banks are outside the IBC as corporate debtors; the FRDI Bill was withdrawn.
+
+QL: Explain the application of the Banking Regulation Act to different categories of banks, with special reference to cooperative banks after 2020.
+QS: PMC Bank crisis and the 2020 amendment
+
+MCQ: The Banking Regulation (Amendment) Act, 2020 mainly concerned || nationalised banks | *cooperative banks | foreign banks | payments banks || After the PMC Bank crisis.
+
+# 5 | Reserve Bank of India Act, 1934; cooperative banking
+@topics Characteristics, functions, objectives, legal status and organisation of the RBI; Banking, currency, banker to government, exchange control, non-banking companies and supervision (ss.17, 18 and 42); Cooperative banking law
+>> The RBI is India's central bank: it issues currency, conducts monetary policy, acts as banker to the government and the banks, regulates and supervises the financial system, and manages foreign exchange.
+
+## 5.1 Legal status and organisation
+- Established on 1 April 1935 under the RBI Act, 1934; nationalised from 1 January 1949. It is a body corporate with perpetual succession.
+- **Central Board of Directors** (s.8): Governor, up to four Deputy Governors, directors nominated by the Central Government, and government officials. Local Boards for four regions.
+- The Central Government may give directions to the RBI in the public interest, after consulting the Governor (s.7).
+
+## 5.2 Objectives and functions
+- **Preamble**: to regulate the issue of bank notes, keep reserves to secure monetary stability, operate the currency and credit system to its advantage, and (since 2016) to operate a modern monetary policy framework to meet the challenge of an increasingly complex economy.
+- **Monetary policy**: the **Monetary Policy Committee** (ss.45ZA to 45ZL, inserted 2016) of six members (three from the RBI and three appointed by the Government) sets the policy repo rate to achieve the inflation target set by the Central Government (CPI inflation of 4%, within a band of 2% to 6%).
+- **Currency**: sole right to issue bank notes (s.22); notes are legal tender (s.26). The Central Government may declare series of notes to cease to be legal tender (s.26(2)).
+
+CASE: Vivek Narayan Sharma v Union of India (2023) :: A Constitution Bench (4:1) upheld the November 2016 demonetisation of ₹500 and ₹1,000 notes. It held that the power under s.26(2) is not limited to "any series" in a narrow sense, that the decision-making process was not flawed because the RBI had been consulted, and that the measure was proportionate to its aims. The dissent held that the initiative came from the Government, so it should have been done by legislation.
+
+- **Banker to government** (ss.20, 21 and 21A): manages the public debt and accounts of the Centre and the States; ways and means advances.
+- **Banker's bank** (ss.17, 18 and 42): **s.17** lists the business the RBI may transact (accepting deposits, purchase and rediscount of bills, loans and advances to banks and others); **s.18** permits direct discount and loans in special circumstances for regulating credit; **s.42** requires scheduled banks to maintain a cash reserve ratio with the RBI. The RBI is the **lender of last resort**.
+- **Foreign exchange**: custodian of reserves; administers FEMA (s.10 FEMA, authorised persons).
+- **Non-banking financial companies** (Chapter IIIB, ss.45H to 45QB): registration (s.45-IA), net owned funds, reserve fund (s.45-IC), prudential directions and powers to remove directors or supersede boards (s.45-IE).
+- **Payment systems**: under the Payment and Settlement Systems Act, 2007 (UPI, NEFT, RTGS).
+- **Supervision**: inspection of banks (s.35 BR Act), the Board for Financial Supervision, risk-based supervision, and prompt corrective action.
+
+## 5.3 Cooperative banking law
+- The **Cooperative Credit Societies Act, 1904** introduced cooperatives for rural credit; the Cooperative Societies Act, 1912 extended them; each State now has its own Cooperative Societies Act (Andhra Pradesh Cooperative Societies Act, 1964), and the Multi-State Cooperative Societies Act, 2002 (amended 2023) applies to multi-State societies.
+- Cooperative banks: State cooperative banks, district central cooperative banks and urban cooperative banks. Primary agricultural credit societies are not banks.
+- The **Banking Regulation (Cooperative Societies) Rules, 1966** and Part V of the BR Act regulate cooperative banks; the 2020 amendment expanded RBI control.
+- The **97th Constitutional Amendment (2011)** inserted Part IXB on cooperative societies. In *Union of India v Rajendra N. Shah* (2021), the Supreme Court struck down Part IXB in so far as it relates to State cooperative societies (for want of ratification by half the States), but upheld it for multi-State societies.
+
+* The RBI (1935, nationalised 1949): Central Board; government directions (s.7).
+* Monetary policy through the MPC (4% CPI target, 2% to 6% band).
+* Currency issue (s.22), legal tender (s.26); demonetisation upheld (Vivek Narayan Sharma).
+* Banker to government; banker's bank (ss.17, 18 and 42); lender of last resort.
+* Foreign exchange, NBFC regulation (Chapter IIIB), payment systems, supervision.
+* Cooperative banking: 1904 and 1912 Acts, State and multi-State Acts, the 1966 Rules, the 2020 amendment, the 97th Amendment (Rajendra N. Shah).
+
+QL: Discuss the functions of the Reserve Bank of India under the RBI Act, 1934.
+QL: Explain the role of the Monetary Policy Committee and the RBI's power over currency, with reference to the demonetisation case.
+QL: Discuss the regulation of cooperative banks in India.
+QS: Lender of last resort
+QS: NBFC regulation by the RBI
+QS: Section 42 of the RBI Act
+
+MCQ: The Monetary Policy Committee was inserted into the RBI Act in || 2000 | *2016 | 1991 | 2020 || ss.45ZA to 45ZL.
+MCQ: The 2016 demonetisation was upheld in || Rajendra N. Shah | *Vivek Narayan Sharma v Union of India | R.C. Cooper | Pandurang Chaugule || 2023, by 4:1.
+MCQ: Scheduled banks must maintain a cash reserve with the RBI under || s.17 | *s.42 RBI Act | s.18 | s.22 || CRR.
+
+# 6 | Nationalisation of banks
+@topics Banking Companies (Acquisition and Transfer of Undertakings) Acts, 1969 and 1970; Legislative competence for nationalisation; Banks before and after nationalisation
+>> In 1969, 14 major banks were nationalised to direct credit to priority sectors. The first law was struck down; the second was enacted with changes, and a further 6 banks were nationalised in 1980.
+
+## 6.1 The Acts of 1969 and 1970
+- On 19 July 1969, the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance nationalised the 14 largest banks (deposits above ₹50 crore), replaced by the Act of 1969.
+
+CASE: Rustom Cavasjee Cooper v Union of India (Bank Nationalisation case) (1970) :: An eleven-judge bench struck down the 1969 Act (10:1). The Act was discriminatory under Art. 14, because it prohibited the nationalised banks from carrying on banking business while other banks could. The compensation principles under Art. 31(2) were not relevant to the value of the property acquired, so the "compensation" was illusory. The Court also rejected the earlier view (A.K. Gopalan) that each fundamental right must be read in isolation, holding that Arts. 19 and 31 are not mutually exclusive.
+
+- Parliament then enacted the **Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970**, with new compensation provisions and without the bar on the former banks' business. The 25th Amendment (1971) replaced "compensation" with "amount" in Art. 31(2).
+- Six more banks were nationalised by the Act of **1980**.
+
+## 6.2 Legislative competence
+- Entries 43, 44 and 45 of List I (banking corporations and banking); Entry 42 of List III (acquisition and requisitioning of property); Entries 7 and 52 of List I (industries declared by Parliament); Entries 24, 26 and 27 of List II (industries, trade and commerce, production and distribution within the State); Entry 33 of List III (trade and commerce in products of controlled industries); and Entries 54 and 56 of List I.
+- Constitutional provisions then in force: Art. 19(1)(f) and 19(5) (property and reasonable restrictions), and Art. 31 (compensation), both now deleted by the 44th Amendment.
+
+## 6.3 Banks before and after nationalisation
+- **Before**: banks were controlled by industrial houses, lending concentrated in large industry and trade, few rural branches, and frequent bank failures.
+- **After**: rapid branch expansion in rural areas (the lead bank scheme), priority sector lending targets (40% of adjusted net bank credit), deposit mobilisation, and financial inclusion (later, Jan Dhan accounts from 2014).
+- **Problems**: lower efficiency and profitability, political interference in lending, rising non-performing assets (NPAs), frauds (for example, the Punjab National Bank–Nirav Modi fraud of 2018), and bank robberies and cyber frauds.
+- **Responses**: the Narasimham Committee reforms, recapitalisation, the IBC (2016), the asset quality review (2015), consolidation of PSBs (2017 to 2020), the National Asset Reconstruction Company (2021), and the Financial Services Institutions Bureau (2022) for appointments.
+
+* 14 banks nationalised in 1969; R.C. Cooper struck down the 1969 Act (Art. 14 discrimination; illusory compensation; Arts. 19 and 31 not exclusive).
+* The 1970 Act; 6 more banks in 1980; 25th Amendment.
+* Legislative competence under Lists I, II and III.
+* Impact: branch expansion and priority lending; problems of NPAs and frauds; reforms and consolidation.
+
+QL: Discuss the constitutional validity of bank nationalisation with reference to R.C. Cooper v Union of India.
+QL: Examine the performance of banks before and after nationalisation.
+QS: Priority sector lending
+QS: Legislative competence for bank nationalisation
+
+MCQ: The 1969 bank nationalisation law was struck down in || Kesavananda Bharati | *R.C. Cooper v Union of India | Golak Nath | Vivek Narayan Sharma || 1970.
+MCQ: The number of banks nationalised in 1969 was || 6 | *14 | 20 | 12 || 6 more in 1980.
+
+# 7 | Foreign exchange control and banking for non-residents
+@topics FERA, 1973: authorised dealers; restrictions on dealing and payments (ss.3 to 10, 13 to 17, 19, 22 to 27); Banking for non-resident Indians
+>> FERA treated foreign exchange violations as crimes in a period of scarcity. FEMA (1999) replaced it with a civil framework focused on facilitating trade and payments and managing the foreign exchange market.
+
+## 7.1 FERA, 1973
+- Enacted to conserve foreign exchange and regulate dealings in it; in force from 1 January 1974.
+- **Authorised dealers** (s.6): only authorised dealers (banks licensed by the RBI) could deal in foreign exchange; **money changers** (s.7).
+- **Restrictions** (s.8): no person other than an authorised dealer could buy, borrow, sell, lend or exchange foreign exchange without RBI permission. **Payments** (s.9): restrictions on payments to non-residents. Restrictions on import and export of currency and bullion (s.13), on securities (s.19), on holding assets and acquiring immovable property abroad and taking up employment abroad, and on companies with non-resident interest (s.29).
+- Contraventions were criminal offences with presumption of culpable mental state and reverse burden; arrest without warrant; heavy penalties.
+
+## 7.2 Replacement by FEMA, 1999
+- FEMA (in force from 1 June 2000) aims to facilitate external trade and payments and promote the orderly development of the foreign exchange market.
+- **Capital account** (s.6) and **current account** (s.5) transactions: current account transactions are free except as restricted by the Government; capital account transactions are regulated by the RBI (debt) and the Government (non-debt instruments, since 2019).
+- **Authorised persons** (s.10) replace authorised dealers.
+- **Contraventions are civil**: penalty up to three times the sum involved, or ₹2 lakh where not quantifiable (s.13); adjudication by the Adjudicating Authority, appeal to the Appellate Tribunal and the High Court; compounding (s.15). Detention only for failure to pay penalty.
+- Serious cases of illegal foreign exchange dealings now fall under the **PMLA, 2002** and the **Fugitive Economic Offenders Act, 2018**.
+
+## 7.3 Banking for non-residents
+- **NRE accounts**: rupee accounts for foreign earnings; repatriable; interest tax-free in India.
+- **NRO accounts**: rupee accounts for Indian income; repatriation within limits (up to USD 1 million a year after taxes).
+- **FCNR(B) accounts**: term deposits in foreign currency; protected from exchange rate risk.
+- The **Liberalised Remittance Scheme** allows resident individuals to remit up to USD 2,50,000 a year for permitted purposes.
+
+* FERA (1973, in force 1974): authorised dealers; strict restrictions; criminal offences.
+* FEMA (1999, in force 1 June 2000): facilitation; current and capital account; civil penalties; compounding.
+* PMLA and the Fugitive Economic Offenders Act deal with serious cases.
+* NRI banking: NRE, NRO, FCNR(B); LRS.
+
+QL: Compare FERA, 1973 and FEMA, 1999. Why was FERA replaced?
+QL: Describe the banking facilities available to non-resident Indians.
+QS: Authorised person under FEMA
+QS: Current account and capital account transactions
+
+MCQ: FEMA came into force on || 1 January 1974 | *1 June 2000 | 1 April 1999 | 1 July 2002 || Replacing FERA.
+MCQ: Contraventions under FEMA are || criminal offences | *civil, punishable with penalty | non-compoundable | cognizable || s.13 FEMA.
+
+# 8 | Negotiable Instruments Act, 1881
+@topics Meaning and kinds of negotiable instruments: promissory notes, bills of exchange, cheques; Holder and holder in due course; Parties; Negotiation; Presentment; Discharge; Dishonour, noting and protest; Payment for honour; Crossing of cheques; Pledge of stocks, shares, life policies and documents of title; Guarantee and hypothecation
+>> A negotiable instrument passes from hand to hand like money, and a holder in due course takes it free from defects in the title of prior parties. The NI Act defines the instruments, the rights and liabilities of parties, and the criminal offence of cheque dishonour.
+
+## 8.1 Meaning and kinds
+- **Negotiable instrument** (s.13): a promissory note, bill of exchange or cheque payable to order or bearer.
+- **Promissory note** (s.4): an unconditional written undertaking, signed by the maker, to pay a certain sum of money to, or to the order of, a certain person, or to the bearer (bank notes excepted).
+- **Bill of exchange** (s.5): an unconditional written order, signed by the maker, directing a certain person to pay a certain sum of money to, or to the order of, a certain person or the bearer.
+- **Cheque** (s.6): a bill of exchange drawn on a specified banker, payable on demand. It includes the electronic image of a truncated cheque and a cheque in electronic form.
+- Instruments by custom: hundis.
+
+## 8.2 Holder, holder in due course and parties
+- **Holder** (s.8): a person entitled in his own name to the possession of the instrument and to receive or recover the amount due.
+- **Holder in due course** (s.9): a holder who, for consideration, became the possessor before maturity, without sufficient cause to believe that any defect existed in the title of the person from whom he derived title. A holder in due course takes free from defects of title and from equities (s.53), and every prior party is liable to him until the instrument is satisfied (s.36). Some defences remain good against him: forgery, material alteration, and minority.
+- **Parties**: drawer, drawee, payee, maker, acceptor, indorser and indorsee. Liability: maker of a note and acceptor of a bill (s.32); drawer (s.30); indorser (s.35).
+- **Presumptions** (s.118): consideration, date, time of acceptance, transfer before maturity, and holder in due course.
+
+## 8.3 Negotiation, presentment and discharge
+- **Negotiation** (s.14): transfer so as to constitute the transferee a holder. By delivery for bearer instruments (s.47); by indorsement and delivery for order instruments (s.48). Kinds of indorsement: blank, special, restrictive, conditional, and sans recourse.
+- **Presentment**: for acceptance (s.61, bills payable after sight) and for payment (s.64), at the proper place and time; excused in certain cases (s.76).
+- **Discharge**: by payment in due course (s.10, s.82), cancellation, release, material alteration (s.87), and other modes.
+
+## 8.4 Dishonour, noting, protest and payment for honour
+- **Dishonour** by non-acceptance (s.91) or non-payment (s.92). Notice of dishonour must be given to prior parties to charge them (s.93).
+- **Noting** (s.99): a notary public records the fact of dishonour on the instrument. **Protest** (s.100): a formal certificate of dishonour by a notary. Protest is compulsory for foreign bills (s.104).
+- **Acceptance and payment for honour** (ss.108 to 116): a stranger may accept or pay for the honour of a party, acquiring the rights of the holder against that party.
+
+## 8.5 Cheques: crossing and protection of bankers
+- **Crossing** (ss.123 to 131): general crossing (two parallel transverse lines, with or without "and company"), special crossing (the name of a banker), and "not negotiable" crossing (s.130: the holder cannot give a better title than he has). "Account payee" is a direction to the collecting banker by banking practice.
+- **Paying banker's protection** (s.85 and s.128): payment in due course of a cheque purporting to be indorsed by the payee.
+- **Collecting banker's protection** (s.131): a banker who in good faith and without negligence receives payment for a customer of a crossed cheque is not liable to the true owner if the customer's title is defective.
+
+## 8.6 Dishonour of cheques: s.138
+- **Offence**: dishonour of a cheque for insufficiency of funds or because it exceeds the arranged amount, for the discharge of a legally enforceable debt or liability. Conditions: presentation within the cheque's period of validity (three months under RBI directions); a written demand notice within 30 days of receiving information of dishonour; failure to pay within 15 days of receiving the notice. Punishment: imprisonment up to two years, or fine up to twice the amount, or both.
+- **Presumption** (s.139): the holder is presumed to have received the cheque for the discharge of a debt or liability, unless the contrary is proved.
+- **Companies** (s.141): every person in charge of and responsible for the business of the company is liable; non-executive directors are not liable without specific averments.
+- **Jurisdiction** (s.142(2), 2015 amendment): the court where the payee's bank branch is situated (account payee cheques).
+- **Interim compensation** up to 20% of the amount (s.143A, 2018) and deposit of 20% in appeal (s.148). Offences are compoundable (s.147).
+
+CASE: Rangappa v Sri Mohan (2010) :: A three-judge bench held that the presumption under s.139 includes the existence of a legally enforceable debt or liability. It is rebuttable; the accused may rebut it on a preponderance of probabilities, by his own evidence or by reference to the complainant's evidence, and need not enter the witness box.
+
+CASE: In re Expeditious Trial of Cases under Section 138 of NI Act (2021) :: A Constitution Bench gave directions to speed up s.138 cases: summary trials, treating the inquiry under s.202 CrPC as possible by affidavits, a single trial for multiple cheques arising from one transaction within twelve months, and asked Parliament to consider special courts and pre-litigation mediation.
+
+## 8.7 Pledge of stocks, shares, life policies and documents of title; guarantee and hypothecation
+- **Pledge** (s.172 Contract Act): bailment of goods as security for a debt; possession passes to the pledgee. Shares are pledged through depositories (Depositories Act, 1996); life policies by assignment under s.38 of the Insurance Act, 1938; documents of title to goods (bills of lading, warehouse receipts) by indorsement and delivery.
+- **Hypothecation**: a charge on movable property without transfer of possession (used for vehicles and stock); defined in s.2(1)(n) of the SARFAESI Act.
+- **Guarantee** (s.126 Contract Act): the surety's liability is co-extensive with the principal debtor's (s.128); a bank may proceed against the surety without first suing the debtor.
+- **Enforcement**: the SARFAESI Act, 2002 allows secured creditors to enforce security without court intervention after a 60-day notice (s.13(2)), subject to appeal to the Debts Recovery Tribunal (s.17).
+
+CASE: Mardia Chemicals Ltd v Union of India (2004) :: The Supreme Court upheld the SARFAESI Act, which allows banks to enforce security interests without the intervention of courts, as a reasonable response to the problem of NPAs. It struck down the requirement of a 75% pre-deposit for an appeal to the DRT under s.17(2) as onerous and oppressive.
+
+* Promissory notes, bills and cheques (ss.4 to 6, 13).
+* Holder and holder in due course (ss.8 and 9); takes free of defects (s.53); presumptions (s.118).
+* Negotiation, presentment and discharge; dishonour, noting and protest; payment for honour.
+* Crossing (ss.123 to 131); protection of paying and collecting bankers (ss.85 and 131).
+* Section 138: notice within 30 days, payment within 15 days; presumption including the debt (Rangappa); company liability; interim compensation; expeditious trial directions (2021).
+* Pledge, hypothecation, guarantee; SARFAESI (Mardia Chemicals).
+
+QL: Define promissory note, bill of exchange and cheque. Distinguish between them.
+QL: Who is a holder in due course? What are his privileges?
+QL: Discuss the offence of dishonour of cheque under s.138 of the NI Act and the presumption under s.139.
+QL: Explain the protection available to paying and collecting bankers.
+QS: Noting and protest
+QS: "Not negotiable" crossing
+QS: Hypothecation
+
+MCQ: The presumption under s.139 NI Act includes the existence of a legally enforceable debt, as held in || Mardia Chemicals | *Rangappa v Sri Mohan | Syndicate Bank | Tournier || 2010.
+MCQ: A demand notice under s.138 NI Act must be issued within || 15 days | *30 days of receiving information of dishonour | 3 months | 60 days || Payment within 15 days of notice.
+MCQ: A holder in due course takes the instrument || subject to all equities | *free from defects in the title of prior parties | only if registered | only after maturity || s.53.
+MCQ: The SARFAESI Act was upheld, but the 75% pre-deposit struck down, in || Rangappa | *Mardia Chemicals v Union of India | R.C. Cooper | Pandurang Chaugule || 2004.
+
+# 9 | Reforms in Indian banking law
+@topics The Indian Banking Commission and banking laws
+>> Banking law reform has been driven by commissions and committees, from the Banking Commission of 1972 to the post-1991 liberalisation and recent consolidation and digitalisation.
+
+## 9.1 The Banking Commission (1972)
+- Chaired by R.G. Saraiya. It recommended a single comprehensive banking law, the regulation of non-banking financial intermediaries, an expansion of rural banking, and improvements in recovery laws.
+
+## 9.2 Major legislative reforms
+- **Recovery of Debts Due to Banks and Financial Institutions Act, 1993** (now the Recovery of Debts and Bankruptcy Act): Debts Recovery Tribunals for claims of ₹20 lakh and above.
+- **SARFAESI Act, 2002**: enforcement of security; asset reconstruction companies.
+- **Credit Information Companies (Regulation) Act, 2005**: credit bureaus.
+- **Payment and Settlement Systems Act, 2007**.
+- **Banking Laws (Amendment) Act, 2012**: RBI powers over bank holding companies, voting rights.
+- **Insolvency and Bankruptcy Code, 2016**: time-bound resolution of corporate debtors.
+- **Banking Regulation (Amendment) Acts, 2017 and 2020**: IBC referral powers; cooperative banks.
+- **Banking Laws (Amendment) Act, 2025**: nominations, substantial interest, cooperative bank directors' tenure, and auditor remuneration in PSBs.
+
+## 9.3 Recent judgments (2025–26)
+
+CASE: Dhanlaxmi Bank Ltd v State (2026) :: The insolvency process is not a debt recovery tool.
+
+CASE: HDFC Bank v Kishore Mehta (2026) :: A DRT recovery certificate is not a 'decree' for the purpose of initiating insolvency proceedings.
+
+* IBC is not a recovery tool (2026).
+* The Banking Commission (1972, Saraiya).
+* Recovery laws (DRT 1993, SARFAESI 2002, IBC 2016); credit information; payment systems.
+* Amendments of 2012, 2017, 2020 and 2025.
+
+QL: Discuss the major reforms in Indian banking law since the Banking Commission of 1972.
+QS: Debts Recovery Tribunals
+
+MCQ: Debts Recovery Tribunals were established under the Act of || 2002 | *1993 | 2016 | 1949 || RDB Act.
+
+# 10 | Government committees on banking: a review
+@topics Committees of the Government of India; Review of their recommendations
+>> A series of expert committees shaped modern Indian banking: liberalisation and prudential norms, capital account convertibility, financial inclusion and governance of public sector banks.
+
+## 10.1 Major committees
+| Committee | Year | Main recommendations |
+|---|---|---|
+| Narasimham Committee I | 1991 | Reduce CRR and SLR; prudential norms (income recognition, asset classification, provisioning); capital adequacy (Basel); entry of private and foreign banks; deregulation of interest rates; asset reconstruction funds; Debts Recovery Tribunals |
+| Narasimham Committee II | 1998 | Strengthen banks: higher capital adequacy, reduce NPAs, merge strong banks, reduce government stake, autonomy for PSB boards |
+| Tarapore Committees | 1997 and 2006 | Roadmap to fuller capital account convertibility |
+| Raghuram Rajan Committee | 2008 | Financial sector reforms: inclusion, competition, integrated regulation |
+| Nachiket Mor Committee | 2014 | Financial inclusion; payments banks and small finance banks |
+| P.J. Nayak Committee | 2014 | Governance of PSB boards; holding company for government stake; Bank Board Bureau (set up 2016, replaced by the Financial Services Institutions Bureau in 2022) |
+| Urjit Patel Committee | 2014 | Monetary policy framework; flexible inflation targeting; MPC |
+
+## 10.2 Review
+- Implemented: prudential norms and Basel capital standards, new private banks, interest rate deregulation, DRTs and SARFAESI, inflation targeting with an MPC, payments and small finance banks, and PSB consolidation.
+- Partly implemented or pending: reducing the government stake in PSBs below 51% (privatisation of two PSBs was announced in 2021), a single financial regulator, full capital account convertibility, and a bank resolution law (after the FRDI Bill was withdrawn).
+- Continuing challenges: NPAs and frauds, governance, cyber security, climate risk, and digital lending regulation (RBI Digital Lending Directions, 2025).
+
+* Narasimham I (1991) and II (1998); Tarapore; Rajan; Mor; Nayak; Urjit Patel.
+* Most prudential and monetary reforms implemented; privatisation, resolution law and a unified regulator are pending.
+
+QL: Critically review the recommendations of the Narasimham Committees and their implementation.
+QL: Discuss the recommendations of committees on governance and financial inclusion in Indian banking.
+QS: P.J. Nayak Committee
+QS: Urjit Patel Committee
+
+MCQ: Payments banks and small finance banks were recommended by || Narasimham Committee | *Nachiket Mor Committee | Tarapore Committee | Urjit Patel Committee || 2014.
+MCQ: Flexible inflation targeting was recommended by || Rajan Committee | *Urjit Patel Committee | P.J. Nayak Committee | Saraiya Commission || 2014.

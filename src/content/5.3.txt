@@ -1,0 +1,549 @@
+@title Law of Evidence: Bharatiya Sakshya Adhiniyam, 2023
+@subtitle Relevancy, admissions and confessions, dying declarations, judgments, experts, documents, witnesses, burden of proof and estoppel
+@paper 5.3
+@sem V
+@color #1f4f5a
+@dark #1b454e
+@intro The Bharatiya Sakshya Adhiniyam, 2023 (BSA) replaced the Indian Evidence Act, 1872 (IEA) from 1 July 2024. It keeps most of the IEA's substance and structure, but renumbers it into 170 sections. It treats electronic records as documents and as primary evidence in specified cases, and requires a two-part certificate for electronic records (s.63). Sections are given under the BSA, with the IEA number in brackets, because the leading cases were decided under the IEA.
+@reading Ratanlal and Dhirajlal, The Law of Evidence
+@reading Batuk Lal, The Law of Evidence
+@reading Sarkar, Law of Evidence
+@reading The Bharatiya Sakshya Adhiniyam, 2023
+
+# 1 | Introductory
+@topics Evidence in classical Hindu and Islamic jurisprudence; Customary law systems; British principles; Main features of the BSA; Other laws dealing with evidence; Applicability to administrative bodies, tribunals, commissions, courts-martial, arbitration and disciplinary proceedings
+>> Every legal system needs rules for proving facts. Indian evidence law grew from classical and customary traditions, was codified by the British in 1872, and has now been re-enacted as the BSA with provisions for electronic evidence.
+
+## 1.1 Classical Hindu and Islamic jurisprudence
+- **Hindu law**: the Smritis (Manu, Yajnavalkya, Narada) recognised four kinds of proof: **likhita** (documents), **bhukti** (possession), **sakshi** (witnesses), and **divya** (ordeals, used when human proof failed). They laid down rules on competency of witnesses, the number of witnesses, and perjury.
+- **Islamic law**: proof by **shahada** (testimony; generally two male witnesses, or one male and two female witnesses in some civil matters), **iqrar** (admission), documents, oath (yamin), and qasama (oaths in homicide cases). The qazi weighed the credibility (adalat) of witnesses.
+
+## 1.2 Customary law systems
+- Village panchayats, caste councils and tribal communities decided disputes by oath, local knowledge, ordeals and the testimony of elders. These continue in non-State dispute resolution, but are not bound by the BSA.
+
+## 1.3 British principles
+- Common law rules (hearsay exclusion, best evidence, the jury's role) were applied in presidency courts. Sir James Fitzjames Stephen drafted the **Indian Evidence Act, 1872**, a comprehensive code based on relevancy.
+
+## 1.4 Main features of the BSA
+- In force from 1 July 2024; 170 sections in 11 chapters (the IEA had 167 sections).
+- "Document" includes **electronic and digital records** (s.2(1)(d)); "evidence" includes information given electronically (s.2(1)(e)).
+- Electronic records may be **primary evidence** in specified cases (explanations to s.57); admissibility of electronic records is governed by **s.63**, with a certificate in the Schedule (Part A by the person in charge, Part B by an expert).
+- Secondary evidence includes oral and written admissions and the evidence of a person who has examined documents that cannot conveniently be examined in court (s.58).
+- Joint trial explanation for co-accused confessions where an accused absconds (s.24).
+- References to "British", "Queen" and colonial terms have been removed.
+
+## 1.5 Other laws dealing with evidence
+- The CPC (Orders XI to XIX: discovery, admissions, documents, witnesses, affidavits); the BNSS (examination of witnesses, statements, medical evidence, electronic modes); the Bankers' Books Evidence Act, 1891 (certified copies of bank entries); the IT Act, 2000 (electronic signatures, s.79A examiners); fiscal and revenue laws (presumptions, burden on the assessee); the Commercial Courts Act (electronic evidence and discovery).
+
+## 1.6 Applicability
+- **Section 1**: the BSA applies to all judicial proceedings in or before any court, including courts-martial, but not to affidavits presented to any court or officer, or to proceedings before an arbitrator.
+- **Administrative authorities and tribunals**: not bound by the strict rules of evidence, but must follow natural justice and base findings on some relevant evidence.
+- **Industrial tribunals** and **commissions of inquiry** (Commissions of Inquiry Act, 1952): have powers of a civil court for summoning and evidence but are not bound by the technical rules.
+- **Arbitration**: an arbitral tribunal is not bound by the CPC or the evidence law (s.19(1), Arbitration and Conciliation Act, 1996).
+- **Disciplinary proceedings**: governed by service rules and natural justice; the standard is preponderance of probability.
+
+CASE: State of Haryana v Rattan Singh (1977) :: In a domestic inquiry against a bus conductor, the Court held that the strict rules of the Evidence Act do not apply to departmental inquiries. All materials logically probative for a prudent mind are permissible, provided there is some evidence and natural justice is observed; the "some evidence" rule applies.
+
+* Classical Hindu proof (documents, possession, witnesses, ordeals) and Islamic proof (shahada, iqrar).
+* Customary systems; Stephen's 1872 Act.
+* The BSA (from 1 July 2024): 170 sections; electronic records as documents; s.63 certificate.
+* Applies to courts and courts-martial, not to affidavits or arbitration; tribunals follow natural justice (Rattan Singh).
+
+QL: Trace the development of the law of evidence in India and state the main features of the Bharatiya Sakshya Adhiniyam, 2023.
+QL: To what extent do the rules of evidence apply to tribunals, commissions of inquiry, arbitration and disciplinary proceedings?
+QS: Divya (ordeals)
+QS: Applicability of the BSA
+
+MCQ: The BSA does not apply to || courts-martial | *proceedings before an arbitrator | civil courts | criminal courts || s.1 BSA.
+MCQ: Strict rules of evidence do not apply to domestic inquiries, as held in || Selvi | *State of Haryana v Rattan Singh | Anvar P.V. | Pakala Narayana Swami || 1977.
+
+# 2 | Central concepts in the law of evidence
+@topics Facts: facts in issue and relevant facts; Evidence: oral and documentary, primary and secondary; Circumstantial, direct and hearsay evidence; Presumptions; Proved, disproved, not proved; Witness; Appreciation of evidence
+>> Evidence law is built on a few definitions: fact, fact in issue, relevant fact, evidence, and the standards for when a fact is proved.
+
+## 2.1 Facts
+- **Fact** (s.2(1)(f)): any thing, state of things or relation of things capable of being perceived by the senses, and any mental condition of which a person is conscious.
+- **Fact in issue** (s.2(1)(g)): a fact from which, by itself or with other facts, the existence, non-existence, nature or extent of any right, liability or disability asserted or denied in a suit or proceeding necessarily follows.
+- **Relevant fact** (s.2(1)(k)): one fact is relevant to another when connected in any of the ways referred to in the provisions on relevancy (ss.3 to 50).
+- **Section 3 [5]**: evidence may be given only of facts in issue and relevant facts.
+
+## 2.2 Evidence
+- **Evidence** (s.2(1)(e)): (a) **oral evidence**: all statements, including those given electronically, which the court permits or requires witnesses to make; (b) **documentary evidence**: all documents, including electronic or digital records, produced for the inspection of the court.
+- **Real or material evidence** (objects, the scene of crime) is not strictly "evidence" under the definition, but it may be inspected by the court and proved by oral evidence (s.55 proviso [60]).
+- **Primary evidence** (s.57 [62]): the document itself. **Secondary evidence** (s.58 [63]): certified copies, copies made by mechanical processes, counterparts, oral accounts by a person who has seen the document, and (new) admissions and the evidence of a person who has examined voluminous documents.
+
+## 2.3 Circumstantial, direct and hearsay evidence
+- **Direct evidence**: evidence of a fact in issue given by a person who perceived it.
+- **Circumstantial evidence**: evidence of relevant facts from which the fact in issue may be inferred.
+
+CASE: Sharad Birdhichand Sarda v State of Maharashtra (1984) :: The Court laid down five "golden principles" for conviction on circumstantial evidence: the circumstances must be fully established; they must be consistent only with the hypothesis of guilt; they must be conclusive; they must exclude every hypothesis except guilt; and they must form a complete chain leaving no reasonable ground for a conclusion consistent with innocence.
+
+- **Hearsay**: a statement by a person who did not perceive the fact; generally excluded because the maker is not under oath or cross-examination (s.55 [60]: oral evidence must be direct). Exceptions include res gestae, admissions, dying declarations and statements in public documents.
+
+## 2.4 Presumptions
+- **May presume** (s.2(1)(h)): the court may regard the fact as proved unless disproved, or may call for proof of it.
+- **Shall presume** (s.2(1)(l)): the court shall regard the fact as proved unless disproved.
+- **Conclusive proof** (s.2(1)(b)): the court shall regard the fact as proved and shall not allow evidence to disprove it (for example, s.116 [112], legitimacy).
+
+## 2.5 Proved, disproved and not proved
+- **Proved** (s.2(1)(j)): when, after considering the matters before it, the court believes the fact exists, or considers its existence so probable that a prudent man ought to act on the supposition that it exists. **Disproved** (s.2(1)(c)) is the converse; **not proved** (s.2(1)(i)) when neither.
+- Standards: beyond reasonable doubt in criminal cases; preponderance of probabilities in civil cases.
+
+## 2.6 Witness
+- Any person who gives evidence under oath or affirmation. All persons are competent unless prevented from understanding questions or giving rational answers (s.124 [118]).
+
+## 2.7 Appreciation of evidence
+- The court considers consistency, probability, demeanour, contradictions, corroboration, motive and conduct. Evidence is to be weighed, not counted: no particular number of witnesses is required (s.139 [134]).
+
+* Fact, fact in issue, relevant fact; evidence only of facts in issue and relevant facts (s.3).
+* Oral and documentary evidence, including electronic; real evidence; primary and secondary evidence (s.58 now includes admissions).
+* Circumstantial evidence: five golden principles (Sharad Sarda); hearsay excluded with exceptions.
+* May presume, shall presume, conclusive proof; proved, disproved, not proved.
+* Evidence is weighed, not counted (s.139).
+
+QL: Explain the meaning of "fact", "fact in issue" and "relevant fact". Distinguish between them.
+QL: What are the principles governing conviction on circumstantial evidence?
+QL: Distinguish between "may presume", "shall presume" and "conclusive proof".
+QS: Primary and secondary evidence
+QS: Hearsay evidence
+QS: Proved, disproved, not proved
+
+MCQ: The five golden principles of circumstantial evidence were laid down in || Pakala Narayana Swami | *Sharad Birdhichand Sarda v State of Maharashtra | Kashmira Singh | Rattan Singh || 1984.
+MCQ: Legitimacy under s.116 BSA is a matter of || may presume | *conclusive proof | shall presume | judicial notice || IEA s.112.
+MCQ: The number of witnesses required to prove a fact is || two | *no particular number | three | as the court fixes || s.139 BSA.
+
+# 3 | Relevancy of facts
+@topics Res gestae (ss.4 to 7); Common intention and conspiracy (s.8); Otherwise irrelevant facts that become relevant (s.9); Custom (s.11); State of body and mind (ss.12 and 13)
+>> The BSA admits facts closely connected with the fact in issue: those forming part of the same transaction, their causes and effects, motive and conduct, statements of conspirators, and facts showing state of mind.
+
+## 3.1 Res gestae (ss.4 to 7 [6 to 9])
+- **Section 4 [6]**: facts which, though not in issue, are so connected with a fact in issue as to form part of the same transaction are relevant, whether they occurred at the same time and place or at different times and places.
+- **Section 5 [7]**: facts that are the occasion, cause or effect of facts in issue, or that constitute the state of things under which they happened, or that afforded an opportunity for their occurrence.
+- **Section 6 [8]**: motive, preparation and previous or subsequent conduct.
+- **Section 7 [9]**: facts necessary to explain or introduce relevant facts, such as identification.
+
+CASE: Gentela Vijayavardhan Rao v State of Andhra Pradesh (1996) :: Statements recorded by a Magistrate from injured victims of a bus burning, some time after the incident, were held not admissible as res gestae under s.6 IEA. To be part of the res gestae, a statement must be contemporaneous with the transaction or so soon after it that there is no time for fabrication.
+
+- Ratten v R (1972, Privy Council): a telephone call by the victim shortly before her death, in a state of fear, was admissible as part of the res gestae.
+
+## 3.2 Conspiracy (s.8 [10])
+- Where there are reasonable grounds to believe that two or more persons have conspired to commit an offence or an actionable wrong, anything said, done or written by any of them in reference to their common intention, after the intention was first formed, is relevant against each of them, to prove the conspiracy and each person's participation.
+
+CASE: State (NCT of Delhi) v Navjot Sandhu (Parliament Attack case) (2005) :: The Court explained that s.10 IEA requires prima facie evidence of a conspiracy first. Then acts and statements of one conspirator in furtherance of the common design, made while the conspiracy subsisted, are admissible against the others. Statements made after the conspiracy ended (for example, after arrest) are not covered.
+
+## 3.3 Otherwise irrelevant facts (s.9 [11])
+- Facts not otherwise relevant become relevant if they are inconsistent with a fact in issue or relevant fact (such as an alibi), or if by themselves or with other facts they make its existence highly probable or improbable.
+
+## 3.4 Custom (s.11 [13])
+- Where the existence of a right or custom is in question, relevant facts include transactions by which it was created, claimed, modified, recognised, asserted or denied, and particular instances where it was claimed, recognised or exercised.
+
+## 3.5 State of body and mind (ss.12 and 13 [14 and 15])
+- **Section 12 [14]**: facts showing the existence of a state of mind (intention, knowledge, good faith, negligence, rashness, ill-will) or of body or bodily feeling, when that state is in issue or relevant.
+- **Section 13 [15]**: when it is in question whether an act was accidental or intentional, the fact that it formed part of a series of similar occurrences is relevant (the "similar facts" rule, as in *Makin v Attorney-General for New South Wales*, 1894).
+
+* Res gestae: same transaction (s.4), contemporaneity required (Gentela Vijayavardhan Rao; Ratten).
+* Occasion, cause and effect (s.5); motive, preparation and conduct (s.6); explanatory facts (s.7).
+* Conspirators' statements in furtherance of the common design (s.8; Navjot Sandhu).
+* Facts inconsistent or highly probable (s.9: alibi); custom (s.11); state of mind (s.12); series of similar acts (s.13).
+
+QL: Explain the doctrine of res gestae with reference to decided cases.
+QL: Discuss the relevance of statements of co-conspirators under s.8 BSA.
+QL: When do facts not otherwise relevant become relevant? Explain the plea of alibi.
+QS: Motive, preparation and conduct
+QS: Similar facts rule
+QS: Relevance of custom
+
+MCQ: Res gestae statements must be contemporaneous, as held in || Navjot Sandhu | *Gentela Vijayavardhan Rao v State of AP | Sharad Sarda | Kashmira Singh || 1996.
+MCQ: The plea of alibi is relevant under || s.4 | *s.9 BSA | s.12 | s.13 || IEA s.11.
+
+# 4 | Admissions and confessions
+@topics General principles of admissions (ss.15 to 21); Admission and confession distinguished; Confessions caused by inducement, threat or promise (s.22); Confessions to police (s.23(1)); Custodial confessions and discovery (proviso to s.23(2)); Confession by co-accused (s.24); Retracted confessions
+>> Admissions are statements against the maker's interest, used as substantive evidence. Confessions in criminal cases are treated with suspicion: those made to police, in custody, or under inducement are excluded, except for facts discovered as a result.
+
+## 4.1 Admissions (ss.15 to 21 [17 to 23])
+- **Admission** (s.15 [17]): a statement, oral, documentary or electronic, which suggests any inference as to a fact in issue or relevant fact, made by persons and in circumstances described in the Act.
+- **Who can make admissions** (s.16 [18 to 20]): a party, his authorised agent, persons with proprietary or pecuniary interest in the subject matter, persons from whom the parties derive interest, and persons referred to by a party.
+- Admissions are relevant against the maker; a person can prove his own admission only in limited cases (s.19 [21]).
+- **Section 21 [23]**: admissions in civil cases made on an express condition that evidence of them is not to be given (without prejudice) are not relevant.
+- **Section 25 [31]**: admissions are not conclusive proof, but may operate as estoppel.
+
+## 4.2 Admission and confession
+| Point | Admission | Confession |
+|---|---|---|
+| Scope | Civil and criminal | Criminal only |
+| Content | Any inference as to a fact in issue or relevant fact | Admits the offence or substantially all the facts constituting it |
+| By whom | Party, agent, interested persons | The accused only |
+| Use | Against the maker; sometimes for him | Against the maker; against co-accused only under s.24 |
+
+CASE: Pakala Narayana Swami v Emperor (1939) :: Lord Atkin held that a confession must either admit in terms the offence, or at any rate substantially all the facts which constitute the offence. An admission of a gravely incriminating fact, even conclusively incriminating, is not by itself a confession.
+
+CASE: Palvinder Kaur v State of Punjab (1952) :: A statement that contains self-exculpatory matter that would, if true, negative the offence cannot amount to a confession. A confession must be accepted or rejected as a whole; the court cannot accept the inculpatory part and reject the exculpatory part.
+
+## 4.3 Confessions caused by inducement, threat or promise (s.22 [24, 28, 29])
+- A confession is irrelevant if it appears to the court to have been caused by any inducement, threat, coercion or promise, proceeding from a person in authority, relating to the charge, sufficient to give the accused reasonable grounds for supposing he would gain an advantage or avoid an evil (s.22(1)).
+- It becomes relevant if made after the impression caused by the inducement has been fully removed (proviso [28]), and is not irrelevant merely because it was made under a promise of secrecy, by deception or when drunk (proviso [29]).
+
+## 4.4 Confessions to police and in custody (s.23 [25 to 27])
+- **Section 23(1) [25]**: no confession made to a police officer shall be proved against the accused.
+- **Section 23(2) [26]**: no confession made while in police custody shall be proved, unless made in the immediate presence of a Magistrate.
+- **Proviso to s.23(2) [27]**: when a fact is discovered in consequence of information received from an accused in police custody, so much of the information as relates distinctly to the fact discovered may be proved, whether it amounts to a confession or not.
+
+CASE: Pulukuri Kottaya v Emperor (1947) :: The Privy Council held that the "fact discovered" includes the place from which the object is produced and the knowledge of the accused about it. Only the part of the statement that distinctly relates to that fact is admissible. A statement such as "I hid the knife in the roof of my house" is admissible as far as "I hid it in the roof", but not an added statement "with which I stabbed X".
+
+CASE: State of Uttar Pradesh v Deoman Upadhyaya (1960) :: Section 27 IEA was held not to violate Art. 14, even though it applies only to persons in custody. The distinction was reasonable, because a statement by a person not in custody that leads to discovery is in any case admissible, and the discovery of a fact confirms the truth of the information.
+
+- **Joint statements**: where two accused make statements leading to the same discovery, courts treat simultaneous joint disclosures with caution; the information of each must be shown to have led to the discovery.
+- Confessions recorded by a Magistrate under s.183 BNSS [164 CrPC] after warnings and with time to reflect are admissible.
+
+## 4.5 Confession by co-accused (s.24 [30])
+- When more than one person is jointly tried for the same offence and a confession by one of them affecting himself and others is proved, the court may take it into consideration against the others. Explanation (new): trial of more than one person where one has absconded or failed to comply with a proclamation is treated as a joint trial.
+
+CASE: Kashmira Singh v State of Madhya Pradesh (1952) :: The confession of a co-accused is not evidence in the ordinary sense. The court must first marshal the other evidence against the accused, and only then use the co-accused's confession to lend assurance to the conclusion. It cannot be the foundation of a conviction. This was affirmed in *Haricharan Kurmi v State of Bihar* (1964).
+
+## 4.6 Retracted confessions
+- A confession later withdrawn may be relied upon if the court is satisfied that it was voluntary and true. As a rule of prudence, it needs general corroboration in material particulars before a conviction is based on it.
+
+## 4.7 Recent judgments (2025–26)
+
+CASE: Amlesh Kumar v State of Bihar (2025) :: Results of an involuntary narco-analysis are inadmissible; voluntary results cannot alone support a conviction.
+
+* Narco-analysis results not enough for conviction (Amlesh Kumar, 2025).
+* Admissions are substantive evidence against the maker, but not conclusive (ss.15 to 25).
+* A confession must admit the offence or substantially all its facts (Pakala Narayana Swami); it is read as a whole (Palvinder Kaur).
+* Inducement (s.22), police (s.23(1)), custody (s.23(2)); discovery proviso (Pulukuri Kottaya; Deoman Upadhyaya).
+* Co-accused confession only lends assurance (s.24; Kashmira Singh; Haricharan Kurmi).
+* Retracted confessions need corroboration as a rule of prudence.
+
+QL: Distinguish between admission and confession with reference to decided cases.
+QL: "No confession made to a police officer shall be proved." Discuss the exceptions, with special reference to the proviso to s.23(2) BSA.
+QL: What is the evidentiary value of the confession of a co-accused?
+QS: Retracted confession
+QS: Without prejudice admissions
+QS: Pulukuri Kottaya v Emperor
+
+MCQ: A confession must admit the offence or substantially all the facts constituting it, as held in || Palvinder Kaur | *Pakala Narayana Swami v Emperor | Kashmira Singh | Pulukuri Kottaya || 1939.
+MCQ: The discovery rule (IEA s.27) is now the || s.22 | *proviso to s.23(2) BSA | s.24 | s.26 || Information leading to discovery.
+MCQ: The confession of a co-accused can only lend assurance to other evidence, as held in || Deoman Upadhyaya | *Kashmira Singh v State of MP | Pakala Narayana Swami | Palvinder Kaur || 1952.
+
+# 5 | Dying declarations and statements of persons who cannot be called as witnesses
+@topics Justification for dying declarations (s.26); Judicial standards for appreciation; Evidence in former proceedings (s.27); Women's rights in marriage and dying declarations
+>> Statements of persons who are dead or cannot be found are admissible in specified cases, most importantly a dying declaration about the cause of death.
+
+## 5.1 Justification (s.26(a) [32(1)])
+- A statement, written or verbal, by a person who is dead, as to the cause of his death or the circumstances of the transaction that resulted in his death, is relevant in any case in which the cause of death is in question, whether or not the person expected to die when making it, and whatever the nature of the proceeding.
+- Rationale: *nemo moriturus praesumitur mentire* (a man will not meet his maker with a lie in his mouth) and necessity (the victim is often the only eyewitness).
+- Indian law is wider than English law: the declarant need not be under expectation of death, and it applies to civil cases too.
+- Other statements under s.26: in the course of business, against interest, about public rights or customs, about relationships and family matters, and others.
+
+## 5.2 Judicial standards for appreciation
+CASE: Khushal Rao v State of Bombay (1958) :: A dying declaration can be the sole basis of conviction without corroboration if the court is satisfied that it is true and voluntary. It is not inferior evidence; each case depends on its circumstances, such as the declarant's opportunity to observe, his mental condition and consistency.
+
+CASE: Laxman v State of Maharashtra (2002) :: A Constitution Bench held that a doctor's certificate of the declarant's fit mental condition is not a sine qua non. What matters is that the person recording the declaration is satisfied that the declarant was in a fit state of mind. A dying declaration may be recorded by any person, not only a Magistrate.
+
+- Further principles (*Atbir v Government of NCT of Delhi*, 2010): the declaration must inspire full confidence; there should be no tutoring or prompting; where there are multiple declarations with inconsistencies, the court must scrutinise them; a declaration that is suspicious should not be acted on without corroboration.
+
+## 5.3 Evidence in former proceedings (s.27 [33])
+- Evidence given by a witness in a judicial proceeding is relevant in a later proceeding to prove the truth of the facts stated, if the witness is dead, cannot be found, is incapable of giving evidence, or is kept away by the adverse party, provided the proceedings were between the same parties, the adverse party had the right and opportunity to cross-examine, and the questions in issue were substantially the same.
+
+## 5.4 Women's rights in marriage and dying declarations
+- In dowry death and bride-burning cases, dying declarations of married women are often the main evidence. The phrase "circumstances of the transaction" covers prior harassment and cruelty that led to the death, if proximate.
+
+CASE: Sharad Birdhichand Sarda v State of Maharashtra (1984) :: Letters and statements written by the deceased wife about her husband's ill-treatment in the months before her death were held admissible under s.32(1) as "circumstances of the transaction", even though they were made before the cause of death arose, if they have a proximate relation to it. Distance in time goes to weight, not admissibility.
+
+## 5.5 Recent judgments (2025–26)
+
+CASE: Neeraj Kumar v State of UP (2025) :: A dying declaration does not lose its value merely because the maker survived for some time after making it.
+
+* Dying declaration not weakened by passage of time (Neeraj Kumar, 2025).
+* A dying declaration is relevant without expectation of death, in civil and criminal cases (s.26(a)).
+* It can be the sole basis of conviction (Khushal Rao); a doctor's certificate is not essential (Laxman); caution with multiple declarations (Atbir).
+* Evidence in former proceedings (s.27).
+* "Circumstances of the transaction" covers prior cruelty in dowry deaths (Sharad Sarda).
+
+QL: What is a dying declaration? Discuss the principles governing its evidentiary value, with reference to decided cases.
+QL: How do Indian courts use dying declarations in cases of violence against married women?
+QS: Evidence given in former proceedings
+QS: Circumstances of the transaction
+
+MCQ: A doctor's certificate of fitness is not essential for a dying declaration, as held in || Khushal Rao | *Laxman v State of Maharashtra | Atbir | Sharad Sarda || Constitution Bench, 2002.
+MCQ: In India, a dying declaration is admissible || only if the declarant expected death | *whether or not the declarant expected death | only in criminal cases | only if recorded by a Magistrate || s.26(a) BSA.
+
+# 6 | Relevance of judgments
+@topics General principles (ss.34 to 38); Judgments in civil and criminal matters; Fraud and collusion
+>> Previous judgments are generally not evidence of the facts they decide. They are relevant to bar a second trial, as judgments in rem, on public matters, or to prove that they were given.
+
+## 6.1 General principles
+- **Section 34 [40]**: a previous judgment is relevant when the question is whether a court should take cognizance of a suit or hold a trial (res judicata, double jeopardy).
+- **Section 35 [41]**: final judgments in probate, matrimonial, admiralty or insolvency jurisdiction, conferring or taking away a legal character, are relevant and conclusive proof of that character (judgments in rem).
+- **Section 36 [42]**: judgments relating to matters of a public nature are relevant but not conclusive.
+- **Section 37 [43]**: other judgments are irrelevant unless their existence is a fact in issue or relevant under another provision.
+
+## 6.2 Civil and criminal judgments
+- A judgment in a criminal case is not evidence in a civil case of the facts decided (and vice versa), except under ss.34 to 36.
+
+CASE: K.G. Premshanker v Inspector of Police (2002) :: The Court held that a civil judgment is not binding in criminal proceedings and vice versa, unless covered by ss.40 to 43 IEA. Each court must decide on the evidence before it. Where a civil court has decided that a document is not forged, that finding does not automatically end the criminal case, though it may be relevant.
+
+## 6.3 Fraud and collusion (s.38 [44])
+- Any party may show that a judgment relevant under ss.34 to 36 was delivered by a court without competence, or was obtained by fraud or collusion.
+
+* Judgments to bar trial (s.34), in rem (s.35), on public matters (s.36); others irrelevant (s.37).
+* Civil and criminal judgments do not bind each other (K.G. Premshanker).
+* Judgments may be attacked for incompetence, fraud or collusion (s.38).
+
+QL: When are previous judgments relevant under the BSA? What is a judgment in rem?
+QS: Judgment in rem
+QS: Section 38 BSA
+
+MCQ: Judgments in probate, matrimonial, admiralty and insolvency jurisdiction are relevant under || s.34 | *s.35 BSA | s.36 | s.37 || IEA s.41, judgments in rem.
+
+# 7 | Expert testimony
+@topics General principles (ss.39 to 45); Who is an expert; Types of expert evidence; Opinion on relationship and proof of marriage (s.44); Judicial deference to expert testimony
+>> Opinion evidence is generally excluded, but the opinions of experts on matters requiring special knowledge are relevant. The court is not bound by them and must test the reasons.
+
+## 7.1 and 7.2 General principles; who is an expert
+- **Section 39(1) [45]**: when the court has to form an opinion on foreign law, science, art, identity of handwriting or finger impressions, the opinions of persons specially skilled in those matters (experts) are relevant. The BSA adds "any other field".
+- **Section 39(2) [45A]**: the opinion of the Examiner of Electronic Evidence (s.79A IT Act) is relevant on electronic or digital records.
+- An expert is a person with special knowledge, skill or experience gained through study or practice. Qualifications must be shown.
+- **Types**: medical, forensic, ballistic, handwriting (s.39 and s.41 [47]: opinion of a person acquainted with the handwriting), fingerprints, DNA, digital forensics, valuation, and foreign law.
+- Facts bearing on expert opinion (s.40 [46]); opinion as to general customs (s.42 [48]), usages and tenets (s.43 [49]); grounds of opinion are relevant (s.45 [51]).
+
+CASE: Selvi v State of Karnataka (2010) :: The Court held that compulsory narcoanalysis, polygraph and brain electrical activation profile (BEAP) tests violate Art. 20(3) (the right against self-incrimination) and Art. 21 (personal liberty and privacy). Results of voluntarily administered tests are not admissible as such, though information discovered as a result may be admissible under s.27 IEA.
+
+## 7.3 Opinion on relationship and proof of marriage (s.44 [50])
+- When the court has to form an opinion on the relationship of one person to another, the opinion expressed by conduct of a person who, as a family member or otherwise, has special means of knowledge, is relevant. But such opinion is not sufficient to prove a marriage in proceedings under the Divorce Act or in prosecutions for bigamy and adultery-type offences.
+
+CASE: Dolgobinda Paricha v Nimai Charan Misra (1959) :: The Court explained that under s.50 IEA, what is relevant is the opinion as expressed by conduct, not the opinion itself. The conduct of family members treating persons as related (for example, as legitimate son) is relevant evidence of relationship.
+
+## 7.4 Judicial deference to expert testimony
+- Expert opinion is advisory; the court must apply its own mind and test the reasons (*State of Himachal Pradesh v Jai Lal*, 1999). Handwriting opinion is weak evidence and normally needs corroboration, though in *Murari Lal v State of Madhya Pradesh* (1980) the Court held that corroboration is a rule of caution, not a rule of law.
+- Problems: over-reliance on forensic labs, delays, lack of quality control, "junk science", and courts' limited ability to evaluate scientific methods (contrast the US *Daubert* test).
+
+* Experts on science, art, handwriting, fingerprints, foreign law and any other field (s.39); Examiner of Electronic Evidence (s.39(2)).
+* Compulsory narcoanalysis and polygraph violate Arts. 20(3) and 21 (Selvi).
+* Relationship proved by conduct of family members (s.44; Dolgobinda Paricha), not enough for marriage in bigamy cases.
+* Courts must test expert reasons (Jai Lal; Murari Lal).
+
+QL: Who is an expert? Discuss the evidentiary value of expert opinion with reference to decided cases.
+QL: Are scientific techniques such as narcoanalysis and polygraph admissible? Discuss Selvi v State of Karnataka.
+QS: Opinion on relationship
+QS: Handwriting evidence
+
+MCQ: Compulsory narcoanalysis was held to violate Art. 20(3) in || Jai Lal | *Selvi v State of Karnataka | Murari Lal | Dolgobinda Paricha || 2010.
+MCQ: The opinion of the Examiner of Electronic Evidence is relevant under || s.39(1) | *s.39(2) BSA | s.44 | s.63 || IEA s.45A.
+
+# 8 | Oral and documentary evidence
+@topics Oral evidence (ss.54 and 55); Documentary evidence; Exclusion of oral by documentary evidence; Hearsay; Estoppel in relation to oral and documentary evidence
+>> Oral evidence must be direct. Documents must be proved by primary evidence, with secondary evidence allowed in listed cases. Once terms are reduced to writing, oral evidence cannot contradict them.
+
+## 8.1 Oral evidence (ss.54 and 55 [59 and 60])
+- All facts, except the contents of documents, may be proved by oral evidence (s.54).
+- Oral evidence must be **direct** (s.55): if it refers to a fact that could be seen, heard or perceived, it must be the evidence of the person who saw, heard or perceived it. Opinions must be given by the person who holds them.
+
+## 8.2 Documentary evidence
+- Contents of documents may be proved by primary or secondary evidence (s.56 [61]). Documents must be proved by primary evidence except in cases listed in s.60 [65], such as where the original is in the possession of the adverse party, lost or destroyed, not easily movable, or a public document.
+- Proof of signature and handwriting (s.65 [67]), proof of attested documents (s.67 [68]: at least one attesting witness must be called), public and private documents, certified copies of public documents, and presumptions as to documents, including documents 30 years old (IEA s.90).
+
+### Electronic records (ss.61 to 63 [65A and 65B])
+- **Section 61**: nothing shall deny the admissibility of an electronic record on the ground that it is electronic.
+- **Section 63**: an electronic record is admissible if the conditions are satisfied and a certificate is produced in the form in the Schedule, signed by the person in charge of the computer or device (Part A) and by an expert (Part B).
+
+NOTE: Current law. The s.63(4) BSA certificate (with hash value) was upheld in Pune Bar Association v Union of India (2026); see the end of this unit.
+
+CASE: Arjun Panditrao Khotkar v Kailash Kushanrao Gorantyal (2020) :: A three-judge bench affirmed *Anvar P.V. v P.K. Basheer* (2014) and held that the certificate under s.65B(4) IEA is a mandatory condition for admissibility of secondary electronic evidence. *Shafhi Mohammad v State of HP* (2018), which had relaxed the requirement, was overruled. The certificate is not needed when the original device itself is produced. (BSA s.63 continues this rule, with a two-part certificate.)
+
+## 8.3 Exclusion of oral by documentary evidence (ss.94 to 103 [91 to 100])
+- **Section 94 [91]**: when the terms of a contract, grant or disposition of property have been reduced to writing, or are required by law to be in writing, no evidence may be given of them except the document itself (or secondary evidence where admissible).
+- **Section 95 [92]**: no evidence of any oral agreement may be admitted to contradict, vary, add to or subtract from the terms of such a document, subject to provisos (fraud, intimidation, illegality, separate oral agreement on a matter on which the document is silent, a condition precedent, a later oral agreement to rescind or modify, usage and custom, and facts showing how the language relates to existing facts).
+- **Sections 96 to 103 [93 to 100]**: patent and latent ambiguity. Evidence may not be given to explain a patent ambiguity (s.96), but may be given to resolve a latent ambiguity (ss.98 to 100).
+
+## 8.4 Hearsay
+- Hearsay is excluded by the rule that oral evidence must be direct (s.55). Exceptions: res gestae (s.4), admissions and confessions, statements under s.26 (dying declarations and others), entries in public records, and evidence in former proceedings (s.27).
+
+CASE: Kalyan Kumar Gogoi v Ashutosh Agnihotri (2011) :: The Court explained that hearsay evidence is excluded because the person who made the statement is not before the court, is not on oath, and cannot be cross-examined. Its admission is the exception, not the rule. A document whose author is not examined is hearsay for its contents.
+
+## 8.5 Estoppel and documents
+- A party who has made a representation in a document, or executed a deed, may be estopped from denying its contents (estoppel by deed, Unit 10).
+
+## 8.6 Recent judgments (2025–26)
+
+CASE: Pune Bar Association v Union of India (2026) :: A three-judge bench upheld s.63(4) BSA and the Schedule (including disclosure of the hash value) as neither arbitrary nor unreasonable. It held that the Madras High Court's view (that Part B may be signed only by government-notified examiners under s.79A IT Act) is not binding, and left the full scope of 'expert' open.
+
+CASE: Reliance Industries Ltd v NTPC (2026) :: The contents of documents excluded from evidence cannot be brought in through oral testimony.
+
+* s.63(4) BSA certificate with hash value upheld (Pune Bar Association, 2026).
+* Oral evidence must be direct (s.55).
+* Documents proved by primary evidence; secondary evidence in listed cases (s.60); attested documents; 30-year-old documents.
+* Electronic records: certificate under s.63 is mandatory (Arjun Panditrao Khotkar; Anvar P.V.).
+* Exclusion of oral evidence by documents (ss.94 and 95) and its provisos; patent and latent ambiguity.
+* Hearsay is excluded with exceptions (Kalyan Kumar Gogoi).
+
+QL: Explain the rules regarding exclusion of oral evidence by documentary evidence. What are the exceptions under s.95 BSA?
+QL: Discuss the admissibility of electronic records under the BSA with reference to Anvar P.V. and Arjun Panditrao Khotkar.
+QL: "Oral evidence must in all cases be direct." Explain and discuss the exceptions to the hearsay rule.
+QS: Latent ambiguity
+QS: Secondary evidence
+QS: Presumption as to 30-year-old documents
+
+MCQ: The certificate for electronic evidence was held mandatory in || Shafhi Mohammad | *Arjun Panditrao Khotkar v Kailash Gorantyal | Selvi | Kalyan Kumar Gogoi || 2020.
+MCQ: Admissibility of electronic records under the BSA is governed by || s.57 | *s.63 | s.94 | s.39 || IEA s.65B.
+MCQ: Evidence to explain a patent ambiguity is || admissible | *not admissible | admissible with leave | admissible in criminal cases only || s.96 BSA.
+MCQ: The constitutional validity of s.63(4) BSA was upheld in || Arjun Panditrao Khotkar | Anvar P.V. | *Pune Bar Association v Union of India | R. v B || 2026, three-judge bench.
+
+# 9 | Witnesses, examination and cross-examination
+@topics Competency (s.124); State privilege (s.129); Professional privilege (ss.132 and 133); Approver testimony (s.138); General principles of examination; Leading questions (s.146); Lawful questions in cross-examination (s.149); Compulsion to answer (ss.150 and 156); Hostile witness (s.157); Impeaching credit (s.158); Artificial intelligence-based evidence
+>> All persons are competent witnesses unless incapable of rational testimony. Privileges protect certain communications. Examination follows a fixed order, and the law controls leading questions, cross-examination and impeachment of credit.
+
+## 9.1 Competency (s.124 [118])
+- All persons are competent to testify unless the court considers that they are prevented from understanding the questions or giving rational answers by tender years, extreme old age, disease of body or mind, or similar cause.
+- **Child witnesses**: no minimum age; the court must test competency by preliminary questions. Evidence may be acted upon if credible, but needs careful scrutiny because children are susceptible to tutoring (*Dattu Ramrao Sakhare v State of Maharashtra*, 1997).
+- A witness unable to speak may give evidence by writing or signs (s.125 [119]); spouses are competent (s.126 [120]).
+
+## 9.2 State privilege (s.129 [123])
+- No one shall be permitted to give evidence derived from unpublished official records relating to affairs of State, except with the permission of the head of the department, who may give or withhold it.
+
+CASE: State of Punjab v Sodhi Sukhdev Singh (1961) :: The Court held that the head of department decides whether a document relates to affairs of State and whether its disclosure would harm the public interest. The court may decide the preliminary question whether the document relates to affairs of State, but cannot inspect it. Later, in *S.P. Gupta v Union of India* (1981, Judges' Transfer case), the Court held that it may inspect documents to decide whether their disclosure would harm the public interest, and the claim of privilege is not conclusive.
+
+## 9.3 Professional privilege (ss.132 and 133 [126 to 129])
+- An advocate shall not disclose communications made by the client in the course of employment, or advice given, without the client's consent, except communications in furtherance of an illegal purpose or facts showing a crime or fraud committed since the start of employment. The privilege extends to interpreters, clerks and servants of advocates. A client cannot be compelled to disclose confidential communications with his legal adviser (s.133).
+- Other privileges: judges (s.127), communications during marriage (s.128 [122]), official communications (s.130 [124]), and sources of information about offences (s.131 [125]).
+
+## 9.4 Approver testimony (s.138 [133])
+- An accomplice is a competent witness against an accused, and a conviction is not illegal merely because it proceeds on the uncorroborated testimony of an accomplice.
+- But illustration (b) to s.119 [114] says the court may presume that an accomplice is unworthy of credit unless corroborated in material particulars. The combined rule: corroboration is a rule of prudence, almost a rule of law in practice.
+
+CASE: Rameshwar v State of Rajasthan (1952) :: The Court explained that s.133 and illustration (b) to s.114 are to be read together. Corroboration of an accomplice is not required by law, but the rule of prudence requiring corroboration in material particulars, connecting the accused with the crime, is so well established that it has almost become a rule of law. The corroboration must be independent.
+
+## 9.5 General principles of examination (ss.140 to 169 [135 to 166])
+- Order of examination: examination-in-chief, cross-examination, re-examination (s.143 [138]). Cross-examination need not be confined to facts deposed in chief.
+
+## 9.6 Leading questions (s.146 [141 to 143])
+- A leading question suggests the answer the person putting it wishes to receive. It must not be asked in examination-in-chief or re-examination if objected to, except on introductory, undisputed or already proved matters. It may be asked in cross-examination.
+
+## 9.7 Lawful questions in cross-examination (s.149 [146])
+- A witness may be asked questions to test his veracity, to discover who he is and his position in life, or to shake his credit by injuring his character, even if the answer may incriminate him. In prosecutions for rape, questions about the victim's general immoral character or previous sexual experience are not permitted.
+
+## 9.8 Compulsion to answer (ss.150 and 156 [147 and 153])
+- A witness is compelled to answer relevant questions (s.150 [147]), and the court decides when questions on credit must be answered. Answers to questions testing veracity are final and cannot be contradicted, except in cases of previous conviction or impartiality (s.156 [153]).
+
+## 9.9 Hostile witness (s.157 [154])
+- The court may, in its discretion, permit the person who calls a witness to put questions that might be put in cross-examination.
+
+CASE: Sat Paul v Delhi Administration (1976) :: The evidence of a hostile witness is not to be rejected wholly. The court may accept the part that is creditworthy and consistent with other evidence. This was affirmed in later cases, which say the evidence is not "effaced" or "washed off" by the witness being declared hostile.
+
+## 9.10 Impeaching credit (s.158 [155])
+- The credit of a witness may be impeached by the adverse party (or by the calling party with the court's consent) through independent evidence that he is unworthy of credit, proof that he has been bribed or has accepted a bribe, or proof of former statements inconsistent with his evidence.
+
+## 9.11 Artificial intelligence-based evidence
+- Issues include deepfake audio and video, AI-enhanced images, outputs of AI tools (such as facial recognition matches and transcriptions), and chatbot records.
+- Under the BSA, such material is an electronic record; it must satisfy s.63 (with a certificate) and may require expert evidence (s.39(2)). Questions of authenticity, chain of custody, the reliability of the algorithm, explainability, and the right to cross-examine the maker of the system are important. Courts have cautioned against relying on AI tools to decide factual questions without verification.
+
+## 9.12 Recent judgments (2025–26)
+
+CASE: In re Summoning Advocates who give legal opinion or represent parties (2025) :: Investigating agencies cannot summon an advocate merely for advising or representing a client. Professional communications are privileged (s.132 BSA [126 IEA]), subject to narrow exceptions.
+
+CASE: State of HP v Hukum Chand (2026) :: Minor discrepancies in testimony do not make a witness unreliable.
+
+* Advocates cannot be summoned for advice given to clients (2025).
+* All persons are competent unless incapable (s.124); child witnesses (Dattu Ramrao Sakhare).
+* State privilege (s.129; Sodhi Sukhdev Singh; S.P. Gupta); professional privilege (ss.132 and 133).
+* Accomplice evidence: competent but needs corroboration as a rule of prudence (s.138; Rameshwar).
+* Order of examination; leading questions (s.146); lawful questions in cross (s.149); compulsion to answer (ss.150 and 156).
+* Hostile witness evidence is not wholly rejected (s.157; Sat Paul); impeaching credit (s.158).
+* AI and deepfake evidence: s.63 certificate, experts, reliability.
+
+QL: Discuss the evidentiary value of the testimony of an accomplice with reference to s.138 and illustration (b) to s.119 BSA.
+QL: What is a hostile witness? What is the value of the evidence of a hostile witness?
+QL: Discuss State privilege and professional privilege under the BSA.
+QS: Leading questions
+QS: Competency of a child witness
+QS: Impeaching the credit of a witness
+
+MCQ: The evidence of a hostile witness need not be rejected wholly, as held in || Rameshwar | *Sat Paul v Delhi Administration | Sodhi Sukhdev Singh | Dattu Ramrao Sakhare || 1976.
+MCQ: Leading questions may be asked as of right in || examination-in-chief | *cross-examination | re-examination | none || s.146 BSA.
+MCQ: The court may inspect documents for which State privilege is claimed, as held in || Sodhi Sukhdev Singh | *S.P. Gupta v Union of India | Rameshwar | Sat Paul || 1981.
+
+# 10 | Burden of proof, presumptions, judicial notice and estoppel
+@topics Burden of proof (s.104); General and special exceptions; Presumptions; Presumptions as to certain offences (s.117); Dowry death (s.118); Judicial notice; Estoppel (s.121); Estoppel, res judicata, waiver and presumption; Estoppel by deed; Estoppel in pais; Equitable and promissory estoppel; Corroboration (ss.159 and 160); Accomplices
+>> Whoever asserts must prove. The law shifts the burden in some cases by presumptions, excuses proof of notorious facts by judicial notice, and prevents a person from going back on representations by estoppel.
+
+## 10.1 and 10.2 Burden of proof
+- **Section 104 [101]**: whoever desires a court to give judgment on a legal right or liability dependent on facts he asserts must prove those facts.
+- **Section 105 [102]**: the burden lies on the person who would fail if no evidence were given on either side.
+- **Section 106 [103]**: the burden of proof of a particular fact lies on the person who wishes the court to believe in it.
+- **Section 108 [105]**: the burden of proving that a case falls within a general exception (BNS ss.14 to 44) or a special exception or proviso is on the accused, and the court shall presume the absence of such circumstances.
+- **Section 109 [106]**: when a fact is especially within the knowledge of a person, the burden of proving it is on him.
+
+CASE: Shambhu Nath Mehra v State of Ajmer (1956) :: Section 106 IEA does not relieve the prosecution of its primary burden to prove guilt beyond reasonable doubt. It applies only to facts pre-eminently or exceptionally within the accused's knowledge, which it would be impossible or disproportionately difficult for the prosecution to establish. A railway passenger without a ticket was not presumed to have travelled without paying merely because he did not explain.
+
+- In criminal cases, the accused's burden under s.108 is discharged on a preponderance of probabilities, not beyond reasonable doubt.
+
+## 10.3 Presumptions
+- Presumptions of fact (s.119 [114]: the court may presume, for example, that a person in possession of stolen goods soon after theft is the thief or a receiver, or that an accomplice is unworthy of credit unless corroborated).
+- Presumptions of law: rebuttable (shall presume) and irrebuttable (conclusive proof).
+- **Section 116 [112]**: birth during a valid marriage, or within 280 days after its dissolution with the mother unmarried, is conclusive proof of legitimacy, unless it is shown that the parties had no access to each other when the child could have been conceived.
+
+## 10.4 Presumptions as to certain offences
+- **Section 115 [111A]**: in disturbed areas, a person who was present where firearms or explosives were used against armed forces or public order forces is presumed to have committed the offence, unless the contrary is shown.
+- **Section 117 [113A]**: if a married woman commits suicide within seven years of marriage and her husband or his relatives subjected her to cruelty, the court may presume abetment of suicide by them.
+- **Section 120 [114A]**: in a prosecution for rape under certain provisions, where sexual intercourse is proved and the woman states that she did not consent, the court shall presume absence of consent.
+
+## 10.5 Presumption as to dowry death (s.118 [113B])
+- When the question is whether a person has committed the dowry death of a woman, and it is shown that soon before her death she was subjected to cruelty or harassment by that person for or in connection with a demand for dowry, the court **shall presume** that the person caused the dowry death (BNS s.80 [IPC s.304B]).
+
+CASE: Rajinder Singh v State of Punjab (2015) :: "Soon before" her death does not mean "immediately before". There must be a proximate and live link between the cruelty or harassment for dowry and the death. The interval is a matter of fact in each case.
+
+## 10.6 Judicial notice (ss.51 to 53 [56 to 58])
+- Facts of which the court takes judicial notice need not be proved (s.51 [56]). Section 52 [57] lists facts of which courts must take judicial notice, such as laws in force in India, public Acts, the national calendar, articles of war, territories of India, and the course of proceedings in Parliament. Facts admitted need not be proved (s.53 [58]).
+- Rationale: it saves time and avoids proving notorious or easily verifiable facts.
+
+## 10.7 to 10.12 Estoppel
+### Rationale
+- **Section 121 [115]**: when a person has, by declaration, act or omission, intentionally caused or permitted another person to believe a thing to be true and to act on that belief, neither he nor his representative shall be allowed in any proceeding between them to deny its truth.
+- It rests on equity and good conscience: a person should not blow hot and cold (*Pickard v Sears*, 1837).
+
+### Estoppel, res judicata, waiver and presumption
+| Concept | Basis | Effect |
+|---|---|---|
+| Estoppel | Act or representation of a party | Prevents a party from saying different things at different times |
+| Res judicata | Decision of a court | Prevents a court from trying the same matter again |
+| Waiver | Intentional relinquishment of a known right | Abandons a right |
+| Presumption | Inference drawn by law or court | Shifts the burden of proof |
+
+### Kinds of estoppel
+- **Estoppel by record**: from judgments.
+- **Estoppel by deed**: a party to a deed cannot deny the truth of its recitals in an action on the deed.
+- **Estoppel in pais** (by conduct): by representation, by negligence, by acquiescence. Special cases: a tenant cannot deny the landlord's title at the start of the tenancy (s.122 [116]); a licensee cannot deny the licensor's title; an acceptor of a bill cannot deny the drawer's authority (s.123 [117]).
+- **Equitable estoppel**: a broader principle preventing unconscionable conduct.
+- **Promissory estoppel**: where one party makes an unambiguous promise intending it to be acted on, and the other acts on it to his detriment, the promisor is bound, even without consideration, including the Government, unless the public interest requires otherwise.
+
+CASE: Motilal Padampat Sugar Mills Co Ltd v State of Uttar Pradesh (1979) :: The State Government announced a sales tax exemption for new industries for three years; the petitioner set up a hydrogenation plant relying on it. The Government then withdrew the exemption. The Court held the Government bound by promissory estoppel. It is not barred by the doctrine of executive necessity, and can be avoided only if the public interest so demands, which the Government must show. There is no estoppel against a statute.
+
+## 10.13 Corroboration (ss.159 and 160 [156 and 157])
+- **Section 159**: questions tending to corroborate evidence of a relevant fact may be asked, such as the witness's observations of circumstances at the time.
+- **Section 160**: a former statement of a witness, made at or about the time of the fact or before any authority legally competent to investigate, may be proved to corroborate his later testimony (for example, an FIR).
+- **Accomplices**: corroboration is needed as a rule of prudence (Unit 9).
+
+## 10.14 Recent judgments (2025–26)
+
+CASE: R. Rajendran v Kamar Nisha (2025) :: The presumption of legitimacy (s.116 BSA [112 IEA]) is strong; DNA tests only on eminent necessity.
+
+CASE: Mahesh Chand v State of UP (2026) :: The dowry-death presumption under s.118 BSA [113B IEA] must be considered at the bail stage too.
+
+* Presumptions of legitimacy and dowry death (2025-26).
+* Burden on the person asserting (ss.104 to 106); exceptions on the accused (s.108) on a preponderance of probability; especially within knowledge (s.109; Shambhu Nath Mehra).
+* Presumptions of fact (s.119) and law; legitimacy conclusive (s.116).
+* Presumptions: disturbed areas (s.115), abetment of suicide (s.117), rape consent (s.120), dowry death (s.118; "soon before": Rajinder Singh).
+* Judicial notice (ss.51 to 53).
+* Estoppel (s.121): by record, deed and conduct; tenant and licensee (ss.122 and 123); promissory estoppel (Motilal Padampat).
+* Corroboration (ss.159 and 160).
+
+QL: Explain the rules regarding burden of proof under the BSA. Discuss the scope of s.109 with reference to Shambhu Nath Mehra.
+QL: Discuss the presumptions as to dowry death and abetment of suicide by a married woman.
+QL: What is estoppel? Distinguish it from res judicata and waiver. Explain promissory estoppel.
+QS: Judicial notice
+QS: Estoppel of tenant
+QS: Presumption of legitimacy
+
+MCQ: The presumption as to dowry death is in || s.117 | *s.118 BSA | s.116 | s.119 || IEA s.113B.
+MCQ: "Soon before" does not mean "immediately before", as held in || Shambhu Nath Mehra | *Rajinder Singh v State of Punjab | Motilal Padampat | Sat Paul || 2015.
+MCQ: Promissory estoppel was applied against the Government in || Sodhi Sukhdev Singh | *Motilal Padampat Sugar Mills v State of UP | Rajinder Singh | Pickard v Sears || 1979.

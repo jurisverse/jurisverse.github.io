@@ -1,0 +1,546 @@
+@title Public International Law
+@subtitle States, sources, international adjudication, individuals, the law of the sea, air and space, international economic law, international organisations and terrorism
+@paper 3.4
+@sem III
+@color #1f5a6e
+@dark #1a4e60
+@intro Follows the VSU syllabus units, with Indian practice and decisions of the International Court of Justice up to its 2025 advisory opinion on climate change.
+@reading J.G. Starke, Introduction to International Law
+@reading Malcolm N. Shaw, International Law
+@reading Ian Brownlie (James Crawford), Principles of Public International Law
+@reading Oppenheim's International Law
+@reading S.K. Kapoor, International Law and Human Rights
+@reading H.O. Agarwal, International Law and Human Rights
+
+# 1 | States as subjects of international law
+@topics Nature of international law; Evolution of the State as a subject; Criteria of statehood; State and government distinguished; Recognition of States and governments; State succession
+>> International law is the body of rules binding States in their relations with one another. States remain its primary subjects, and recognition and succession govern how new States and governments enter the system.
+
+## 1.1 Nature of international law
+- **Definition**: the body of rules and principles which are binding on States, and also on international organisations and, to some extent, individuals, in their mutual relations (Starke, Oppenheim).
+- **Is international law really law?**
+  - **Austin**: no; it is "positive morality" because there is no sovereign issuing commands backed by sanctions.
+  - **Responses**: States treat it as law and comply most of the time; it has sanctions (countermeasures, Security Council action, reciprocity, reputation); Hart called it a primitive legal system lacking secondary rules but still law; courts apply it; Art. 38 of the ICJ Statute identifies its sources.
+- **Monism and dualism**:
+  - Monism: international and municipal law form one system; international law prevails.
+  - Dualism: two separate systems; international law applies domestically only when incorporated.
+  - **India**: Art. 51(c) directs the State to foster respect for international law and treaty obligations. Treaties need legislation if they affect rights of citizens or require changes in law (Art. 253; Maganbhai Ishwarbhai Patel, 1969). Customary international law is part of Indian law unless inconsistent with domestic law (Gramophone Co v Birendra Bahadur Pandey, 1984), and courts read Indian law consistently with international conventions where there is no conflict (Vishaka, 1997).
+
+CASE: Jolly George Varghese v Bank of Cochin (1980) :: Art. 11 of the ICCPR (no imprisonment for inability to fulfil a contractual obligation) did not, without legislation, override s.51 of the CPC; but the Court read s.51 in the light of the Covenant and Art. 21 to require proof of wilful default before civil imprisonment.
+
+## 1.2 Evolution of the State as a subject
+The modern State system dates from the **Peace of Westphalia (1648)**, which recognised territorial sovereignty and equality of States. Over time, new subjects were added: international organisations (Reparation for Injuries, 1949), individuals (human rights, international criminal law), and to some extent multinational corporations and NGOs.
+
+## 1.3 Criteria of statehood
+SEC: Art. 1, Montevideo Convention on the Rights and Duties of States, 1933 :: The State as a person of international law should possess the following qualifications: (a) a permanent population; (b) a defined territory; (c) government; and (d) capacity to enter into relations with other States.
+- Additional factors in practice: independence, effectiveness, legality of creation (not by unlawful use of force or in violation of self-determination), and recognition.
+
+## 1.4 State and government distinguished
+The State is the permanent legal person; the government is its agent at any given time. A change of government (even unconstitutional) does not affect the State's identity, rights or obligations, including treaties and debts (Tinoco Arbitration, 1923).
+
+## 1.5 Recognition of States and governments
+### Theories
+- **Constitutive theory**: a State becomes a person of international law only through recognition by other States.
+- **Declaratory theory**: statehood exists as a fact; recognition merely acknowledges it. Most writers and the Montevideo Convention (Art. 3: the political existence of the State is independent of recognition) favour the declaratory theory.
+
+### Kinds
+- **De jure** (full, permanent) and **de facto** (provisional, where the government is in effective control but its permanence or legitimacy is doubtful).
+- **Express** and **implied** (for example, by concluding a bilateral treaty or establishing diplomatic relations).
+- **Conditional** and **collective** recognition.
+- **Recognition of governments**: some States follow the **Estrada doctrine** (1930), declining to pronounce on recognition of governments and simply maintaining or withdrawing diplomatic relations.
+
+CASE: Tinoco Arbitration (Great Britain v Costa Rica) (1923) :: Chief Justice Taft held that the unconstitutional Tinoco government of Costa Rica, being in effective control, was the government of the State; non-recognition by Britain did not prevent it from binding Costa Rica. Recognition is evidence of, but not decisive for, the existence of a government.
+
+CASE: Luther v Sagor (1921) :: English courts gave effect to a Soviet decree nationalising timber after the UK recognised the Soviet government de facto; recognition is retroactive to the date the government came into effective control.
+
+## 1.6 State succession
+Succession occurs when one State replaces another in responsibility for a territory: by decolonisation, merger, dissolution, separation or cession.
+- **Treaties**: the **Vienna Convention on Succession of States in respect of Treaties, 1978**: newly independent States start with a "clean slate" (Art. 16), except boundary and territorial regimes, which continue (Arts. 11, 12). In cases of separation, treaties generally continue for successor States.
+- **Property, archives and debts**: the Vienna Convention of 1983 (not in force).
+- **Indian practice**: the Indian Independence (International Arrangements) Order, 1947 provided that India continued the international rights and obligations of British India; Pakistan was treated as a new State.
+
+CASE: State of Saurashtra v Memon Haji Ismail Haji (1959) :: After Junagadh's accession to India, the new sovereign was not bound by the acts of the previous ruler unless it recognised them; acts of State during transition are not cognisable by municipal courts.
+
+* International law binds States and other subjects; Austin's objection is answered by practice and Hart's analysis.
+* India: treaties need legislation where they affect rights; custom is part of Indian law unless inconsistent (Gramophone).
+* Montevideo criteria: population, territory, government, capacity.
+* Declaratory theory prevails; de jure and de facto recognition; Estrada doctrine.
+* Governments in effective control bind the State (Tinoco); recognition is retroactive (Luther v Sagor).
+* State succession: clean slate for new States; boundary regimes continue.
+
+QL: Is international law true law? Discuss with reference to Austin and modern views.
+QL: Discuss the criteria for statehood and the theories of recognition.
+QL: Explain the law of State succession with respect to treaties.
+QL: Discuss the relationship between international law and municipal law in India.
+QS: Montevideo Convention
+QS: De facto and de jure recognition
+QS: Estrada doctrine
+QS: Monism and dualism
+
+MCQ: The criteria of statehood are laid down in || the UN Charter | *the Montevideo Convention, 1933 | the Vienna Convention, 1969 | the ICJ Statute || Art. 1.
+MCQ: The theory that recognition merely acknowledges an existing State is the || constitutive theory | *declaratory theory | Estrada doctrine | Stimson doctrine || Montevideo Art. 3.
+MCQ: Customary international law was held to be part of Indian law unless inconsistent with domestic law in || Jolly George Varghese | *Gramophone Co v Birendra Bahadur Pandey | Maganbhai Patel | Vishaka || 1984.
+
+# 2 | States as makers of international law: custom and treaties
+@topics Custom: creation through State practice; types; proof; place in the future of international law; Treaties: concept, types, authority to enter into treaties (India and SAARC), essentials of a valid treaty and jus cogens, State succession to treaties, problems of treaty interpretation
+>> States make international law mainly by their practice (custom) and by express agreement (treaties). Article 38 of the ICJ Statute lists them as the primary sources.
+
+SEC: Art. 38(1), Statute of the International Court of Justice :: The Court shall apply: (a) international conventions, whether general or particular, establishing rules expressly recognised by the contesting States; (b) international custom, as evidence of a general practice accepted as law; (c) the general principles of law recognised by civilised nations; (d) subject to Article 59, judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law.
+
+## 2.1 Custom
+### Elements
+1. **State practice** (the material element): general, consistent and uniform practice of States (acts, statements, legislation, judicial decisions, treaties). It need not be universal; specially affected States' practice is important.
+2. **Opinio juris** (the psychological element): the belief that the practice is required by law (*opinio juris sive necessitatis*), not mere usage or courtesy.
+
+CASE: North Sea Continental Shelf cases (Germany v Denmark; Germany v Netherlands) (1969) :: The ICJ held that the equidistance principle in Art. 6 of the 1958 Continental Shelf Convention had not become customary law binding on Germany (a non-party). For a treaty rule to become custom, there must be extensive and virtually uniform State practice, including of specially affected States, and opinio juris.
+
+CASE: The S.S. Lotus (France v Turkey) (1927) :: Restrictions on the independence of States cannot be presumed; States may exercise jurisdiction unless prohibited by a rule of international law. Abstention from prosecution was not shown to be based on a sense of legal duty, so no customary rule was established.
+
+### Types of custom
+- **General (universal) custom**, binding on all States.
+- **Regional or local custom**: binding among a group of States. **Asylum case (Colombia v Peru) (1950)**: Colombia failed to prove a regional custom of diplomatic asylum binding Peru.
+- **Bilateral custom**: **Right of Passage over Indian Territory (Portugal v India) (1960)**: the ICJ recognised a bilateral local custom giving Portugal a right of passage for civilians, officials and goods between its enclaves (Dadra and Nagar Haveli), but not for armed forces, police and arms, which had always required Indian permission.
+- **Persistent objector**: a State that consistently objects during formation of a rule is not bound by it (Anglo-Norwegian Fisheries case, 1951).
+
+### Proof of custom
+Diplomatic correspondence, policy statements, legislation, judicial decisions, treaties, UN General Assembly resolutions (as evidence of opinio juris: Nicaragua v USA, 1986), ILC work, writings of publicists.
+
+### Place of custom
+Custom binds all States including non-parties to treaties; it fills gaps and evolves with practice; but it is slow, uncertain and harder to prove. Codification by the International Law Commission (Art. 13 of the UN Charter) has converted much custom into treaties, but custom remains important (jus cogens, State responsibility, immunities).
+
+## 2.1.5 to 2.1.11 Treaties
+### Concept
+SEC: Art. 2(1)(a), Vienna Convention on the Law of Treaties, 1969 :: "Treaty" means an international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation.
+- India is not a party to the VCLT, but applies its rules as customary law.
+
+### Types
+Bilateral, regional and multilateral; law-making treaties (Geneva Conventions, UNCLOS) and contract treaties; dispositive treaties (creating territorial rights, such as boundary treaties, which survive succession) and non-dispositive treaties.
+
+### Authority to make treaties: India and SAARC
+- In India, treaty-making is an executive function (Art. 73, extending executive power to matters in the Union List, which includes Entry 14: entering into treaties and agreements and implementing them). Parliament may legislate to implement them (Art. 253).
+- No parliamentary ratification is constitutionally required, but treaties affecting rights or requiring cession of territory need legislation or constitutional amendment (Berubari, 1960).
+- **SAARC** (South Asian Association for Regional Cooperation), established by its Charter of 1985 (Dhaka): eight members; decisions by unanimity; bilateral and contentious issues excluded; agreements include SAFTA (2004). SAARC summits have been suspended since 2014 due to tensions.
+
+### Essentials of a valid treaty
+- Capacity of the parties; full powers of representatives (Art. 7).
+- Free consent: treaties procured by error (Art. 48), fraud (Art. 49), corruption (Art. 50), coercion of a representative (Art. 51) or of a State by threat or use of force (Art. 52) are invalid.
+- Lawful object: a treaty is void if it conflicts with a peremptory norm (**jus cogens**) of general international law (Art. 53).
+- **Jus cogens** (Art. 53): a norm accepted and recognised by the international community of States as a whole as a norm from which no derogation is permitted, which can be modified only by a subsequent norm of the same character. Examples: prohibition of aggression, genocide, slavery, torture, racial discrimination, and the right of self-determination. A new peremptory norm makes any existing conflicting treaty void (Art. 64).
+- **Pacta sunt servanda** (Art. 26): every treaty in force is binding and must be performed in good faith.
+- Reservations (Arts. 19 to 23): allowed unless prohibited or incompatible with the object and purpose (Reservations to the Genocide Convention advisory opinion, 1951).
+- Termination: by consent, material breach (Art. 60), supervening impossibility (Art. 61), fundamental change of circumstances (*rebus sic stantibus*, Art. 62, narrowly applied: Gabčíkovo-Nagymaros, 1997).
+
+### State succession to treaties
+See Unit 1: clean slate for newly independent States; continuity of boundary treaties.
+
+### Problems of interpretation
+- **General rule** (Art. 31): in good faith, in accordance with the ordinary meaning of terms in their context and in light of the treaty's object and purpose; account taken of subsequent agreements and practice and relevant rules of international law.
+- **Supplementary means** (Art. 32): preparatory work (travaux préparatoires) and circumstances of conclusion, to confirm or where the meaning is ambiguous or absurd.
+- Treaties in several languages (Art. 33).
+- Approaches: textual, intentional, and teleological (object and purpose); effectiveness (*ut res magis valeat quam pereat*).
+
+TIP: Learn Art. 38(1) word for word; it organises the whole topic. For custom, give the two elements with North Sea and Lotus; for India, cite the Right of Passage case.
+
+* Art. 38 lists treaties, custom, general principles, and subsidiary means.
+* Custom needs State practice and opinio juris (North Sea); regional and bilateral custom possible (Asylum; Right of Passage).
+* Treaties defined in VCLT Art. 2; pacta sunt servanda (Art. 26); jus cogens (Arts. 53, 64).
+* In India treaty-making is executive; implementation by Parliament under Art. 253.
+* Interpretation by ordinary meaning, context, object and purpose (Art. 31).
+
+QL: Discuss custom as a source of international law with reference to the North Sea Continental Shelf and Right of Passage cases.
+QL: Define a treaty. What are the essentials of a valid treaty? Explain jus cogens.
+QL: Discuss the treaty-making power in India and the implementation of treaties.
+QL: Explain the rules of treaty interpretation under the Vienna Convention.
+QS: Opinio juris
+QS: Persistent objector
+QS: Pacta sunt servanda
+QS: Rebus sic stantibus
+
+MCQ: The two elements of custom are || treaty and practice | *State practice and opinio juris | recognition and consent | resolution and treaty || North Sea (1969).
+MCQ: In the Right of Passage case (1960), the ICJ recognised Portugal's right of passage for || armed forces | *civilians, officials and goods | arms and ammunition | police only || A bilateral local custom.
+MCQ: A treaty conflicting with a peremptory norm is void under || Art. 26 VCLT | *Art. 53 VCLT | Art. 31 VCLT | Art. 62 VCLT || Jus cogens.
+
+# 3 | International adjudication and law-creating processes
+@topics General principles of law and the writings of publicists as subsidiary sources; International law-creating acts; Resolutions of the General Assembly; Status of specialised agencies; Role of international NGOs
+>> Beyond treaties and custom, general principles, judicial decisions, writings, UN resolutions and the work of agencies and NGOs shape international law.
+
+## 3.1 General principles and subsidiary means
+- **General principles of law recognised by civilised nations** (Art. 38(1)(c)): principles common to major legal systems, used to fill gaps: good faith, res judicata, estoppel, reparation for injury (Chorzów Factory, 1928: "it is a principle of international law that the breach of an engagement involves an obligation to make reparation in an adequate form"), equity, proportionality, due process.
+- **Judicial decisions** (Art. 38(1)(d)): subsidiary means; the ICJ is not bound by precedent (Art. 59), but follows its earlier decisions for consistency; decisions of arbitral tribunals and national courts also contribute.
+- **Teachings of publicists**: Grotius, Vattel, Oppenheim, Lauterpacht; today, the International Law Commission's drafts (Articles on State Responsibility, 2001).
+
+## 3.2 International law-creating acts
+Unilateral declarations can bind a State if made publicly with intent to be bound.
+
+CASE: Nuclear Tests cases (Australia v France; New Zealand v France) (1974) :: Public statements by French authorities that France would stop atmospheric nuclear tests were held to create a binding legal obligation, as they were made publicly and with intent to be bound.
+
+## 3.3 Resolutions of the General Assembly
+- Under the UN Charter (Arts. 10 to 14), GA resolutions are recommendations, not binding (except on internal matters such as budget and admission).
+- But they may: (1) declare existing custom; (2) crystallise emerging custom; (3) provide evidence of opinio juris; (4) be the starting point for treaties.
+- Examples: Universal Declaration of Human Rights (1948); Declaration on Granting Independence to Colonial Countries and Peoples (1960, Res. 1514); Declaration on Principles of International Law concerning Friendly Relations (1970, Res. 2625); Permanent Sovereignty over Natural Resources (1962, Res. 1803).
+
+CASE: Military and Paramilitary Activities in and against Nicaragua (Nicaragua v USA) (1986) :: The ICJ held that opinio juris may be deduced from the attitude of States towards GA resolutions such as Res. 2625; consent to such resolutions may be an acceptance of the validity of the rules declared. The prohibition of the use of force and the principle of non-intervention are part of customary international law.
+
+CASE: Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion) (1996) :: The Court noted that GA resolutions, even if not binding, may have normative value and provide evidence for establishing a rule or the emergence of opinio juris, looking at their content and the conditions of their adoption.
+
+## 3.4 Status of specialised agencies
+- Specialised agencies (ILO, WHO, UNESCO, ICAO, IMO, ITU, WIPO, FAO) are autonomous organisations linked to the UN by agreements under Arts. 57 and 63 of the Charter.
+- They have international legal personality, adopt conventions and regulations (WHO's International Health Regulations, 2005; ICAO's standards), and may request advisory opinions from the ICJ with GA authorisation (Art. 96(2)).
+
+CASE: Reparation for Injuries Suffered in the Service of the United Nations (Advisory Opinion) (1949) :: After the assassination of UN mediator Count Bernadotte, the ICJ held that the UN has international legal personality and capacity to bring an international claim against a State to obtain reparation for damage caused to the UN and its agents.
+
+## 3.5 Role of international NGOs
+- NGOs (International Committee of the Red Cross, Amnesty International, Human Rights Watch, Greenpeace) influence law-making through advocacy, expertise and monitoring.
+- The ICRC has a special status under the Geneva Conventions.
+- The **International Campaign to Ban Landmines** led to the Ottawa Convention (1997); a coalition of NGOs helped create the International Criminal Court (Rome Statute, 1998); the **International Campaign to Abolish Nuclear Weapons** promoted the Treaty on the Prohibition of Nuclear Weapons (2017).
+- NGOs have consultative status with ECOSOC (Art. 71 of the Charter) and may file amicus submissions in some tribunals.
+
+* General principles fill gaps (Chorzów Factory: reparation).
+* Judicial decisions and writings are subsidiary; ILC drafts are influential.
+* Unilateral declarations can bind (Nuclear Tests).
+* GA resolutions are not binding but can evidence opinio juris (Nicaragua; Nuclear Weapons AO).
+* Specialised agencies and the UN have legal personality (Reparation AO).
+* NGOs shape treaty-making (landmines, ICC).
+
+QL: Discuss the role of General Assembly resolutions in the formation of international law.
+QL: Explain general principles of law and judicial decisions as sources of international law.
+QL: Examine the role of NGOs in international law-making.
+QS: Reparation for Injuries advisory opinion
+QS: Unilateral declarations
+QS: International Law Commission
+
+MCQ: The UN was held to possess international legal personality in || Nicaragua | *Reparation for Injuries (1949) | Lotus | North Sea || Advisory opinion.
+MCQ: Public statements by France were held binding in || Lotus | *Nuclear Tests cases (1974) | Asylum | Tinoco || Unilateral declarations.
+MCQ: General Assembly resolutions are, as a rule, || binding on all members | *recommendations, though they may evidence custom | binding only on those who vote for them | void || Arts. 10 to 14 of the Charter.
+
+# 4 | Individuals, non-State communities and peoples
+@topics Traditional view of the individual as object; Post-Charter modification: individual as subject
+>> Traditionally only States had rights and duties under international law; after 1945, human rights law and international criminal law made the individual a subject.
+
+## 4.1 The traditional view
+- Individuals were objects of international law: their interests were protected only through their State (diplomatic protection). A State could espouse its national's claim (Mavrommatis Palestine Concessions, 1924), and an individual had no remedy if his own State harmed him.
+- Exceptions: piracy (an individual crime under international law), slave trade, and treaty provisions conferring rights on individuals if the parties so intended (Danzig Railway Officials advisory opinion, 1928).
+
+## 4.2 Post-Charter modification
+- **UN Charter** (1945): Preamble and Arts. 1(3), 55, 56 promote human rights.
+- **Universal Declaration of Human Rights** (1948); **International Covenant on Civil and Political Rights** and **International Covenant on Economic, Social and Cultural Rights** (1966), ratified by India in 1979; conventions on genocide, racial discrimination, women (CEDAW), torture (India has signed but not ratified CAT), children, persons with disabilities.
+- **Individual complaints**: Optional Protocol to ICCPR (India not a party); regional courts (European Court of Human Rights) allow individual petitions.
+- **Individual criminal responsibility**: Nuremberg and Tokyo tribunals (1945 to 1948); ICTY (1993) and ICTR (1994); International Criminal Court (Rome Statute, 1998; India not a party) for genocide, crimes against humanity, war crimes and aggression. The Nuremberg Tribunal said crimes against international law are committed by men, not abstract entities.
+- **Non-State communities and peoples**: right of self-determination (Common Art. 1 of the Covenants; GA Res. 1514). Indigenous peoples (UN Declaration on the Rights of Indigenous Peoples, 2007).
+
+CASE: Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965 (Advisory Opinion) (2019) :: The ICJ held that the right of self-determination is a customary norm with erga omnes character, that the decolonisation of Mauritius was not lawfully completed, and that the UK must end its administration of the Chagos Archipelago as rapidly as possible. (The UK and Mauritius concluded a treaty in 2025 transferring sovereignty over the Chagos to Mauritius.)
+
+* Traditionally individuals were objects protected through diplomatic protection.
+* Danzig Railway Officials (1928): treaties can confer rights on individuals.
+* Post-1945: human rights treaties and international criminal law make individuals subjects.
+* Self-determination is a customary erga omnes norm (Chagos, 2019).
+
+QL: "The individual has become a subject of international law." Discuss.
+QL: Discuss the development of international human rights law and individual criminal responsibility after 1945.
+QS: Diplomatic protection
+QS: Danzig Railway Officials case
+QS: Right of self-determination
+
+MCQ: Individual criminal responsibility under international law was established at || Westphalia | *Nuremberg | Versailles | Montevideo || 1945 to 1946.
+MCQ: India ratified the ICCPR and ICESCR in || 1966 | *1979 | 1993 | 2005 || Both Covenants.
+
+# 5 | Jurisdiction, common heritage and the law of the sea
+@topics Equitable resource utilisation and just world order; Traditional concepts of State jurisdiction; Common heritage of mankind; From mare liberum to common heritage; Territorial waters; Continental shelf; Sea-bed and ocean floor; Antarctica
+>> States exercise jurisdiction mainly over their territory and nationals. The oceans moved from Grotius's freedom of the seas to the UNCLOS regime of zones, with the deep sea-bed as the common heritage of mankind.
+
+## 5.1 Traditional concepts of State jurisdiction
+| Principle | Basis | Example |
+|---|---|---|
+| Territorial | Acts within the State's territory (subjective) or with effects there (objective) | Lotus case (1927); Mobarik Ali Ahmed v State of Bombay (1957) |
+| Nationality (active personality) | Acts of nationals abroad | s.1(5)(a) BNS (Indian citizens outside India) |
+| Passive personality | Acts against nationals abroad | Increasingly used for terrorism |
+| Protective | Acts threatening the State's security | Counterfeiting currency abroad |
+| Universal | Crimes against all humanity | Piracy, war crimes, genocide; Eichmann (Israel, 1961) |
+
+Immunities limit jurisdiction: sovereign immunity (absolute vs restrictive), diplomatic immunity (Vienna Convention on Diplomatic Relations, 1961).
+
+## 5.2 Common heritage of mankind
+- **Mare liberum** (Grotius, 1609): the sea is free and cannot be owned. **Mare clausum** (Selden, 1635): the sea can be appropriated.
+- After 1945: coastal States extended claims (Truman Proclamation on the continental shelf, 1945).
+- Arvid Pardo (Malta) in 1967 proposed that the sea-bed beyond national jurisdiction be the **common heritage of mankind**: not subject to appropriation, used for peaceful purposes, managed by an international authority, with benefits shared, especially with developing countries. Adopted in GA Res. 2749 (1970) and UNCLOS Part XI; also in the Moon Agreement (1979).
+- Equitable resource utilisation and a just world order (New International Economic Order, 1974) reflect demands of developing States.
+
+## 6 Law of the sea: UNCLOS, 1982
+India ratified UNCLOS in 1995; domestic law is the **Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976**.
+| Zone | Extent from baselines | Rights |
+|---|---|---|
+| Internal waters | Landward of baselines | Full sovereignty |
+| Territorial sea | Up to 12 nautical miles (Art. 3) | Sovereignty, subject to innocent passage of foreign ships (Arts. 17 to 19) |
+| Contiguous zone | Up to 24 nautical miles (Art. 33) | Control to prevent and punish infringement of customs, fiscal, immigration and sanitary laws |
+| Exclusive economic zone | Up to 200 nautical miles (Art. 57) | Sovereign rights over natural resources, living and non-living; jurisdiction over artificial islands, research, environment; other States enjoy navigation and overflight |
+| Continental shelf | Natural prolongation to the outer edge of the continental margin, or 200 nm; up to 350 nm in some cases (Art. 76) | Sovereign rights to explore and exploit natural resources |
+| High seas | Beyond the EEZ | Freedom of navigation, overflight, fishing, cables, research (Art. 87) |
+| The Area (sea-bed beyond national jurisdiction) | Beyond the continental shelf | Common heritage of mankind (Art. 136); managed by the International Seabed Authority |
+
+- **Innocent passage**: passage is innocent so long as it is not prejudicial to the peace, good order or security of the coastal State (Art. 19), with a list of non-innocent activities.
+- **Dispute settlement**: International Tribunal for the Law of the Sea (Hamburg), ICJ, or arbitration (Annex VII).
+
+CASE: Enrica Lexie Incident (Italy v India) (2020) :: Two Italian marines on board the Enrica Lexie shot and killed two Indian fishermen off Kerala in 2012. An Annex VII arbitral tribunal held that India had jurisdiction and Italy had breached India's freedom of navigation rights, but the marines enjoyed functional immunity as State officials, so India could not prosecute them; India was entitled to compensation, which Italy paid.
+
+- **BBNJ Agreement (2023)**: the Agreement on marine Biological Diversity of Areas Beyond National Jurisdiction, adopted under UNCLOS, entered into force in January 2026 after reaching 60 ratifications.
+
+## 6.4 Special problem of Antarctica
+- **Antarctic Treaty, 1959**: Antarctica to be used for peaceful purposes only; freedom of scientific research; territorial claims frozen (no new claims, and existing ones neither recognised nor renounced) (Art. IV); prohibition of nuclear explosions and radioactive waste disposal.
+- **Madrid Protocol on Environmental Protection (1991)**: Antarctica designated a natural reserve; mineral resource activities prohibited.
+- India acceded in 1983, maintains research stations (Maitri, Bharati), and enacted the **Indian Antarctic Act, 2022**.
+- Debate: claimant States versus the common heritage approach favoured by developing countries.
+
+TIP: Draw the maritime zones as a diagram with their widths (12, 24, 200, up to 350 nautical miles). It earns marks and helps memory.
+
+* Jurisdiction: territorial, nationality, passive personality, protective, universal.
+* From mare liberum to the common heritage of mankind (Pardo; Res. 2749; UNCLOS Part XI).
+* UNCLOS zones: 12 nm territorial sea, 24 nm contiguous zone, 200 nm EEZ, continental shelf up to 350 nm, high seas and the Area.
+* Enrica Lexie: functional immunity of the marines, compensation to India.
+* Antarctic Treaty (1959) freezes claims; Madrid Protocol bans mining; Indian Antarctic Act, 2022.
+
+QL: Explain the principles of State jurisdiction in international law.
+QL: Discuss the various maritime zones under UNCLOS, 1982 and the rights of coastal States.
+QL: Explain the concept of common heritage of mankind with reference to the sea-bed and outer space.
+QL: Discuss the legal regime of Antarctica.
+QS: Innocent passage
+QS: Exclusive economic zone
+QS: Enrica Lexie case
+QS: Universal jurisdiction
+
+MCQ: The breadth of the territorial sea under UNCLOS is || 3 nm | *12 nm | 24 nm | 200 nm || Art. 3.
+MCQ: The concept of the common heritage of mankind for the sea-bed was proposed by || Grotius | *Arvid Pardo | Selden | Truman || 1967.
+MCQ: In the Enrica Lexie arbitration, the Italian marines were held to enjoy || no immunity | *functional immunity as State officials | diplomatic immunity | universal jurisdiction || 2020.
+
+# 6 | Air and space law, and transboundary pollution
+@topics Law of outer space; the Moon Treaty; geostationary orbit; Liability for hazards; Transboundary pollution accidents: Chernobyl, Basel, Bhopal
+>> States have complete sovereignty over their airspace, but outer space is free for exploration and use by all. Liability for damage from space objects and hazardous activities is largely strict.
+
+## Air law
+- **Chicago Convention on International Civil Aviation (1944)**: every State has complete and exclusive sovereignty over the airspace above its territory (Art. 1); establishes ICAO; scheduled international air services need permission.
+- **Freedoms of the air**: the International Air Services Transit Agreement (two freedoms: overflight and technical landing) and the International Air Transport Agreement (five freedoms).
+- **Carrier liability**: Warsaw Convention (1929) and the Montreal Convention (1999), which India has ratified (Carriage by Air Act, 1972, as amended 2009).
+
+## 7.1 Law of outer space
+- **Outer Space Treaty (1967)**: exploration and use of outer space shall be for the benefit of all countries and the province of all mankind; outer space, including the Moon and celestial bodies, is not subject to national appropriation (Art. II); no nuclear weapons in orbit (Art. IV); States bear international responsibility for national activities, including by private entities (Art. VI), and are liable for damage (Art. VII).
+- **Rescue Agreement (1968)**; **Liability Convention (1972)**; **Registration Convention (1975)**.
+- **Moon Agreement (1979)**: the Moon and its natural resources are the common heritage of mankind; an international regime is to govern exploitation. Few States are parties; India signed but has not ratified.
+- **Artemis Accords (2020)**: non-binding principles led by the US for lunar exploration; India signed in 2023.
+- **Geostationary orbit**: about 36,000 km above the equator, a limited natural resource. Equatorial States in the **Bogotá Declaration (1976)** claimed sovereignty over the segments above them; this was rejected as contrary to Art. II of the Outer Space Treaty. The ITU allocates orbital positions and frequencies, with provisions for equitable access for developing countries.
+- **India**: ISRO; Indian Space Policy, 2023; IN-SPACe for private actors; a national space activities law has been under consideration.
+
+## 7.2 Liability for hazards in space
+SEC: Liability Convention, 1972, Arts. II and III :: A launching State shall be absolutely liable to pay compensation for damage caused by its space object on the surface of the earth or to aircraft in flight. In the event of damage caused elsewhere than on the surface of the earth to a space object of one launching State, or to persons or property on board such a space object, by a space object of another launching State, the latter shall be liable only if the damage is due to its fault or the fault of persons for whom it is responsible.
+
+CASE: Cosmos 954 incident (Canada v USSR) (1978 to 1981) :: A Soviet nuclear-powered satellite crashed in northern Canada, scattering radioactive debris. Canada claimed compensation under the Liability Convention and general international law; the USSR paid CAD 3 million in settlement.
+
+## 7.3 Transboundary pollution accidents
+| Incident | Legal response |
+|---|---|
+| Chernobyl nuclear accident (USSR, 1986) | Convention on Early Notification of a Nuclear Accident (1986) and Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency (1986); strengthened nuclear liability conventions (Vienna, Paris, Convention on Supplementary Compensation for Nuclear Damage, which India ratified in 2016) |
+| Transboundary movement of hazardous wastes (dumping in Africa in the 1980s) | Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (1989): prior informed consent; Basel Ban Amendment (in force 2019) |
+| Bhopal gas disaster (India, 1984) | Not transboundary, but showed the difficulty of holding multinational parents liable; led to absolute liability in Indian law (M.C. Mehta, 1987) and debates on corporate accountability |
+| General principle | Trail Smelter (1941): no State may use its territory to cause serious injury to another; Rio Principle 2; duty of prevention and environmental impact assessment (Pulp Mills, 2010) |
+
+## Recent judgments (2025–26)
+
+CASE: Obligations of States in respect of Climate Change (ICJ Advisory Opinion, 2025) :: The ICJ unanimously advised that States have binding obligations under the climate treaties and customary law, including the duty to prevent significant transboundary harm and to cooperate. These customary duties bind all States, even non-parties to the climate treaties, and their breach can engage State responsibility.
+
+* ICJ climate advisory opinion (2025): no-harm and cooperation duties bind all States.
+* Airspace is sovereign (Chicago Convention, Art. 1); outer space is free and not appropriable (Outer Space Treaty, Art. II).
+* Moon Agreement makes lunar resources common heritage; few parties.
+* Geostationary orbit claims (Bogotá Declaration) rejected; ITU allocates slots.
+* Absolute liability for surface damage by space objects (Liability Convention, Art. II); Cosmos 954.
+* Chernobyl led to notification and assistance conventions; Basel Convention controls hazardous waste.
+
+QL: Discuss the legal regime governing outer space, with reference to the Outer Space Treaty and the Moon Agreement.
+QL: Explain the liability of States for damage caused by space objects.
+QL: Discuss the international legal response to transboundary pollution accidents, with reference to Chernobyl and the Basel Convention.
+QS: Geostationary orbit
+QS: Cosmos 954
+QS: Chicago Convention
+
+MCQ: Under the Liability Convention, liability for damage on the earth's surface is || fault-based | *absolute | limited to $1 million | not provided || Art. II.
+MCQ: The Bogotá Declaration (1976) concerned || the high seas | *the geostationary orbit | Antarctica | the Moon || Claims by equatorial States.
+MCQ: The Basel Convention deals with || ozone depletion | *transboundary movement of hazardous wastes | nuclear accidents | climate change || 1989.
+MCQ: The ICJ delivered its advisory opinion on the obligations of States in respect of climate change on || *23 July 2025 | 21 May 2024 | 12 December 2015 | 1 January 2026 || Unanimous opinion.
+
+# 7 | International economic law
+@topics IBRD and IMF; GATT; UNCTAD and WTO
+>> The Bretton Woods institutions and the multilateral trading system govern international finance and trade. India is a founding member of all of them.
+
+## 8.1 IBRD and IMF
+- Created at the **Bretton Woods Conference (1944)**.
+- **International Bank for Reconstruction and Development (IBRD)**: part of the World Bank Group, lends to middle-income countries for development; the IDA lends on concessional terms to the poorest. Other members of the group: IFC, MIGA, ICSID (India is not a party to the ICSID Convention).
+- **International Monetary Fund (IMF)**: promotes monetary cooperation, exchange rate stability and balance of payments support; quota-based voting; Special Drawing Rights; surveillance under Article IV. India obtained IMF support in 1991, triggering economic reforms.
+- Criticisms: weighted voting dominated by developed countries; conditionality; calls for quota reform.
+
+## 8.2 GATT
+- **General Agreement on Tariffs and Trade (1947)**: provisional agreement to reduce tariffs and trade barriers. Core principles:
+  - **Most-favoured-nation treatment** (Art. I): any advantage given to one member's products must be given to like products of all members.
+  - **National treatment** (Art. III): imported products must be treated no less favourably than like domestic products once they enter the market.
+  - Tariff bindings (Art. II); prohibition of quantitative restrictions (Art. XI), with exceptions for balance of payments (Art. XVIII:B), general exceptions (Art. XX: public morals, health, conservation) and security (Art. XXI).
+- Eight rounds of negotiations, ending with the **Uruguay Round (1986 to 1994)**.
+
+## 8.3 UNCTAD and WTO
+- **UNCTAD** (UN Conference on Trade and Development, 1964): a permanent UN body representing developing countries' interests in trade and development; produced the Generalised System of Preferences and pushed the New International Economic Order.
+- **WTO** (established 1 January 1995 by the Marrakesh Agreement):
+  - Agreements: GATT 1994; GATS (services); TRIPS (intellectual property); TRIMs (investment measures); Agreement on Agriculture; SPS and TBT Agreements; anti-dumping, subsidies and safeguards.
+  - **Dispute Settlement Understanding**: panels and the Appellate Body, with binding rulings. The Appellate Body has been non-functional since December 2019 because the US blocked appointments; some members use the interim appeal arbitration arrangement (MPIA), which India has not joined.
+  - **Special and differential treatment** for developing countries.
+  - **India's cases**: India – Quantitative Restrictions (1999, India lost the balance of payments justification); India – Solar Cells (2016, domestic content requirements violated national treatment); disputes over agricultural public stockholding (the Bali "peace clause", 2013).
+
+TIP: Explain MFN and national treatment with one example each; they are the pillars of GATT and appear in almost every WTO answer.
+
+## Recent judgments (2025–26)
+
+CASE: Authority for Advance Rulings v Tiger Global International II Holdings (2026) :: The Supreme Court held that a Tax Residency Certificate does not, by itself, secure treaty benefits. Where an arrangement lacks commercial substance, India may deny benefits under the India–Mauritius treaty and apply its general anti-avoidance rules.
+
+* TRC not conclusive for treaty benefits (Tiger Global, 2026).
+* Bretton Woods (1944) created the IBRD and IMF; quota-weighted voting.
+* GATT (1947): MFN (Art. I), national treatment (Art. III), tariff bindings, exceptions (Arts. XX, XXI).
+* UNCTAD (1964) represents developing country interests.
+* WTO (1995): GATT 1994, GATS, TRIPS, DSU; Appellate Body paralysed since 2019.
+* India's WTO disputes: Quantitative Restrictions, Solar Cells.
+
+QL: Discuss the role of the IMF and the World Bank in the international economic order.
+QL: Explain the basic principles of GATT and the structure of the WTO.
+QL: Examine the WTO dispute settlement system and its current crisis.
+QS: Most-favoured-nation treatment
+QS: UNCTAD
+QS: Bretton Woods Conference
+
+MCQ: The most-favoured-nation principle is in || Art. III GATT | *Art. I GATT | Art. XX GATT | Art. XXI GATT || Non-discrimination among members.
+MCQ: The WTO came into existence on || 1 January 1948 | *1 January 1995 | 1 January 2001 | 15 April 1994 || Marrakesh Agreement signed 15 April 1994.
+MCQ: The WTO Appellate Body has been non-functional since || 2015 | *December 2019 | 2023 | it is fully functional || Appointments blocked.
+
+# 8 | International organisations
+@topics League of Nations; United Nations; General Assembly; Security Council; International Court of Justice; Economic and Social Council; Trusteeship Council; Secretariat; Specialised agencies: ILO, WHO, UNESCO
+>> The League of Nations failed to prevent war; the United Nations, built on its lessons, became the central organisation for peace, security, development and human rights.
+
+## 9.1.1 League of Nations (1919 to 1946)
+- Created by the Covenant in the Treaty of Versailles (1919); aims: collective security, disarmament, settlement of disputes, mandates system.
+- Organs: Assembly, Council, Secretariat; the Permanent Court of International Justice (1922) was associated with it.
+- **Failure**: unanimity rule; absence of the US and later withdrawal of Germany, Japan and Italy; weak sanctions; failure to stop Japan in Manchuria (1931) and Italy in Ethiopia (1935); collapse with the Second World War. India was an original member.
+
+## 9.1.2 United Nations (1945)
+- UN Charter signed at San Francisco on 26 June 1945; in force 24 October 1945. India is an original member.
+- **Purposes** (Art. 1): maintain international peace and security; develop friendly relations based on equal rights and self-determination; achieve international cooperation; be a centre for harmonising actions.
+- **Principles** (Art. 2): sovereign equality; good faith; peaceful settlement of disputes; prohibition of the threat or use of force (Art. 2(4)); non-intervention in domestic jurisdiction (Art. 2(7)).
+- **Principal organs** (Art. 7): General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ, Secretariat.
+
+## 9.1.3 General Assembly
+- All member States (193), one vote each (Art. 18); important questions by two-thirds majority.
+- Functions: discuss any matter within the Charter and make recommendations (Arts. 10 to 14); approve the budget (Art. 17); elect non-permanent Security Council members, ECOSOC members and, with the Security Council, judges of the ICJ and the Secretary-General; admit new members on Security Council recommendation (Art. 4).
+- **Uniting for Peace Resolution (1950)**: where the Security Council fails due to veto, the GA may consider the matter and recommend collective measures.
+
+## 9.1.4 Security Council
+- 15 members: five permanent (China, France, Russia, UK, USA) with veto, and ten non-permanent elected for two years (Art. 23). India has served eight times, most recently in 2021 to 2022, and seeks a permanent seat.
+- Primary responsibility for international peace and security (Art. 24); decisions binding on members (Art. 25).
+- **Voting** (Art. 27): procedural matters by nine affirmative votes; substantive matters by nine votes including the concurring votes of the permanent members (veto); abstention is not treated as a veto by practice (Namibia advisory opinion, 1971).
+- **Chapter VI**: pacific settlement of disputes. **Chapter VII**: action with respect to threats to the peace, breaches of the peace and acts of aggression (Art. 39 determination; provisional measures Art. 40; non-military sanctions Art. 41; military action Art. 42).
+- **Self-defence** (Art. 51): the inherent right of individual or collective self-defence if an armed attack occurs, until the Council acts.
+
+## 9.1.5 International Court of Justice
+- Principal judicial organ (Art. 92); seated at The Hague; 15 judges elected for nine years by the GA and SC; the Statute is part of the Charter.
+- **Contentious jurisdiction**: only States may be parties (Art. 34); based on consent: special agreement, compromissory clauses in treaties, or optional clause declarations (Art. 36(2)) (India's declaration excludes disputes with Commonwealth members and other matters).
+- **Advisory jurisdiction** (Art. 65; Charter Art. 96): at the request of the GA, SC or authorised agencies; not binding but authoritative.
+- Judgments binding on parties (Art. 59); enforcement through the Security Council (Charter Art. 94).
+- **Indian cases**: Right of Passage (1960); Appeal relating to the Jurisdiction of the ICAO Council (India v Pakistan, 1972); Aerial Incident of 10 August 1999 (Pakistan v India, 2000, no jurisdiction); **Jadhav case (India v Pakistan) (2019)**: Pakistan violated Art. 36 of the Vienna Convention on Consular Relations by denying consular access to Kulbhushan Jadhav and must provide effective review and reconsideration of his conviction.
+- Recent advisory opinions: Chagos (2019); Legal Consequences of Israel's Policies in the Occupied Palestinian Territory (2024); **Obligations of States in respect of Climate Change (2025)**.
+
+## 9.1.6 Economic and Social Council
+54 members elected by the GA for three years; coordinates economic, social, cultural, educational and health matters; makes recommendations; coordinates specialised agencies (Arts. 61 to 72); consultative status for NGOs (Art. 71).
+
+## 9.1.7 Trusteeship Council
+Supervised trust territories (former mandates and territories detached from enemy States). Suspended operation on 1 November 1994 after Palau, the last trust territory, became independent. It now exists only on paper.
+
+## 9.1.8 Secretariat
+Headed by the Secretary-General, appointed by the GA on SC recommendation (Art. 97); the chief administrative officer; may bring to the SC's attention any matter that threatens peace (Art. 99); international civil servants must be independent (Art. 100).
+
+## 9.2 Specialised agencies
+| Agency | Founded | Role |
+|---|---|---|
+| International Labour Organisation (ILO) | 1919 (Treaty of Versailles); specialised agency since 1946 | Tripartite (governments, employers, workers); international labour standards; supervisory machinery; Nobel Peace Prize 1969 |
+| World Health Organisation (WHO) | 1948 | International health work; International Health Regulations (2005); the WHO Pandemic Agreement was adopted by the World Health Assembly in May 2025 |
+| UNESCO | 1945 | Education, science and culture; World Heritage Convention (1972); India has many World Heritage Sites |
+
+TIP: For the Security Council, always discuss Art. 27 (veto), Chapter VII (Arts. 39 to 42), Art. 51 and India's demand for reform.
+
+* League failed due to unanimity, absences and weak sanctions.
+* UN principles in Art. 2, including prohibition of force (Art. 2(4)).
+* GA: recommendations; Uniting for Peace (1950).
+* SC: P5 veto (Art. 27); Chapter VII enforcement; Art. 51 self-defence.
+* ICJ: consent-based jurisdiction; advisory opinions; Jadhav (2019).
+* Trusteeship Council suspended since 1994.
+* ILO (tripartite), WHO (IHR, Pandemic Agreement 2025), UNESCO (World Heritage).
+
+QL: Why did the League of Nations fail? How does the UN differ from it?
+QL: Discuss the composition, functions and voting procedure of the Security Council. Should it be reformed?
+QL: Explain the contentious and advisory jurisdiction of the International Court of Justice.
+QL: Write notes on the ILO, WHO and UNESCO.
+QS: Uniting for Peace Resolution
+QS: Veto power
+QS: Jadhav case
+QS: Trusteeship Council
+
+MCQ: The prohibition of the threat or use of force is in || Art. 1 | *Art. 2(4) | Art. 51 | Art. 27 || UN Charter.
+MCQ: Only States may be parties in contentious cases before the ICJ under || Art. 36 | *Art. 34 of the Statute | Art. 65 | Art. 59 || ICJ Statute.
+MCQ: The Trusteeship Council suspended operations in || 1960 | 1975 | *1994 | 2005 || After Palau's independence.
+MCQ: In the Jadhav case, the ICJ found that Pakistan violated || the Genocide Convention | *the Vienna Convention on Consular Relations | the Simla Agreement | the ICCPR || 2019.
+
+# 9 | International law and terrorism
+@topics International law and terrorism
+>> There is no comprehensive treaty definition of terrorism, but a network of sectoral conventions, Security Council resolutions and national laws criminalise terrorist acts and their financing.
+
+## The problem of definition
+- No universally agreed definition: "one man's terrorist is another man's freedom fighter". Disputes concern the status of national liberation movements and State terrorism.
+- **Comprehensive Convention on International Terrorism (CCIT)**: proposed by India in 1996 at the UN; negotiations stalled over the definition and exclusions.
+- The Special Tribunal for Lebanon (2011) suggested that a customary definition exists: a criminal act intended to spread fear or coerce a government, with a transnational element.
+
+## Sectoral conventions
+| Convention | Subject |
+|---|---|
+| Tokyo (1963), Hague (1970), Montreal (1971) Conventions | Offences on board aircraft, hijacking, sabotage of civil aviation |
+| Convention on Internationally Protected Persons (1973) | Attacks on diplomats |
+| Hostages Convention (1979) | Hostage-taking |
+| SUA Convention (1988) | Maritime navigation |
+| Terrorist Bombings Convention (1997) | Bombings in public places |
+| Terrorist Financing Convention (1999) | Financing of terrorism |
+| Nuclear Terrorism Convention (2005) | Nuclear and radioactive material |
+These follow the principle of *aut dedere aut judicare* (extradite or prosecute).
+
+## Security Council action
+- **Resolution 1267 (1999)**: sanctions against the Taliban and later Al-Qaida (the ISIL and Al-Qaida sanctions list); listing of individuals and entities.
+- **Resolution 1373 (2001)**, after the September 11 attacks, under Chapter VII: all States must criminalise financing, freeze terrorist assets, deny safe haven, and cooperate; created the Counter-Terrorism Committee.
+- **Resolution 1540 (2004)**: prevent non-State actors from acquiring weapons of mass destruction.
+- **Resolution 2178 (2014)**: foreign terrorist fighters.
+- **Financial Action Task Force (FATF)**: standards against terrorist financing and money laundering; grey listing.
+
+## Self-defence against non-State actors
+- Art. 51 permits self-defence "if an armed attack occurs". Whether an attack by non-State actors operating from another State justifies force on that State's territory is debated. The ICJ (Wall advisory opinion, 2004; Armed Activities, DRC v Uganda, 2005) took a restrictive view; some States rely on the "unwilling or unable" doctrine.
+
+## India and terrorism
+- **Unlawful Activities (Prevention) Act, 1967** (amended 2004, 2008, 2012, 2019): terrorist acts, organisations and individuals designated as terrorists; NIA Act, 2008.
+- **s.113 BNS** (terrorist act) since 2024.
+- India has ratified the major sectoral conventions and supports the CCIT; it has relied on Art. 51 after cross-border attacks.
+
+CASE: Kartar Singh v State of Punjab (1994) :: The Supreme Court upheld the Terrorist and Disruptive Activities (Prevention) Act, 1987 as within Parliament's competence (defence of India), but stressed safeguards against misuse, including review committees and guidelines on confessions.
+
+CASE: People's Union for Civil Liberties v Union of India (2004) :: The Court upheld the Prevention of Terrorism Act, 2002, holding that terrorism threatens the sovereignty and integrity of the nation and Parliament could legislate against it, subject to safeguards.
+
+* No universally agreed definition; India proposed the CCIT (1996).
+* Sectoral conventions with aut dedere aut judicare.
+* Security Council Resolutions 1267, 1373, 1540, 2178; FATF standards.
+* Self-defence against non-State actors remains contested.
+* India: UAPA, NIA Act, s.113 BNS; anti-terror laws upheld with safeguards (Kartar Singh; PUCL).
+
+QL: Discuss the problem of defining terrorism in international law and the efforts to combat it.
+QL: Examine the role of the Security Council in combating international terrorism.
+QL: Can a State use force in self-defence against terrorist groups operating from another State?
+QS: Aut dedere aut judicare
+QS: Resolution 1373
+QS: Comprehensive Convention on International Terrorism
+
+MCQ: The Comprehensive Convention on International Terrorism was proposed by || USA | *India | UK | Russia || 1996.
+MCQ: Security Council Resolution 1373 was adopted after || the Mumbai attacks | *the September 11 attacks | the Parliament attack | the Bali bombings || 2001, under Chapter VII.
+MCQ: The principle "extradite or prosecute" is || pacta sunt servanda | *aut dedere aut judicare | rebus sic stantibus | jus cogens || Common in anti-terror conventions.

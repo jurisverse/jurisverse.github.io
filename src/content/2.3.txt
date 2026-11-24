@@ -1,0 +1,542 @@
+@title Environmental Law
+@subtitle Pollution control, forests and wildlife, constitutional and international environmental law, and judicial activism
+@paper 2.3
+@sem II
+@color #2f5d3a
+@dark #284f31
+@intro Covers the meaning of environment and pollution, the classification of environmental laws, the institutions that enforce them, constitutional and international principles, legal strategies and the role of the courts, including the Wild Life (Protection) Act, 1972 and recent amendments up to 2025.
+@reading Anil Agarwal (ed.), The State of India's Environment: The Second Citizens' Report
+@reading Chhatrapati Singh, Common Property and Common Poverty
+@reading Jayal, Bandyopadhyay and Singh (eds.), India's Environment: Crises and Responses
+@reading P. Leelakrishnan, Environmental Law in India
+@reading S.N. Jain (ed.), Pollution Control and the Law
+@reading Upendra Baxi, The Bhopal Case
+@reading Shyam Divan and Armin Rosencranz, Environmental Law and Policy in India
+@reading Gregory E. Kaebnick, "At the Borders of Bioethics", Hastings Center Report (2018)
+
+# 1 | Meaning of environment and pollution
+@topics Definitions in the Environment (Protection) Act, 1986 and the Water Act, 1974; Forests under the Indian Forest Act, 1927 and the Forest (Conservation) Act, 1980; Environment in the Constitution; Causative factors of pollution
+>> Indian law defines environment broadly, as the web of relationships among water, air, land, living creatures and property, and treats pollution as anything that harms that web.
+
+## Statutory definitions
+SEC: s.2(a), Environment (Protection) Act, 1986 :: "Environment" includes water, air and land and the inter-relationship which exists among and between water, air and land, and human beings, other living creatures, plants, micro-organism and property.
+SEC: s.2(b) and (c), EPA :: "Environmental pollutant" means any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment. "Environmental pollution" means the presence in the environment of any environmental pollutant.
+- s.2(e) defines "hazardous substance" as any substance or preparation which, by reason of its chemical or physico-chemical properties or handling, is liable to cause harm to human beings, other living creatures, plants, micro-organisms, property or the environment.
+
+SEC: s.2(e), Water (Prevention and Control of Pollution) Act, 1974 :: "Pollution" means such contamination of water or such alteration of the physical, chemical or biological properties of water or such discharge of any sewage or trade effluent or of any other liquid, gaseous or solid substance into water as may, or is likely to, create a nuisance or render such water harmful or injurious to public health or safety, or to domestic, commercial, industrial, agricultural or other legitimate uses, or to the life and health of animals or plants or aquatic organisms.
+The Air (Prevention and Control of Pollution) Act, 1981 similarly defines "air pollutant" (including noise) and "air pollution" (s.2(a), (b)).
+
+## Forests
+- The **Indian Forest Act, 1927** does not define "forest"; it provides for reserved forests, village forests and protected forests and regulates timber transit.
+- The **Forest (Conservation) Act, 1980** restricts de-reservation of forests and use of forest land for non-forest purposes without prior approval of the Central Government.
+
+CASE: T.N. Godavarman Thirumulpad v Union of India (1996) :: The Supreme Court held that "forest" must be understood in its dictionary sense, covering all statutorily recognised forests, whether designated reserved, protected or otherwise, and also any area recorded as forest in government records, irrespective of ownership. The Forest (Conservation) Act applies to all such forests. This continuing mandamus case has produced hundreds of orders on forest governance.
+
+NOTE: The Forest (Conservation) Amendment Act, 2023 renamed the 1980 Act the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 and limited its application mainly to land notified as forest or recorded as forest in government records on or after 25 October 1980, with exemptions for certain strategic and linear projects. Petitions argue this narrows Godavarman's dictionary meaning; the Supreme Court has directed in interim orders that the broad definition continue to be followed pending decision.
+
+## Environment in the Constitution
+| Article | Content |
+|---|---|
+| 15(2)(b) | No discrimination in use of wells, tanks, bathing ghats, roads and places of public resort |
+| 21 | Right to life includes a pollution-free environment (Subhash Kumar v State of Bihar, 1991) |
+| 24 | No child labour in hazardous employment |
+| 39(a), (b), (c), (e), (f) | Livelihood, distribution of material resources, prevention of concentration of wealth, health of workers and children |
+| 47 | Duty to raise nutrition and standard of living, and improve public health |
+| 48 | Organisation of agriculture and animal husbandry |
+| 48A | The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country (42nd Amendment, 1976) |
+| 49 | Protection of monuments and places of national importance |
+| 51A(g) | Duty of every citizen to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures |
+
+CASE: Subhash Kumar v State of Bihar (1991) :: The right to life under Art. 21 includes the right to enjoyment of pollution-free water and air. A citizen may approach the Court under Art. 32 to remove pollution of water or air that impairs quality of life (though the petition, filed for personal motives, was dismissed).
+
+## 1.2 Causative factors of pollution
+- **Population growth and poverty**: pressure on land, water and forests; lack of sanitation.
+- **Industrialisation**: effluents, emissions, hazardous waste, accidents (Bhopal, 1984).
+- **Urbanisation**: sewage, solid waste, vehicular emissions, construction dust.
+- **Agriculture**: chemical fertilisers and pesticides, stubble burning.
+- **Mining and deforestation**: soil erosion, loss of biodiversity, siltation.
+- **Energy production**: thermal power, large dams.
+- **Consumerism and technology**: plastics, e-waste.
+- **Weak enforcement**: under-staffed pollution control boards and low penalties.
+
+TIP: Begin any environmental law answer with the s.2(a) EPA definition and Art. 48A and 51A(g); then link to Art. 21 through Subhash Kumar.
+
+* EPA defines environment as the inter-relationship of water, air, land, living beings and property.
+* The Water and Air Acts define pollution by its harmful effects.
+* "Forest" has its dictionary meaning (Godavarman); the 2023 amendment and its challenge must be noted.
+* Arts. 48A and 51A(g) were added in 1976; Art. 21 includes a pollution-free environment (Subhash Kumar).
+* Pollution results from population, industry, urbanisation, agriculture, mining and weak enforcement.
+
+QL: Define "environment" and "pollution" under the Indian environmental statutes. What are the causes of pollution?
+QL: Discuss the constitutional provisions for protection of the environment in India.
+QS: T.N. Godavarman case
+QS: Article 48A
+QS: Hazardous substance
+
+MCQ: "Environment" is defined in || s.2(e) Water Act | *s.2(a) Environment (Protection) Act | Art. 48A | s.2 Indian Forest Act || EPA, 1986.
+MCQ: Articles 48A and 51A(g) were added by the || 1st Amendment | *42nd Amendment | 44th Amendment | 73rd Amendment || 1976.
+MCQ: The dictionary meaning of "forest" was adopted in || Subhash Kumar | *T.N. Godavarman Thirumulpad | M.C. Mehta | Vellore Citizens || 1996.
+
+# 2 | Subject matter, types and functions of environmental laws
+@topics Subject-matter of environmental laws; Primary protective laws for human beings (water, air, noise, nuclear radiation, toxic substances) and for non-human beings (wild life, marine life, forests, minor forest produce, restrictions on trade); Primary planning laws for production (land use, irrigation, industries, mining, grazing land, catchment areas, wetlands, estuaries) and distribution (land ceiling, town planning, slums, housing, recreational areas, parks, sanctuaries, biospheres)
+>> Environmental laws fall into three groups: protective laws that directly prevent harm, planning laws that decide how resources are used and shared, and administrative laws that create the machinery.
+
+## Subject-matter
+Environmental law regulates human interaction with the natural world: control of pollution, conservation of natural resources, protection of living species and their habitats, land-use planning, management of hazardous substances, and fair distribution of environmental benefits and burdens.
+
+## 3.1 Primary protective laws
+### For human beings
+| Area | Principal laws |
+|---|---|
+| Water | Water (Prevention and Control of Pollution) Act, 1974; Water (Prevention and Control of Pollution) Cess Act, 1977 (repealed by GST in 2017) |
+| Air | Air (Prevention and Control of Pollution) Act, 1981; Motor Vehicles Act, 1988 emission norms |
+| Noise | Noise Pollution (Regulation and Control) Rules, 2000 under the EPA; In re Noise Pollution (2005) guidelines |
+| Nuclear radiation | Atomic Energy Act, 1962 and Civil Liability for Nuclear Damage Act, 2010, both replaced in December 2025 by the SHANTI Act, 2025; Atomic Energy Regulatory Board |
+| Toxic substances | Insecticides Act, 1968; Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016; Manufacture, Storage and Import of Hazardous Chemicals Rules, 1989; Public Liability Insurance Act, 1991 |
+
+### For non-human beings
+| Area | Principal laws |
+|---|---|
+| Wild life | Wild Life (Protection) Act, 1972, as amended in 2022 (schedules rationalised into four; CITES implemented) |
+| Marine life | Coastal Regulation Zone Notification, 2019; Wild Life Act schedules for marine species; Maritime Zones of India (Regulation of Fishing by Foreign Vessels) Act, 1981 |
+| Forests | Indian Forest Act, 1927; Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 |
+| Minor forest produce | Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 gives ownership of minor forest produce to forest dwellers; State minor forest produce laws |
+| Restrictions on trade | Chapter VA and Chapter VB of the Wild Life Act (prohibition of trade in scheduled animals and implementation of CITES); Biological Diversity Act, 2002 (amended 2023) regulating access to biological resources |
+
+## 3.2 Primary planning laws
+### For production
+- **Land use**: State town and country planning Acts; land revenue codes.
+- **Irrigation**: State irrigation Acts; River Boards Act, 1956; Inter-State River Water Disputes Act, 1956.
+- **Industries**: Industries (Development and Regulation) Act, 1951; Environmental Impact Assessment Notification, 2006 (prior environmental clearance for listed projects).
+- **Mining**: Mines and Minerals (Development and Regulation) Act, 1957; mining plans and mine closure.
+- **Grazing land, catchment areas**: State laws protecting common lands; watershed programmes.
+- **Wetlands**: Wetlands (Conservation and Management) Rules, 2017; Ramsar Convention, 1971.
+- **Estuaries**: Coastal Regulation Zone Notification, 2019.
+
+### For distribution
+- **Land ceiling**: agricultural land ceiling laws; Urban Land (Ceiling and Regulation) Act, 1976 (repealed in 1999 at the Centre).
+- **Town planning and zoning**, **slums** (slum clearance and improvement Acts), **housing** schemes.
+- **Recreational areas and parks**: municipal and development authority laws; the public trust doctrine prevents diversion of parks.
+- **Sanctuaries, national parks, conservation and community reserves**: Chapter IV of the Wild Life Act.
+- **Biosphere reserves**: designated under UNESCO's Man and Biosphere programme; administered through executive schemes.
+
+CASE: M.I. Builders Pvt Ltd v Radhey Shyam Sahu (1999) :: Permission to build an underground shopping complex beneath a historic park in Lucknow was held illegal; the park was a public amenity held in trust, and the Court ordered demolition.
+
+## 3.3 Functions of environmental laws
+- **Prevention**: standards, consents and prohibitions.
+- **Control and abatement**: monitoring, inspection, closure orders.
+- **Conservation**: protected areas, forest conservation.
+- **Remedy and compensation**: liability rules, relief funds.
+- **Participation and information**: public hearings in EIA, access to information.
+
+TIP: The syllabus classification (protective, planning, secondary and tertiary laws) follows Chhatrapati Singh's scheme. Answer with a table under each heading and one statute per item.
+
+* Protective laws for humans: Water, Air, Noise Rules, nuclear liability (now SHANTI Act), toxic substances.
+* Protective laws for non-humans: Wild Life Act (amended 2022), CRZ, forest laws, Forest Rights Act, Biological Diversity Act.
+* Planning laws govern production (land use, industries, mining, wetlands) and distribution (ceiling, housing, parks, sanctuaries).
+* Parks and public amenities are held in public trust (M.I. Builders).
+
+QL: Classify environmental laws in India into protective and planning laws, with examples.
+QL: Discuss the laws for protection of wild life and forests in India.
+QS: Coastal Regulation Zone
+QS: Wetlands Rules
+QS: Biosphere reserves
+QS: Minor forest produce
+
+MCQ: The Wild Life (Protection) Act was enacted in || 1960 | *1972 | 1986 | 2002 || Amended substantially in 2022.
+MCQ: Prior environmental clearance for listed projects is required under || the Water Act | *the EIA Notification, 2006 | the Indian Forest Act | the CRZ Notification || Issued under the EPA.
+MCQ: Ownership of minor forest produce is vested in forest dwellers by || the Indian Forest Act | *the Forest Rights Act, 2006 | the Biological Diversity Act | PESA || Recognition of forest rights.
+
+# 3 | Secondary laws: administration and institutions
+@topics Administration and functioning of Pollution Control Boards, Water Boards, Factories Act, Forest Act, land reform and industries Acts; Administration within the Ministry of Environment and Forests; Collection, dissemination and publication of data on hazardous materials, endangering industries, pollution levels and safety measures; Role of lower courts including forest courts
+>> Secondary laws create and empower the agencies that make the primary laws work: the pollution control boards, the Ministry, and the courts.
+
+## 4.1 Pollution Control Boards
+- **Central Pollution Control Board (CPCB)** and **State Pollution Control Boards (SPCBs)** were constituted under the Water Act (ss.3, 4) and have the same functions under the Air Act.
+- **CPCB functions** (s.16, Water Act): advise the Central Government, coordinate SPCBs, lay down standards for streams and wells, plan nationwide programmes, collect and publish data, and carry out research.
+- **SPCB functions** (s.17): plan programmes for prevention of pollution in the State, inspect sewage and effluent treatment, lay down effluent standards, and grant consent.
+- **Consent mechanism**: no person shall establish or operate an industry or process likely to discharge sewage or trade effluent into a stream, well, sewer or on land without the previous consent of the SPCB (s.25, Water Act; s.21, Air Act). Consent to establish and consent to operate.
+- **Powers**: entry and inspection (s.23), taking samples (s.21), directions including closure and stoppage of electricity or water supply (s.33A, Water Act; s.31A, Air Act), and applications to courts to restrain pollution (s.33).
+
+NOTE: The Jan Vishwas (Amendment of Provisions) Act, 2023 and the Water (Prevention and Control of Pollution) Amendment Act, 2024 decriminalised many offences under the EPA, Air Act and Water Act, replacing imprisonment for several contraventions with monetary penalties imposed by adjudicating officers, and allowed the Central Government to exempt certain categories of industries from the consent requirement.
+
+## Other administrative laws
+- **Factories Act, 1948** (now subsumed in the Occupational Safety, Health and Working Conditions Code, 2020, in force from 21 November 2025): hazardous processes, site appraisal committees, disclosure of information to workers and the public, and emergency plans (introduced after Bhopal).
+- **Forest Act**: forest officers, forest settlement officers, and powers to seize and confiscate.
+- **Land reform and development Acts**, **industries Acts**: licensing and location policies.
+
+## 4.2 Ministry of Environment, Forest and Climate Change (MoEFCC)
+- The nodal agency for environmental policy, created as a Department in 1980 and a Ministry in 1985.
+- Exercises power under s.3 of the EPA to take all measures it deems necessary to protect the environment: standards for emissions and discharges, restriction of areas where industries may operate, procedures and safeguards for handling hazardous substances, and appointment of authorities under s.3(3) (for example, the Central Ground Water Authority, the Commission for Air Quality Management).
+- s.5 EPA: power to give directions, including closure, prohibition or regulation of any industry, and stoppage of supply of electricity or water.
+- Issues environmental clearances under the EIA Notification, 2006 through expert appraisal committees.
+
+CASE: Alembic Pharmaceuticals Ltd v Rohit Prajapati (2020) :: The Supreme Court held that the concept of ex post facto environmental clearance is alien to environmental law; prior clearance is mandatory, though on the facts it imposed compensation instead of closure on industries already operating. (See the 2025–26 Vanashakti rulings at the end of this unit.)
+
+## 4.3 Collection, dissemination and publication of data
+- The boards must collect and disseminate information relating to pollution (s.16(2)(i), s.17(1)(c), Water Act).
+- The Manufacture, Storage and Import of Hazardous Chemicals Rules, 1989 require information on major accident hazards and on-site and off-site emergency plans.
+- Hazardous industries must disclose information to workers and the public (provisions inserted in the Factories Act after Bhopal, carried into the OSH Code).
+- The Right to Information Act, 2005 and the public hearing in the EIA process give citizens access to data.
+
+CASE: Research Foundation for Science, Technology and Natural Resource Policy v Union of India (2005) :: In a case on import of hazardous waste, the Court held that the right to information and community participation for protection of the environment and human health is part of Art. 21.
+
+## 4.4 Role of lower courts, including forest courts
+- **Magistrates** try offences under the Water, Air and Environment Acts (on complaints by the boards or by any person after 60 days' notice: s.19, EPA; s.49, Water Act) and forest offences under the Indian Forest Act.
+- **Public nuisance**: magistrates can order removal of nuisances under s.152 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (earlier s.133 CrPC) (Municipal Council, Ratlam v Vardhichand, 1980).
+- **Forest courts and special courts**: some States have special forest courts or authorised officers for confiscation of forest produce and vehicles; appeals lie to designated authorities and courts.
+- Civil courts' jurisdiction over matters within the National Green Tribunal's jurisdiction is barred (s.29, NGT Act).
+
+TIP: Learn the consent scheme (ss.25 and 26 Water Act; s.21 Air Act), the closure power (s.33A, s.31A) and s.3 and s.5 of the EPA. Add the 2023 and 2024 decriminalisation changes to show you are current.
+
+## Recent judgments (2025–26)
+
+CASE: Vanashakti v Union of India (2025) :: In May 2025, a two-judge bench struck down the 2017 notification and a 2021 office memorandum that allowed ex post facto environmental clearance.
+
+CASE: CREDAI v Vanashakti (2025) :: In November 2025, a three-judge bench recalled the May 2025 judgment by a 2:1 majority, holding that ex post facto clearance may be granted in exceptional cases on payment of penalties.
+
+CASE: Vanashakti v Union of India (2026) :: In July 2026, a bench led by the Chief Justice reaffirmed that prior environmental clearance is the rule and projects without it cannot generally be regularised. The 2017 notification survives only as a narrow, one-time window.
+
+NOTE: Current law. Prior environmental clearance remains mandatory. Ex post facto clearance is an exception, allowed only narrowly and with penalties. Cite all three Vanashakti stages in an answer.
+
+* Ex post facto EC: struck down (May 2025), recalled 2:1 (CREDAI, Nov 2025), allowed only narrowly (Vanashakti, July 2026).
+* CPCB and SPCBs set standards, grant consent, monitor and direct closure.
+* MoEFCC acts under ss.3 and 5 of the EPA; prior environmental clearance is mandatory (Alembic).
+* 2023 and 2024 amendments replaced many prison terms with penalties.
+* Information and participation are part of Art. 21 (Research Foundation).
+* Magistrates and forest courts enforce environmental offences; NGT bars civil courts.
+
+QL: Discuss the constitution, powers and functions of the Pollution Control Boards.
+QL: Explain the powers of the Central Government under ss.3 and 5 of the Environment (Protection) Act, 1986.
+QL: Discuss the importance of access to environmental information in India.
+QS: Consent to establish and operate
+QS: Ex post facto environmental clearance
+QS: Citizen's suit under s.19 EPA
+
+MCQ: Consent of the SPCB for discharge of trade effluent is required under || s.3 EPA | *s.25 Water Act | s.5 EPA | s.14 NGT Act || Also s.21 Air Act for emissions.
+MCQ: Ex post facto environmental clearance was held alien to environmental law in || M.C. Mehta | *Alembic Pharmaceuticals v Rohit Prajapati | Godavarman | Vellore Citizens || 2020.
+MCQ: Under s.19 EPA, a private person may file a complaint after giving notice of || 30 days | *60 days | 90 days | 6 months || To the authority concerned.
+MCQ: In November 2025, the judgment barring ex post facto environmental clearance was recalled in || Alembic Pharmaceuticals | *CREDAI v Vanashakti | T.N. Godavarman | Rhythm County || By a 2:1 majority.
+
+# 4 | Tertiary laws: the constitutional framework of resources
+@topics Constitutional provisions on inter-State relations concerning acquisition, regulation and distribution of natural resources (water, forests, mines, oil); Articles 14, 19, 31A, 31B, 31C, 39(b) and (c); Union, State and Concurrent List entries; Ninth Schedule; Articles 14, 15, 19, 21, 31C, 32, 38, 39, 42, 47, 48A, 49, 51, 51A(g)
+>> The Constitution decides who may legislate on natural resources, how resources are shared among States, and how the courts balance development, property and environmental rights.
+
+## 5.1 Legislative competence over natural resources
+| List | Entry | Subject |
+|---|---|---|
+| Union (List I) | 6 | Atomic energy and mineral resources necessary for it |
+| | 52 | Industries declared by Parliament to be of public interest |
+| | 53 | Regulation and development of oilfields and mineral oil resources |
+| | 54 | Regulation of mines and mineral development under Union control |
+| | 56 | Regulation and development of inter-State rivers and river valleys |
+| | 57 | Fishing beyond territorial waters |
+| State (List II) | 17 | Water: supplies, irrigation, canals, drainage, water storage and water power, subject to Entry 56 List I |
+| | 18 | Land: rights in land, tenures, agricultural land |
+| | 21 | Fisheries |
+| | 23 | Regulation of mines and mineral development, subject to List I |
+| Concurrent (List III) | 17 | Prevention of cruelty to animals |
+| | 17A | Forests (moved from List II by the 42nd Amendment) |
+| | 17B | Protection of wild animals and birds (added by the 42nd Amendment) |
+| | 18 | Adulteration of foodstuffs |
+| | 20 | Economic and social planning |
+
+- **Art. 252**: Parliament enacted the Water Act, 1974 under this article on resolutions of State legislatures, since water is a State subject.
+- **Art. 253**: Parliament can legislate for implementing international treaties and decisions; the Air Act, 1981 and the EPA, 1986 were enacted to implement decisions of the Stockholm Conference.
+- **Art. 262** and the Inter-State River Water Disputes Act, 1956: tribunals for inter-State water disputes (Cauvery, Krishna, Godavari, Narmada).
+
+CASE: State of Karnataka v State of Tamil Nadu (2018) :: In the Cauvery water dispute, the Supreme Court held that inter-State rivers are national assets and no State can claim exclusive ownership; it modified the tribunal's allocation and directed a scheme for implementation.
+
+## 5.1 (contd.) Property, Directive Principles and resources
+- **Arts. 31A, 31B and 31C** protected agrarian reform and resource redistribution laws from challenge under Arts. 14 and 19 (see Constitutional Law I).
+- **Art. 39(b) and (c)**: the ownership and control of the material resources of the community should be distributed to subserve the common good; operation of the economic system should not result in concentration of wealth.
+
+CASE: Property Owners Association v State of Maharashtra (2024) :: A nine-judge bench held (by majority) that not every private resource is a "material resource of the community" under Art. 39(b); natural resources such as forests, ponds, minerals and spectrum, held in public trust, clearly are, but other private property qualifies only on a case-specific inquiry.
+
+## 5.2 Rights-based constitutional provisions
+- **Art. 14**: allocation of natural resources must be fair and non-arbitrary. In **Centre for Public Interest Litigation v Union of India (2012)** (2G spectrum), the Court said natural resources are vested in the State as trustee and must be distributed fairly; auction is generally preferable. In **Natural Resources Allocation, In re (2012)**, the Court advised that auction is not a constitutional mandate for all resources.
+- **Art. 19(1)(g)**: trade must yield to environmental protection; reasonable restrictions under Art. 19(6).
+- **Art. 21**: right to a healthy environment, clean water and air.
+- **Art. 32**: environmental PIL.
+- **Arts. 38, 39, 42, 47**: social order, health, humane conditions of work, public health.
+- **Arts. 48A, 49, 51A(g)**: protection of environment, monuments and duty of citizens.
+- **Art. 51(c)**: respect for international law and treaty obligations, the basis for domestic application of international environmental principles.
+
+CASE: M.K. Ranjitsinh v Union of India (2024) :: In a case on protection of the Great Indian Bustard from overhead power lines, the Supreme Court recognised that people have a right against the adverse effects of climate change, flowing from Arts. 14 and 21, and modified its earlier blanket direction to underground transmission lines, balancing renewable energy needs.
+
+TIP: Remember Art. 253 (treaty implementation) as the constitutional basis for the Air Act and EPA, and Art. 252 (State consent) as the basis for the Water Act.
+
+## Recent judgments (2025–26)
+
+CASE: T.N. Godavarman Thirumulpad v Union of India (2025) :: Land recorded as forest in government records is forest land, whatever its ownership.
+
+CASE: State of Karnataka v Gandhi Jeevan Collective Farming Society (2026) :: Forest land cannot be diverted to agriculture; about 134 acres were ordered to be restored as forest.
+
+CASE: Naveen Solanki v Rail Land Development Authority (2026) :: Land earmarked for development in a Master Plan does not become 'deemed forest' merely because trees have grown on it.
+
+* Recorded forest land is forest (Godavarman, 2025); no diversion to agriculture (Gandhi Jeevan, 2026).
+* Natural resources are divided across the three lists; forests and wild life moved to the Concurrent List in 1976.
+* Water Act under Art. 252; Air Act and EPA under Art. 253.
+* Inter-State rivers are national assets (Cauvery, 2018).
+* Natural resources are held in trust and must be allocated fairly (2G case).
+* A right against adverse effects of climate change was recognised in 2024 (M.K. Ranjitsinh).
+
+QL: Discuss the constitutional distribution of legislative power over natural resources in India.
+QL: Examine the role of Arts. 14, 21, 39(b) and 48A in the protection and allocation of natural resources.
+QS: Article 253
+QS: Entry 17A and 17B, List III
+QS: M.K. Ranjitsinh v Union of India
+
+MCQ: The EPA, 1986 was enacted under || Art. 252 | *Art. 253 | Art. 249 | Art. 48A || To implement Stockholm decisions.
+MCQ: "Forests" are in the || Union List | State List | *Concurrent List (Entry 17A) | Ninth Schedule || Moved by the 42nd Amendment.
+MCQ: A right against the adverse effects of climate change was recognised in || Vellore Citizens | *M.K. Ranjitsinh v Union of India | Godavarman | Kamal Nath || 2024.
+
+# 5 | International parameters of environment
+@topics Stockholm Declaration and its impact; Rio Summit; UNEP; State responsibility for environmental pollution; North-South perspective
+>> International environmental law began at Stockholm in 1972 and matured at Rio in 1992. India's own laws and courts have absorbed its key principles.
+
+## 6.1 Stockholm Declaration (1972)
+- The UN Conference on the Human Environment at Stockholm (June 1972) adopted a Declaration of 26 principles and an Action Plan.
+- **Principle 1**: man has the fundamental right to freedom, equality and adequate conditions of life, in an environment of a quality that permits a life of dignity, and bears a solemn responsibility to protect and improve the environment for present and future generations.
+- **Principle 21**: States have the sovereign right to exploit their own resources, and the responsibility to ensure that activities within their jurisdiction do not cause damage to the environment of other States.
+- **Impact on India**: Indira Gandhi addressed the conference ("poverty is the greatest polluter"); India enacted the Water Act (1974), the 42nd Amendment (Arts. 48A, 51A(g)), the Air Act (1981) and the EPA (1986), the last two under Art. 253.
+
+## 6.2 Rio Summit (1992)
+The UN Conference on Environment and Development (the Earth Summit) produced:
+- the **Rio Declaration** (27 principles), including Principle 3 (intergenerational equity), Principle 4 (environment integral to development), Principle 7 (common but differentiated responsibilities), Principle 10 (public participation and access to information), Principle 15 (precautionary approach), Principle 16 (polluter pays) and Principle 17 (environmental impact assessment);
+- **Agenda 21**, a programme of action for sustainable development;
+- the **UN Framework Convention on Climate Change** (later the Kyoto Protocol, 1997, and the **Paris Agreement, 2015**);
+- the **Convention on Biological Diversity** (implemented in India by the Biological Diversity Act, 2002);
+- the Forest Principles.
+
+## 6.3 United Nations Environment Programme (UNEP)
+Established in 1972 after Stockholm, headquartered in Nairobi. It coordinates UN environmental activities, monitors the global environment, promotes development of international environmental law (for example, the Montreal Protocol on ozone-depleting substances, 1987; the Basel Convention on hazardous wastes, 1989), and assists developing countries. The UN Environment Assembly (since 2012) is its governing body with universal membership.
+
+## 6.4 State responsibility for environmental pollution
+CASE: Trail Smelter Arbitration (United States v Canada) (1938, 1941) :: Fumes from a smelter at Trail in British Columbia damaged property in Washington State. The tribunal held that no State has the right to use or permit the use of its territory in such a manner as to cause injury by fumes in or to the territory of another, when the case is of serious consequence and established by clear and convincing evidence. Canada was held liable to pay compensation.
+
+- **Corfu Channel case (1949)**: every State's obligation not knowingly to allow its territory to be used for acts contrary to the rights of other States.
+- **Pulp Mills on the River Uruguay (Argentina v Uruguay) (2010)**: the ICJ held that environmental impact assessment for activities with transboundary risk is a requirement under general international law.
+- **Advisory Opinion on Climate Change (ICJ, 2025)**: the ICJ advised that States have obligations under international law to protect the climate system, including due diligence to prevent significant harm, and that breach may entail State responsibility.
+
+## 6.5 North-South perspective
+- Developed countries (North) caused most historical emissions and pollution; developing countries (South) need room for development and poverty eradication.
+- **Common but differentiated responsibilities** (Rio Principle 7; UNFCCC): all States share responsibility, but developed countries must take the lead and provide finance and technology.
+- Disputes over climate finance, technology transfer, trade-related environmental measures (such as carbon border taxes) and the right to development continue in negotiations.
+- India's position: per capita emissions and historical responsibility should guide burden sharing; it has committed to net-zero emissions by 2070.
+
+TIP: Link each Rio principle to an Indian case: precautionary and polluter pays (Vellore Citizens), public participation (EIA public hearings), intergenerational equity (Godavarman, Kamal Nath).
+
+## Recent judgments (2025–26)
+
+CASE: Obligations of States in respect of Climate Change (ICJ Advisory Opinion, 2025) :: On 23 July 2025, the International Court of Justice unanimously advised that States have binding obligations under treaties and customary international law to prevent significant harm to the climate system and to cooperate in good faith. Breach can be an internationally wrongful act.
+
+* ICJ climate advisory opinion (2025): binding duty to prevent significant climate harm.
+* Stockholm (1972): Principles 1 and 21; led to India's Water, Air and Environment Acts.
+* Rio (1992): Rio Declaration, Agenda 21, UNFCCC, CBD; precautionary, polluter pays, CBDR.
+* UNEP coordinates environmental activities.
+* State responsibility: Trail Smelter; ICJ climate advisory opinion (2025).
+* North-South: common but differentiated responsibilities.
+
+QL: Discuss the Stockholm Declaration and its impact on environmental law in India.
+QL: Explain the main outcomes of the Rio Summit of 1992.
+QL: Discuss the principle of State responsibility for transboundary environmental harm.
+QS: Trail Smelter arbitration
+QS: UNEP
+QS: Common but differentiated responsibilities
+
+MCQ: Principle 21 of the Stockholm Declaration concerns || polluter pays | *sovereign right over resources and responsibility not to harm other States | public participation | intergenerational equity || 1972.
+MCQ: The precautionary approach is Principle __ of the Rio Declaration || 7 | 10 | *15 | 16 || Principle 16 is polluter pays.
+MCQ: The Trail Smelter arbitration was between || India and Pakistan | *United States and Canada | UK and Albania | Argentina and Uruguay || Transboundary air pollution.
+
+# 6 | Legal strategies of regulation
+@topics Deterrence through criminal, strict, absolute and vicarious liability; Principles of calculating penalties and economic sanctions; Standardisation; Managerial strategies: tortious liability, estoppel, incentives through non-taxation and deductions, recovery through insurance, sureties and bonds; Environmental courts and tribunals
+>> The law uses many tools: punishment, civil liability, standards, economic incentives and specialised tribunals. The National Green Tribunal now sits at the centre.
+
+## 7.1 Deterrence through liability
+- **Criminal liability**: offences under the Water Act (ss.41 to 45A), Air Act (ss.37 to 39), EPA (s.15), Wild Life Act (s.51) and Forest Acts. After the 2023 and 2024 amendments, many EPA, Air and Water Act contraventions carry monetary penalties imposed by adjudicating officers rather than imprisonment; wildlife and forest offences remain criminal.
+- **Strict liability**: Rylands v Fletcher (1868).
+- **Absolute liability**: M.C. Mehta v Union of India (1987, Oleum gas); Indian Council for Enviro-Legal Action v Union of India (1996).
+- **Vicarious liability**: offences by companies (s.16 EPA; s.47 Water Act; s.40 Air Act), making every person in charge of the business liable unless he proves lack of knowledge or due diligence; offences by government departments (s.17 EPA).
+
+## 7.2 Penalties and economic sanctions
+- **Polluter pays principle**: the polluter must pay the cost of remedying the damage and compensating victims, not merely of preventing pollution.
+
+CASE: Vellore Citizens' Welfare Forum v Union of India (1996) :: Tanneries in Tamil Nadu discharged untreated effluent into the Palar river. The Court held that the precautionary principle and the polluter pays principle are part of the environmental law of the country, as part of sustainable development; it directed the polluting tanneries to pay compensation and set up an authority under s.3(3) EPA.
+
+- **Penalties should be deterrent**: compensation correlated to the magnitude and capacity of the enterprise (M.C. Mehta, 1987); exemplary damages (M.C. Mehta v Kamal Nath, 2000); environmental compensation calculated by the CPCB and NGT based on the cost of restoration and the scale of the polluter.
+- **Economic instruments**: pollution cess and fees, compensatory afforestation funds (Compensatory Afforestation Fund Act, 2016), carbon credit trading scheme (Energy Conservation Act amendments, 2022), extended producer responsibility for plastics, e-waste and batteries.
+
+## 7.3 Standardisation
+- Standards for ambient air quality (National Ambient Air Quality Standards, 2009), effluent and emission standards (Schedules to the Environment (Protection) Rules, 1986), noise standards (Noise Rules, 2000), fuel and vehicle standards (Bharat Stage norms), product standards (BIS).
+- Methods: technology-based standards (best available technology), ambient quality-based standards, and performance standards; monitoring through continuous emission monitoring systems.
+
+## 7.4 Managerial strategies
+- **Tortious liability**: nuisance, negligence, trespass; class actions.
+- **Estoppel**: the State cannot resile from conditions it imposed in clearances; promissory estoppel cannot be pleaded to defeat environmental protection, since there is no estoppel against public interest or statute.
+- **Incentives**: tax deductions and accelerated depreciation for pollution control equipment and renewable energy; exemptions for clean technology.
+- **Insurance, sureties and bonds**: compulsory insurance for hazardous substances (Public Liability Insurance Act, 1991, with an Environment Relief Fund); bank guarantees required by pollution control boards as a condition of consent; mine closure and reclamation bonds.
+
+## 7.5 Environmental courts and tribunals
+- The **National Environment Tribunal Act, 1995** and **National Environment Appellate Authority Act, 1997** were not effectively implemented.
+- The Supreme Court in **A.P. Pollution Control Board v M.V. Nayudu (1999)** recommended environmental courts with expert members.
+- The **National Green Tribunal Act, 2010** established the NGT.
+
+| Provision | Content |
+|---|---|
+| s.14 | Jurisdiction over civil cases where a substantial question relating to environment is involved, arising from the implementation of the seven Acts in Schedule I (Water, Water Cess, Forest Conservation, Air, EPA, Public Liability Insurance, Biological Diversity) |
+| s.15 | Relief and compensation to victims of pollution, restitution of property and environment |
+| s.16 | Appeals against orders under those Acts |
+| s.17 | Liability to pay relief on the principle of no fault where an accident occurs (s.17(3)) |
+| s.19 | Not bound by the CPC; guided by natural justice |
+| s.20 | Shall apply the principles of sustainable development, the precautionary principle and the polluter pays principle |
+| s.22 | Appeal to the Supreme Court within 90 days |
+| s.29 | Bar of jurisdiction of civil courts |
+- The Wild Life Act and Indian Forest Act are not in Schedule I.
+
+CASE: A.P. Pollution Control Board v M.V. Nayudu (1999) :: Applying the precautionary principle, the Court held that the burden of proof lies on the developer or industrialist to show that his action is environmentally benign. It recommended environmental courts with judicial and technical members.
+
+TIP: For NGT, memorise ss.14, 15, 16, 20 and 22, and the seven Schedule I Acts. For legal strategies, organise your answer as liability, economic sanctions, standards, managerial tools and tribunals.
+
+## Recent judgments (2025–26)
+
+CASE: Rhythm County v Satish Sanjay Hegde (2026) :: The NGT may assess environmental compensation as a percentage of project turnover, provided the method is rational and explained.
+
+CASE: Gujarat Pollution Control Board v Jagmohan (2026) :: A landlord is not liable for pollution caused by a tenant's industry merely because he owns the premises.
+
+* NGT may base compensation on turnover if rational (Rhythm County, 2026).
+* Criminal, strict, absolute and vicarious liability deter pollution; many offences now carry monetary penalties.
+* Polluter pays and precautionary principles are part of Indian law (Vellore Citizens).
+* Standards: ambient, effluent, emission, noise, fuel.
+* Managerial tools: tort, incentives, insurance (PLI Act), bank guarantees.
+* NGT (2010): seven Acts, no-fault relief, sustainable development principles, appeal to the Supreme Court in 90 days.
+* Burden of proof on the developer (M.V. Nayudu).
+
+QL: Discuss the various legal strategies used to regulate environmental pollution.
+QL: Explain the polluter pays principle and the precautionary principle with reference to Indian cases.
+QL: Discuss the constitution, jurisdiction and powers of the National Green Tribunal.
+QS: Vicarious liability under s.16 EPA
+QS: Public Liability Insurance Act, 1991
+QS: A.P. Pollution Control Board v M.V. Nayudu
+
+MCQ: The precautionary and polluter pays principles were declared part of Indian law in || M.C. Mehta (1987) | *Vellore Citizens' Welfare Forum (1996) | Subhash Kumar | Godavarman || 1996.
+MCQ: An appeal from the NGT lies to the Supreme Court within || 30 days | 60 days | *90 days | 6 months || s.22.
+MCQ: The burden of proving that an activity is environmentally benign lies on the developer, as held in || Vellore Citizens | *A.P. Pollution Control Board v M.V. Nayudu | Kamal Nath | Ratlam || 1999.
+
+# 7 | Rights in common law and natural rights theories
+@topics Basis of occupancy, usufruct and group or collective rights of indigenous communities in national and international law; Natural rights theories in environmental issues: right to life, livelihood, to reside, to development, rights of future generations; Bio-ethics, organisational and social ethics, environmental ethics
+>> Environmental justice asks whose rights count: forest communities with customary rights, people whose livelihood depends on nature, future generations, and nature itself.
+
+## Unit 8: Rights of indigenous communities
+### Common law basis
+- **Occupancy**: rights based on long and continuous possession of land.
+- **Usufruct**: the right to use and enjoy the produce of land or resources belonging to another without damaging the substance (grazing, collection of firewood and minor forest produce, fishing).
+- **Collective or group rights**: rights held by communities as a whole over commons (village forests, pastures, water bodies), often recognised by custom.
+
+### National law
+- **Fifth and Sixth Schedules** of the Constitution: protection of Scheduled Areas and tribal autonomy.
+- **Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA)**: gram sabhas empowered over community resources, minor forest produce and land alienation.
+- **Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006**: recognises individual and community forest rights (s.3), including rights over minor forest produce, grazing, habitat rights of particularly vulnerable tribal groups, and the right to protect and manage community forest resources; the gram sabha initiates the process (s.6).
+
+CASE: Samatha v State of Andhra Pradesh (1997) :: Leasing tribal land in Scheduled Areas to non-tribal private mining companies was held void, as it violated the Fifth Schedule and the AP Scheduled Areas Land Transfer Regulation; tribals have a right to land and to share in mineral wealth.
+
+CASE: Orissa Mining Corporation v Ministry of Environment and Forests (2013) :: In the Niyamgiri bauxite mining case, the Court held that the gram sabhas of the affected Dongria Kondh villages must decide whether the mining would affect their religious, cultural and community rights under the Forest Rights Act. The gram sabhas rejected the project.
+
+### International law
+- **ILO Convention No. 169 (1989)** on Indigenous and Tribal Peoples (India has not ratified it; it ratified the earlier Convention No. 107).
+- **UN Declaration on the Rights of Indigenous Peoples (2007)**: rights to lands, territories and resources, and free, prior and informed consent.
+- **Convention on Biological Diversity**, Art. 8(j): respect for traditional knowledge; the Nagoya Protocol (2010) on access and benefit-sharing.
+
+## Unit 9: Natural rights theories in environmental issues
+| Right | Source and cases |
+|---|---|
+| 9.1 Right to life | Art. 21: Subhash Kumar (1991); clean environment, water and air |
+| 9.2 Right to livelihood | Olga Tellis v Bombay Municipal Corporation (1985); rehabilitation of displaced persons (Narmada Bachao Andolan, 2000) |
+| 9.3 Right to reside | Art. 19(1)(e); rehabilitation and resettlement under the RFCTLARR Act, 2013 |
+| 9.4 Right to development | UN Declaration on the Right to Development (1986); balanced through sustainable development |
+| 9.5 Rights of future generations | Intergenerational equity (Brundtland Report, 1987; Rio Principle 3); Godavarman; Kamal Nath |
+
+CASE: Rural Litigation and Entitlement Kendra v State of Uttar Pradesh (1985) :: Treating a letter as a writ petition, the Court ordered closure of limestone quarries in the Doon Valley that were causing ecological damage, holding that the cost to the economy was the price to be paid for protecting the environment and the right of people to live in a healthy environment. The first major environmental PIL.
+
+CASE: Narmada Bachao Andolan v Union of India (2000) :: The Court allowed construction of the Sardar Sarovar dam to proceed, holding that large projects involve policy decisions and the Court should not interfere unless there is a violation of law; but it directed rehabilitation of the displaced as a pre-condition to raising the dam height.
+
+CASE: M.C. Mehta v Kamal Nath (1997) :: A motel diverted the course of the river Beas. The Court applied the **public trust doctrine**: the State is a trustee of natural resources such as rivers, forests, seashores and air for the public; it cannot transfer them to private ownership for commercial use. The lease was quashed.
+
+### 9.6 Ethics
+- **Bio-ethics**: ethical questions in biology and medicine, including genetic modification, biotechnology, use of animals in research, and access to genetic resources (see Kaebnick, "At the Borders of Bioethics", 2018, on the boundary between bioethics and environmental ethics).
+- **Organisational and social ethics**: corporate social and environmental responsibility (s.135 and Schedule VII of the Companies Act, 2013 include environmental sustainability as a CSR activity); environmental, social and governance (ESG) reporting by listed companies (SEBI's Business Responsibility and Sustainability Report).
+- **Environmental ethics**: anthropocentrism (nature valued for human benefit) versus ecocentrism (nature has intrinsic value). Indian courts have moved towards an ecocentric approach.
+
+CASE: Centre for Environmental Law, WWF-India v Union of India (2013) :: Directing translocation of Asiatic lions to a second home in Madhya Pradesh, the Court adopted an ecocentric approach, holding that species have an intrinsic value and their protection is not merely for human benefit.
+
+CASE: Animal Welfare Board of India v A. Nagaraja (2014) :: Jallikattu and bullock-cart races were banned, recognising rights of animals under the Prevention of Cruelty to Animals Act read with Arts. 21 and 51A(g). (Later, in **Animal Welfare Board of India v Union of India (2023)**, a Constitution Bench upheld State amendments permitting jallikattu with safeguards.)
+
+TIP: For indigenous rights, cite Samatha and Niyamgiri; for natural rights, Rural Litigation (Doon Valley), Kamal Nath (public trust) and Narmada (rehabilitation); for ethics, the ecocentric approach in the lion translocation case.
+
+* Indigenous communities have rights of occupancy, usufruct and collective rights, recognised by the Fifth Schedule, PESA and the Forest Rights Act.
+* Gram sabha consent is decisive (Niyamgiri); tribal land cannot be leased to private miners (Samatha).
+* Rights to life, livelihood, residence, development and of future generations shape environmental law.
+* Public trust doctrine (Kamal Nath).
+* Courts increasingly take an ecocentric approach (WWF lion case).
+
+QL: Discuss the rights of indigenous communities over natural resources under national and international law.
+QL: Explain the public trust doctrine with reference to M.C. Mehta v Kamal Nath.
+QL: "Environmental rights are natural rights." Discuss with reference to the right to life, livelihood and the rights of future generations.
+QS: Usufruct
+QS: Niyamgiri case
+QS: Intergenerational equity
+QS: Ecocentrism
+
+MCQ: The public trust doctrine was applied in || Vellore Citizens | *M.C. Mehta v Kamal Nath | Godavarman | Samatha || 1997, river Beas.
+MCQ: The first major environmental PIL concerned quarrying in || the Aravallis | *the Doon Valley | Niyamgiri | the Western Ghats || Rural Litigation and Entitlement Kendra (1985).
+MCQ: In the Niyamgiri case, the decision on mining was left to || the MoEF | *the gram sabhas | the State government | the NGT || Orissa Mining Corporation (2013).
+
+# 8 | Multinational corporate liability and judicial activism
+@topics Multinational corporate liabilities; Legal responsibilities of multinational funding agencies; Judicial activism and the environment
+>> Big polluters and big lenders often escape national law. Indian courts responded with absolute liability, continuing mandamus and new principles, making the judiciary the most active environmental regulator.
+
+## Unit 10: Multinational corporations
+- **Problems**: limited liability and corporate veil, parent-subsidiary separation, forum shopping, weak host-State regulation, difficulty of enforcing judgments abroad.
+- **Bhopal**: Union Carbide Corporation (US parent) and Union Carbide India Ltd. The Union of India first sued in New York; the US court dismissed the case on forum non conveniens (In re Union Carbide Corporation Gas Plant Disaster at Bhopal, 1986), sending the case to India. The 1989 settlement of US $470 million was upheld in Union Carbide Corporation v Union of India (1991, review) and the curative petition seeking more was dismissed in 2023.
+- **Principles**: absolute liability of enterprises engaged in hazardous activity (M.C. Mehta, 1987), with compensation correlated to the size of the enterprise; possibility of lifting the corporate veil; enterprise liability.
+- **Soft law**: the OECD Guidelines for Multinational Enterprises; the UN Guiding Principles on Business and Human Rights (2011): "Protect, Respect and Remedy"; India's National Guidelines on Responsible Business Conduct (2019).
+
+CASE: Vedanta Ltd v State of Tamil Nadu (2020) :: The Madras High Court upheld the permanent closure of the Sterlite copper smelter at Thoothukudi for persistent pollution, and the Supreme Court in 2024 refused to interfere, holding that the health of residents and the environment prevail.
+
+### Multinational funding agencies
+- The World Bank, the Asian Development Bank and others finance large projects (dams, mines, power plants). Their safeguard policies require environmental and social impact assessment, resettlement and consultation.
+- The **World Bank Inspection Panel** (1993) lets affected people complain of non-compliance. The Bank withdrew from the Sardar Sarovar project in 1993 after the Morse Committee report.
+- Funding agencies have generally claimed immunity from national courts; in **Jam v International Finance Corporation (2019)**, the US Supreme Court held that the IFC does not enjoy absolute immunity and can be sued for commercial activities (here, a power plant in Gujarat that harmed fishing communities).
+
+## Unit 11: Judicial activism and the environment
+Indian courts have:
+1. **Expanded rights**: Art. 21 includes a clean environment (Subhash Kumar), right to information on environment (Research Foundation), and right against climate change effects (M.K. Ranjitsinh).
+2. **Created principles**: absolute liability (M.C. Mehta, 1987), polluter pays and precautionary principles (Vellore), public trust (Kamal Nath), intergenerational equity (Godavarman), burden on the developer (Nayudu), sustainable development.
+3. **Used new procedures**: epistolary jurisdiction, expert committees, continuing mandamus (Godavarman since 1995; M.C. Mehta vehicular pollution cases), amicus curiae, the Central Empowered Committee for forests.
+4. **Issued policy-type directions**: CNG for Delhi buses (M.C. Mehta v Union of India, 1998 to 2002), closure of polluting industries around the Taj (M.C. Mehta v Union of India, Taj Trapezium, 1997), relocation of industries out of Delhi, Ganga cleaning (M.C. Mehta, tanneries, 1987), firecracker restrictions, stubble burning.
+5. **Built institutions**: environmental authorities under s.3(3) EPA; recommended the NGT.
+
+### Criticism
+- Courts take over executive functions and policy-making without expertise or accountability.
+- Directions are difficult to implement and monitor; continuing mandamus cases run for decades.
+- Livelihoods of workers are sometimes affected without adequate rehabilitation.
+- Defence: courts step in where the executive fails to enforce the law; access to justice for the voiceless.
+
+TIP: Close an essay on judicial activism with a balanced paragraph: the courts filled a vacuum left by weak enforcement, but the long-term solution is strong regulators and the NGT, with courts acting as guardians of principle.
+
+* MNC liability: Bhopal shows limits of corporate structure and forum; absolute liability and enterprise liability respond.
+* Soft law: OECD Guidelines and UN Guiding Principles on Business and Human Rights.
+* Funding agencies: safeguard policies, Inspection Panel; IFC not absolutely immune (Jam, 2019).
+* Judicial activism created rights, principles, procedures and institutions; criticised for overreach.
+
+QL: Discuss the liability of multinational corporations for environmental harm, with reference to the Bhopal gas disaster.
+QL: Write an essay on judicial activism in the field of environmental protection in India.
+QL: Examine the legal responsibility of multinational funding agencies for environmental and social harm caused by projects they finance.
+QS: Continuing mandamus
+QS: World Bank Inspection Panel
+QS: Taj Trapezium case
+QS: UN Guiding Principles on Business and Human Rights
+
+MCQ: The Bhopal case was dismissed in the US on the ground of || limitation | *forum non conveniens | sovereign immunity | res judicata || 1986.
+MCQ: The US Supreme Court held that the IFC does not enjoy absolute immunity in || Bhopal | *Jam v International Finance Corporation | Trail Smelter | Narmada || 2019.
+MCQ: The Godavarman case is an example of || a single judgment | *continuing mandamus | an advisory opinion | a tribunal appeal || Running since 1995.

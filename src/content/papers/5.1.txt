@@ -1,0 +1,199 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Res judicata
+Under s.11 CPC, no court shall try a suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit:
+- between the same parties, or parties litigating under the same title;
+- in a court competent to try the later suit; and
+- heard and finally decided.
+The rule rests on finality and on preventing a person from being vexed twice.
+- Explanation IV covers constructive res judicata: matters that might and ought to have been raised.
+- The rule applies to writs (*Daryao v State of UP*, 1961).
+
+Q: Res sub judice
+Under s.10 CPC, a court shall not proceed with the trial of a suit in which the matter in issue is directly and substantially in issue in a previously instituted suit between the same parties, pending in a competent court in India.
+- Only the trial is stayed; the suit is not dismissed.
+- Interim orders may still be passed (*Indian Bank v Maharashtra State Cooperative Marketing Federation*, 1998).
+- The purpose is to avoid conflicting decisions.
+
+Q: Cause of action
+A cause of action is the bundle of facts that the plaintiff must prove to obtain a decree (*Read v Brown*, 1888; *A.B.C. Laminart v A.P. Agencies*, 1989).
+- It determines territorial jurisdiction (s.20).
+- It governs joinder (Order II Rule 3).
+- Under the rule against splitting claims (Order II Rule 2), the plaintiff must include the whole claim.
+- A plaint must disclose a cause of action, or it is rejected (Order VII Rule 11(a)).
+
+Q: Rejection of plaint
+Order VII Rule 11 CPC: the plaint shall be rejected where:
+- (a) it does not disclose a cause of action;
+- (b) the relief is undervalued and not corrected;
+- (c) it is insufficiently stamped and not corrected;
+- (d) it is barred by any law, judged from the statements in the plaint;
+- (e) it is not filed in duplicate; or
+- (f) there is non-compliance with Rule 9.
+- Only the plaint and its documents are seen, not the defence (*Saleem Bhai v State of Maharashtra*, 2003).
+- Clever drafting creating an illusory cause of action can be nipped in the bud (*T. Arivandandam v T.V. Satyapal*, 1977).
+- A fresh plaint is not barred (Rule 13).
+
+Q: Set-off and counter-claim
+- **Set-off (Order VIII Rule 6):** in a suit for recovery of money, the defendant may claim an ascertained sum legally recoverable from the plaintiff, within pecuniary jurisdiction. It operates as a cross-decree. Equitable set-off arises from the same transaction.
+- **Counter-claim (Rule 6A):** any right or claim, whether or not arising from the same transaction, accruing before the defence is filed, treated as a cross-suit. It survives if the suit is dismissed.
+- A composite appeal lies where a suit and counter-claim are decided together (*Basudev v Sanjay Kumar*, 2026).
+
+Q: Temporary injunction
+Under Order XXXIX Rules 1 and 2 CPC, a temporary injunction may be granted where property is in danger of being wasted or alienated, or the defendant threatens to dispose of property to defeat creditors or to cause injury. Three tests apply (*Dalpat Kumar v Prahlad Singh*, 1992):
+1. a prima facie case;
+2. the balance of convenience; and
+3. irreparable injury.
+Ex parte injunctions require recorded reasons (Rule 3). Disobedience is punishable by attachment and detention (Rule 2A).
+
+Q: Caveat
+Under s.148A CPC, a person claiming a right to appear in an expected application may lodge a caveat. The applicant must then serve notice on the caveator, and the court must hear the caveator before passing orders. A caveat is valid for 90 days. It prevents ex parte interim orders.
+
+Q: Inherent powers of the court
+Section 151 CPC saves the court's inherent power to make orders necessary for the ends of justice, or to prevent abuse of process.
+Limits:
+- it cannot be used where the Code expressly provides a remedy, or contrary to its provisions (*Manohar Lal Chopra v Seth Hiralal*, 1962);
+- it cannot create new rights.
+Uses include recalling orders obtained by fraud, consolidating suits and restoring proceedings.
+
+Q: Review
+Under s.114 and Order XLVII CPC, a person aggrieved by a decree or order may seek review:
+- on discovery of new and important evidence, which after due diligence was not within knowledge;
+- for a mistake or error apparent on the face of the record; or
+- for any other sufficient reason, analogous to the above.
+The application goes to the same court. Review is not an appeal in disguise (*Parsion Devi v Sumitri Devi*, 1997). A non-party who is aggrieved may seek review with leave (*Dr Jiji K.S.*, 2026).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Explain the fundamental rules of pleading and the law relating to amendment of pleadings.
+### Pleadings (Order VI Rule 1)
+Pleadings are the plaint and the written statement. Their purpose is to narrow the issues and give notice of the case.
+### Fundamental rules (Order VI Rule 2)
+1. Plead facts, not law.
+2. Plead material facts, not evidence.
+3. State the facts concisely, in numbered paragraphs, with dates and sums in figures.
+### Other rules
+- particulars of fraud, misrepresentation and similar allegations (Rule 4);
+- conditions precedent are implied (Rule 6);
+- no departure from the pleading (Rule 7);
+- notice is pleaded only if material (Rule 11);
+- verification (Rule 15), with an affidavit in commercial suits (Rule 15A);
+- striking out of unnecessary or scandalous pleadings (Rule 16).
+In the written statement, specific denial is required (Order VIII Rules 3 to 5). The defendant cannot withdraw admissions by an additional written statement (*Mondira Ghosh v Chaitali Ghosh*, 2026).
+### Amendment (Order VI Rule 17)
+The court may allow either party to amend at any stage, if necessary to determine the real questions in controversy.
+- The proviso (2002) bars amendment after the trial commences, unless the party could not have raised the matter earlier despite due diligence.
+- **Principles:**
+  - amendments are allowed liberally before trial (*Revajeetu Builders v Narayanaswamy*, 2009, which listed factors);
+  - there should be no injustice or prejudice to the other side that cannot be compensated by costs;
+  - the nature of the suit must not be changed;
+  - an amendment cannot defeat a valid accrued right of limitation, unless the court allows it in the interests of justice (*L.J. Leach v Jardine Skinner*, 1957);
+  - a defendant may add inconsistent pleas, but not withdraw admissions (*Ram Niwas v Bano*, 2000);
+  - an amendment relates back to the date of the suit, ordinarily.
+### Conclusion
+Pleadings define the dispute. The amendment power is liberal before trial, so that real issues are tried, but it is controlled after trial begins.
+
+Q: Discuss the modes of execution of decrees under the CPC.
+### Courts that may execute (ss.38 and 39)
+The court that passed the decree, or a court to which it is transferred. The executing court cannot go behind the decree (*Maurice W. Innis*, 2026), except for nullity or lack of jurisdiction.
+### Questions to be decided by the executing court (s.47)
+All questions between the parties relating to execution, discharge or satisfaction of the decree, without a separate suit.
+### Modes (s.51 and Order XXI)
+1. **Delivery of property:** movable (Rule 31) or immovable (Rules 35 and 36), with removal of obstruction (Rules 97 to 101).
+2. **Attachment and sale:**
+   - attachment (Rules 41 to 57), with exemptions under s.60 such as necessary wearing apparel, tools, a portion of salary and agricultural land;
+   - sale by public auction (Rules 64 to 94), with proclamation (Rule 66);
+   - setting aside a sale for material irregularity or fraud (Rule 90), or on deposit (Rule 89).
+3. **Arrest and detention in civil prison (ss.55 to 59):** only after notice and on a finding of means to pay and wilful refusal (*Jolly George Varghese v Bank of Cochin*, 1980, Art. 21). Detention is up to three months.
+4. **Appointment of a receiver (s.51(d); Order XL).**
+5. **Other modes**, as the nature of the relief requires, for example the execution of documents by the court (Rule 34).
+### Special decrees
+- money decrees (Rule 30);
+- specific performance and injunctions (Rule 32): detention or attachment.
+- Proved disobedience is required for execution of an injunction (*Kapadam Sangalappa*, 2025).
+### Limitation
+12 years for execution (Art. 136, Limitation Act). Under the Rule 22 notice, execution after two years needs notice.
+### Delays
+*Rahul S. Shah v Jinendra Kumar Gandhi* (2021) issued directions to speed up execution, including disposal within six months.
+### Conclusion
+Execution is where litigants actually obtain relief. The CPC provides several modes, balanced by safeguards for judgment-debtors.
+
+Q: Distinguish between the first appeal and the second appeal under the CPC.
+### First appeal (s.96, Order XLI)
+- **Lies from:** every original decree, unless barred. There is no appeal from consent decrees, and an appeal from a decree in petty cases (up to ₹10,000) lies only on questions of law.
+- **Scope:** a continuation of the suit, on both facts and law. The appellate court re-appreciates the evidence and must deal with all issues (*Santosh Hazari v Purushottam Tiwari*, 2001).
+- **Procedure:** a memorandum of appeal with the grounds (Rule 1), filed within 90 days to the High Court or 30 days to other courts. The court may dismiss in limine (Rule 11).
+- **Powers (s.107; Rules 23 to 33):** remand, framing additional issues, taking additional evidence (Rule 27, restricted), and Rule 33 powers to pass any decree that ought to have been passed.
+- **Cross-objections (Rule 22).**
+### Second appeal (s.100)
+- **Lies to:** the High Court, from a first appellate decree.
+- **Scope:** only on a **substantial question of law**, which must be formulated at admission. The appeal is heard only on that question (*Santosh Hazari*, 2001; *Hero Vinoth v Seshammal*, 2006). The High Court cannot re-appreciate evidence, except for perversity (*Rajat Kumar*, 2026, on the limits of s.100).
+- **No second appeal** in money suits up to ₹25,000 (s.102).
+- **Limitation:** 90 days.
+- **No Letters Patent appeal** from a single judge's decision in a second appeal (s.100A).
+### Differences
+| First appeal | Second appeal |
+| Facts and law | Substantial question of law only |
+| To the district court or High Court | To the High Court only |
+| Re-appreciation of evidence | No re-appreciation, except perversity |
+| Pecuniary limits apply for petty cases | Barred in money suits up to ₹25,000 |
+### Conclusion
+The first appeal is a full rehearing. The second appeal is a narrow, law-focused remedy designed to bring finality.
+
+Q: Explain the provisions of the Limitation Act relating to condonation of delay, acknowledgment and continuing wrongs.
+### Bar of limitation (s.3)
+Every suit, appeal or application made after the prescribed period shall be dismissed, even if limitation is not pleaded. The court must examine it on its own.
+### Condonation of delay (s.5)
+- An appeal or application (not a suit) may be admitted after the period, if the party shows "sufficient cause".
+- A liberal approach should be taken, and substantial justice preferred (*Collector, Land Acquisition v Mst. Katiji*, 1987).
+- However, delay cannot be condoned for gross negligence, and the State has no special privilege: an 11-year delay was refused (*State of Odisha v Namatara Girls High School*, 2026; *Postmaster General v Living Media*, 2012).
+- Each day's delay need not be explained mechanically, but the whole period must be explained.
+### Acknowledgment (s.18)
+- A written acknowledgment of liability, signed by the party, made before the expiry of limitation, gives a fresh period from the date of the acknowledgment.
+- An oral acknowledgment does not count. A balance sheet entry may be an acknowledgment (*Asset Reconstruction Co v Bishal Jaiswal*, 2021).
+### Part payment (s.19)
+A payment on account of a debt, made before the expiry of limitation by the debtor or an authorised agent, gives a fresh period. The fact of payment must appear in the handwriting of, or a writing signed by, the payer.
+### Continuing wrongs (s.22)
+In a continuing breach of contract or continuing tort, a fresh period begins at every moment the breach or tort continues. Examples include continuing obstruction and wrongful withholding of pay.
+- A continuing wrong differs from a single wrong with continuing effects (*Balakrishna Savalram Pujari v Shree Dnyaneshwar Maharaj Sansthan*, 1959).
+### Other provisions
+- legal disability (ss.6 to 9);
+- exclusion of time spent in good-faith proceedings in a wrong court (s.14);
+- fraud and mistake (s.17); and
+- the COVID-19 extension (*In re Cognizance for Extension of Limitation*, 2022).
+### Conclusion
+Limitation balances repose with justice. Sections 5, 18, 19 and 22 provide controlled flexibility.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A sues B for possession, claiming title by a gift. The suit is dismissed on merits. A then files a fresh suit for possession of the same property, now claiming title by adverse possession. Is the second suit maintainable?
+**Issue:** Does constructive res judicata bar the second suit?
+**Law:** Section 11 CPC, Explanation IV: any matter that might and ought to have been made a ground of attack or defence in the former suit is deemed to have been directly and substantially in issue. Order II Rule 2 bars splitting of claims arising from the same cause of action.
+**Application:** Both suits seek possession of the same property between the same parties. A could and ought to have pleaded adverse possession, if available, in the first suit.
+**Conclusion:** The second suit is barred by constructive res judicata.
+
+Q: In a partition suit, the defendant first admits in the written statement that the property is joint family property. Two years later, she files an additional written statement claiming that it is her self-acquired property. Decide.
+**Issue:** Can a defendant withdraw an admission through an additional written statement?
+**Law:**
+- A defendant may raise inconsistent pleas, but cannot withdraw a clear admission to the prejudice of the plaintiff (*Ram Niwas v Bano*, 2000).
+- *Mondira Ghosh v Chaitali Ghosh* (2026): a defendant cannot retract pleadings through an additional written statement.
+- Order VIII Rule 9 allows subsequent pleadings only with the court's leave.
+**Application:** The admission that the property is joint family property is clear, and withdrawing it would prejudice the plaintiff.
+**Conclusion:** The additional written statement withdrawing the admission should be rejected.
+
+Q: A State government department files an appeal 11 years late, citing "file movement and administrative delays". Should the delay be condoned?
+**Issue:** Can a long delay by the State be condoned under s.5 of the Limitation Act?
+**Law:**
+- "Sufficient cause" is liberally construed (*Katiji*, 1987), but the government is not entitled to special treatment. Routine bureaucratic delay is not sufficient cause (*Postmaster General v Living Media*, 2012).
+- *State of Odisha v Namatara Girls High School* (2026): an 11-year delay was not condoned.
+**Application:** No specific explanation is given for each period; there is only a generic plea.
+**Conclusion:** The delay should not be condoned, and the appeal should be dismissed as time-barred.
+
+Q: A files a suit for injunction against the State Government without serving the notice under section 80 CPC, claiming urgency. Is the suit maintainable?
+**Issue:** The effect of not giving a s.80 notice.
+**Law:**
+- Section 80(1): no suit may be instituted against the government until two months after notice.
+- Section 80(2): a suit for urgent or immediate relief may be instituted with the court's leave, without notice. The court shall not grant relief without giving the government a reasonable opportunity to show cause, and must return the plaint if there is no urgency.
+- Section 80(3): the suit is not dismissed for a mere defect in the notice.
+**Application:** If A sought and obtained leave under s.80(2) on showing urgency, the suit is maintainable. If not, the plaint must be returned for presentation after compliance.
+**Conclusion:** The suit is maintainable only with leave under s.80(2).

@@ -1,0 +1,212 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Mens rea
+"Actus non facit reum nisi mens sit rea": an act does not make a person guilty unless the mind is guilty. Mens rea is the mental element, expressed in the BNS by words such as:
+- "intentionally";
+- "knowingly";
+- "voluntarily";
+- "dishonestly";
+- "fraudulently"; and
+- "reason to believe".
+Exceptions are strict-liability offences in public-welfare statutes, such as food adulteration and some economic offences (*State of Maharashtra v M.H. George*, 1965). *Nathulal v State of MP* (1966) holds that mens rea is presumed to be required unless the statute excludes it expressly or by necessary implication.
+
+Q: Common intention and common object
+| Point | Common intention (s.3(5) BNS [34 IPC]) | Common object (s.190 BNS [149 IPC]) |
+| Nature | Rule of evidence; no separate offence | Creates a specific offence (constructive liability) |
+| Persons | Two or more | Five or more (unlawful assembly) |
+| Mind | Prior meeting of minds; it may develop on the spot | Object shared; no prior meeting needed |
+| Participation | Some participation in the act required | Mere membership is enough |
+Leading cases: *Barendra Kumar Ghosh v King Emperor* (1925); *Mahbub Shah v Emperor* (1945).
+
+Q: Attempt to commit an offence
+Section 62 BNS [511 IPC] punishes an attempt, where no express provision exists, with up to half the longest term provided for the offence.
+- Stages of a crime: intention, preparation, attempt and commission. Preparation is generally not punishable, except for waging war (s.149) and dacoity (s.310(4)).
+- Tests for attempt: proximity, equivocality, and the act being "towards" the commission of the offence (*Abhayanand Mishra v State of Bihar*, 1961).
+- Impossibility is no defence (illustration, pickpocket and empty pocket).
+
+Q: When the right of private defence of the body extends to causing death
+Section 38 BNS [100 IPC] lists the assaults that justify causing death, if the assault reasonably causes apprehension of:
+1. death;
+2. grievous hurt;
+3. rape;
+4. gratifying unnatural lust;
+5. kidnapping or abduction;
+6. wrongful confinement with apprehension of being unable to seek public authorities; or
+7. an acid attack causing grievous hurt.
+The right is limited by s.37 (no more harm than necessary; no right where there is time to seek public authorities). It begins with reasonable apprehension and lasts while the apprehension continues (s.40).
+
+Q: Insanity as a defence
+Section 22 BNS [84 IPC] follows the M'Naghten Rules (1843). Nothing is an offence if, at the time of the act, by reason of unsoundness of mind, the person was incapable of knowing:
+- the nature of the act; or
+- that it was wrong or contrary to law.
+Only legal insanity, not medical insanity, counts. The burden is on the accused, on a preponderance of probability (s.108 BSA [105 IEA]). *Dahyabhai Chhaganbhai Thakker v State of Gujarat* (1964) held that a reasonable doubt raised by the evidence entitles the accused to acquittal.
+
+Q: Kidnapping and abduction
+- Kidnapping from lawful guardianship (s.137 BNS [361 IPC]): taking or enticing a minor (under 18 for any child under the BNS) or a person of unsound mind out of the keeping of the lawful guardian, without consent. It is a strict offence; the minor's consent is irrelevant (*S. Varadarajan v State of Madras*, 1965, on "taking").
+- Abduction (s.138 BNS [362 IPC]): by force, or deceitful inducement, compelling a person of any age to go from any place. It is a continuing offence and is punishable only with an ulterior purpose.
+
+Q: Theft and extortion distinguished
+| Theft (s.303 BNS) | Extortion (s.308 BNS) |
+| Movable property only | Any property, including valuable security |
+| Taken without consent | Delivered with consent obtained by putting in fear of injury |
+| Moving the property is essential | Delivery by the victim |
+| One offender acts | Requires inducing the victim |
+A dishonest intention is common to both. Robbery (s.309) is theft or extortion with violence or fear of instant violence.
+
+Q: Dowry death
+Section 80 BNS [304B IPC]: where a woman dies by burns, bodily injury or otherwise than under normal circumstances within seven years of marriage, and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or relatives for dowry, it is "dowry death". The punishment is a minimum of seven years, up to life imprisonment.
+- Section 118 BSA [113B IEA] raises a presumption against the person who caused the harassment.
+- "Soon before" means a proximate and live link (*Satbir Singh v State of Haryana*, 2021).
+- The presumption must be considered even at the bail stage (*Mahesh Chand v State of UP*, 2026).
+
+Q: Organised crime under the BNS
+Section 111 BNS creates a new general offence. It covers continuing unlawful activity by a group, singly or jointly, as a member of or on behalf of an organised crime syndicate, by violence, threats, intimidation, coercion or other unlawful means, for material benefit. Examples include kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offences and cyber crimes.
+Punishment:
+- If death results: death or life imprisonment and a fine of at least ₹10 lakh.
+- Otherwise: a minimum of five years, up to life imprisonment.
+Petty organised crime is dealt with separately (s.112).
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: "All murders are culpable homicides, but not all culpable homicides are murders." Explain.
+### Culpable homicide (s.100 BNS [299 IPC])
+Causing death by doing an act:
+- (a) with the intention of causing death;
+- (b) with the intention of causing such bodily injury as is likely to cause death; or
+- (c) with the knowledge that the act is likely to cause death.
+### Murder (s.101 BNS [300 IPC])
+Culpable homicide is murder, except in the exceptions, if the act is done:
+1. with the intention of causing death;
+2. with the intention of causing bodily injury the offender knows to be likely to cause the death of the particular person harmed;
+3. with the intention of causing bodily injury sufficient in the ordinary course of nature to cause death; or
+4. with the knowledge that the act is so imminently dangerous that it must in all probability cause death, without excuse.
+### The distinction: degrees of probability
+*State of AP v Rayavarapu Punnayya* (1976) explains the distinction:
+| s.100 | s.101 |
+| (a) intention to cause death | 1: the same; murder unless an exception applies |
+| (b) injury likely to cause death | 2: injury the offender knows likely to cause death of that particular victim (special knowledge, e.g. an enlarged spleen) |
+| (b) injury likely to cause death | 3: injury sufficient in the ordinary course of nature to cause death |
+| (c) knowledge of likelihood of death | 4: knowledge of imminent danger; death in all probability |
+Under the third clause of s.101, the prosecution must prove a bodily injury, its nature, that it was intended, and that it was sufficient in the ordinary course of nature to cause death (*Virsa Singh v State of Punjab*, 1958).
+### Exceptions reducing murder to culpable homicide (s.101)
+1. grave and sudden provocation (*K.M. Nanavati v State of Maharashtra*, 1962: no cooling time);
+2. exceeding the right of private defence in good faith;
+3. a public servant exceeding powers in good faith;
+4. a sudden fight without premeditation, in the heat of passion; and
+5. consent of a person above 18 (relevant to euthanasia; passive euthanasia is permitted under the *Common Cause* guidelines, applied in *Harish Rana*, 2026).
+### Punishment
+- Murder: s.103, death or life imprisonment. Murder by a group of five or more on grounds such as race, caste or community (mob lynching) is covered by s.103(2).
+- Culpable homicide: s.105.
+### Conclusion
+Every murder is culpable homicide, but culpable homicide becomes murder only when the higher degree of intention or knowledge in s.101 is present and no exception applies.
+
+Q: Explain the right of private defence and its limitations under the Bharatiya Nyaya Sanhita.
+### Basis
+Section 34 BNS [96 IPC]: nothing is an offence which is done in the exercise of the right of private defence. Self-help is allowed because the State cannot protect everyone at every moment.
+### Extent (s.35 [97])
+- Defence of one's own or another's body against offences affecting the human body.
+- Defence of property, one's own or another's, against theft, robbery, mischief, criminal trespass and attempts.
+- The right exists even against a person of unsound mind, a child or an intoxicated person (s.36).
+### Limitations (s.37 [99])
+- No right against acts of public servants acting in good faith under colour of office, unless the act reasonably causes apprehension of death or grievous hurt.
+- No right where there is time to have recourse to public authorities.
+- No more harm may be inflicted than is necessary.
+### Extension to causing death
+- In defence of the body: s.38 (death, grievous hurt, rape, unnatural lust, kidnapping, abduction, wrongful confinement, acid attack).
+- In defence of property: s.41 (robbery, house-breaking by night, mischief by fire to a dwelling, and theft, mischief or house-trespass causing apprehension of death or grievous hurt).
+### Commencement and duration
+- Body (s.40): from reasonable apprehension, as long as the apprehension continues.
+- Property (s.43): until the offender escapes, the property is recovered, or the help of public authorities is obtained.
+### Judicial principles
+- The accused need not prove the right beyond reasonable doubt; a preponderance of probability is enough (*Salim Zia v State of UP*, 1979).
+- Harm need not be weighed in "golden scales" (*Darshan Singh v State of Punjab*, 2010, which set out guidelines).
+- No right is available to an aggressor.
+- Exceeding the right in good faith reduces murder to culpable homicide (Exception 2 to s.101).
+### Conclusion
+Private defence is a defensive right, not a right to punish. It is limited by necessity and proportion.
+
+Q: Explain the stages of a crime. When does preparation become an attempt?
+### Stages
+1. **Intention.** Not punishable; the law does not punish mere thought.
+2. **Preparation.** Arranging means. Generally not punishable, because it is hard to prove criminal intent and there is room to withdraw. Exceptions: preparation to wage war (s.149 BNS), preparation for dacoity (s.310(4)), making or possessing counterfeiting instruments, and possessing forged documents.
+3. **Attempt.** A direct movement towards commission after preparations are made. Punishable under specific sections (for example, attempt to murder, s.109) or generally under s.62.
+4. **Commission.** The completed offence.
+### Tests to distinguish preparation from attempt
+- **Proximity test:** the act must be sufficiently near to completion (*R v Taylor*, 1859).
+- **Locus poenitentiae:** whether the accused could still withdraw (*Malkiat Singh v State of Punjab*, 1969: a truck with paddy stopped before crossing the State border was only preparation).
+- **Equivocality test:** the act itself must show the intent unequivocally.
+- **Indian test:** *Abhayanand Mishra v State of Bihar* (1961). An attempt begins when the accused commences doing an act with the intention of committing the offence, after preparation, and the act need not be the penultimate one. Applying for university admission with forged certificates was held to be an attempt to cheat.
+- *State of Maharashtra v Mohd Yakub* (1980): smuggling silver; the steps had gone beyond preparation.
+### Impossibility
+Factual impossibility is no defence: an attempt to steal from an empty pocket is still an attempt (*Asgarali Pradhania v Emperor*, 1933). An attempt to commit something that is not an offence at all is not punishable.
+### Conclusion
+The line between preparation and attempt depends on the facts. The guiding question is whether the accused has gone beyond getting ready and begun to execute the crime.
+
+Q: Discuss the law relating to rape under the Bharatiya Nyaya Sanhita.
+### Definition (s.63 BNS [375 IPC])
+A man commits rape if he does the acts specified (penetration of the vagina, mouth, urethra or anus, by penis, object or body part, or application of the mouth) in any of seven circumstances:
+1. against her will;
+2. without her consent;
+3. with consent obtained by fear of death or hurt;
+4. with consent given in the belief that he is her husband;
+5. with consent given while of unsound mind or intoxicated, unable to understand;
+6. with or without consent when she is under 18; or
+7. when she is unable to communicate consent.
+Consent means an unequivocal voluntary agreement. The absence of physical resistance is not consent.
+### Marital exception
+Sexual acts by a husband with his wife, if she is not under 18, are not rape (Exception 2). *Independent Thought v Union of India* (2017) had read down the earlier exception for wives aged 15 to 18. A challenge to the marital exception is pending.
+### Punishment
+- Section 64: rigorous imprisonment for at least ten years, extendable to life, and fine. Aggravated forms under s.64(2), such as rape by a police officer, public servant, relative or doctor, carry at least ten years up to life for the remainder of natural life.
+- Section 65: rape of a woman under 16 (minimum twenty years, up to life); under 12 (minimum twenty years, up to life for the remainder of natural life, or death).
+- Section 66: rape causing death or a persistent vegetative state.
+- Section 70: gang rape; gang rape of a girl under 18 may attract death.
+- Section 69 (new): sexual intercourse by deceitful means, including a false promise of marriage or employment, up to ten years.
+### Procedure and evidence
+- A woman officer records the statement, which is videographed. The trial is in camera, the victim's identity is protected (s.72), and there is a time limit for investigation.
+- Section 120 BSA [114A IEA]: a presumption of absence of consent in aggravated cases.
+- The victim's past sexual history is irrelevant.
+- The two-finger test is banned (*State of Jharkhand v Shailendra Kumar Rai*, 2022).
+### Related laws
+The POCSO Act, 2012 governs children; recent cases discuss age determination and adolescent relationships (*State of UP v Anurudh*, 2026).
+### Conclusion
+The BNS keeps the expanded definition from the 2013 and 2018 amendments, adds deceitful sexual intercourse as a distinct offence, and imposes severe minimum sentences, with procedural safeguards for victims.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: A and B quarrel. A strikes B once on the head with a heavy iron rod, intending to cause grievous injury. B dies due to a skull fracture. A pleads that he did not intend to kill. Decide.
+**Issue:** Is A guilty of murder or of culpable homicide not amounting to murder?
+**Law:**
+- Section 101 clause 3 BNS: an intention to cause bodily injury sufficient in the ordinary course of nature to cause death is murder.
+- *Virsa Singh v State of Punjab* (1958): once it is proved that the accused intended the particular injury, and that injury is sufficient in the ordinary course of nature to cause death, it is murder, whether or not he intended death.
+- Exception 4 (sudden fight) applies only if the offender has not taken undue advantage or acted cruelly.
+**Application:** A deliberately struck a vital part, the head, with a heavy iron rod. The fracture was sufficient in the ordinary course of nature to cause death. If the quarrel was a sudden fight without premeditation and A struck only one blow in the heat of passion, Exception 4 may reduce the offence.
+**Conclusion:** Ordinarily, A is guilty of murder (s.103). If the sudden-fight exception is proved on the facts, he is guilty of culpable homicide not amounting to murder (s.105).
+
+Q: A, B and C plan to rob a jeweller. A stands guard outside, while B and C enter. When the jeweller resists, C unexpectedly shoots him dead. A pleads that he never intended any killing. Decide the liability of A, B and C.
+**Issue:** Are A and B liable for murder committed by C?
+**Law:**
+- Section 3(5) BNS [34 IPC]: when a criminal act is done by several persons in furtherance of the common intention of all, each is liable as if he did it alone.
+- A person standing guard participates (*Barendra Kumar Ghosh*, 1925).
+- The act must be in furtherance of the common intention. If the killing was outside it, only the doer is liable (*Mahbub Shah*, 1945). If the co-accused knew that firearms were carried and that resistance was likely, an intention to kill if resisted may be inferred.
+- Robbery is defined in s.309. Dacoity (s.310) needs five or more persons, so it does not apply to three.
+**Application:** All three shared the intention to rob, so all are guilty of robbery. If A and B knew that C carried a loaded gun to overcome resistance, the murder was in furtherance of the common intention. Otherwise, only C is liable for murder.
+**Conclusion:** C is guilty of murder (s.103). A and B are guilty of robbery (s.309), and of murder under s.3(5) only if the common intention extended to killing.
+
+Q: Z gives his watch to a repairer, R, for repair. After the repair, R refuses to return it until his charges are paid, as he is entitled to. Z secretly takes the watch from R's shop without paying. Has Z committed theft?
+**Issue:** Can a person commit theft of his own property?
+**Law:**
+- Theft (s.303 BNS [378 IPC]) is dishonestly taking movable property out of the possession of any person without that person's consent.
+- The illustrations to s.303 (corresponding to illustration (j) of s.378 IPC) show that a person who takes his own property from someone with a lawful lien over it, such as a watchmaker, commits theft.
+- "Dishonestly" means intending to cause wrongful gain or wrongful loss. Depriving R of his lawful security causes wrongful loss.
+**Application:** R had lawful possession and a lien for his charges. Z took the watch without R's consent, intending to cause wrongful loss.
+**Conclusion:** Z is guilty of theft. Ownership is no defence where another has a lawful possessory right.
+
+Q: W died of burns in her matrimonial home two years after her marriage. Her parents state that the husband and mother-in-law demanded a car and harassed her, including a week before her death. The husband claims it was an accident. Discuss their liability.
+**Issue:** Is this a dowry death, and is there a presumption against the accused?
+**Law:**
+- Section 80 BNS [304B IPC]: an unnatural death within seven years of marriage, with cruelty or harassment for dowry "soon before" death, is dowry death. Punishment is seven years to life.
+- Section 118 BSA [113B IEA]: the court shall presume that the person who subjected her to such cruelty caused the dowry death.
+- Cruelty is also punishable under s.85 BNS [498A IPC].
+- *Satbir Singh v State of Haryana* (2021): there must be a proximate and live link. The presumption must also be applied at the bail stage (*Mahesh Chand v State of UP*, 2026).
+**Application:** The death by burns is unnatural, it occurred within seven years of marriage, and there is evidence of a dowry demand and harassment a week before death. The presumption arises, and the burden shifts to the accused to rebut it, for example by proving an accident.
+**Conclusion:** The husband and mother-in-law are liable under ss.80 and 85 BNS, and under the Dowry Prohibition Act, unless they rebut the presumption. The court should also consider murder (s.103) if the evidence supports it.

@@ -1,0 +1,187 @@
+PART: A | Short answer questions | Answer any FIVE of the following. | 5 × 4 = 20 marks
+
+Q: Res gestae
+Section 4 BSA [6 IEA]: facts that, though not in issue, are so connected with a fact in issue as to form part of the same transaction are relevant, whether they occurred at the same time and place or at different times and places. Examples are statements made spontaneously, at the time or immediately afterwards, by the victim or by bystanders.
+- The statement must be contemporaneous with the act, with no interval that allows fabrication.
+- *Sukhar v State of UP* (1999) applied the rule to an immediate statement by an injured person.
+
+Q: Admission and confession distinguished
+| Admission | Confession |
+| A statement suggesting an inference about any fact in issue or relevant fact | An admission of guilt in a criminal case |
+| Civil and criminal proceedings | Criminal proceedings only |
+| May be made by a party, agent or interested person | Made by the accused |
+| Not conclusive; may be explained | If voluntary and true, can be the sole basis of conviction |
+| An admission to the police is admissible in civil matters | A confession to the police is inadmissible (s.23 BSA) |
+All confessions are admissions, but not all admissions are confessions (*Pakala Narayana Swami v Emperor*, 1939).
+
+Q: Confession to the police
+Under s.23(1) BSA [25 IEA], no confession made to a police officer can be proved against the accused. Under s.23(2) [26 IEA], a confession made while in police custody is inadmissible unless made in the immediate presence of a Magistrate.
+- The reason is the risk of coercion and torture.
+- Customs and other officers who are not police officers are outside the rule (*State of Punjab v Barkat Ram*, 1962). However, NDPS officers were treated as police officers (*Tofan Singh v State of TN*, 2020).
+- Under s.22 [24], a confession caused by inducement, threat, coercion or promise is irrelevant.
+
+Q: Discovery statement
+The proviso to s.23(2) BSA [27 IEA]: when a fact is discovered in consequence of information received from an accused in police custody, so much of the information as relates distinctly to the fact discovered may be proved, whether or not it amounts to a confession.
+- "Fact discovered" includes the place from which the object is produced and the accused's knowledge of it (*Pulukuri Kottaya v Emperor*, 1947).
+- The recovery must be from a place known only to the accused, and witnesses must be credible.
+- The provision is constitutional (*State of Bombay v Kathi Kalu Oghad*, 1961).
+
+Q: Dying declaration
+Section 26(a) BSA [32(1) IEA]: a statement by a person who has died, about the cause of death or the circumstances of the transaction resulting in death, is relevant, whether or not the person expected death at the time.
+- It can be the sole basis of conviction if it is voluntary, truthful and the person was in a fit state of mind (*Khushal Rao v State of Bombay*, 1958; *Laxman v State of Maharashtra*, 2002).
+- Recording by a Magistrate is preferred but not essential.
+- Its value is not lost because the maker survived for some time (*Neeraj Kumar v State of UP*, 2025).
+- Multiple declarations must be consistent.
+
+Q: Expert opinion
+Under s.39 BSA [45 IEA], opinions of persons specially skilled in foreign law, science, art, handwriting, finger impressions or electronic evidence (added in the BSA) are relevant.
+- Expert evidence is advisory; the court must form its own judgement (*Ramesh Chandra Agrawal v Regency Hospital*, 2009).
+- Handwriting opinion needs corroboration.
+- The Examiner of Electronic Evidence under s.79A of the IT Act is recognised.
+- The scope of who is an "expert" for the s.63(4) certificate was left open in *Pune Bar Association* (2026).
+
+Q: Primary and secondary evidence
+- **Primary evidence (s.57 BSA [62 IEA]):** the document itself produced for inspection. Under the BSA, an electronic record stored in multiple files simultaneously, or produced from proper custody, is primary evidence.
+- **Secondary evidence (s.58 [63]):** certified copies, mechanical copies, counterparts, oral accounts, and under the BSA, oral or written admissions and evidence of a skilled person.
+- Secondary evidence is permitted in specified cases (s.60 [65]), such as loss of the original, or when the original is in the possession of the adverse party who does not produce it after notice.
+
+Q: Hostile witness
+A witness who deviates from an earlier statement or shows hostility to the party calling him may, with the court's permission, be cross-examined by that party (s.154 IEA, carried into the BSA).
+- The evidence of a hostile witness is not wiped out. The part that is reliable and corroborated may be used (*Bhagwan Singh v State of Haryana*, 1976; *Khujji v State of MP*, 1991).
+- Witness protection is provided under s.398 BNSS and the Witness Protection Scheme, 2018.
+
+Q: Estoppel
+Under s.121 BSA [115 IEA], when a person by declaration, act or omission intentionally causes another to believe a thing to be true and to act on that belief, neither he nor his representative may deny its truth in any suit between them.
+Types:
+- estoppel by record (res judicata);
+- estoppel by deed;
+- estoppel by conduct;
+- the tenant's estoppel (s.122 [116]); and
+- promissory estoppel (equitable).
+There is no estoppel against a statute.
+
+PART: B | Essay questions | Answer any TWO of the following. | 2 × 15 = 30 marks
+
+Q: Discuss the law relating to confessions under the Bharatiya Sakshya Adhiniyam.
+### Meaning
+A confession is a statement by an accused admitting the offence, or substantially all the facts that constitute it (*Pakala Narayana Swami*, 1939; *Palvinder Kaur v State of Punjab*, 1952: an exculpatory statement is not a confession). The BSA groups admissions and confessions together.
+### Types
+- **Judicial:** before a Magistrate under s.183 BNSS [164 CrPC], with warnings, time for reflection, and recording without the police.
+- **Extra-judicial:** to a private person. It is a weak piece of evidence and needs corroboration (*Sahadevan v State of TN*, 2012).
+### Exclusionary rules
+1. **Inducement, threat or coercion (s.22 [24]):** a confession caused by any inducement, threat, coercion or promise from a person in authority is irrelevant. It becomes relevant once the impression is fully removed (proviso).
+2. **To a police officer (s.23(1) [25]):** inadmissible.
+3. **In police custody (s.23(2) [26]):** inadmissible unless made in the immediate presence of a Magistrate.
+4. **Discovery (proviso to s.23(2) [27]):** the information leading to the discovery is admissible.
+### Confession of a co-accused (s.24 [30])
+When persons are jointly tried for the same offence, a confession affecting the maker and others may be taken into consideration against the others. However, it is not substantive evidence; it can only lend assurance to other evidence (*Kashmira Singh v State of MP*, 1952; *Haricharan Kurmi v State of Bihar*, 1964). The BSA extends this to trials of absconding accused under trial in absentia.
+### Retracted confessions
+A retracted confession can be relied on if it was voluntary and is corroborated in material particulars, as a rule of prudence (*Pyare Lal v State of Rajasthan*, 1963).
+### Scientific techniques
+Involuntary narco-analysis violates Arts. 20(3) and 21 (*Selvi v State of Karnataka*, 2010). Even voluntary results cannot be the sole basis of conviction (*Amlesh Kumar v State of Bihar*, 2025).
+### Conclusion
+The law admits confessions cautiously, excluding those made to the police or under pressure, consistent with the right against self-incrimination.
+
+Q: Explain the evidentiary value of a dying declaration, with the help of decided cases.
+### Basis
+"Nemo moriturus praesumitur mentire": a person at the point of death is presumed not to lie. Necessity also applies, since the victim is the only eyewitness. The relevant provision is s.26(a) BSA [32(1) IEA].
+### Indian departures from English law
+- Expectation of death is not required.
+- The statement is admissible in civil and criminal cases.
+- It applies whether the cause of death is in issue in a homicide or not.
+### Principles (*Khushal Rao v State of Bombay*, 1958; *Paniben v State of Gujarat*, 1992; *Laxman v State of Maharashtra*, 2002, five judges)
+1. A dying declaration can be the sole basis of conviction, without corroboration, if the court is satisfied that it is true and voluntary.
+2. The court must be satisfied that the declarant was in a fit state of mind. A doctor's certificate is useful, but not essential if the recording officer is satisfied (*Laxman*).
+3. It must not be the result of tutoring, prompting or imagination.
+4. Where it is suspicious, corroboration is needed.
+5. An incomplete declaration may be acted on if what is recorded is clear.
+6. A declaration in the form of questions and answers, or by gestures and signs, is acceptable.
+7. Where there are multiple declarations, inconsistencies must be explained, and the court may prefer the reliable one (*Kundula Bala Subrahmanyam v State of AP*, 1993).
+8. A Magistrate's recording is better, but police recordings are admissible if there was no time to call a Magistrate.
+9. The value is not reduced merely because the declarant survived for a while (*Neeraj Kumar v State of UP*, 2025).
+### Who may record
+A Magistrate, a doctor, a police officer or a private person.
+### Burns cases
+Special care is needed about the declarant's ability to speak and the percentage of burns.
+### Conclusion
+A dying declaration is a powerful but delicate piece of evidence. Courts admit it with care about the declarant's capacity and voluntariness.
+
+Q: Discuss the admissibility of electronic evidence under the Bharatiya Sakshya Adhiniyam.
+### Definitions
+- "Document" includes electronic and digital records (s.2(1)(d)).
+- "Evidence" includes electronic evidence (s.2(1)(e)).
+- Emails, server logs, documents on computers, smartphones, voice mails and messages are covered.
+### Primary evidence
+Under the explanations to s.57, an electronic record is primary evidence if:
+- it is produced from proper custody;
+- each of several simultaneous storages is primary; or
+- it is stored or transmitted in temporary files.
+### Admissibility of secondary electronic records (s.63 [65B IEA])
+- Section 63(1) deems a computer output to be a document, admissible without the original, if the conditions in s.63(2) are satisfied: regular use, information fed in the ordinary course, and the device operating properly.
+- **Section 63(4):** a certificate in the form in the Schedule must accompany the record.
+  - **Part A** is signed by the person in charge of the device.
+  - **Part B** is signed by an expert, and requires the hash value of the record.
+### Case law
+- *Anvar P.V. v P.K. Basheer* (2014): the s.65B certificate is mandatory, overruling *Navjot Sandhu* (2005) on this point.
+- *Shafhi Mohammad v State of HP* (2018) diluted the requirement, but was overruled.
+- *Arjun Panditrao Khotkar v Kailash Kushanrao Gorantyal* (2020, three judges): the certificate is a condition precedent. It may be produced at any stage before the end of trial. Where the certificate cannot be obtained despite efforts, the court may summon the person concerned. The original device itself is primary evidence, not requiring a certificate.
+- *Pune Bar Association v Union of India* (2026): s.63(4) and the Schedule, including the hash value requirement, were upheld. The Madras High Court's view that Part B can be signed only by examiners notified under s.79A of the IT Act is not binding. The full scope of "expert" was left open.
+### Electronic signatures and presumptions
+The BSA carries forward the presumptions about electronic agreements, electronic signatures, electronic gazettes and electronic messages.
+### Conclusion
+The BSA strengthens authentication of electronic evidence with a standard certificate and hash values, building on *Anvar* and *Arjun Panditrao*. These requirements were upheld in 2026.
+
+Q: Explain the rules relating to burden of proof and presumptions under the BSA.
+### Burden of proof
+- **General rule (s.104 [101]):** whoever desires judgment on the existence of facts must prove them. The legal burden lies on the party asserting.
+- **Who bears it (s.105 [102]):** the party who would fail if no evidence were given on either side.
+- **Particular facts (s.106 [103]):** the person who wishes the court to believe in their existence.
+- **Exceptions (s.108 [105]):** the accused must prove circumstances bringing the case within a general or special exception, such as private defence or insanity. The standard is a preponderance of probability (*Dahyabhai Chhaganbhai Thakker*, 1964).
+- **Special knowledge (s.109 [106]):** facts especially within the knowledge of a person must be proved by that person. This does not relieve the prosecution of its primary burden (*Shambhu Nath Mehra*, 1956; *Trimukh Maroti Kirkan*, 2006, on "last seen" in the home).
+- **The standard** is proof beyond reasonable doubt in criminal cases, and preponderance of probabilities in civil cases.
+### Presumptions
+1. **"May presume" (s.119 [114]):** permissive. Examples include the possession of stolen goods and the accomplice illustration.
+2. **"Shall presume":** mandatory but rebuttable:
+   - abetment of suicide by a married woman (s.117 [113A], "may presume");
+   - dowry death (s.118 [113B]): the court shall presume (*Mahesh Chand*, 2026, applying it at the bail stage);
+   - absence of consent in certain rape cases (s.120 [114A]);
+   - presumptions about certified copies, gazettes and electronic records.
+3. **Conclusive proof:** legitimacy (s.116 [112]). Birth during a valid marriage is conclusive proof of legitimacy, unless non-access is shown. DNA tests are ordered only on eminent need (*R. Rajendran v Kamar Nisha*, 2025; *Ivan Rathinam v Milan Joseph*, 2025).
+### Special statutes
+Reverse burdens exist under the NDPS Act (ss.35 and 54), the POCSO Act (ss.29 and 30), the PC Act (s.20) and the NI Act (s.139). These are valid if reasonable (*Noor Aga v State of Punjab*, 2008).
+### Conclusion
+The burden of proof generally rests on the prosecution. Statutory presumptions shift the evidential burden in specific contexts, without displacing the presumption of innocence.
+
+PART: C | Problems | Answer any TWO of the following. | 2 × 10 = 20 marks
+
+Q: In a cheating trial, the prosecution produces printouts of WhatsApp chats taken from the complainant's phone, with no certificate under section 63(4) BSA. The defence objects. Decide.
+**Issue:** Are electronic records admissible without the s.63(4) certificate?
+**Law:**
+- Section 63(4) BSA: a certificate in the Schedule form, with Part A signed by the person in charge and Part B by an expert, including the hash value, is required for secondary electronic evidence.
+- *Arjun Panditrao Khotkar* (2020): a certificate is a condition precedent, but may be produced at any stage before the trial ends. The original device is primary evidence and does not need a certificate.
+- *Pune Bar Association v Union of India* (2026) upheld s.63(4).
+**Application:** Printouts are secondary evidence, and no certificate is attached.
+**Conclusion:** The printouts are inadmissible as they stand. The prosecution may cure this by filing the certificate before the trial ends, or by producing the phone itself as primary evidence.
+
+Q: An accused in police custody tells the investigating officer: "I killed D and hid the knife under the neem tree behind my house." The police recover a knife from there. What part of the statement is admissible?
+**Issue:** Admissibility of a statement leading to discovery.
+**Law:** The proviso to s.23(2) BSA [27 IEA] admits only the information that distinctly relates to the fact discovered (*Pulukuri Kottaya*, 1947). "Fact discovered" covers the object, the place and the accused's knowledge of it. The confessional part ("I killed D") is inadmissible under s.23(1).
+**Application:** "Hid the knife under the neem tree behind my house" led to the recovery and is admissible. "I killed D" is not.
+**Conclusion:** Only the part of the statement relating to the hiding place and recovery is admissible. It must be corroborated by other evidence to prove murder.
+
+Q: A burns victim, with 70% burns, makes a dying declaration to the police officer at the hospital, naming her husband. No Magistrate was called, and the doctor did not certify her fitness. She dies two days later. Can the husband be convicted on this declaration?
+**Issue:** The reliability of a dying declaration recorded by the police without a fitness certificate.
+**Law:**
+- *Laxman v State of Maharashtra* (2002, five judges): a medical certificate is a rule of caution. The declaration can be acted on if the recording person is satisfied of fitness.
+- Recording by the police is admissible, but courts scrutinise it more closely, and a Magistrate is preferred.
+- The value of the declaration is not lost by the passage of time (*Neeraj Kumar*, 2025).
+**Application:** With 70% burns, her capacity to speak must be shown by evidence, such as nurses and witnesses present. If the declaration is consistent and free from tutoring, it may be relied on, preferably with corroboration.
+**Conclusion:** The husband may be convicted if the court is satisfied that the declaration is truthful and voluntary, and that she was fit to make it. If doubt exists, he gets the benefit of the doubt.
+
+Q: A husband, married for six years, seeks a DNA test of a child born during the marriage, alleging that the wife had an affair. The wife opposes. Decide.
+**Issue:** Can a DNA test be ordered against the presumption of legitimacy?
+**Law:**
+- Section 116 BSA [112 IEA]: birth during a valid marriage is conclusive proof of legitimacy, unless non-access is proved.
+- DNA tests should be ordered only in exceptional cases, where there is eminent need, balancing the child's right to privacy and dignity (*Goutam Kundu v State of WB*, 1993; *Aparna Ajinkya Firodia*, 2023; *R. Rajendran v Kamar Nisha*, 2025).
+**Application:** The husband alleges an affair but not non-access. Access during the marriage is presumed.
+**Conclusion:** The DNA test should be refused unless the husband first establishes a prima facie case of non-access.

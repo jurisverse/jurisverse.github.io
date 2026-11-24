@@ -1,0 +1,572 @@
+@title Civil Procedure Code and Limitation Act
+@subtitle Suits, pleadings, trial, judgment, execution, appeals and limitation
+@paper 5.1
+@sem V
+@color #2f4a6b
+@dark #293f5c
+@intro Follows the syllabus through the Code of Civil Procedure, 1908 and the Limitation Act, 1963. Sections are cited by number and Orders by Roman numerals, with rules. Commercial suits follow the CPC as modified by the Commercial Courts Act, 2015, and the book flags the main differences.
+@reading C.K. Takwani, Civil Procedure with Limitation Act
+@reading Mulla, The Code of Civil Procedure
+@reading Sarkar, The Law of Civil Procedure
+@reading The Limitation Act, 1963
+
+# 1 | Introductory
+@topics Civil procedure before British rule; Evolution 1712 to 1901; Principal features of the CPC; State amendments; Inquisitorial and adversary procedures; Importance of procedure
+>> Procedure is the machinery for enforcing rights. The CPC lays down a uniform, adversarial procedure for civil courts, with State amendments to adapt it locally.
+
+## 1.1 Before British rule
+- Classical Hindu law recognised a four-stage trial: plaint (purvapaksha), reply (uttara), proof (kriya) and decision (nirnaya). Kings' courts sat alongside guilds, families and village assemblies.
+- Under Muslim rule, the qazi administered justice according to Islamic law, with mostly oral procedure.
+
+## 1.2 Evolution, 1712 to 1901
+- Mayor's Courts in the presidency towns (Charter of 1726); the Adalat system of Warren Hastings (1772); Cornwallis's Regulations (1793).
+- The first uniform Code of Civil Procedure was enacted in 1859, followed by Codes of 1877 and 1882, and the present **Code of Civil Procedure, 1908**.
+
+## 1.3 Principal features of the CPC
+- The CPC has two parts: the **body of the Code** (158 sections), dealing with jurisdiction and substantive procedural principles, and the **First Schedule** (51 Orders with rules), dealing with the method and manner of procedure.
+- High Courts can amend the rules in the First Schedule (s.122); the sections can be amended only by the legislature.
+- Major amendments: 1976 (wide reform), 1999 and 2002 (time limits for written statements, limit on adjournments, affidavit evidence, ADR under s.89), and the Commercial Courts Act, 2015 (case management, strict timelines and summary judgment for commercial disputes).
+
+CASE: Salem Advocate Bar Association v Union of India (2005) :: The Supreme Court upheld the 1999 and 2002 amendments and approved the Malimath Committee's model case management rules. It held that the 90-day limit for filing a written statement (Order VIII rule 1) is directory, not mandatory, in ordinary suits, and that s.89 ADR should be applied.
+
+## 1.4 State amendments
+- Civil procedure is in the Concurrent List (Entry 13, List III), so States may amend the CPC with Presidential assent (Art. 254(2)). Andhra Pradesh, for example, has made amendments on pecuniary jurisdiction and certain procedural rules.
+
+## 1.5 Types of procedure
+- **Adversarial** (common law): the parties frame the case and lead evidence; the judge is a neutral umpire.
+- **Inquisitorial** (civil law): the judge investigates and directs proof.
+- The CPC is adversarial, with some inquisitorial powers: the court can examine parties (Order X), summon witnesses on its own (Order XVI rule 14), and appoint commissions (Order XXVI).
+- **Procedure is the handmaid of justice**: procedural rules should be interpreted to advance justice, not defeat it (*Sangram Singh v Election Tribunal*, 1955). But time limits laid down to curb delay must be respected.
+
+* Classical Hindu and Islamic procedure; British courts; Codes of 1859, 1877, 1882 and 1908.
+* The body of the Code (sections) and the First Schedule (Orders); High Courts can amend the rules.
+* The 1976, 1999 and 2002 amendments upheld (Salem Advocate Bar); the Commercial Courts Act 2015.
+* An adversarial system with inquisitorial powers; procedure as handmaid of justice.
+
+QL: Trace the evolution of civil procedure in India and describe the principal features of the Code of Civil Procedure, 1908.
+QS: Procedure as the handmaid of justice
+QS: Salem Advocate Bar Association case
+
+MCQ: The CPC's First Schedule contains || 158 sections | *51 Orders with rules | 10 parts | 37 Orders || The body has 158 sections.
+MCQ: The 90-day limit for filing a written statement in ordinary suits was held directory in || Kailash only | *Salem Advocate Bar Association v Union of India (2005) | SCG Contracts | Sangram Singh || Malimath model rules.
+
+# 2 | Suits
+@topics Concept of suit; Parties (Order I); Frame of suit (Order II); Institution (Order IV); Bars: res sub judice and res judicata; Place of suing; Cause of action and jurisdictional bars; Summons; Foreign summons; Power to order discovery
+>> A suit begins with a plaint presented in the right court, against the right parties, for the whole of the claim. Res sub judice and res judicata prevent parallel and repeated litigation.
+
+## 2.1 Concept of a suit
+- A suit is a civil proceeding instituted by presenting a plaint (s.26). Every suit must have opposing parties, a cause of action, a subject matter and relief claimed.
+- **Jurisdiction of civil courts** (s.9): courts try all suits of a civil nature unless their cognizance is expressly or impliedly barred. Suits about caste or religious questions are civil if they involve a right to property or office.
+
+## 2.2 Parties (Order I)
+- **Joinder of plaintiffs** (rule 1) and **defendants** (rule 3): where the right to relief arises from the same act or transaction and a common question of law or fact arises.
+- **Necessary party**: one without whom no effective order can be made. **Proper party**: one whose presence enables the court to decide the questions completely.
+- **Representative suit** (rule 8): one or more persons may sue or be sued on behalf of numerous persons having the same interest, with notice to all.
+- Misjoinder or non-joinder does not defeat a suit, except non-joinder of a necessary party (rule 9). The court may add or strike out parties (rule 10).
+
+CASE: Kasturi v Iyyamperumal (2005) :: In a suit for specific performance of a contract for sale, a third party claiming an independent title adverse to the vendor is neither a necessary nor a proper party. The scope of the suit cannot be enlarged into a title dispute.
+
+## 2.3 Frame of suit (Order II)
+- **Rule 2**: a suit must include the whole of the claim arising from the cause of action. If the plaintiff omits or relinquishes part of the claim, or omits a relief without leave, he cannot later sue for it.
+
+CASE: Gurbux Singh v Bhooralal (1964) :: To bar a later suit under Order II rule 2, the defendant must prove the identity of the cause of action in both suits, that the plaintiff omitted the relief, and that leave was not obtained. The pleadings of the earlier suit must be produced to establish the bar.
+
+## 2.4 Institution of suit (Order IV)
+- By presenting a plaint, in duplicate, to the court or an officer appointed. Particulars are entered in the register of civil suits.
+
+## 2.5 Bars: res sub judice and res judicata
+### Res sub judice (s.10)
+- No court shall proceed with the trial of a suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, pending in a competent court in India. The later suit is stayed, not dismissed. Interim orders may still be passed.
+
+### Res judicata (s.11)
+- No court shall try a suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties (or those under whom they claim), litigating under the same title, in a court competent to try the later suit, and has been heard and finally decided.
+- **Constructive res judicata** (Explanation IV): any matter that might and ought to have been raised in the former suit is deemed to have been in issue.
+- It rests on two maxims: *nemo debet bis vexari pro una et eadem causa* (no one should be vexed twice for the same cause) and *interest reipublicae ut sit finis litium* (it is in the public interest that litigation should end).
+
+CASE: Satyadhyan Ghosal v Deorajin Debi (1960) :: Res judicata applies between different stages of the same proceeding. A decision at an earlier stage (an interlocutory order from which no appeal was taken) binds the parties at a later stage of the same suit, though it may be challenged in appeal from the final decree.
+
+CASE: Daryao v State of Uttar Pradesh (1961) :: The principle of res judicata applies to writ petitions under Art. 32. If a writ petition under Art. 226 is dismissed on merits by the High Court, a fresh petition under Art. 32 on the same facts is barred, though not if it was dismissed in limine or for laches.
+
+## 2.6 Place of suing (ss.15 to 20)
+- **Section 15**: every suit must be instituted in the court of the lowest grade competent to try it.
+- **Section 16**: suits relating to immovable property are filed where the property is situated.
+- **Section 20**: other suits are filed where the defendant resides or carries on business, or where the cause of action arises wholly or in part. A corporation is deemed to carry on business at its principal office or, for a cause of action arising at a place where it has a subordinate office, at that place.
+
+CASE: Patel Roadways Ltd v Prasad Trading Co (1991) :: Under the Explanation to s.20, where a cause of action arises at a place where a corporation has a subordinate office, only the court at that place has jurisdiction, not the court where the principal office is situated. A clause in a contract choosing one of several competent courts is valid (*A.B.C. Laminart v A.P. Agencies*, 1989), but parties cannot confer jurisdiction on a court that has none.
+
+- **Section 21**: objections to territorial and pecuniary jurisdiction must be taken at the earliest opportunity, and an appellate court will not allow them unless there has been a consequent failure of justice.
+
+## 2.7 Cause of action and jurisdictional bars
+- A cause of action is the bundle of facts that the plaintiff must prove to obtain relief.
+- Bars include statutory bars (express or implied, Dhulabhai), res judicata, limitation, the requirement of notice under s.80, and arbitration agreements (s.8 of the Arbitration and Conciliation Act).
+
+## 2.8 Summons (ss.27 and 28, 31; Order V)
+- The defendant must be summoned to appear and file a written statement within 30 days of service (s.27). Service may be personal, by post, by courier, by email or by other approved means, by affixation, or by substituted service (Order V rule 20).
+- Summons to witnesses (s.31, Order XVI).
+
+## 2.9 and 2.10 Foreign summons; power to order discovery
+- **Section 29**: summonses issued by foreign courts may be served in India as if issued by Indian courts, where the Central Government has so provided.
+- **Section 30** and **Order XI**: the court may order discovery and inspection, interrogatories, admission of documents and facts, and production of documents.
+
+* A suit begins with a plaint (s.26); civil courts try all civil suits unless barred (s.9).
+* Parties: necessary and proper parties (Kasturi); representative suits.
+* Order II rule 2 bars splitting claims (Gurbux Singh).
+* Res sub judice (s.10) stays the later suit; res judicata (s.11), including constructive res judicata, applies at different stages (Satyadhyan Ghosal) and to writs (Daryao).
+* Place of suing: ss.15, 16 and 20 (Patel Roadways); s.21 objections.
+* Summons within 30 days; foreign summons; discovery.
+
+QL: Explain the doctrine of res judicata. How does it differ from res sub judice? Discuss constructive res judicata.
+QL: Discuss the rules relating to the place of suing under the CPC with reference to decided cases.
+QL: Explain the rule in Order II rule 2 with reference to Gurbux Singh v Bhooralal.
+QS: Representative suit
+QS: Necessary and proper parties
+QS: Section 9 CPC
+
+MCQ: Res judicata applies to writ petitions, as held in || Satyadhyan Ghosal | *Daryao v State of UP | Kasturi | Patel Roadways || 1961.
+MCQ: Where a corporation has a subordinate office at the place where the cause of action arises, jurisdiction lies at || its principal office | *the place of the subordinate office | any place the plaintiff chooses | the registered office || Patel Roadways (1991).
+MCQ: A suit stayed under s.10 CPC is || dismissed | *stayed, not dismissed | decreed | transferred || Res sub judice.
+
+# 3 | Pleadings (Order VI)
+@topics Material facts; Forms of pleading; Condition precedent; Presumptions of law; Striking out and amendment
+>> Pleadings state the material facts on which a party relies, not the evidence or the law. They define the issues and confine the parties at trial.
+
+## 3.1 Material facts (rule 2)
+- Every pleading must contain a concise statement of the **material facts** on which the party relies, not the evidence by which they are to be proved. It must be divided into numbered paragraphs, and dates, sums and numbers must be stated in figures.
+- Particulars must be given of fraud, misrepresentation, breach of trust, wilful default and undue influence (rule 4).
+- A party cannot lead evidence on a case not pleaded, nor can the court grant relief on a case not set up (*Ram Sarup Gupta v Bishun Narain Inter College*, 1987, notes that pleadings should be read as a whole and liberally).
+
+## 3.2 Forms of pleading
+- The plaint and the written statement are the main pleadings; replication and additional written statements require leave (Order VIII rule 9). Pleadings must be signed and verified (rules 14 and 15), with an affidavit in support (rule 15(4), added in 2002).
+
+## 3.3 and 3.4 Condition precedent; presumptions of law
+- Performance of a condition precedent is implied in every pleading; the opposite party must specifically deny it (rule 6).
+- **Presumptions of law** need not be pleaded (rule 13), such as the presumption of consideration for a negotiable instrument.
+
+## 3.5 Striking out and amendment
+- **Striking out** (rule 16): the court may strike out pleadings that are unnecessary, scandalous, frivolous or vexatious, or that may delay a fair trial, or that are otherwise an abuse of process.
+- **Amendment** (rule 17): the court may allow amendments at any stage that are necessary for determining the real questions in controversy. After the trial has commenced, an amendment is not allowed unless the party shows that, despite due diligence, it could not have raised the matter earlier (proviso added in 2002).
+
+CASE: Revajeetu Builders and Developers v Narayanaswamy and Sons (2009) :: The Court laid down factors for amendment: whether it is imperative for proper and effective adjudication; whether it is bona fide; whether the other side can be compensated in costs; whether refusing it would lead to injustice or multiple litigation; whether it changes the nature of the case; and, as a general rule, whether a fresh suit on the amended claim would be time-barred on the date of application.
+
+## 3.6 Recent judgments (2025–26)
+
+CASE: Mondira Ghosh v Chaitali Ghosh (2026) :: A defendant cannot withdraw admissions made in the original written statement by filing an additional written statement.
+
+* Admissions cannot be withdrawn by additional written statement (Mondira Ghosh, 2026).
+* Plead material facts, not evidence or law (rule 2); particulars of fraud and similar matters (rule 4).
+* Verification and affidavit; condition precedent implied; presumptions of law need not be pleaded.
+* Striking out (rule 16); amendment (rule 17) with the due diligence proviso (Revajeetu Builders).
+
+QL: What are the fundamental rules of pleadings? Explain with reference to Order VI.
+QL: Discuss the principles governing amendment of pleadings under Order VI rule 17.
+QS: Material facts
+QS: Striking out pleadings
+
+MCQ: Factors for amendment of pleadings were laid down in || Salem Advocate Bar | *Revajeetu Builders v Narayanaswamy | Gurbux Singh | Kasturi || 2009.
+MCQ: After trial has commenced, an amendment is allowed only if the party shows || the consent of the other side | *that despite due diligence it could not raise the matter earlier | payment of costs alone | leave of the High Court || Proviso to Order VI rule 17.
+
+# 4 | Plaint and written statement (Orders VII and VIII)
+@topics Particulars of plaint; Defendant's interest and liability; Ground of limitation; Return of plaint; Rejection of plaint; Documents; Written statement; Counter-claim; Set-off; Framing of issues
+>> The plaint sets out the plaintiff's case and relief; the written statement answers it. The court may return a plaint filed in the wrong court or reject a plaint that is fatally defective. Issues are then framed from the pleadings.
+
+## 4.1 to 4.3 Particulars of the plaint (Order VII rules 1 to 8)
+- Name of the court; names, descriptions and residence of the parties; the facts constituting the cause of action and when it arose; facts showing the court has jurisdiction; the relief claimed; the value of the subject matter for jurisdiction and court fees.
+- **Money suits**: the precise amount claimed (rule 2). **Immovable property**: a description sufficient to identify it, such as boundaries or survey numbers (rule 3).
+- **Defendant's interest and liability** must be shown (rule 5 and rule 6).
+- **Grounds of exemption from limitation** must be shown where the suit is filed after the period (rule 6).
+
+## 4.4 Return of plaint (rule 10)
+- The plaint is returned to be presented in the proper court if the court lacks jurisdiction. The court must endorse the date of presentation and return and the reasons.
+
+CASE: EXL Careers v Frankfinn Aviation Services Pvt Ltd (2020) :: A plaint returned under Order VII rule 10 and presented in the proper court is a fresh suit; it must start afresh, not continue from the stage it reached in the first court, and limitation is computed accordingly (subject to s.14 of the Limitation Act).
+
+## 4.5 Rejection of plaint (rule 11)
+- Grounds: (a) the plaint does not disclose a cause of action; (b) the relief is undervalued and the plaintiff fails to correct it; (c) the plaint is insufficiently stamped and the plaintiff fails to supply the stamp; (d) the suit appears from the statements in the plaint to be barred by law; (e) the plaint is not filed in duplicate; (f) the plaintiff fails to comply with rule 9.
+- Only the averments in the plaint are considered, not the written statement (*Saleem Bhai v State of Maharashtra*, 2003).
+- A rejection of a plaint is a "decree" (s.2(2)) and appealable, but it does not bar a fresh suit on the same cause of action (rule 13).
+
+CASE: T. Arivandandam v T.V. Satyapal (1977) :: Krishna Iyer J said that if, on a meaningful (not formal) reading of the plaint, it is manifestly vexatious and without merit, and does not disclose a clear right to sue, the trial court should reject it under Order VII rule 11. Clever drafting creating the illusion of a cause of action must be nipped in the bud at the first hearing.
+
+## 4.6 Documents (rules 14 to 17)
+- The plaintiff must produce documents on which he sues or relies along with the plaint, with a list. Documents not produced cannot be received in evidence later without leave (rule 14(3)).
+
+## 4.7 Written statement (Order VIII)
+- To be filed within 30 days of service of summons, extendable by the court up to 90 days for reasons recorded (rule 1). In ordinary suits, the 90-day limit is directory (*Kailash v Nanhku*, 2005). In **commercial suits**, the outer limit of 120 days is mandatory, and the right to file is forfeited thereafter (*SCG Contracts India Pvt Ltd v K.S. Chamankar Infrastructure Pvt Ltd*, 2019).
+- **Specific denial** (rules 3 to 5): every allegation of fact not denied specifically or by necessary implication, or stated to be not admitted, is taken to be admitted. Evasive denial is not enough.
+- New facts must be specifically pleaded (rule 2), such as fraud, limitation or release.
+
+## 4.8 Counter-claim (rule 6A)
+- The defendant may set up a counter-claim against the plaintiff for any right or claim, whether a claim for damages or not, accruing before or after the suit was filed but before the written statement or the time for it expired. It is treated as a plaint and has the effect of a cross-suit.
+
+## 4.9 Set-off (rule 6)
+- **Legal set-off**: in a suit for recovery of money, the defendant may claim set-off of an ascertained sum of money legally recoverable from the plaintiff, within the pecuniary limits of the court.
+- **Equitable set-off**: for unascertained sums arising from the same transaction, allowed by the court on equitable grounds.
+
+## 4.10 Framing of issues (Order XIV)
+- Issues arise when a material proposition of fact or law is affirmed by one party and denied by the other (rule 1). They are framed after reading the pleadings and examining the parties.
+- Issues of law relating to jurisdiction or a bar created by law may be tried first as preliminary issues (rule 2(2)), but the court should normally decide all issues together.
+
+* Plaint particulars (Order VII rules 1 to 8).
+* Return of plaint: the case starts afresh (EXL Careers); rejection under rule 11 on the plaint alone (Saleem Bhai; Arivandandam).
+* Written statement: 30 to 90 days, directory in ordinary suits (Kailash), mandatory 120 days in commercial suits (SCG Contracts); specific denial.
+* Counter-claim (rule 6A); legal and equitable set-off (rule 6).
+* Issues under Order XIV; preliminary issues of law only.
+
+QL: Explain the grounds on which a plaint may be rejected under Order VII rule 11. How does rejection differ from return of a plaint?
+QL: Distinguish between set-off and counter-claim.
+QL: Discuss the time limit for filing a written statement in ordinary and commercial suits.
+QS: Equitable set-off
+QS: Framing of issues
+QS: T. Arivandandam v T.V. Satyapal
+
+MCQ: Rejection of a plaint under Order VII rule 11 is decided on || the written statement | *the averments in the plaint alone | the evidence | the issues framed || Saleem Bhai (2003).
+MCQ: In commercial suits, the outer limit for filing a written statement is || 30 days | *120 days, which is mandatory | 90 days, directory | no limit || SCG Contracts (2019).
+MCQ: A counter-claim is provided for in || Order VIII rule 6 | *Order VIII rule 6A | Order VII rule 11 | Order XIV || It has the effect of a cross-suit.
+
+# 5 | Appearance, examination and adjournment
+@topics Appearance; Ex parte procedure; Default; Witnesses; Examination; Admissions; Documents; Hearing; Affidavit; Order XVII; Adjournments and arrears
+>> Once the case is at issue, the parties must appear, produce evidence and argue. The CPC provides consequences for non-appearance, tools for narrowing disputes, and limits on adjournments to reduce delay.
+
+## 5.1 to 5.3 Appearance and default (Order IX)
+- If neither party appears, the suit may be dismissed (rule 3). If the plaintiff does not appear, the suit is dismissed unless the defendant admits the claim (rule 8). A fresh suit on the same cause of action is barred, but the plaintiff can apply to restore the suit on showing sufficient cause (rule 9).
+- If the defendant does not appear after due service, the court may proceed **ex parte** (rule 6). The defendant may apply to set aside an ex parte decree by showing that the summons was not duly served, or that he was prevented by sufficient cause from appearing (rule 13).
+
+## 5.4 Summoning and attendance of witnesses (Order XVI)
+- Parties file a list of witnesses; the court issues summonses and may compel attendance by warrant, attachment of property and fine. The court may summon any person as a witness on its own (rule 14).
+
+## 5.5 Examination
+- Order X: the court examines the parties at the first hearing to clarify the controversy, and may refer the dispute to ADR under s.89 (rule 1A).
+- **Order XVIII rule 4**: the examination-in-chief of every witness is given on affidavit; cross-examination and re-examination take place in court or before a commissioner.
+
+## 5.6 Admissions (Order XII)
+- Admissions may be made in pleadings, by notice, or otherwise. The court may pass **judgment on admissions** at any stage (rule 6), where the admission is clear and unambiguous.
+
+CASE: Uttam Singh Duggal and Co Ltd v United Bank of India (2000) :: Order XII rule 6 is meant to enable a party to obtain a speedy judgment on admissions, at least to the extent of the relief admitted. Admissions may be in pleadings or otherwise, such as in correspondence, and a technical approach should not be adopted.
+
+## 5.7 Production, impounding and return of documents (Order XIII)
+- Original documents must be produced at or before the settlement of issues; documents admitted in evidence are endorsed and may be impounded if forged, or returned after the appeal period.
+
+## 5.8 Hearing (Order XVIII)
+- The plaintiff begins (unless the defendant admits the facts and contends that the plaintiff is not entitled to relief). Evidence and arguments follow; written arguments may be filed (rule 3A).
+
+## 5.9 Affidavits (Order XIX)
+- The court may order any fact to be proved by affidavit. Affidavits must be confined to facts within the deponent's knowledge, except in interlocutory applications where statements of belief may be admitted if grounds are stated.
+
+## 5.10 and 5.11 Adjournments (Order XVII)
+- No adjournment may be granted more than **three times** to a party during the hearing (proviso to rule 1), and costs must be awarded for adjournments. When the hearing has begun, it should continue day to day.
+- Arrears: case management hearings, strict timelines in commercial suits, and directions on adjournments (Salem Advocate Bar). National Judicial Data Grid figures show millions of pending civil cases.
+
+* Non-appearance: dismissal, restoration (Order IX rule 9), ex parte decree and setting aside (rule 13).
+* Witnesses; examination-in-chief by affidavit (Order XVIII rule 4).
+* Judgment on admissions (Order XII rule 6; Uttam Singh Duggal).
+* Documents (Order XIII); affidavits (Order XIX).
+* No more than three adjournments (Order XVII).
+
+QL: What are the consequences of non-appearance of parties? How may an ex parte decree be set aside?
+QL: Discuss the provisions for judgment on admissions and for adjournments under the CPC.
+QS: Order IX rule 13
+QS: Affidavit evidence under Order XVIII rule 4
+
+MCQ: An ex parte decree may be set aside under || Order IX rule 9 | *Order IX rule 13 | Order XVII rule 1 | Order XII rule 6 || On showing non-service or sufficient cause.
+MCQ: Adjournments to a party during hearing are limited to || two | *three | five | unlimited || Proviso to Order XVII rule 1.
+
+# 6 | Judgment and decree
+@topics Judgment, decree and interim orders, stay; Injunctions; Commissions and receivers; Costs
+>> The judgment gives reasons; the decree formally expresses the adjudication. Interim relief (injunctions, receivers, commissions) preserves the subject matter during litigation, and costs compensate the successful party.
+
+## 6.1 Judgment, decree and order
+- **Judgment** (s.2(9)): the statement given by the judge of the grounds of a decree or order. It must contain a concise statement of the case, the points for determination, the decision and the reasons (Order XX rule 4).
+- **Decree** (s.2(2)): the formal expression of an adjudication that conclusively determines the rights of the parties in a suit, and may be preliminary or final. It includes rejection of a plaint and determination of questions under s.144 (restitution). It excludes orders appealable as orders and dismissals for default.
+- **Preliminary decree**: where further proceedings are needed before the suit is completely disposed of (partition, accounts, mortgage). **Final decree**: completely disposes of the suit.
+- **Order** (s.2(14)): the formal expression of a decision that is not a decree.
+- Judgments must be pronounced within 30 days of the end of the hearing, or within 60 days in exceptional cases (Order XX rule 1).
+- **Stay**: of proceedings (s.10), of execution (Order XXI rule 26; Order XLI rule 5), and inherent power (s.151).
+
+## 6.2 Injunctions (Order XXXIX)
+- **Temporary injunction** (rules 1 and 2): where property in dispute is in danger of being wasted, damaged or alienated, or the defendant threatens to dispose of it to defraud creditors, or to dispossess the plaintiff, or where the defendant threatens breach of contract or other injury.
+- Three tests: a **prima facie case**, the **balance of convenience**, and **irreparable injury**.
+- Ex parte injunction: the court must record reasons and decide the application within 30 days (rule 3 and rule 3A).
+- Disobedience: attachment of property and civil detention up to three months (rule 2A).
+
+CASE: Dalpat Kumar v Prahlad Singh (1992) :: The Court explained the three conditions for a temporary injunction: a prima facie case (a bona fide contention raising a substantial question for trial), irreparable injury (not adequately compensable in damages), and balance of convenience (comparative mischief or inconvenience to the parties). All three must be satisfied.
+
+CASE: Wander Ltd v Antox India Pvt Ltd (1990) :: An appellate court will not interfere with the trial court's discretion on an interlocutory injunction unless the discretion was exercised arbitrarily, capriciously or perversely, or the court ignored settled principles. The appellate court cannot substitute its own view merely because it would have taken a different view.
+
+## 6.3 Commissions and receivers
+- **Commissions** (Order XXVI): see Unit 9.
+- **Receivers** (Order XL): the court may appoint a receiver of property where it appears just and convenient, remove a person from possession, and commit the property to the receiver's custody and management.
+
+## 6.4 Costs
+- **Section 35**: costs are in the court's discretion, but they follow the event, and the court must record reasons for not awarding costs to the successful party. The Commercial Courts Act substituted a detailed s.35 for commercial disputes.
+- **Section 35A**: compensatory costs for false or vexatious claims or defences.
+- **Section 35B**: costs for causing delay.
+- In *Salem Advocate Bar Association* (2005), the Court said that costs should be realistic, to deter frivolous litigation.
+
+## 6.5 Recent judgments (2025–26)
+
+CASE: Pila Pahan v State of Jharkhand (2026) :: High Courts must pronounce reserved judgments within three months; the Court issued directions to curb long delays.
+
+CASE: Jennifer Messias v State (2026) :: Whether an order is a final decree depends on its substance, not its label.
+
+* Reserved judgments within three months (Pila Pahan, 2026).
+* Judgment (s.2(9)), decree (s.2(2)), preliminary and final decrees, order (s.2(14)).
+* Temporary injunction: prima facie case, balance of convenience, irreparable injury (Dalpat Kumar); appellate restraint (Wander v Antox).
+* Receivers (Order XL); commissions (Order XXVI).
+* Costs: ss.35, 35A and 35B.
+
+QL: Define "decree" and distinguish it from "judgment" and "order". What are preliminary and final decrees?
+QL: Discuss the principles governing the grant of temporary injunctions.
+QS: Receiver
+QS: Compensatory costs under s.35A
+
+MCQ: The three tests for a temporary injunction were explained in || Wander v Antox | *Dalpat Kumar v Prahlad Singh | Uttam Singh Duggal | Salem Advocate Bar || 1992.
+MCQ: Rejection of a plaint is || an order | *a deemed decree | a judgment only | not appealable || s.2(2).
+
+# 7 | Execution (Order XXI)
+@topics Concept of execution; General principles; Courts that execute decrees (ss.38 to 46); Procedure (ss.51 to 54); Arrest and detention (ss.55 to 59); Attachment (ss.60 to 64); Sale (ss.65 to 67)
+>> Execution is the enforcement of a decree. It is said that the difficulties of a litigant begin after he obtains a decree, so the CPC gives the executing court wide powers, with protections for the judgment-debtor.
+
+## 7.1 and 7.2 Concept and general principles
+- Execution means enforcing a decree or order through the court's process so that the decree-holder obtains what the decree gives him.
+- The executing court cannot go behind the decree, unless it is a nullity (for want of inherent jurisdiction).
+- **Section 47**: all questions between the parties to the suit (or their representatives) relating to execution, discharge or satisfaction of the decree must be decided by the executing court, not by a separate suit.
+
+CASE: Rahul S. Shah v Jinendra Kumar Gandhi (2021) :: Noting the long delays in execution, the Supreme Court issued directions: courts should examine the parties about the property at the trial stage, appoint commissioners, and ensure that execution proceedings are completed within six months from filing, extendable only for recorded reasons.
+
+## 7.3 Courts that execute decrees (ss.38 to 46)
+- A decree may be executed by the court that passed it, or by the court to which it is sent for execution (s.38). The court may transfer a decree to another court where the judgment-debtor resides or has property (s.39). The transferee court has the same powers (s.42).
+- Decrees of courts in reciprocating territories outside India may be executed as if passed by Indian courts (s.44A).
+
+## 7.4 Procedure (ss.51 to 54)
+- **Modes of execution** (s.51): delivery of specific property; attachment and sale (or sale without attachment); arrest and detention in civil prison (with restrictions); appointment of a receiver; or other mode as the relief requires.
+- Proviso to s.51: arrest and detention for a money decree is allowed only if the judgment-debtor is likely to abscond or obstruct execution, has dishonestly transferred property, or has, or has had since the decree, the means to pay and refuses or neglects to pay.
+- Decree for partition of an estate assessed to revenue: executed by the Collector (s.54).
+
+CASE: Jolly George Varghese v Bank of Cochin (1980) :: Krishna Iyer J held that a judgment-debtor cannot be detained in civil prison merely for failure to pay a money decree. There must be some element of bad faith beyond mere indifference to pay: the ability to pay and wilful refusal. This reading of s.51 accords with Art. 21 and Art. 11 of the ICCPR (no imprisonment for inability to fulfil a contractual obligation).
+
+## 7.5 Arrest and detention (ss.55 to 59)
+- Arrest cannot be made in a dwelling house after sunset and before sunrise, and the outer door may not be broken open except in limited cases (s.55). Women cannot be arrested in execution of a money decree (s.56).
+- Detention: up to three months for a decree above ₹5,000, and up to six weeks for a decree between ₹2,000 and ₹5,000; no detention for decrees of ₹2,000 or less (s.58). Release on grounds of illness (s.59).
+
+## 7.6 Attachment (ss.60 to 64)
+- **Section 60**: property liable to attachment includes lands, houses, goods, money, bank notes, cheques, bills, hundis, promissory notes, government securities, bonds, debts, shares and other saleable property.
+- **Exemptions**: necessary wearing apparel, cooking vessels, beds, tools of artisans, agricultural implements and cattle, houses of agriculturists, books of account, the right to sue for damages, the right of personal service, pensions and gratuities, a part of salary (the first ₹1,000 and two-thirds of the remainder are exempt, with special rules for maintenance decrees), provident fund amounts, and others.
+- **Section 64**: a private transfer or delivery of attached property, or of any interest in it, is void against all claims enforceable under the attachment.
+
+## 7.7 Sale (ss.65 to 67)
+- When immovable property is sold in execution and the sale becomes absolute, it is deemed to vest in the purchaser from the time of sale (s.65).
+- Sales are by public auction, with a proclamation of sale (Order XXI rule 66).
+- Setting aside sales: on deposit by the judgment-debtor of the amount plus 5% compensation (rule 89), or for material irregularity or fraud causing substantial injury (rule 90).
+
+## 7.8 Recent judgments (2025–26)
+
+CASE: Maurice W. Innis v State (2026) :: The executing court cannot go behind or vary the decree; it must execute it as it stands.
+
+* Executing court cannot vary the decree (2026).
+* Execution enforces decrees; the executing court cannot go behind the decree; s.47 questions; time limits (Rahul S. Shah).
+* Executing courts and transfer (ss.38 to 46); foreign decrees (s.44A).
+* Modes (s.51); detention needs ability and wilful refusal (Jolly George Varghese).
+* Arrest restrictions; detention limits (s.58).
+* Attachment and exemptions (s.60); private transfers void (s.64).
+* Sale vests from date of sale (s.65); setting aside under rules 89 and 90.
+
+QL: Discuss the scope of s.47 CPC. What questions must be determined by the executing court?
+QL: When can a judgment-debtor be arrested and detained in civil prison? Discuss Jolly George Varghese.
+QL: What property is liable to attachment and what is exempt under s.60?
+QS: Transfer of decree for execution
+QS: Section 64 CPC
+
+MCQ: Detention for mere failure to pay a money decree without bad faith was held contrary to Art. 21 in || Rahul S. Shah | *Jolly George Varghese v Bank of Cochin | Dalpat Kumar | Salem Advocate Bar || 1980.
+MCQ: A private transfer of attached property is void against claims under the attachment under || s.60 | *s.64 | s.65 | s.47 || CPC.
+MCQ: Execution proceedings should be completed within six months, as directed in || Jolly George Varghese | *Rahul S. Shah v Jinendra Kumar Gandhi | Wander v Antox | Patel Roadways || 2021.
+
+# 8 | Suits in particular cases
+@topics Suits by or against Government (ss.79 to 82); Aliens and foreign rulers (ss.83 to 87A); Public matters (ss.91 to 93); Incidental and supplementary proceedings (ss.75 to 78, 94 and 95); Minors, persons of unsound mind and indigent persons; Interpleader suits
+>> Certain parties and subject matters need special procedure: the State, foreign rulers, public nuisances and trusts, minors and the poor. Supplementary proceedings preserve the subject matter before judgment.
+
+## 8.1 Suits by or against Government (ss.79 to 82)
+- Suits are filed by or against the **Union of India** or the **State** (s.79).
+- **Section 80**: no suit may be filed against the Government or a public officer (for acts in official capacity) until two months after a written notice has been delivered, stating the cause of action, name and relief. With leave of the court, a suit for urgent or immediate relief may be filed without notice (s.80(2)).
+- Execution against the Government only if the decree remains unsatisfied for three months (s.82).
+
+CASE: State of Punjab v Geeta Iron and Brass Works Ltd (1978) :: Krishna Iyer J explained that s.80 notice is meant to give the Government a chance to reconsider and settle legitimate claims without litigation. He criticised the Government's practice of ignoring notices and urged it to respond to them responsibly.
+
+## 8.2 Aliens and foreign rulers (ss.83 to 87A)
+- **Alien friends** may sue in Indian courts as if they were citizens; **alien enemies** residing in India may sue only with the Central Government's permission (s.83).
+- **Section 86**: no foreign State may be sued in an Indian court without the written consent of the Central Government. The consent is given only in specified cases, such as where the foreign State has instituted a suit, trades within the local limits, or the property is in India. Section 87A defines foreign State and Ruler.
+
+## 8.3 Public matters (ss.91 to 93)
+- **Public nuisance** (s.91): a suit for declaration and injunction may be filed by the Advocate General, or by two or more persons with leave of the court, even without special damage.
+- **Public charities** (s.92): where there is an alleged breach of a trust for public charitable or religious purposes, the Advocate General or two or more persons interested, with leave of the court, may sue for removal of trustees, appointment of new trustees, vesting of property, accounts, or a scheme.
+- **Section 93**: outside the presidency towns, the powers of the Advocate General may be exercised by the Collector or another officer appointed by the State Government.
+
+## 8.4 Incidental and supplementary proceedings (ss.75 to 78, 94 and 95)
+- **Commissions** (ss.75 to 78): to examine persons, make local investigations, adjust accounts, make partitions, carry out scientific investigations and ministerial acts, and conduct sales.
+- **Supplemental proceedings** (s.94): to prevent the ends of justice being defeated, the court may issue a warrant to arrest the defendant before judgment (Order XXXVIII), attach property before judgment (Order XXXVIII), grant temporary injunctions (Order XXXIX), appoint a receiver (Order XL), and make other interlocutory orders.
+- **Section 95**: compensation up to ₹50,000 for wrongful arrest, attachment or injunction obtained on insufficient grounds.
+
+## 8.5 Minors, persons of unsound mind and indigent persons
+- **Minors** (Order XXXII): a minor sues through a **next friend** and is defended by a **guardian ad litem** appointed by the court. A compromise on behalf of a minor needs the court's leave (rule 7); otherwise it is voidable at the minor's instance. The same rules apply to persons of unsound mind (rule 15).
+- **Indigent persons** (Order XXXIII, renamed from "paupers" in 1976): a person without sufficient means to pay the court fee (or, where no fee is prescribed, property worth less than ₹1,000) may sue without paying it, after an inquiry. If he succeeds, the court fee becomes a first charge on the subject matter. Free legal services are also available under s.12 of the Legal Services Authorities Act, 1987.
+
+## 8.6 Interpleader suits (s.88; Order XXXV)
+- Where two or more persons claim adversely to one another the same debt, sum of money or property, from a person who claims no interest in it other than charges or costs and is ready to pay or deliver it to the rightful claimant, that person may file an interpleader suit against all the claimants. The court decides who is entitled. An agent cannot sue his principal, nor a tenant his landlord, by interpleader (Order XXXV rule 5).
+
+## 8.7 Recent judgments (2025–26)
+
+CASE: Krishna Kumar Ojha v State (2026) :: An advocate cannot bind a party to a compromise under Order XXIII without the party's express authority.
+
+* Compromise needs the party's express authority (2026).
+* Suits by or against Government: s.80 notice (Geeta Iron and Brass Works), s.82 execution.
+* Aliens (s.83) and foreign States (s.86 consent).
+* Public nuisance (s.91), public charities (s.92), and the Collector's role (s.93).
+* Commissions (ss.75 to 78), supplemental proceedings (s.94), compensation for wrongful orders (s.95).
+* Minors: next friend, guardian ad litem, leave for compromise; indigent persons.
+* Interpleader suits (s.88, Order XXXV).
+
+QL: Explain the requirement of notice under s.80 CPC. When can a suit be filed without notice?
+QL: Discuss the provisions relating to suits by or against minors and persons of unsound mind.
+QL: What is an interpleader suit? Who may file it?
+QS: Section 92 CPC
+QS: Indigent persons
+QS: Section 86 CPC
+
+MCQ: The period of notice under s.80 CPC is || one month | *two months | three months | 15 days || Unless leave is granted under s.80(2).
+MCQ: A suit against a foreign State requires the consent of || the Supreme Court | *the Central Government | the Ministry of Law only | the foreign State || s.86 CPC.
+MCQ: A compromise on behalf of a minor without the court's leave is || void | *voidable at the minor's instance | valid | illegal || Order XXXII rule 7.
+
+# 9 | Appeals and commissions
+@topics Appeals from original decrees (ss.96 to 99A; Order XLI); Appeals from appellate decrees (ss.100 to 103); Appeals from orders (ss.104 to 106; Order XLIII); General provisions (ss.107 and 108); Appeals to the Supreme Court (s.109); Rationale of commissions; Order XXVI; Commissions in public interest litigation
+>> An appeal is a statutory right, not an inherent one. The first appeal is on facts and law; the second appeal is confined to substantial questions of law. Commissions help courts gather evidence and facts, and have been used creatively in public interest litigation.
+
+## 9.1 Appeals from original decrees (ss.96 to 99A; Order XLI)
+- **Section 96**: an appeal lies from every decree passed by a court exercising original jurisdiction, unless barred. No appeal lies from a consent decree, or from decrees in small cause suits up to ₹10,000 on questions of fact.
+- **Section 97**: if no appeal is filed from a preliminary decree, its correctness cannot be disputed in an appeal from the final decree.
+- **Section 99**: no decree shall be reversed for misjoinder or non-joinder or any error not affecting the merits or jurisdiction (except non-joinder of a necessary party).
+- **Order XLI**: memorandum of appeal with the certified copy of the decree (rule 1); stay of execution (rule 5); cross-objections (rule 22); additional evidence only in limited cases (rule 27); judgment must state the points, the decision and reasons (rule 31).
+
+CASE: Santosh Hazari v Purushottam Tiwari (2001) :: The first appellate court is the final court of fact. When reversing the trial court's findings, it must deal with the trial court's reasons and give its own, after considering the whole evidence. The Court also explained what a "substantial question of law" under s.100 means: a debatable question, not previously settled, that has a material bearing on the decision.
+
+## 9.2 Appeals from appellate decrees (ss.100 to 103)
+- **Second appeal** to the High Court lies only if the case involves a **substantial question of law** (s.100, after the 1976 amendment). The memorandum must state the question; the High Court formulates it and hears the appeal on that question.
+- **Section 100A**: no further appeal (Letters Patent Appeal) from the judgment of a single judge in a second appeal.
+- **Section 102**: no second appeal in suits for recovery of money not exceeding ₹25,000.
+- **Section 103**: the High Court may decide an issue of fact in a second appeal if the evidence is sufficient and the issue was not decided, or was wrongly decided, by the lower courts on a question of law.
+
+## 9.3 Appeals from orders (ss.104 to 106; Order XLIII)
+- Only the orders listed in s.104 and Order XLIII rule 1 are appealable (for example, orders returning a plaint, rejecting an application to set aside an ex parte decree, granting or refusing temporary injunctions, appointing receivers). No second appeal from an appellate order (s.104(2)).
+
+## 9.4 General provisions (ss.107 and 108)
+- The appellate court has the same powers as the original court: to decide the case finally, remand it, frame issues and refer them for trial, and take additional evidence (s.107).
+
+## 9.5 Appeals to the Supreme Court (s.109)
+- An appeal lies to the Supreme Court from a judgment, decree or final order of a High Court if the High Court certifies that the case involves a substantial question of law of general importance that needs to be decided by the Supreme Court (s.109, Art. 133). Special leave under Art. 136 is the more common route.
+- Related remedies: **reference** (s.113, Order XLVI), **review** (s.114, Order XLVII: discovery of new evidence, error apparent on the face of the record, or other sufficient reason), and **revision** (s.115: by the High Court, for jurisdictional errors; after 1999, not if the order would not finally dispose of the suit had it been made in favour of the revisionist).
+
+## 9.6 Commissions (Order XXVI)
+### Rationale
+- Commissions help the court when a witness cannot attend, when local inspection is needed, when accounts are complex, or when scientific investigation or partition is required.
+### Kinds
+- To examine witnesses (rules 1 to 8: those exempt from attendance, sick or infirm, or outside the jurisdiction); local investigations (rule 9); examination of accounts (rule 11); partition (rule 13); scientific investigation, ministerial acts and sales (rules 10A to 10C); and recording of evidence (rule 4A).
+- The commissioner's report is evidence in the suit, but the court is not bound by it.
+
+### Socio-legal commissions in public interest litigation
+- In PIL, the Supreme Court and High Courts appoint commissioners to investigate facts, often without the strict rules of evidence: for example, in *Bandhua Mukti Morcha v Union of India* (1984, bonded labour), *Sheela Barse v State of Maharashtra* (1983, women in police custody), and *M.C. Mehta* (environment). The reports are given prima facie value and are open to objection by the parties.
+
+## 9.7 Recent judgments (2025–26)
+
+CASE: Dr Jiji K.S. v State (2026) :: A person who was not a party but is aggrieved by a judgment may seek review with leave.
+
+CASE: Basudev v Sanjay Kumar (2026) :: Where a suit and counterclaim are decided by one common judgment, a composite appeal can lie.
+
+* Non-party may seek review (2026).
+* Appeals: first appeal on facts and law (s.96; Santosh Hazari); preliminary decree must be appealed (s.97).
+* Second appeal only on a substantial question of law (s.100); no LPA (s.100A); money suits up to ₹25,000 barred (s.102).
+* Appeals from orders (s.104, Order XLIII); powers of appellate court (s.107); Supreme Court (s.109).
+* Reference, review and revision (ss.113 to 115).
+* Commissions under Order XXVI and in PIL (Bandhua Mukti Morcha; Sheela Barse).
+
+QL: Explain the scope of a second appeal under s.100 CPC. What is a "substantial question of law"?
+QL: Distinguish between appeal, review and revision.
+QL: Discuss the different kinds of commissions under Order XXVI and their use in public interest litigation.
+QS: Cross-objections
+QS: Additional evidence in appeal
+QS: Section 115 CPC
+
+MCQ: A second appeal lies to the High Court only on || any question of law | *a substantial question of law | questions of fact | questions of mixed fact and law || s.100 after 1976.
+MCQ: The first appellate court must deal with the trial court's reasons when reversing, as held in || Wander v Antox | *Santosh Hazari v Purushottam Tiwari | Dalpat Kumar | Daryao || 2001.
+MCQ: Local investigation by a commissioner is under || Order XXVI rule 1 | *Order XXVI rule 9 | Order XXXIX | Order XL || Order XXVI.
+
+# 10 | Limitation
+@topics Concept of limitation; General principles; Extension, sufficient cause, acknowledgment; Legal disability; Condonation; Limitation Act, 1963
+>> Limitation law fixes the period within which legal proceedings must be brought. It bars the remedy, not the right (except for property, where s.27 extinguishes the right), and is based on public policy and certainty.
+
+## 10.1 Why limitation?
+- Rationales: *interest reipublicae ut sit finis litium* (public interest in ending litigation); *vigilantibus non dormientibus jura subveniunt* (the law helps the vigilant, not those who sleep on their rights); evidence becomes stale; and long-standing positions should not be disturbed.
+- The Limitation Act, 1963 (replacing the 1908 Act) has 32 sections and a Schedule of 137 articles prescribing periods for suits, appeals and applications.
+
+## 10.2 General principles
+- **Section 3**: every suit, appeal or application filed after the prescribed period shall be dismissed, even if limitation has not been set up as a defence. The court must examine limitation on its own.
+- Limitation bars the remedy, not the right, so a time-barred debt may still be paid and the creditor may retain it, or exercise a lien. (The right itself is extinguished for property under s.27.)
+- Once time begins to run, no subsequent disability or inability to sue stops it (**s.9**).
+- **Section 4**: if the period expires on a day when the court is closed, the proceeding may be filed on the next working day.
+
+## 10.3 Extension, sufficient cause and acknowledgment
+### Condonation of delay (s.5)
+- An appeal or application (but not a suit or an application under Order XXI) may be admitted after the period if the appellant or applicant satisfies the court that he had **sufficient cause** for not filing in time.
+
+CASE: Collector, Land Acquisition, Anantnag v Mst Katiji (1987) :: The Supreme Court said courts should adopt a liberal, justice-oriented approach to "sufficient cause". Refusing to condone delay may shut out a meritorious matter. Every day's delay need not be explained pedantically, and substantial justice should prevail over technical considerations.
+
+CASE: Esha Bhattacharjee v Managing Committee of Raghunathpur Nafar Academy (2013) :: The Court summarised the principles: a liberal, pragmatic, justice-oriented approach; no strait-jacket formula; distinguishing inordinate delay from short delay; a lack of bona fides or a casual approach weighs against condonation; and the conduct of the parties and the merits of the case are relevant. In *Postmaster General v Living Media India Ltd* (2012), the Court held that the Government cannot claim special latitude for delays caused by bureaucratic lethargy.
+
+### Exclusion of time
+- **Section 12**: time taken to obtain certified copies of the decree or order is excluded for appeals and reviews.
+- **Section 14**: time spent bona fide prosecuting another civil proceeding with due diligence in a court without jurisdiction (or unable to entertain it for a similar defect) is excluded.
+- **Section 15**: periods of stay or injunction, and of notice (such as s.80 CPC), are excluded.
+
+### Acknowledgment and part payment (ss.18 and 19)
+- An **acknowledgment of liability** in writing, signed by the party, made **before the expiry** of the period, starts a fresh period from the date of signing (s.18).
+- **Part payment** of a debt or interest, made before expiry by the person liable, starts a fresh period from the date of payment (s.19). The payment itself must be acknowledged in the handwriting of, or in a writing signed by, the person making it (proviso to s.19).
+
+## 10.4 Legal disability (ss.6 to 8)
+- A person entitled to sue who is a **minor**, **insane** or an **idiot** at the time from which the period is to be reckoned may sue within the same period after the disability ceases (s.6).
+- If two disabilities co-exist, or one follows immediately on another, time runs from when both cease. If the disability continues until death, the legal representative may sue within the same period after death.
+- **Section 8**: these extensions do not extend the period beyond three years from the cessation of the disability or death, and do not apply to suits to enforce rights of pre-emption.
+
+## 10.5 Other provisions of the Limitation Act, 1963
+- **Section 17**: where the suit is based on fraud, or the right is concealed by fraud, or a document has been fraudulently concealed, or the suit is for relief from the consequences of a mistake, time runs only from when the plaintiff discovered the fraud or mistake or could, with reasonable diligence, have discovered it.
+- **Section 22**: in case of a continuing breach of contract or a continuing tort, a fresh period begins at every moment the breach or tort continues.
+- **Section 25**: acquisition of easements by prescription after 20 years' peaceable, open and uninterrupted enjoyment (30 years against the Government).
+- **Section 27**: at the end of the period for a suit for possession of property, the owner's right to the property is extinguished. This is the basis of title by **adverse possession** (Article 65: 12 years from when the defendant's possession becomes adverse to the plaintiff).
+
+CASE: Ravinder Kaur Grewal v Manjit Kaur (2019) :: A three-judge bench held that a person who has perfected title by adverse possession can use it not only as a shield (defence) but also as a sword: he can sue as plaintiff for a declaration of title or for possession if dispossessed.
+
+- **Section 29(2)**: periods prescribed by special or local laws apply, and ss.4 to 24 apply to them unless expressly excluded.
+- **COVID-19 exclusion**: in *In re Cognizance for Extension of Limitation* (2020 to 2022), the Supreme Court excluded the period from 15 March 2020 to 28 February 2022 from limitation for all judicial and quasi-judicial proceedings.
+
+## 10.6 Recent judgments (2025–26)
+
+CASE: State of Odisha v Namatara Girls High School (2026) :: Even for the State, an unexplained delay of eleven years cannot be condoned under s.5 of the Limitation Act.
+
+CASE: Dhiraj Dutta v Anirban Sen (2026) :: An application to revoke probate falls under Art. 137 (three years).
+
+* No condonation of long unexplained delay, even for the State (2026).
+* Limitation rests on public policy and certainty; it bars the remedy, except s.27 for property.
+* Section 3 (dismissal even if not raised); s.9 (continuous running); s.4 (court closed).
+* Section 5 condonation for appeals and applications, not suits (Katiji; Esha Bhattacharjee; Living Media).
+* Exclusions: ss.12, 14 and 15; acknowledgment (s.18) and part payment (s.19) before expiry.
+* Legal disability (ss.6 to 8).
+* Fraud and mistake (s.17), continuing wrongs (s.22), easements (s.25), adverse possession (s.27; Ravinder Kaur Grewal), special laws (s.29(2)).
+
+QL: "The law of limitation bars the remedy, not the right." Discuss with exceptions.
+QL: Explain the principles governing condonation of delay under s.5 of the Limitation Act with reference to decided cases.
+QL: Discuss the effect of acknowledgment and part payment on the period of limitation.
+QL: What is the effect of legal disability on limitation?
+QS: Section 14 of the Limitation Act
+QS: Continuing wrong
+QS: Adverse possession
+
+MCQ: Section 5 of the Limitation Act does not apply to || appeals | *suits | applications for review | revisions || Suits cannot be filed late by condonation.
+MCQ: An acknowledgment of liability extends limitation only if made || after expiry | *before expiry, in writing and signed | orally | before a court only || s.18.
+MCQ: A person with title by adverse possession can sue as plaintiff, as held in || Katiji | *Ravinder Kaur Grewal v Manjit Kaur | Esha Bhattacharjee | Living Media || 2019.
+MCQ: The period of limitation for possession based on title (adverse possession) under Article 65 is || 3 years | *12 years | 20 years | 30 years || From when possession becomes adverse.
