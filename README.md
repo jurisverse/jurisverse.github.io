@@ -10,7 +10,9 @@ Each book is a single, self-contained HTML file. Open it in any browser, on a ph
 - a practice paper with model answers (viva practice sets for Drafting and Moot Court);
 - a revision tracker that saves progress in the browser.
 
-Start at [`docs/index.html`](docs/index.html), the library page. If GitHub Pages is turned on for the `docs/` folder, the books can be read online.
+**Read online: https://akbarbs.github.io/law/**
+
+The site is published with GitHub Pages from the `docs/` folder of the `main` branch. The library page is [`docs/index.html`](docs/index.html).
 
 ### Semester I
 
