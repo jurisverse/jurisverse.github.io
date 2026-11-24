@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Rebuild every book in docs/ from src/content. Run from the repository root.
+# Rebuild every book in the top folder from src/content. Run from the repository root.
 set -euo pipefail
 declare -A BOOKS=(
  [1.1]=contracts-1 [1.2]=constitution-1 [1.3]=torts [1.4]=crimes-1 [1.5]=family-1
@@ -11,5 +11,5 @@ declare -A BOOKS=(
  [maxims]=maxims [writing]=writing [bail]=bail
 )
 for src in "${!BOOKS[@]}"; do
-  python3 src/build.py "src/content/$src.txt" "docs/${BOOKS[$src]}.html"
+  python3 src/build.py "src/content/$src.txt" "${BOOKS[$src]}.html"
 done

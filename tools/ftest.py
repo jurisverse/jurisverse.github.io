@@ -6,7 +6,7 @@ async def main():
         for f in sys.argv[1:]:
             pg = await b.new_page(viewport={"width":1280,"height":900})
             errs=[]; pg.on("pageerror", lambda e: errs.append(str(e)))
-            await pg.goto("file://" + os.path.abspath(f"docs/{f}.html")); await pg.wait_for_timeout(500)
+            await pg.goto("file://" + os.path.abspath(f"{f}.html")); await pg.wait_for_timeout(500)
             m = pg.locator(".mcq").first
             await m.locator("button").nth(0).click()
             right = await m.locator("button.right").count(); why = await m.locator(".why").is_visible()
